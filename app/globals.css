@@ -1,0 +1,207 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans text-gray-800 bg-soft-ivory;
+    font-weight: 400;
+    letter-spacing: 0.025em;
+    line-height: 1.7;
+    /* GPU optimization */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* Improve paint performance */
+    backface-visibility: hidden;
+    perspective: 1000px;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+    font-weight: 400;
+    letter-spacing: 0.02em;
+    line-height: 1.4;
+  }
+  
+  /* Softer heading weights */
+  h1 { font-weight: 500; }
+  h2 { font-weight: 500; }
+  h3 { font-weight: 400; }
+  h4 { font-weight: 400; }
+  h5 { font-weight: 400; }
+  h6 { font-weight: 400; }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-gradient-primary text-white px-8 py-3 rounded-full transition-all duration-200 hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-vibrant-pink focus:ring-opacity-50;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    /* GPU acceleration */
+    transform: translate3d(0, 0, 0);
+    will-change: transform, box-shadow;
+  }
+  
+  .btn-primary:hover {
+    transform: translate3d(0, -2px, 0) scale(1.02);
+  }
+  
+  .btn-secondary {
+    @apply bg-gradient-accent text-white px-8 py-3 rounded-full transition-all duration-200 hover:shadow-lg focus:outline-none focus:ring-2 focus:ring-golden-accent focus:ring-opacity-50;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    /* GPU acceleration */
+    transform: translate3d(0, 0, 0);
+    will-change: transform, box-shadow;
+  }
+  
+  .btn-secondary:hover {
+    transform: translate3d(0, -2px, 0) scale(1.02);
+  }
+  
+  .card-sacred {
+    @apply bg-white/95 rounded-2xl shadow-lg border border-soft-lavender/30 p-6 transition-all duration-200 hover:shadow-xl hover:border-vibrant-pink/40;
+    letter-spacing: 0.025em;
+    line-height: 1.6;
+    /* Performance optimizations */
+    transform: translate3d(0, 0, 0);
+    will-change: transform, box-shadow, border-color;
+    contain: layout style paint;
+  }
+  
+  .card-sacred:hover {
+    transform: translate3d(0, -4px, 0);
+  }
+  
+  /* High-performance card variant for heavy blur contexts */
+  .card-sacred-blur {
+    @apply bg-white/90 rounded-2xl shadow-lg border border-soft-lavender/30 p-6 transition-all duration-200 hover:shadow-xl hover:border-vibrant-pink/40;
+    letter-spacing: 0.025em;
+    line-height: 1.6;
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transform: translate3d(0, 0, 0);
+    will-change: transform, box-shadow, border-color;
+    contain: layout style paint;
+  }
+  
+  .card-sacred-blur:hover {
+    transform: translate3d(0, -4px, 0);
+  }
+  
+  .text-gradient-primary {
+    @apply bg-gradient-to-r from-deep-purple to-vibrant-pink bg-clip-text text-transparent;
+    /* GPU acceleration for smooth rendering */
+    -webkit-background-clip: text;
+    background-clip: text;
+    will-change: background-position;
+    contain: layout style paint;
+  }
+  
+  .text-gradient-secondary {
+    @apply bg-gradient-to-r from-royal-purple to-hot-pink bg-clip-text text-transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    will-change: background-position;
+    contain: layout style paint;
+  }
+  
+  .text-gradient-accent {
+    @apply bg-gradient-to-r from-golden-accent to-vibrant-pink bg-clip-text text-transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    will-change: background-position;
+    contain: layout style paint;
+  }
+  
+  /* Legacy classes for gradual transition */
+  .text-gradient-rose {
+    @apply bg-gradient-to-r from-deep-purple to-vibrant-pink bg-clip-text text-transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    will-change: background-position;
+    contain: layout style paint;
+  }
+  
+  .text-gradient-gold {
+    @apply bg-gradient-to-r from-golden-accent to-vibrant-pink bg-clip-text text-transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    will-change: background-position;
+    contain: layout style paint;
+  }
+
+  /* Performance optimizations for animations */
+  .smooth-animation {
+    backface-visibility: hidden;
+    perspective: 1000px;
+    transform: translate3d(0, 0, 0);
+    will-change: transform;
+  }
+
+  .reduce-motion {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  /* Optimize scroll performance */
+  .scroll-smooth {
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Media query for users who prefer reduced motion */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+
+  /* Header positioning utilities */
+  .header-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+  }
+
+  .content-below-header {
+    padding-top: 4rem; /* 64px to match h-16 navigation height */
+  }
+
+  /* Navigation stability - prevent jittering */
+  nav[class*="fixed"] {
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    -webkit-transform: translateZ(0);
+    -webkit-backface-visibility: hidden;
+    /* Ensure it stays at the top */
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    width: 100% !important;
+    /* Prevent any layout shifts */
+    contain: layout style paint;
+    will-change: auto;
+  }
+  
+  /* Ensure fixed header doesn't interfere with touch scrolling on mobile */
+  @media (max-width: 768px) {
+    nav[class*="fixed"] {
+      -webkit-overflow-scrolling: auto;
+    }
+  }
+}

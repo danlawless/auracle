@@ -9,6 +9,7 @@ export const rm1008CleansingRoses: Lesson = {
   order: 8,
   prerequisites: ['rm1-007'],
   content: {
+    videoUrl: '/content/Lesson-7-content.mp4',
     introduction: 'Today, we learn how to use one of the most iconic and versatile tools in energy work: the cleansing and restorative Rose. These Roses are your personal assistants in clearing energy—powerful, precise, and deeply loving.',
     mainContent: [
       {

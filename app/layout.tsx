@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import './globals.css'
-import Navigation from './components/Navigation'
 import Footer from './components/Footer'
+import Header from './components/Header'
 
 export const metadata: Metadata = {
   title: 'The Auracle - Aura Reading & Spiritual Guidance',
@@ -21,9 +21,11 @@ export default function RootLayout({
         <meta name="color-scheme" content="light" />
         <meta name="theme-color" content="#FEF9E7" />
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </head>
-      <body className="min-h-screen bg-gradient-sacred">
-        <Navigation />
+      <body className="min-h-screen bg-gradient-sacred" suppressHydrationWarning={true}>
+        <Header />
         <main className="min-h-screen pt-16">
           {children}
         </main>

@@ -9,6 +9,7 @@ export const rm1004AuraBoundaries: Lesson = {
   order: 4,
   prerequisites: ['rm1-003'],
   content: {
+    videoUrl: '/content/Lesson-3-Aura-Boundary.mp4',
     introduction: 'You\'ve grounded yourself into the Earth and invited your own energy home through the Golden Sun. Now, it\'s time to define your energetic space—to declare where you begin and where the outside world ends.',
     mainContent: [
       {

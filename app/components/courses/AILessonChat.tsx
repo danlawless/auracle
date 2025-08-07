@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useCallback } from 'react'
+import { useState, useCallback, useEffect, useRef } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import { MessageCircle, Send, Sparkles } from 'lucide-react'
 import { AIAssistantConfig } from '../../../types/course'
@@ -23,6 +23,23 @@ const AILessonChat: React.FC<AILessonChatProps> = ({ aiAssistant, lessonTitle })
   const [inputMessage, setInputMessage] = useState('')
   const [isTyping, setIsTyping] = useState(false)
   const [isExpanded, setIsExpanded] = useState(false)
+  const messagesEndRef = useRef<HTMLDivElement>(null)
+
+  // Auto-scroll to bottom when messages change or typing status changes
+  const scrollToBottom = useCallback(() => {
+    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' })
+  }, [])
+
+  useEffect(() => {
+    scrollToBottom()
+  }, [messages, isTyping, scrollToBottom])
+
+  useEffect(() => {
+    if (isExpanded) {
+      // Small delay to ensure the chat container has expanded
+      setTimeout(scrollToBottom, 100)
+    }
+  }, [isExpanded, scrollToBottom])
 
   const handleSendMessage = useCallback(async (message: string) => {
     if (!message.trim()) return
@@ -114,7 +131,7 @@ const AILessonChat: React.FC<AILessonChatProps> = ({ aiAssistant, lessonTitle })
                     {message.type === 'assistant' && (
                       <div className="flex items-center space-x-2 mb-2">
                         <Sparkles className="h-4 w-4 text-rose-pink" />
-                        <span className="text-xs font-medium text-rose-pink">Jennifer</span>
+                        <span className="text-xs font-medium text-rose-pink">Auracle AI</span>
                       </div>
                     )}
                     <p className="text-sm leading-relaxed">{message.content}</p>
@@ -163,7 +180,7 @@ const AILessonChat: React.FC<AILessonChatProps> = ({ aiAssistant, lessonTitle })
                   <div className="bg-rose-pink/10 border border-rose-pink/20 p-3 rounded-2xl">
                     <div className="flex items-center space-x-2 mb-2">
                       <Sparkles className="h-4 w-4 text-rose-pink" />
-                      <span className="text-xs font-medium text-rose-pink">Jennifer</span>
+                      <span className="text-xs font-medium text-rose-pink">Auracle AI</span>
                     </div>
                     <div className="flex space-x-1">
                       <motion.div
@@ -185,6 +202,9 @@ const AILessonChat: React.FC<AILessonChatProps> = ({ aiAssistant, lessonTitle })
                   </div>
                 </motion.div>
               )}
+              
+              {/* Invisible element to scroll to */}
+              <div ref={messagesEndRef} />
             </div>
 
             {/* Input Area */}
@@ -220,7 +240,7 @@ const AILessonChat: React.FC<AILessonChatProps> = ({ aiAssistant, lessonTitle })
             className="inline-flex items-center space-x-2 text-rose-pink hover:text-deep-rose font-medium text-sm transition-colors duration-200"
           >
             <MessageCircle className="h-4 w-4" />
-            <span>Start a conversation with Jennifer</span>
+            <span>Start a conversation with Auracle AI</span>
           </button>
         </div>
       )}
@@ -236,16 +256,16 @@ function generateAIResponseWithFollowUps(
   previousMessages: ChatMessage[]
 ): { content: string; followUpQuestions: string[] } {
   
-  // Base responses
+  // Auracle AI responses focused on lesson guidance
   const responses = [
-    `That's a beautiful question about ${lessonTitle}! What you're experiencing is completely natural. Many students find this part of the practice...`,
-    `I hear you, beloved. In Rose Meditation, we trust that whatever you're feeling is exactly what you need to experience right now. Let me help you with that...`,
-    `Your intuition is guiding you perfectly through this ${lessonTitle} lesson. Remember, there's no "wrong" way to do this work...`,
-    `What a wonderful insight! This technique is all about gentle awareness and self-compassion. You're doing beautifully...`
+    `That's an excellent question about ${lessonTitle}! Your experience is completely natural - this is exactly how the practice unfolds for many students. Let me guide you through this...`,
+    `I understand what you're experiencing in this ${lessonTitle} lesson. What you're feeling is part of your spiritual development process. Here's how to work with it...`,
+    `Your intuition is working beautifully with this ${lessonTitle} practice. There's no "wrong" way to experience these techniques - trust what's coming up for you...`,
+    `Great awareness! This is precisely what ${lessonTitle} is designed to help you explore. You're developing important spiritual skills here...`
   ]
   
   const contextualResponse = responses[Math.floor(Math.random() * responses.length)]
-  const content = contextualResponse + " Remember, this is sacred work, and you're exactly where you need to be. 🌹"
+  const content = contextualResponse + " I'm here to support your learning journey with this practice. ✨"
   
   // Generate intelligent follow-ups based on conversation context and lesson
   const followUpQuestions = generateContextualFollowUps(userMessage, lessonTitle, previousMessages)
@@ -314,27 +334,47 @@ function generateContextualFollowUps(
     ]
   }
   
-  // Lesson-specific follow-ups based on title
+  // Lesson-specific follow-ups based on title for focused guidance
   const lessonSpecificFollowUps: { [key: string]: string[] } = {
     "Introduction to Rose Meditation": [
-      "What drew you to Rose Meditation specifically?",
-      "Have you worked with rose imagery before?",
-      "What does the rose symbolize for you personally?"
+      "What sensations do you notice when you visualize the rose?",
+      "How clear is the rose image appearing for you?",
+      "What questions do you have about beginning this practice?"
     ],
     "Grounding Cord": [
-      "How does it feel to connect with the Earth's energy?",
-      "What color is your grounding cord today?",
-      "Where in your body do you feel most grounded?"
+      "Can you feel the connection between your body and the Earth?",
+      "What color or texture is your grounding cord appearing as?",
+      "How stable does your energetic foundation feel right now?"
     ],
     "Golden Sun": [
-      "What does your golden sun look like?",
-      "How does it feel to reclaim your own energy?",
-      "What qualities is your sun radiating?"
+      "What does your golden sun look like in your visualization?",
+      "How does it feel to call your energy back to yourself?",
+      "What qualities or strengths is your sun radiating?"
     ],
     "Aura Boundaries": [
-      "How has your sense of energetic boundaries changed?",
-      "Where do you typically lose energy in daily life?",
-      "What does it feel like to expand your aura?"
+      "How does it feel to expand your aura to its natural size?",
+      "Can you sense where your energy field extends around you?",
+      "What changes do you notice when you strengthen your boundaries?"
+    ],
+    "Four Roses": [
+      "Which of the four roses feels most vivid to you?",
+      "How does creating multiple roses feel different from one?",
+      "What are you noticing about the different rose colors or energies?"
+    ],
+    "Earth Cosmic Energy": [
+      "How does the Earth energy feel different from cosmic energy?",
+      "Can you sense the flow of energy through your grounding cord?",
+      "What does it feel like to be connected to both Earth and sky?"
+    ],
+    "Cleansing Roses": [
+      "What are you releasing into your cleansing roses?",
+      "How does it feel to let the roses dissolve away your stress?",
+      "What shifts do you notice after the cleansing process?"
+    ],
+    "Pink Rose": [
+      "How does working with pink energy feel for you?",
+      "What emotions or sensations come up with the pink rose?",
+      "How is this different from your other rose practices?"
     ]
   }
   

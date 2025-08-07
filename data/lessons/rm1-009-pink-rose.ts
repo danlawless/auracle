@@ -9,6 +9,7 @@ export const rm1009PinkRose: Lesson = {
   order: 9,
   prerequisites: ['rm1-008'],
   content: {
+    videoUrl: '/content/Lesson-8-content.mp4',
     introduction: 'Today, we meet one of the most tender and powerful allies in this practice—the Pink Rose. This Rose is used when your heart needs gentleness. When your energy needs closure. When it\'s time to release a bond or send love with detachment.',
     mainContent: [
       {

@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion'
 import { Award, Heart, Users, Sparkles, Star, Clock } from 'lucide-react'
 
-const JenniferProfile = () => {
+const JaeProfile = () => {
   const achievements = [
     { icon: Users, number: '500+', label: 'Souls Guided' },
     { icon: Clock, number: '5+', label: 'Years Experience' },
@@ -12,7 +12,7 @@ const JenniferProfile = () => {
   ]
 
   const specialties = [
-    'Aura Reading & Interpretation',
+    'Aura Sessions & Interpretation',
     'Rose Meditation Guidance',
     'Energy Field Assessment',
     'Spiritual Boundary Setting',
@@ -34,10 +34,10 @@ const JenniferProfile = () => {
           viewport={{ once: true }}
         >
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-gradient-rose mb-6">
-            Meet Jennifer
+            Meet Jae
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Master Auracle Reader & Sacred Guide
+            Master Auracle Practitioner & Sacred Guide
           </p>
         </motion.div>
 
@@ -72,10 +72,10 @@ const JenniferProfile = () => {
 
                 {/* Name & Title */}
                 <h3 className="text-3xl font-serif font-bold text-gray-800 mb-2">
-                  Jennifer
+                  Jae
                 </h3>
                 <p className="text-lg text-gradient-gold font-medium mb-6">
-                  Master Auracle Reader & Spiritual Guide
+                  Master Auracle Practitioner & Spiritual Guide
                 </p>
 
                 {/* Sacred Quote */}
@@ -85,7 +85,7 @@ const JenniferProfile = () => {
                     "Every soul carries a unique energetic signature, a sacred story written in light. 
                     My gift is helping you read that story and understand its beautiful message."
                   </p>
-                  <p className="text-sm text-gray-500">— Jennifer's Sacred Mission</p>
+                  <p className="text-sm text-gray-500">— Jae's Sacred Mission</p>
                 </div>
 
                 {/* Achievements */}
@@ -124,18 +124,18 @@ const JenniferProfile = () => {
               </div>
               <div className="space-y-4 text-gray-700 leading-relaxed">
                 <p>
-                  Jennifer's path to becoming a master Auracle reader began over five years ago 
+                  Jae's path to becoming a master Auracle practitioner began over five years ago 
                   during a profound spiritual awakening. Through years of dedicated practice, 
                   study, and service, she has developed an extraordinary gift for reading the 
                   subtle energies that surround each soul.
                 </p>
                 <p>
                   Her approach combines ancient wisdom with modern understanding, creating a 
-                  safe, sacred space where clients can explore their deepest truths. Jennifer's 
-                  readings are known for their accuracy, compassion, and transformative power.
+                  safe, sacred space where clients can explore their deepest truths. Jae's 
+                  sessions are known for their accuracy, compassion, and transformative power.
                 </p>
                 <p>
-                  "I don't just see your aura," Jennifer explains, "I feel the sacred story 
+                  "I don't just see your aura," Jae explains, "I feel the sacred story 
                   it tells about your soul's journey, your gifts, your challenges, and your 
                   beautiful potential."
                 </p>
@@ -179,7 +179,7 @@ const JenniferProfile = () => {
                 <div className="flex items-start">
                   <span className="w-2 h-2 bg-golden-light rounded-full mt-2 mr-3 flex-shrink-0" />
                   <div>
-                    <strong>Advanced Aura Reading Certification</strong> - International Institute of Energy Studies
+                    <strong>Advanced Aura Session Certification</strong> - International Institute of Energy Studies
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -214,23 +214,23 @@ const JenniferProfile = () => {
           viewport={{ once: true }}
         >
           <h4 className="text-2xl font-serif font-semibold text-gradient-rose mb-8">
-            What Clients Say About Jennifer
+            What Clients Say About Jae
           </h4>
           
           <div className="grid md:grid-cols-3 gap-6">
             {[
               {
-                text: "Jennifer saw things in my aura that completely shifted my understanding of myself. Her gentle guidance helped me heal patterns I didn't even know existed.",
+                text: "Jae saw things in my aura that completely shifted my understanding of myself. Her gentle guidance helped me heal patterns I didn't even know existed.",
                 name: "Sarah M.",
                 location: "California"
               },
               {
-                text: "The accuracy of Jennifer's reading was astounding. She described my spiritual gifts with such precision and gave me practical steps to develop them.",
+                text: "The accuracy of Jae's session was astounding. She described my spiritual gifts with such precision and gave me practical steps to develop them.",
                 name: "Michael R.",
                 location: "New York"
               },
               {
-                text: "Jennifer creates such a sacred, safe space. I felt completely held and supported throughout our session. Her insights were profound and healing.",
+                text: "Jae creates such a sacred, safe space. I felt completely held and supported throughout our session. Her insights were profound and healing.",
                 name: "Elena K.",
                 location: "London"
               }
@@ -256,4 +256,4 @@ const JenniferProfile = () => {
   )
 }
 
-export default JenniferProfile
+export default JaeProfile

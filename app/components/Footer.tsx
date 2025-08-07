@@ -62,7 +62,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/about" className="text-gray-300 hover:text-rose-pink transition-colors duration-300">
-                  About Jennifer
+                  About Jae
                 </Link>
               </li>
               <li>
@@ -110,7 +110,7 @@ const Footer = () => {
               "Beloved, return to your breath. The moment is sacred."
             </p>
             <p className="text-gray-400 text-sm">
-              — Jennifer, Master Auracle Reader
+              — Jae, Master Auracle Reader
             </p>
           </div>
         </div>

@@ -18,7 +18,7 @@ const ServicesSection = () => {
     {
       icon: Calendar,
       title: 'Personal Aura Readings',
-      description: 'One-on-one sessions with Jennifer, the master Auracle reader',
+      description: 'One-on-one sessions with Jae, the master Auracle reader',
       features: ['60-minute sessions', 'Personalized insights', 'Energy assessment', 'Guidance & clarity'],
       cta: 'Book Reading',
       href: '/schedule',

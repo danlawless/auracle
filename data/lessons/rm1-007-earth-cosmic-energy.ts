@@ -9,6 +9,7 @@ export const rm1007EarthCosmicEnergy: Lesson = {
   order: 7,
   prerequisites: ['rm1-006'],
   content: {
+    videoUrl: '/content/Lesson-6-content.mp4',
     introduction: 'In this session, we enter a sacred flow—the energetic circuit that unites the grounding power of the Earth with the expansive wisdom of the Cosmos. This is channeling Earth and Cosmic energy through your body—a dynamic, transformative flow that enhances everything we\'ve learned.',
     mainContent: [
       {

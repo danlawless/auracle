@@ -8,7 +8,7 @@ export const rm1001Introduction: Lesson = {
   duration: 8,
   order: 1,
   content: {
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ', // Replace with your actual video URL
+    videoUrl: '/content/About-The-Roses.mp4',
     introduction: 'Welcome. I\'m so honored you\'re here. This is the beginning of your journey with Rose Meditation Level 1—a gentle yet powerful practice for energetic cleansing, grounding, protection, and personal sovereignty.',
     mainContent: [
       {

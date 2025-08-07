@@ -9,6 +9,7 @@ export const rm1005CordRenewal: Lesson = {
   order: 5,
   prerequisites: ['rm1-004'],
   content: {
+    videoUrl: '/content/Lesson-4-content.mp4',
     introduction: 'In our second lesson, we created our grounding cord—a sacred channel that connects us to the Earth. Now we go deeper: we learn how to cut and renew that cord. This is a vital part of your energetic cleanse.',
     mainContent: [
       {

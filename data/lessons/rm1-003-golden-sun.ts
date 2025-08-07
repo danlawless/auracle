@@ -9,7 +9,7 @@ export const rm1003GoldenSun: Lesson = {
   order: 3,
   prerequisites: ['rm1-002'],
   content: {
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ', // Replace with your actual video URL
+    videoUrl: '/content/Lesson-2-Golden-Sun.mp4',
     introduction: 'Now that you\'re grounded and connected to the Earth, it\'s time to invite your own energy back in—to replenish, uplift, and realign with your essence. In this lesson, we work with the beautiful and powerful Golden Sun visualization.',
     mainContent: [
       {

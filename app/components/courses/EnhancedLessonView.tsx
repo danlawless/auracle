@@ -69,6 +69,11 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
   const [currentSection, setCurrentSection] = useState(0)
   const [startTime] = useState(Date.now())
   
+  // Ensure page starts at top when lesson loads
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [lesson.id])
+  
   // Track time spent
   useEffect(() => {
     const interval = setInterval(() => {
@@ -216,14 +221,22 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
             transition={{ duration: 0.6 }}
           >
             <div className="aspect-video w-full">
-              <iframe
+              <video
                 src={lesson.content.videoUrl}
-                className="w-full h-full rounded-lg"
-                frameBorder="0"
-                allowFullScreen
-                title={`${lesson.title} - Video Lesson`}
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              />
+                className="w-full h-full rounded-lg object-cover"
+                controls
+                preload="metadata"
+                onPlay={() => setIsPlaying(true)}
+                onPause={() => setIsPlaying(false)}
+                onEnded={() => setCompletionData(prev => ({ ...prev, readContent: true }))}
+              >
+                <p className="text-center p-4 text-gray-600">
+                  Your browser does not support the video tag. 
+                  <a href={lesson.content.videoUrl} className="text-rose-pink hover:underline ml-1">
+                    Download the video instead.
+                  </a>
+                </p>
+              </video>
             </div>
             <div className="p-4 bg-gradient-to-r from-soft-lavender/10 to-rose-pink/10">
               <div className="flex items-center space-x-2 text-sm text-gray-600">
@@ -234,44 +247,12 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
           </motion.div>
         )}
 
-        {/* AI Assistant Chat Section */}
-        <motion.div
-          className="card-sacred mb-8 bg-gradient-to-br from-rose-pink/5 to-soft-lavender/10 border border-rose-pink/20"
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.1 }}
-        >
-          <div className="flex items-start space-x-4">
-            <div className="p-3 rounded-full bg-gradient-rose flex-shrink-0">
-              <Sparkles className="h-5 w-5 text-white" />
-            </div>
-            <div className="flex-1">
-              <h3 className="text-xl font-serif font-semibold text-gray-800 mb-3 flex items-center">
-                Ask Jennifer Anything
-                <span className="ml-2 text-sm bg-rose-pink/20 text-rose-pink px-2 py-1 rounded-full font-normal">
-                  AI Assistant
-                </span>
-              </h3>
-              <p className="text-gray-600 mb-4 leading-relaxed">
-                I'm here to support you through this lesson! Feel free to ask me any questions about the {lesson.title.toLowerCase()}, 
-                share what you're experiencing, or let me know if you need clarification on any part of the teaching.
-              </p>
-              
-              {/* Chat Interface */}
-              <AILessonChat 
-                aiAssistant={lesson.aiAssistant}
-                lessonTitle={lesson.title}
-              />
-            </div>
-          </div>
-        </motion.div>
-
         {/* Introduction */}
         <motion.div
           className="card-sacred mb-8"
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.2 }}
+          transition={{ duration: 0.6, delay: 0.1 }}
         >
           <div className="flex items-start space-x-4">
             <div className="p-3 rounded-full bg-gradient-rose flex-shrink-0">
@@ -294,6 +275,38 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                   ✓ I've read the introduction
                 </motion.button>
               </div>
+            </div>
+          </div>
+        </motion.div>
+
+        {/* AI Assistant Chat Section */}
+        <motion.div
+          className="card-sacred mb-8 bg-gradient-to-br from-rose-pink/5 to-soft-lavender/10 border border-rose-pink/20"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.2 }}
+        >
+          <div className="flex items-start space-x-4">
+            <div className="p-3 rounded-full bg-gradient-rose flex-shrink-0">
+              <Sparkles className="h-5 w-5 text-white" />
+            </div>
+            <div className="flex-1">
+              <h3 className="text-xl font-serif font-semibold text-gray-800 mb-3 flex items-center">
+                Auracle AI
+                <span className="ml-2 text-sm bg-rose-pink/20 text-rose-pink px-2 py-1 rounded-full font-normal">
+                  AI Assistant
+                </span>
+              </h3>
+              <p className="text-gray-600 mb-4 leading-relaxed">
+                I'm here to support you through this lesson! Feel free to ask me any questions about the {lesson.title.toLowerCase()}, 
+                share what you're experiencing, or let me know if you need clarification on any part of the teaching.
+              </p>
+              
+              {/* Chat Interface */}
+              <AILessonChat 
+                aiAssistant={lesson.aiAssistant}
+                lessonTitle={lesson.title}
+              />
             </div>
           </div>
         </motion.div>

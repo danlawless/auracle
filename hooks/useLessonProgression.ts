@@ -19,8 +19,19 @@ export interface CourseProgress {
 }
 
 export const useLessonProgression = (courseId: string) => {
-  const [courseProgress, setCourseProgress] = useState<CourseProgress>(() => {
-    // Load from localStorage on initialization
+  const [isClient, setIsClient] = useState(false)
+  const [courseProgress, setCourseProgress] = useState<CourseProgress>({
+    courseId,
+    completedLessons: {},
+    currentLesson: 'rm1-001', // Start with first lesson
+    unlockedLessons: ['rm1-001'], // Only first lesson unlocked initially
+    overallProgress: 0
+  })
+
+  // Load from localStorage after hydration
+  useEffect(() => {
+    setIsClient(true)
+    
     if (typeof window !== 'undefined') {
       const saved = localStorage.getItem(`course_progress_${courseId}`)
       if (saved) {
@@ -29,25 +40,17 @@ export const useLessonProgression = (courseId: string) => {
         Object.keys(parsed.completedLessons).forEach(lessonId => {
           parsed.completedLessons[lessonId].completedAt = new Date(parsed.completedLessons[lessonId].completedAt)
         })
-        return parsed
+        setCourseProgress(parsed)
       }
     }
-    
-    return {
-      courseId,
-      completedLessons: {},
-      currentLesson: 'rm1-001', // Start with first lesson
-      unlockedLessons: ['rm1-001'], // Only first lesson unlocked initially
-      overallProgress: 0
-    }
-  })
+  }, [courseId])
 
-  // Save to localStorage whenever progress changes
+  // Save to localStorage whenever progress changes (only after client hydration)
   useEffect(() => {
-    if (typeof window !== 'undefined') {
+    if (isClient && typeof window !== 'undefined') {
       localStorage.setItem(`course_progress_${courseId}`, JSON.stringify(courseProgress))
     }
-  }, [courseId, courseProgress])
+  }, [courseId, courseProgress, isClient])
 
   // Complete a lesson and unlock the next one
   const completeLesson = useCallback((lessonId: string, completionData: LessonCompletionData) => {
@@ -113,6 +116,25 @@ export const useLessonProgression = (courseId: string) => {
     })
   }, [courseId])
 
+  // Check if course is completed
+  const isCourseCompleted = useCallback((): boolean => {
+    const totalLessons = 10
+    const completedCount = Object.keys(courseProgress.completedLessons).length
+    return completedCount === totalLessons
+  }, [courseProgress.completedLessons])
+
+  // Get course completion date
+  const getCourseCompletionDate = useCallback((): Date | null => {
+    if (!isCourseCompleted()) return null
+    
+    // Find the latest completion date among all lessons
+    const completionDates = Object.values(courseProgress.completedLessons)
+      .map(lesson => lesson.completedAt)
+      .sort((a, b) => b.getTime() - a.getTime())
+    
+    return completionDates[0] || null
+  }, [courseProgress.completedLessons, isCourseCompleted])
+
   // Get course statistics
   const getCourseStats = useCallback(() => {
     const completedLessons = Object.keys(courseProgress.completedLessons)
@@ -129,9 +151,11 @@ export const useLessonProgression = (courseId: string) => {
       overallProgress: courseProgress.overallProgress,
       totalTimeSpent,
       averageTimePerLesson,
-      unlockedLessons: courseProgress.unlockedLessons.length
+      unlockedLessons: courseProgress.unlockedLessons.length,
+      isCompleted: isCourseCompleted(),
+      completionDate: getCourseCompletionDate()
     }
-  }, [courseProgress])
+  }, [courseProgress, isCourseCompleted, getCourseCompletionDate])
 
   return {
     courseProgress,
@@ -141,6 +165,10 @@ export const useLessonProgression = (courseId: string) => {
     getLessonCompletionData,
     getNextLesson,
     resetProgress,
-    getCourseStats
+    getCourseStats,
+    isCourseCompleted,
+    getCourseCompletionDate,
+    isClient // Export this to prevent hydration mismatches
   }
 }
+

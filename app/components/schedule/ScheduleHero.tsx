@@ -67,7 +67,7 @@ const ScheduleHero = () => {
               transition={{ duration: 0.8, delay: 0.5 }}
             >
               Connect with 
-              <span className="text-gradient-gold font-medium"> Jennifer</span>, 
+              <span className="text-gradient-gold font-medium"> Jae</span>, 
               for profound spiritual guidance and transformative insights into your divine path.
             </motion.p>
           </div>
@@ -132,7 +132,7 @@ const ScheduleHero = () => {
               Book Your Session Now
             </button>
             <button className="btn-secondary text-lg px-12 py-4">
-              Learn About Jennifer
+              Learn About Jae
             </button>
           </motion.div>
 

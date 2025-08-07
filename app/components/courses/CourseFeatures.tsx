@@ -49,7 +49,7 @@ const CourseFeatures = () => {
   const learningMethods = [
     {
       title: 'Video Lessons',
-      description: 'HD video teachings with Jennifer guiding you through each practice step-by-step',
+      description: 'HD video teachings with Jae guiding you through each practice step-by-step',
       icon: '🎥',
       details: ['Professional production', 'Multiple camera angles', 'Clear visual demonstrations', 'Subtitle options']
     },

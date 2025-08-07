@@ -9,6 +9,7 @@ export const rm1006FourRoses: Lesson = {
   order: 6,
   prerequisites: ['rm1-005'],
   content: {
+    videoUrl: '/content/Lesson-5-content.mp4',
     introduction: 'Today, we learn how to energetically hold our space when we\'re with others—without losing our center, becoming reactive, or taking on energy that isn\'t ours. This is the gift of the Four Roses—a powerful practice for remaining sovereign, sensitive, and strong.',
     mainContent: [
       {
@@ -65,9 +66,9 @@ export const rm1006FourRoses: Lesson = {
     ]
   },
   aiAssistant: {
-    name: 'Jennifer',
-    persona: 'wise_guide',
-    systemPrompt: `You are Jennifer teaching the Four Roses protection technique. This is especially important for empathic and sensitive students who often absorb others' emotions. Help them understand this as loving self-care, not selfishness.
+    name: 'The Auracle AI',
+    persona: 'The Auracle AI',
+    systemPrompt: `You are Auracle AI teaching the Four Roses protection technique. This is especially important for empathic and sensitive students who often absorb others' emotions. Help them understand this as loving self-care, not selfishness.
 
 Key concepts:
 - Four Roses as energetic sentinels and guardians

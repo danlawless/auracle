@@ -69,6 +69,11 @@ const LessonView: React.FC<LessonViewProps> = ({
   const audioRef = useRef<HTMLAudioElement>(null)
   const chatEndRef = useRef<HTMLDivElement>(null)
 
+  // Ensure page starts at top when lesson loads
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [lesson.id])
+
   // Auto-scroll chat to bottom
   useEffect(() => {
     chatEndRef.current?.scrollIntoView({ behavior: 'smooth' })
@@ -102,12 +107,12 @@ const LessonView: React.FC<LessonViewProps> = ({
   }
 
   const generateAIResponse = (userMessage: string, lesson: Lesson): string => {
-    // This would be replaced with actual AI service call
+    // Auracle AI responses focused on lesson guidance and support
     const responses = [
-      `That's a beautiful question! In ${lesson.title}, remember that your experience is perfect for where you are right now. Trust what you're feeling and sensing.`,
-      `I love that you're exploring this deeply. The Golden Sun meditation works differently for everyone - some see, some feel, some just know. What matters is your willingness to connect.`,
-      `Your intuition is guiding you perfectly. If something in this lesson resonates, trust that inner knowing. You have all the wisdom you need within you.`,
-      `Remember, there's no 'wrong' way to practice. Your spiritual journey is unique to you. What you're experiencing in this lesson is exactly what your soul needs right now.`
+      `That's an excellent question about ${lesson.title}! Your experience is completely natural for this stage of practice. Let me help you understand what's happening...`,
+      `I can guide you through this part of ${lesson.title}. Every student experiences these techniques differently - some visualize clearly, others feel sensations, and some simply know. All approaches are valid and effective.`,
+      `Your awareness of this aspect of the lesson shows you're developing important spiritual skills. Trust what you're experiencing in ${lesson.title} - it's exactly what you need for your growth right now.`,
+      `Great question! This is a common experience in ${lesson.title}. Your spiritual practice is unique to you, and I'm here to help you navigate any challenges or insights that arise.`
     ]
     return responses[Math.floor(Math.random() * responses.length)]
   }
@@ -183,7 +188,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                 className="btn-primary relative"
               >
                 <MessageCircle className="h-4 w-4 mr-2" />
-                Ask Auracle
+                Ask Auracle AI
                 {chatMessages.length > 0 && (
                   <span className="absolute -top-1 -right-1 w-3 h-3 bg-deep-rose rounded-full"></span>
                 )}
@@ -464,7 +469,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                 </div>
                 <div>
                   <h3 className="font-serif font-semibold text-gray-800">
-                    Ask Auracle
+                    Ask Auracle AI
                   </h3>
                   <p className="text-sm text-gray-600">Your spiritual guide</p>
                 </div>
@@ -513,7 +518,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                   </div>
                   <div>
                     <h3 className="text-lg font-serif font-semibold text-gray-800">
-                      Chat with Jennifer
+                      Chat with Auracle AI
                     </h3>
                     <p className="text-sm text-gray-600">
                       Ask anything about {lesson.title}

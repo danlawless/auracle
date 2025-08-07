@@ -14,11 +14,13 @@ import {
   Medal,
   Target,
   Calendar,
-  TrendingUp
+  TrendingUp,
+  Sparkles
 } from 'lucide-react'
 import { Lesson, Course } from '../../../types/course'
 import { useLessonProgression } from '../../../hooks/useLessonProgression'
 import EnhancedLessonView from './EnhancedLessonView'
+import CourseCompletionCelebration from './CourseCompletionCelebration'
 
 interface CourseDashboardProps {
   course: Course
@@ -31,11 +33,15 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
     completeLesson,
     isLessonUnlocked,
     isLessonCompleted,
-    getCourseStats
+    getCourseStats,
+    isCourseCompleted,
+    getCourseCompletionDate,
+    isClient
   } = useLessonProgression(course.id)
 
   const [currentView, setCurrentView] = useState<'dashboard' | 'lesson'>('dashboard')
   const [selectedLesson, setSelectedLesson] = useState<Lesson | null>(null)
+  const [showCelebration, setShowCelebration] = useState(false)
 
   const stats = getCourseStats()
 
@@ -49,9 +55,20 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
   const handleLessonComplete = (lessonId: string, completionData: any) => {
     completeLesson(lessonId, completionData)
     
+    // Check if course is now completed (checking if this was the last lesson)
+    // Only trigger on client side to prevent hydration issues
+    const wasJustCompleted = isClient && lessonId === 'rm1-010' && !stats.isCompleted
+    
     // Return to dashboard after completion
     setCurrentView('dashboard')
     setSelectedLesson(null)
+    
+    if (wasJustCompleted) {
+      // Show celebration for course completion after a brief delay
+      setTimeout(() => {
+        setShowCelebration(true)
+      }, 500)
+    }
   }
 
   const handleNext = () => {
@@ -145,24 +162,44 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
           >
             <div className="card-sacred mb-8">
               <h2 className="text-2xl font-serif font-semibold text-gray-800 mb-6">
-                Your Sacred Journey
+                {isClient && stats.isCompleted ? '🌹 Sacred Journey Complete!' : 'Your Sacred Journey'}
               </h2>
               
-              {/* Progress Bar */}
-              <div className="mb-6">
-                <div className="flex justify-between items-center mb-2">
-                  <span className="text-sm font-medium text-gray-700">Course Progress</span>
-                  <span className="text-sm font-medium text-deep-rose">{stats.overallProgress}% Complete</span>
+              {/* Completion Badge or Progress Bar */}
+              {isClient && stats.isCompleted ? (
+                <div className="mb-6 p-6 bg-gradient-to-r from-golden-light/20 via-rose-pink/20 to-soft-lavender/20 rounded-2xl border-2 border-golden-light/30">
+                  <div className="flex items-center justify-center mb-4">
+                    <div className="w-16 h-16 bg-gradient-gold rounded-full flex items-center justify-center shadow-lg">
+                      <Trophy className="h-8 w-8 text-white" />
+                    </div>
+                  </div>
+                  <div className="text-center">
+                    <p className="text-lg font-semibold text-gray-800 mb-2">
+                      Congratulations! Course Mastered
+                    </p>
+                    <p className="text-sm text-gray-600">
+                      Completed on {stats.completionDate?.toLocaleDateString('en-US', { 
+                        weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' 
+                      })}
+                    </p>
+                  </div>
                 </div>
-                <div className="w-full bg-gray-200 rounded-full h-3">
-                  <motion.div
-                    className="h-3 bg-gradient-rose rounded-full"
-                    initial={{ width: 0 }}
-                    animate={{ width: `${stats.overallProgress}%` }}
-                    transition={{ duration: 1 }}
-                  />
+              ) : (
+                <div className="mb-6">
+                  <div className="flex justify-between items-center mb-2">
+                    <span className="text-sm font-medium text-gray-700">Course Progress</span>
+                    <span className="text-sm font-medium text-deep-rose">{stats.overallProgress}% Complete</span>
+                  </div>
+                  <div className="w-full bg-gray-200 rounded-full h-3">
+                    <motion.div
+                      className="h-3 bg-gradient-rose rounded-full"
+                      initial={{ width: 0 }}
+                      animate={{ width: `${stats.overallProgress}%` }}
+                      transition={{ duration: 1 }}
+                    />
+                  </div>
                 </div>
-              </div>
+              )}
 
               {/* Quick Stats */}
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
@@ -330,25 +367,53 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
               </div>
             )}
 
-            {/* Continue Learning */}
-            <div className="card-sacred border-2 border-rose-pink/20 bg-rose-pink/5">
-              <h3 className="text-lg font-serif font-semibold text-gray-800 mb-4">
-                Continue Your Journey
-              </h3>
-              <p className="text-sm text-gray-600 mb-4">
-                Pick up where you left off and maintain your spiritual practice momentum.
-              </p>
-              <button 
-                onClick={() => {
-                  const currentLesson = lessons.find(l => l.id === courseProgress.currentLesson)
-                  if (currentLesson) startLesson(currentLesson)
-                }}
-                className="w-full btn-primary"
-              >
-                <Play className="h-4 w-4 mr-2" />
-                Continue Learning
-              </button>
-            </div>
+            {/* Continue Learning or Next Steps */}
+            {isClient && stats.isCompleted ? (
+              <div className="card-sacred border-2 border-golden-light/30 bg-gradient-to-br from-golden-light/10 to-rose-pink/10">
+                <h3 className="text-lg font-serif font-semibold text-gray-800 mb-4 flex items-center">
+                  <Star className="h-5 w-5 text-golden-light mr-2" />
+                  Your Next Adventure
+                </h3>
+                <p className="text-sm text-gray-600 mb-4">
+                  You've mastered Rose Meditation Level 1! Ready to deepen your spiritual journey?
+                </p>
+                <div className="space-y-3">
+                  <button 
+                    onClick={() => setShowCelebration(true)}
+                    className="w-full bg-gradient-gold text-white px-4 py-3 rounded-full font-semibold text-sm hover:shadow-lg transition-all duration-200"
+                  >
+                    <Trophy className="h-4 w-4 mr-2 inline" />
+                    Celebrate Achievement
+                  </button>
+                  <button 
+                    onClick={() => alert('Rose Meditation Level 2: Advanced Practices coming soon! 🌹✨')}
+                    className="w-full border-2 border-rose-pink text-rose-pink px-4 py-3 rounded-full font-semibold text-sm hover:bg-rose-pink/5 transition-all duration-200"
+                  >
+                    <Sparkles className="h-4 w-4 mr-2 inline" />
+                    Explore Level 2
+                  </button>
+                </div>
+              </div>
+            ) : (
+              <div className="card-sacred border-2 border-rose-pink/20 bg-rose-pink/5">
+                <h3 className="text-lg font-serif font-semibold text-gray-800 mb-4">
+                  Continue Your Journey
+                </h3>
+                <p className="text-sm text-gray-600 mb-4">
+                  Pick up where you left off and maintain your spiritual practice momentum.
+                </p>
+                <button 
+                  onClick={() => {
+                    const currentLesson = lessons.find(l => l.id === courseProgress.currentLesson)
+                    if (currentLesson) startLesson(currentLesson)
+                  }}
+                  className="w-full btn-primary"
+                >
+                  <Play className="h-4 w-4 mr-2" />
+                  Continue Learning
+                </button>
+              </div>
+            )}
 
             {/* Learning Stats */}
             <div className="card-sacred">
@@ -379,6 +444,20 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
           </motion.div>
         </div>
       </div>
+
+      {/* Course Completion Celebration Modal */}
+      <CourseCompletionCelebration
+        isOpen={showCelebration}
+        onClose={() => setShowCelebration(false)}
+        courseName={course.title}
+        completionDate={stats.completionDate || new Date()}
+        totalTimeSpent={stats.totalTimeSpent}
+        onContinueJourney={() => {
+          setShowCelebration(false)
+          // Future: Navigate to next course or progression path
+          alert('Next level courses coming soon! 🌟')
+        }}
+      />
     </div>
   )
 }

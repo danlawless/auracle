@@ -57,7 +57,7 @@ export interface Checkpoint {
 
 export interface AIAssistantConfig {
   name: string
-  persona: 'jennifer' | 'wise_guide' | 'gentle_teacher' | 'meditation_guide'
+  persona: 'The Auracle AI' | 'wise_guide' | 'gentle_teacher' | 'meditation_guide'
   systemPrompt: string
   context: string[] // Key lesson concepts for AI to reference
   suggestedQuestions: string[]

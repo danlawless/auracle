@@ -24,8 +24,8 @@ module.exports = {
         'warm-gold': '#FFD700',
       },
       fontFamily: {
-        'serif': ['Cormorant Garamond', 'serif'],
-        'sans': ['Nunito', 'sans-serif'],
+        'serif': ['Poppins', 'sans-serif'],
+        'sans': ['Inter', 'sans-serif'],
       },
       backgroundImage: {
         // New Deep Purple & Vibrant Pink Gradients

@@ -8,14 +8,14 @@ const TestimonialsSection = () => {
     {
       name: 'Sarah M.',
       location: 'California',
-      text: 'Jennifer\'s aura reading was transformative. She helped me understand my energy patterns and gave me practical tools for daily grounding. The Rose Meditation course has become an essential part of my spiritual practice.',
+      text: 'Jae\'s aura reading was transformative. She helped me understand my energy patterns and gave me practical tools for daily grounding. The Rose Meditation course has become an essential part of my spiritual practice.',
       rating: 5,
       image: '🌸'
     },
     {
       name: 'Michael R.',
       location: 'New York',
-      text: 'The depth of insight in my reading was incredible. Jennifer\'s gentle guidance helped me navigate a difficult transition with clarity and peace. Her courses are beautifully structured and deeply healing.',
+      text: 'The depth of insight in my reading was incredible. Jae\'s gentle guidance helped me navigate a difficult transition with clarity and peace. Her courses are beautifully structured and deeply healing.',
       rating: 5,
       image: '🌿'
     },

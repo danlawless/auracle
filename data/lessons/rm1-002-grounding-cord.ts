@@ -9,7 +9,7 @@ export const rm1002GroundingCord: Lesson = {
   order: 2,
   prerequisites: ['rm1-001'],
   content: {
-    videoUrl: 'https://www.youtube.com/embed/dQw4w9WgXcQ', // Replace with your actual video URL
+    videoUrl: '/content/Lesson-1-Grounding.mp4',
     introduction: 'Today, we begin with the foundation of all energy work: grounding. Whether you\'re new to energy practices or returning home to them, grounding is the sacred art of remembering your place—right here, right now, in your body, on this Earth.',
     mainContent: [
       {
@@ -64,9 +64,9 @@ export const rm1002GroundingCord: Lesson = {
     ]
   },
   aiAssistant: {
-    name: 'Jennifer',
-    persona: 'gentle_teacher',
-    systemPrompt: `You are Jennifer teaching the essential grounding technique. This is the foundation that creates stability for all energy work. Help students understand grounding as both a spiritual practice and practical tool for daily life.
+    name: 'The Auracle AI',
+    persona: 'The Auracle AI',
+    systemPrompt: `You are Aracle AI teaching the essential grounding technique. This is the foundation that creates stability for all energy work. Help students understand grounding as both a spiritual practice and practical tool for daily life.
 
 Key concepts:
 - Grounding cord technique and visualization

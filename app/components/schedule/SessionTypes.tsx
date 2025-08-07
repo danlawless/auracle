@@ -3,7 +3,7 @@
 import { motion } from 'framer-motion'
 import { Clock, CheckCircle, Sparkles, Heart, Eye, Moon, Zap, Rainbow } from 'lucide-react'
 
-const ReadingTypes = () => {
+const SessionTypes = () => {
   // Session time options
   const sessionOptions = [
     {
@@ -53,7 +53,7 @@ const ReadingTypes = () => {
         'Full spirit translation with comprehensive guidance',
         'Multiple lifetimes with karmic pattern analysis',
         'Multiple themes with integration plan',
-        'Complete 7-chakra reading with energy balancing',
+        'Complete 7-chakra session with energy balancing',
         'The complete spiritual overview experience'
       ]
     }
@@ -94,7 +94,7 @@ const ReadingTypes = () => {
     {
       icon: Rainbow,
       title: 'Complete Spiritual Overview',
-      description: 'The full experience: Spirit + past life + guidance + energy reading',
+      description: 'The full experience: Spirit + past life + guidance + energy session',
       color: 'from-vibrant-pink to-golden-accent',
       specialNote: '(Available in 90-minute sessions)'
     }
@@ -277,7 +277,7 @@ const ReadingTypes = () => {
                 Book Your Session Now
               </button>
               <button className="btn-secondary text-lg px-12 py-4">
-                Questions? Contact Jennifer
+                Questions? Contact Jae
               </button>
             </div>
           </div>
@@ -287,4 +287,4 @@ const ReadingTypes = () => {
   )
 }
 
-export default ReadingTypes
+export default SessionTypes

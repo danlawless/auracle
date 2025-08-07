@@ -9,6 +9,7 @@ export const rm1010ClosingIntegration: Lesson = {
   order: 10,
   prerequisites: ['rm1-009'],
   content: {
+    videoUrl: '/content/Lesson-10-Full-Meditation.mp4',
     introduction: 'You\'ve done beautiful work—cleansing, restoring, releasing, and realigning. Now, it\'s time to seal it. To complete the practice with care and reverence. In this lesson, we learn how to properly end your meditation and experience the full Rose Meditation integration.',
     mainContent: [
       {

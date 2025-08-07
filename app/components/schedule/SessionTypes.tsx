@@ -20,7 +20,8 @@ const SessionTypes = () => {
         'Explore 1 significant past life',
         'Get guidance on 1 focused question',
         '1-2 specific chakras with healing insights',
-        'One significant dream interpretation'
+        'One significant dream interpretation',
+        'Clarity on immediate spiritual concerns'
       ]
     },
     {
@@ -37,7 +38,8 @@ const SessionTypes = () => {
         'Deep dive into 2-3 relevant past lives',
         '2-3 related questions or complex themes',
         '3-4 chakras with practical healing steps',
-        'Complex dream analysis or multiple dreams'
+        'Complex dream analysis or multiple dreams',
+        'Relationship and life path guidance integration'
       ]
     },
     {
@@ -54,6 +56,7 @@ const SessionTypes = () => {
         'Multiple lifetimes with karmic pattern analysis',
         'Multiple themes with integration plan',
         'Complete 7-chakra session with energy balancing',
+        'Deep dream analysis and spiritual symbol interpretation',
         'The complete spiritual overview experience'
       ]
     }
@@ -120,11 +123,11 @@ const SessionTypes = () => {
         </motion.div>
 
         {/* Session Options */}
-        <div className="grid lg:grid-cols-3 gap-8 mb-16">
+        <div className="grid lg:grid-cols-3 gap-8 mb-16 items-stretch">
           {sessionOptions.map((session, index) => (
             <motion.div
               key={session.id}
-              className={`card-sacred relative overflow-hidden group ${
+              className={`card-sacred relative overflow-hidden group flex flex-col h-full ${
                 session.popular ? 'ring-2 ring-golden-light shadow-xl scale-105' : ''
               }`}
               initial={{ opacity: 0, y: 30 }}
@@ -143,7 +146,7 @@ const SessionTypes = () => {
               <div className={`absolute inset-0 bg-gradient-to-br ${session.color} opacity-5 group-hover:opacity-10 transition-opacity duration-300`} />
 
               {/* Content */}
-              <div className="relative z-10">
+              <div className="relative z-10 flex flex-col h-full">
                 {/* Header */}
                 <div className="text-center mb-6">
                   <div className={`w-16 h-16 bg-gradient-to-br ${session.color} rounded-2xl flex items-center justify-center text-2xl shadow-lg mx-auto mb-4`}>
@@ -166,12 +169,12 @@ const SessionTypes = () => {
                   {session.description}
                 </p>
 
-                {/* Examples */}
-                <div className="mb-8">
+                {/* Examples - Flex grow to take available space */}
+                <div className="mb-8 flex-grow">
                   <h4 className="text-lg font-serif font-medium text-gray-800 mb-4 text-center">
                     What You Can Explore:
                   </h4>
-                  <div className="space-y-2">
+                  <div className="space-y-2 min-h-[120px]">
                     {session.examples.map((example, exampleIndex) => (
                       <div key={exampleIndex} className="flex items-start text-gray-700 text-sm">
                         <CheckCircle className="h-4 w-4 text-green-500 mr-3 flex-shrink-0 mt-0.5" />
@@ -181,10 +184,12 @@ const SessionTypes = () => {
                   </div>
                 </div>
 
-                {/* CTA Button */}
-                <button className={`w-full py-4 bg-gradient-to-r ${session.color} text-white rounded-full font-medium text-lg transition-all duration-300 hover:shadow-lg hover:scale-105 focus:outline-none focus:ring-2 focus:ring-rose-pink focus:ring-opacity-50`}>
-                  Book {session.duration} Session
-                </button>
+                {/* CTA Button - Always at bottom */}
+                <div className="mt-auto">
+                  <button className={`w-full py-4 bg-gradient-to-r ${session.color} text-white rounded-full font-medium text-lg transition-all duration-300 hover:shadow-lg hover:scale-105 focus:outline-none focus:ring-2 focus:ring-rose-pink focus:ring-opacity-50`}>
+                    Book {session.duration} Session
+                  </button>
+                </div>
               </div>
             </motion.div>
           ))}

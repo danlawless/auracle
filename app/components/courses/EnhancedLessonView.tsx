@@ -20,7 +20,7 @@ import {
   Lightbulb
 } from 'lucide-react'
 import { Lesson } from '../../../types/course'
-import FloatingAIAssistant from './FloatingAIAssistant'
+import AILessonChat from './AILessonChat'
 
 interface EnhancedLessonViewProps {
   lesson: Lesson
@@ -233,6 +233,38 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
             </div>
           </motion.div>
         )}
+
+        {/* AI Assistant Chat Section */}
+        <motion.div
+          className="card-sacred mb-8 bg-gradient-to-br from-rose-pink/5 to-soft-lavender/10 border border-rose-pink/20"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.1 }}
+        >
+          <div className="flex items-start space-x-4">
+            <div className="p-3 rounded-full bg-gradient-rose flex-shrink-0">
+              <Sparkles className="h-5 w-5 text-white" />
+            </div>
+            <div className="flex-1">
+              <h3 className="text-xl font-serif font-semibold text-gray-800 mb-3 flex items-center">
+                Ask Jennifer Anything
+                <span className="ml-2 text-sm bg-rose-pink/20 text-rose-pink px-2 py-1 rounded-full font-normal">
+                  AI Assistant
+                </span>
+              </h3>
+              <p className="text-gray-600 mb-4 leading-relaxed">
+                I'm here to support you through this lesson! Feel free to ask me any questions about the {lesson.title.toLowerCase()}, 
+                share what you're experiencing, or let me know if you need clarification on any part of the teaching.
+              </p>
+              
+              {/* Chat Interface */}
+              <AILessonChat 
+                aiAssistant={lesson.aiAssistant}
+                lessonTitle={lesson.title}
+              />
+            </div>
+          </div>
+        </motion.div>
 
         {/* Introduction */}
         <motion.div
@@ -565,11 +597,7 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
         </motion.div>
       </div>
 
-      {/* Floating AI Assistant */}
-      <FloatingAIAssistant 
-        aiAssistant={lesson.aiAssistant}
-        lessonTitle={lesson.title}
-      />
+
     </div>
   )
 }

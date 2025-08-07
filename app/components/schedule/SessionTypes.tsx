@@ -137,7 +137,7 @@ const SessionTypes = () => {
             >
               {/* Popular Badge */}
               {session.popular && (
-                <div className="absolute -top-2 -right-2 bg-gradient-accent text-white px-4 py-1 rounded-full text-sm font-medium shadow-lg">
+                <div className="absolute top-3 right-3 bg-gradient-accent text-white px-4 py-1 rounded-full text-sm font-medium shadow-lg z-20">
                   Most Popular
                 </div>
               )}

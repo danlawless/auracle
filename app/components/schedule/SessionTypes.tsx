@@ -26,7 +26,7 @@ const SessionTypes = () => {
     },
     {
       id: '60-min',
-      title: '60-Minute Deep Dive',
+      title: '60-Minute Deep Dive Session',
       duration: '60 minutes',
       price: 200,
       description: 'Ideal for exploring multiple topics or going deeper into one area. Our most popular option for comprehensive guidance.',

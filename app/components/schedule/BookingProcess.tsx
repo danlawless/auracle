@@ -29,7 +29,7 @@ const BookingProcess = () => {
     {
       icon: Video,
       title: 'Your Sacred Session',
-      description: 'Connect with Jennifer for your transformative spiritual guidance in a safe, sacred digital space.',
+      description: 'Connect with Jae for your transformative spiritual guidance in a safe, sacred digital space.',
       details: ['HD video quality', 'Session recording included', 'Private & confidential', 'Follow-up notes provided'],
       color: 'from-deep-rose to-rose-pink'
     }
@@ -38,11 +38,11 @@ const BookingProcess = () => {
   const faqs = [
     {
       question: 'How do online spiritual sessions work?',
-      answer: 'Energy has no boundaries! Jennifer connects with your spiritual energy through intention and sacred focus, regardless of physical distance. Many clients report that online sessions feel just as powerful and accurate as in-person sessions.'
+      answer: 'Energy has no boundaries! Jae connects with your spiritual energy through intention and sacred focus, regardless of physical distance. Many clients report that online sessions feel just as powerful and accurate as in-person sessions.'
     },
     {
       question: 'What do I need for my session?',
-      answer: 'Simply a quiet, private space with a stable internet connection. We recommend using a computer or tablet for the best experience. Jennifer will guide you through any technical setup before your session begins.'
+      answer: 'Simply a quiet, private space with a stable internet connection. We recommend using a computer or tablet for the best experience. Jae will guide you through any technical setup before your session begins.'
     },
     {
       question: 'Will I receive a recording of my session?',
@@ -54,7 +54,7 @@ const BookingProcess = () => {
     },
     {
       question: 'Is my session confidential?',
-      answer: 'Absolutely. All sessions are completely private and confidential. Jennifer holds sacred space for your personal information and spiritual insights with the utmost respect and discretion.'
+      answer: 'Absolutely. All sessions are completely private and confidential. Jae holds sacred space for your personal information and spiritual insights with the utmost respect and discretion.'
     }
   ]
 
@@ -190,15 +190,15 @@ const BookingProcess = () => {
             </h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
               "Visualize your grounding cord now. Feel your presence deepen." 
-              Your transformative journey with Jennifer is just a few clicks away.
+              Your transformative journey with Jae is just a few clicks away.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="btn-primary text-lg px-12 py-4">
+              <a href="/book" className="btn-primary text-lg px-12 py-4 inline-block text-center">
                 Schedule Your Session
-              </button>
-              <button className="btn-secondary text-lg px-12 py-4">
-                Learn More About Options
-              </button>
+              </a>
+              <a href="/essence" className="btn-secondary text-lg px-12 py-4 inline-block text-center">
+                Learn More About Our Essence
+              </a>
             </div>
           </div>
         </motion.div>

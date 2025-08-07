@@ -128,9 +128,9 @@ const ScheduleHero = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 1.1 }}
           >
-            <button className="btn-primary text-lg px-12 py-4">
+            <a href="/book" className="btn-primary text-lg px-12 py-4 inline-block">
               Book Your Session Now
-            </button>
+            </a>
             <button className="btn-secondary text-lg px-12 py-4">
               Learn About Jae
             </button>

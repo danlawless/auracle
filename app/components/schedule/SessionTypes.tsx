@@ -186,9 +186,9 @@ const SessionTypes = () => {
 
                 {/* CTA Button - Always at bottom */}
                 <div className="mt-auto">
-                  <button className={`w-full py-4 bg-gradient-to-r ${session.color} text-white rounded-full font-medium text-lg transition-all duration-300 hover:shadow-lg hover:scale-105 focus:outline-none focus:ring-2 focus:ring-rose-pink focus:ring-opacity-50`}>
-                    Book {session.duration} Session
-                  </button>
+                                  <a href="/book" className={`w-full py-4 bg-gradient-to-r ${session.color} text-white rounded-full font-medium text-lg transition-all duration-300 hover:shadow-lg hover:scale-105 focus:outline-none focus:ring-2 focus:ring-rose-pink focus:ring-opacity-50 inline-block text-center`}>
+                  Book {session.duration} Session
+                </a>
                 </div>
               </div>
             </motion.div>
@@ -278,9 +278,9 @@ const SessionTypes = () => {
               <strong>Every session includes:</strong> Recorded session, spirit messages, personalized insights, actionable guidance, and follow-up summary.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="btn-primary text-lg px-12 py-4">
+              <a href="/book" className="btn-primary text-lg px-12 py-4 inline-block text-center">
                 Book Your Session Now
-              </button>
+              </a>
               <button className="btn-secondary text-lg px-12 py-4">
                 Questions? Contact Jae
               </button>

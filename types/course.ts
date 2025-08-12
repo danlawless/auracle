@@ -1,4 +1,11 @@
 // Core course and lesson types for The Auracle learning platform
+export interface MediaAsset {
+  id: string
+  url: string
+  alt?: string
+  caption?: string
+}
+
 export interface Lesson {
   id: string
   title: string

@@ -343,8 +343,3 @@ const EssencePage = () => {
 
 export default EssencePage
 
-export const metadata = {
-  title: 'Our Sacred Essence | The Auracle',
-  description: 'Discover the deeper spiritual dimensions we explore together in sacred sessions. Understanding spirit connection, past life insights, energy healing, and divine guidance.',
-}
-

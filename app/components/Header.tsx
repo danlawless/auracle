@@ -64,6 +64,15 @@ const Header = () => {
             >
               Sessions
             </Link>
+            {/* Admin Access - Only visible in development */}
+            {process.env.NODE_ENV === 'development' && (
+              <Link 
+                href="/admin" 
+                className="text-xs px-3 py-1 bg-rose-100 text-rose-700 rounded-full hover:bg-rose-200 transition-colors"
+              >
+                Admin
+              </Link>
+            )}
           </div>
 
           {/* Mobile menu button */}
@@ -109,6 +118,16 @@ const Header = () => {
                   Sessions
                 </span>
               </Link>
+              {/* Admin Access - Only visible in development */}
+              {process.env.NODE_ENV === 'development' && (
+                <Link
+                  href="/admin"
+                  onClick={() => setIsMobileMenuOpen(false)}
+                  className="block px-3 py-2 mt-2 text-center text-xs bg-rose-100 text-rose-700 rounded-full mx-3"
+                >
+                  Admin Panel
+                </Link>
+              )}
             </div>
           </div>
         )}

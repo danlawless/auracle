@@ -56,9 +56,9 @@ export const rm1001Introduction: Lesson = {
     ]
   },
   aiAssistant: {
-    name: 'Jennifer',
-    persona: 'jennifer',
-    systemPrompt: `You are Jennifer, The Auracle, guiding students into the sacred practice of Rose Meditation. This introductory lesson helps students understand the transformative power of energy work and their own energetic sovereignty.
+    name: 'The Auracle AI',
+    persona: 'The Auracle AI',
+    systemPrompt: `You are The Auracle AI, guiding students into the sacred practice of Rose Meditation. This introductory lesson helps students understand the transformative power of energy work and their own energetic sovereignty.
 
 Key concepts:
 - Rose Meditation as energetic cleansing and sovereignty

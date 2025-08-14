@@ -4,6 +4,7 @@ import { useState } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import AdminProtection from '../components/AdminProtection'
 import { 
   LayoutDashboard, 
   BookOpen, 
@@ -129,7 +130,14 @@ export default function AdminLayout({
                   <p className="text-xs text-gray-500">Sacred Administrator</p>
                 </div>
               </div>
-              <button className="p-2 text-gray-400 hover:text-gray-600 rounded-lg hover:bg-gray-50">
+              <button
+                onClick={() => {
+                  localStorage.removeItem('auracle_admin_session')
+                  window.location.href = '/'
+                }}
+                className="p-2 text-gray-400 hover:text-gray-600 rounded-lg hover:bg-gray-50"
+                title="Logout"
+              >
                 <LogOut className="h-4 w-4" />
               </button>
             </div>
@@ -193,23 +201,35 @@ export default function AdminLayout({
                 })}
               </div>
 
-              {/* User menu */}
-              <div className="flex items-center space-x-3">
-                <div className="w-8 h-8 bg-gradient-to-br from-golden-light to-earth-copper rounded-full flex items-center justify-center">
-                  <User className="h-4 w-4 text-white" />
-                </div>
-                <div className="text-right">
-                  <p className="text-sm font-medium text-gray-900">Jae</p>
-                  <p className="text-xs text-gray-500">Admin</p>
-                </div>
-              </div>
+                                {/* User menu */}
+                  <div className="flex items-center space-x-3">
+                    <div className="w-8 h-8 bg-gradient-to-br from-golden-light to-earth-copper rounded-full flex items-center justify-center">
+                      <User className="h-4 w-4 text-white" />
+                    </div>
+                    <div className="text-right">
+                      <p className="text-sm font-medium text-gray-900">Jae</p>
+                      <p className="text-xs text-gray-500">Admin</p>
+                    </div>
+                    <button
+                      onClick={() => {
+                        localStorage.removeItem('auracle_admin_session')
+                        window.location.href = '/'
+                      }}
+                      className="p-2 text-gray-400 hover:text-gray-600 rounded-lg hover:bg-gray-100 transition-colors"
+                      title="Logout"
+                    >
+                      <LogOut className="h-4 w-4" />
+                    </button>
+                  </div>
             </div>
           </div>
         </div>
 
         {/* Page content */}
         <main>
-          {children}
+          <AdminProtection>
+            {children}
+          </AdminProtection>
         </main>
       </div>
     </div>

@@ -1,10 +1,13 @@
 'use client'
 
+import { useState } from 'react'
 import Link from 'next/link'
 import { Sparkles, Mail, Instagram, Facebook, Youtube } from 'lucide-react'
+import AdminModal from './AdminModal'
 
 const Footer = () => {
   const currentYear = new Date().getFullYear()
+  const [isAdminModalOpen, setIsAdminModalOpen] = useState(false)
 
   return (
     <footer className="bg-gray-900 text-white">
@@ -130,9 +133,21 @@ const Footer = () => {
             <Link href="/cookies" className="text-gray-400 hover:text-rose-pink transition-colors duration-300">
               Cookies
             </Link>
+            <button
+              onClick={() => setIsAdminModalOpen(true)}
+              className="text-gray-400 hover:text-rose-pink transition-colors duration-300"
+            >
+              Admin
+            </button>
           </div>
         </div>
       </div>
+
+      {/* Admin Modal */}
+      <AdminModal 
+        isOpen={isAdminModalOpen} 
+        onClose={() => setIsAdminModalOpen(false)} 
+      />
     </footer>
   )
 }

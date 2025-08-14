@@ -3,6 +3,7 @@
 import { motion } from 'framer-motion'
 import { useRouter } from 'next/navigation'
 import { Star, Users, Clock, CheckCircle, Sparkles } from 'lucide-react'
+import CoursePurchaseButton from '../course/CoursePurchaseButton'
 
 const RoseMeditationHero = () => {
   const router = useRouter()
@@ -40,7 +41,7 @@ const RoseMeditationHero = () => {
             {/* Badge */}
             <div className="inline-flex items-center px-4 py-2 bg-gradient-to-r from-rose-pink to-deep-rose text-white rounded-full text-sm font-medium mb-6 shadow-lg">
               <Sparkles className="h-4 w-4 mr-2" />
-              🔥 Most Popular Course - Start Here
+              🌹 Begin Your Sacred Journey
             </div>
 
             {/* Main Heading */}
@@ -51,9 +52,9 @@ const RoseMeditationHero = () => {
 
             {/* Subtitle */}
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              The sacred mini-course that has transformed thousands of lives. 
-              Master the foundational practices that will unlock your spiritual potential 
-              and set you on the path to becoming an Aura Reader.
+              A sacred practice that invites you to dive deep into yourself. 
+              These foundational teachings create the gateway to your inner sanctuary 
+              and begin your journey toward spiritual self-sovereignty.
             </p>
 
             {/* Benefits */}
@@ -78,36 +79,40 @@ const RoseMeditationHero = () => {
               </ul>
             </div>
 
-            {/* Pricing */}
-            <div className="bg-white rounded-2xl p-6 mb-8 shadow-xl border border-rose-pink/20">
-              <div className="flex items-center space-x-4 mb-4">
-                <span className="text-4xl font-bold text-gradient-gold">$197</span>
-                <span className="text-2xl text-gray-500 line-through">$297</span>
-                <span className="bg-green-100 text-green-800 px-3 py-2 rounded-full text-sm font-bold">
-                  Save 34%
-                </span>
-              </div>
-              <p className="text-sm text-gray-600 mb-4">
-                ✨ Limited time offer - This price won't last long
-              </p>
-              <div className="text-xs text-gray-500">
-                💳 30-day money-back guarantee • 🔄 Lifetime access
+                    {/* Sacred Gift */}
+        <div className="bg-white rounded-2xl p-6 mb-8 shadow-xl border border-rose-pink/20">
+          <div className="text-center mb-4">
+            <p className="text-sm text-gray-600 mb-3">Sacred Gift</p>
+            <div className="flex items-center justify-center gap-4 mb-3">
+              <span className="text-6xl font-bold text-gradient-gold">$49</span>
+              <div className="text-center">
+                <span className="text-2xl text-gray-400 line-through block">$197</span>
+                <span className="text-sm font-bold text-rose-pink bg-rose-pink/10 px-2 py-1 rounded-full">75% OFF</span>
               </div>
             </div>
+            <p className="text-sm text-rose-pink font-medium">For those ready to receive</p>
+          </div>
+          <div className="text-center text-xs text-gray-500">
+            🌹 Lifetime access to your sacred practice • 🔄 30-day reflection period
+          </div>
+        </div>
 
             {/* CTA Buttons */}
             <div className="flex flex-col sm:flex-row gap-4">
-              <button
-                onClick={() => router.push('/courses/rose-meditation-1/dashboard')}
+              <CoursePurchaseButton
+                courseId="rose-meditation-1"
+                courseTitle="Rose Meditation Level 1"
+                coursePrice="$49"
+                originalPrice="$197"
                 className="btn-primary text-lg px-8 py-4 shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
               >
-                🌹 Start Your Journey Now
-              </button>
+                🌹 Begin Sacred Practice
+              </CoursePurchaseButton>
               <button
                 onClick={() => router.push('/courses/rose-meditation-1')}
                 className="btn-secondary text-lg px-8 py-4"
               >
-                Learn More
+                Explore the Teaching
               </button>
             </div>
           </motion.div>

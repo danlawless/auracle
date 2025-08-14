@@ -16,12 +16,12 @@ const SessionTypes = () => {
       popular: false,
       color: 'from-deep-purple to-vibrant-pink',
       examples: [
-        'Connect with 1 spirit guide',
-        'Explore 1 significant past life',
-        'Get guidance on 1 focused question',
-        '1-2 specific chakras with healing insights',
-        'One significant dream interpretation',
-        'Clarity on immediate spiritual concerns'
+        'General Aura Reading',
+        'Explore 1 Significant Past Life',
+        'Get Guidance on 1 Focused Question',
+        '1-2 Specific Chakras With Healing Insights',
+        'One Significant Dream Interpretation',
+        'Clarity on Immediate Spiritual Concerns'
       ]
     },
     {
@@ -34,12 +34,12 @@ const SessionTypes = () => {
       popular: true,
       color: 'from-royal-purple to-hot-pink',
       examples: [
-        'Multiple guides with deeper conversation',
-        'Deep dive into 2-3 relevant past lives',
-        '2-3 related questions or complex themes',
-        '3-4 chakras with practical healing steps',
-        'Complex dream analysis or multiple dreams',
-        'Relationship and life path guidance integration'
+        'Multiple Spirit Guides with Deeper Conversation',
+        'Deep Dive into 2-3 Relevant Past Lives',
+        '2-3 Related Questions or Complex Themes',
+        '3-4 Chakras with Practical Healing Steps',
+        'Complex Dream Analysis or Multiple Dreams',
+        'Relationship and Life Path Guidance Integration'
       ]
     },
     {
@@ -52,12 +52,12 @@ const SessionTypes = () => {
       popular: false,
       color: 'from-vibrant-pink to-golden-accent',
       examples: [
-        'Full spirit translation with comprehensive guidance',
-        'Multiple lifetimes with karmic pattern analysis',
-        'Multiple themes with integration plan',
-        'Complete 7-chakra session with energy balancing',
-        'Deep dream analysis and spiritual symbol interpretation',
-        'The complete spiritual overview experience'
+        'Full Spirit Translation with Comprehensive Guidance',
+        'Multiple Lifetimes with Karmic Pattern Analysis',
+        'Multiple Themes with Integration Plan',
+        'Complete 7-Chakra Session with Energy Balancing',
+        'Deep Dream Analysis and Spiritual Symbol Interpretation',
+        'The Complete Spiritual Overview Experience'
       ]
     }
   ]

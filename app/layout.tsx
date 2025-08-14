@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import './globals.css'
 import Footer from './components/Footer'
 import Header from './components/Header'
+import { UserProvider } from './contexts/UserContext'
 
 export const metadata: Metadata = {
   title: 'The Auracle - Aura Reading & Spiritual Guidance',
@@ -25,11 +26,13 @@ export default function RootLayout({
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
       </head>
       <body className="min-h-screen bg-gradient-sacred" suppressHydrationWarning={true}>
-        <Header />
-        <main className="min-h-screen pt-16">
-          {children}
-        </main>
-        <Footer />
+        <UserProvider>
+          <Header />
+          <main className="min-h-screen pt-16">
+            {children}
+          </main>
+          <Footer />
+        </UserProvider>
       </body>
     </html>
   )

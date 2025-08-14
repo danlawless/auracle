@@ -252,7 +252,7 @@ const CourseFeatures = () => {
                 onClick={() => router.push('/courses/rose-meditation-1/dashboard')}
                 className="btn-secondary text-lg px-12 py-4"
               >
-                Start Free Trial
+                🌹 Begin Sacred Practice
               </button>
             </div>
           </div>

@@ -11,11 +11,12 @@ const JourneyProgression = () => {
     {
       step: 1,
       title: 'Rose Meditation Level 1',
-      subtitle: 'Mini Course',
-      description: 'Master the foundational practices',
-      price: '$197',
+      subtitle: 'Foundation of Sacred Practice',
+      description: 'Step into your inner sanctuary',
+      price: '$49',
+      originalPrice: '$197',
       duration: '4 weeks',
-      status: 'available',
+      status: 'begin-here',
       icon: '🌹',
       color: 'from-rose-pink to-deep-rose',
       practices: ['Golden Sun', 'Grounding Cord', 'Pink Rose', 'Aura Boundaries']
@@ -23,11 +24,11 @@ const JourneyProgression = () => {
     {
       step: 2,
       title: 'Rose Meditation Level 2',
-      subtitle: 'Advanced Practice',
-      description: 'Deepen your spiritual connection',
+      subtitle: 'Deepen Your Practice',
+      description: 'Unlock deeper wisdom within',
       price: '$397',
       duration: '6 weeks',
-      status: 'coming-soon',
+      status: 'unlocks-next',
       icon: '🌹✨',
       color: 'from-golden-light to-earth-copper',
       practices: ['Advanced Four Roses', 'Energy Transmutation', 'Chakra Work', 'Sacred Healing']
@@ -35,48 +36,21 @@ const JourneyProgression = () => {
     {
       step: 3,
       title: 'Rose Meditation Level 3',
-      subtitle: 'Master Level',
-      description: 'Achieve mastery and prepare for certification',
+      subtitle: 'Master Level Practice',
+      description: 'Embody complete mastery',
       price: '$597',
       duration: '8 weeks',
-      status: 'coming-soon',
+      status: 'unlocks-next',
       icon: '🌹👑',
       color: 'from-earth-copper to-golden-light',
       practices: ['Master Techniques', 'Sacred Geometry', 'Advanced Healing', 'Spiritual Mastery']
-    },
-    {
-      step: 4,
-      title: 'Become an Aura Reader',
-      subtitle: 'Professional Certification',
-      description: 'Transform into a certified practitioner',
-      price: '$1,297',
-      duration: '12 weeks',
-      status: 'coming-soon',
-      icon: '👁️✨',
-      color: 'from-deep-rose to-rose-pink',
-      practices: ['Aura Reading Mastery', 'Professional Ethics', 'Client Skills', 'Business Training']
     }
   ]
 
   return (
     <section className="py-20 bg-gradient-to-br from-white via-rose-pink/5 to-golden-light/10">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        {/* Section Header */}
-        <motion.div
-          className="text-center mb-16"
-          initial={{ opacity: 0, y: 30 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-          viewport={{ once: true }}
-        >
-          <h2 className="text-4xl md:text-5xl font-serif font-bold text-gradient-rose mb-6">
-            The Complete Journey Visualization
-          </h2>
-          <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            See exactly how each step builds upon the last, creating a complete transformation 
-            from beginner to certified Aura Reader.
-          </p>
-        </motion.div>
+
 
         {/* Journey Flow */}
         <div className="relative">
@@ -84,7 +58,7 @@ const JourneyProgression = () => {
           <div className="hidden lg:block absolute top-1/2 left-0 right-0 h-1 bg-gradient-to-r from-rose-pink via-golden-light to-deep-rose opacity-20 transform -translate-y-1/2"></div>
 
           {/* Steps */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-8 lg:gap-6 items-stretch">
             {journeySteps.map((step, index) => (
               <motion.div
                 key={step.step}
@@ -95,22 +69,28 @@ const JourneyProgression = () => {
                 viewport={{ once: true }}
               >
                 {/* Step Card */}
-                <div className={`relative bg-white rounded-2xl p-6 shadow-xl border-2 ${
-                  step.status === 'available' 
+                <div className={`relative bg-white rounded-2xl p-6 shadow-xl border-2 h-full flex flex-col ${
+                  step.status === 'begin-here' 
                     ? 'border-rose-pink shadow-rose-pink/20' 
+                    : step.status === 'sovereignty'
+                    ? 'border-golden-light shadow-golden-light/20'
                     : 'border-gray-200'
-                } ${step.status === 'coming-soon' ? 'opacity-75' : ''}`}>
+                } ${step.status === 'unlocks-next' ? 'opacity-75' : ''}`}>
                   
                   {/* Status Badge */}
                   <div className="absolute -top-3 left-1/2 transform -translate-x-1/2">
-                    {step.status === 'available' ? (
-                      <div className="bg-green-500 text-white px-3 py-1 rounded-full text-xs font-bold shadow-lg">
-                        AVAILABLE NOW
+                    {step.status === 'begin-here' ? (
+                      <div className="bg-rose-pink text-white px-3 py-1 rounded-full text-xs font-bold shadow-lg">
+                        🌹 BEGIN HERE
+                      </div>
+                    ) : step.status === 'sovereignty' ? (
+                      <div className="bg-golden-light text-white px-3 py-1 rounded-full text-xs font-bold shadow-lg">
+                        👑 SOVEREIGNTY
                       </div>
                     ) : (
                       <div className="bg-gray-400 text-white px-3 py-1 rounded-full text-xs font-bold shadow-lg flex items-center">
                         <Lock className="h-3 w-3 mr-1" />
-                        COMING SOON
+                        UNLOCKS NEXT
                       </div>
                     )}
                   </div>
@@ -139,17 +119,34 @@ const JourneyProgression = () => {
                     
                     {/* Price & Duration */}
                     <div className="text-center mb-4">
-                      <div className="text-2xl font-bold text-gradient-gold mb-1">
-                        {step.price}
+                      <div className="flex items-center justify-center gap-3 mb-2">
+                        <div className="text-3xl font-bold text-gradient-gold">
+                          {step.price}
+                        </div>
+                        {step.originalPrice && (
+                          <div className="text-center">
+                            <div className="text-lg text-gray-400 line-through">
+                              {step.originalPrice}
+                            </div>
+                            <div className="text-xs font-bold text-rose-pink bg-rose-pink/10 px-2 py-1 rounded-full">
+                              75% OFF
+                            </div>
+                          </div>
+                        )}
                       </div>
                       <div className="text-xs text-gray-500">
                         {step.duration}
                       </div>
+                      {step.originalPrice && (
+                        <div className="text-xs text-rose-pink font-medium mt-1">
+                          Sacred Gift
+                        </div>
+                      )}
                     </div>
                   </div>
 
                   {/* Practices */}
-                  <div className="mb-6">
+                  <div className="mb-6 flex-grow">
                     <h4 className="text-xs font-medium text-gray-800 mb-2 text-center">
                       Key Practices:
                     </h4>
@@ -166,18 +163,22 @@ const JourneyProgression = () => {
                   {/* CTA Button */}
                   <button
                     onClick={() => {
-                      if (step.status === 'available') {
+                      if (step.status === 'begin-here') {
                         router.push('/courses/rose-meditation-1/dashboard')
                       }
                     }}
-                    disabled={step.status !== 'available'}
+                    disabled={step.status === 'unlocks-next'}
                     className={`w-full py-3 px-4 rounded-full text-sm font-medium transition-all duration-300 ${
-                      step.status === 'available'
+                      step.status === 'begin-here'
                         ? `bg-gradient-to-r ${step.color} text-white hover:shadow-lg hover:scale-105`
+                        : step.status === 'sovereignty'
+                        ? 'bg-gradient-to-r from-golden-light to-earth-copper text-white hover:shadow-lg hover:scale-105'
                         : 'bg-gray-200 text-gray-500 cursor-not-allowed'
                     }`}
                   >
-                    {step.status === 'available' ? 'Start Now' : 'Coming Soon'}
+                    {step.status === 'begin-here' ? 'Begin Sacred Practice' : 
+                     step.status === 'sovereignty' ? 'Are You Ready?' :
+                     'Complete Previous Level'}
                   </button>
                 </div>
 
@@ -194,33 +195,83 @@ const JourneyProgression = () => {
           </div>
         </div>
 
-        {/* Bottom CTA */}
+        {/* Sovereignty CTA - Full Width Under 3 Courses */}
         <motion.div
-          className="text-center mt-16"
+          className="mt-12"
           initial={{ opacity: 0, y: 30 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <div className="card-sacred max-w-2xl mx-auto bg-gradient-to-br from-rose-pink/10 to-deep-rose/10 border-2 border-rose-pink/20">
-            <div className="flex justify-center mb-4">
-              <div className="w-12 h-12 bg-gradient-rose rounded-full flex items-center justify-center shadow-lg">
-                <span className="text-xl">🚀</span>
+          <div className="max-w-4xl mx-auto">
+            <div className="card-sacred relative overflow-hidden bg-gradient-to-br from-golden-light/10 to-earth-copper/10 border-2 border-golden-light/30 shadow-2xl">
+              {/* Sovereignty Badge */}
+              <div className="absolute -top-2 left-1/2 transform -translate-x-1/2 z-20">
+                <div className="bg-gradient-to-r from-golden-light to-earth-copper text-white px-6 py-2 rounded-full text-sm font-bold shadow-lg flex items-center">
+                  <span className="text-lg mr-2">👑</span>
+                  SOVEREIGNTY
+                </div>
+              </div>
+
+              {/* Content Layout */}
+              <div className="pt-6 text-center">
+                {/* Icon & Title */}
+                <div className="flex items-center justify-center gap-4 mb-6">
+                  <div className="w-16 h-16 bg-gradient-to-br from-deep-rose to-rose-pink rounded-full flex items-center justify-center shadow-xl">
+                    <span className="text-2xl">👑✨</span>
+                  </div>
+                  <div className="w-10 h-10 bg-gradient-to-br from-deep-rose to-rose-pink rounded-full flex items-center justify-center text-white font-bold">
+                    4
+                  </div>
+                </div>
+
+                {/* Main Message */}
+                <h3 className="text-3xl lg:text-4xl font-serif font-bold text-gray-800 mb-4">
+                  This Is What Awaits You
+                </h3>
+                <p className="text-rose-pink font-medium text-xl mb-6">
+                  The Result of Your Rose Meditation Journey
+                </p>
+                
+                {/* What You Gain Message */}
+                <div className="max-w-3xl mx-auto mb-8">
+                  <p className="text-xl text-gray-700 leading-relaxed mb-6">
+                    When you complete the Rose Meditation path, you don't just learn techniques—you 
+                    <span className="text-gradient-gold font-semibold"> reclaim your spiritual sovereignty</span>.
+                  </p>
+                  <p className="text-lg text-gray-600 leading-relaxed mb-6">
+                    You gain complete self-mastery, divine remembrance, sacred leadership abilities, and most importantly—
+                    you become a <span className="font-semibold text-gray-800">sovereign being</span> who trusts their inner wisdom above all else.
+                  </p>
+                  <p className="text-lg text-rose-pink font-medium mb-6">
+                    But it all begins with one sacred step: Rose Meditation Level 1.
+                  </p>
+                  <div className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-rose-pink/10 to-deep-rose/10 rounded-full border border-rose-pink/30">
+                    <span className="text-3xl mr-4">🌹</span>
+                    <div className="flex items-center gap-4">
+                      <span className="text-xl font-medium text-gray-700">Sacred Gift:</span>
+                      <span className="text-3xl font-bold text-gradient-gold">$49</span>
+                      <span className="text-xl text-gray-400 line-through">$197</span>
+                      <span className="text-sm font-bold text-rose-pink bg-rose-pink/20 px-3 py-1 rounded-full">75% OFF</span>
+                    </div>
+                  </div>
+                  <p className="text-gray-600 mt-2">4 Weeks to Transform Your Life</p>
+                </div>
+
+                {/* CTA Button - Standalone */}
+                <div className="pt-4">
+                  <button 
+                    onClick={() => router.push('/courses/rose-meditation-1/dashboard')}
+                    className="bg-gradient-to-r from-rose-pink to-deep-rose text-white py-6 px-12 rounded-full text-2xl font-bold transition-all duration-300 hover:shadow-2xl hover:scale-105 shadow-xl"
+                  >
+                    🌹 Begin Your Journey
+                  </button>
+                  <p className="text-sm text-gray-500 mt-4 italic">
+                    "Every sovereign being started with Rose Meditation Level 1"
+                  </p>
+                </div>
               </div>
             </div>
-            <h3 className="text-2xl font-serif font-semibold text-gray-800 mb-4">
-              Ready to Begin Your Transformation?
-            </h3>
-            <p className="text-gray-600 mb-6 leading-relaxed">
-              Every master started as a beginner. Your journey to becoming an Aura Reader 
-              begins with a single step - Rose Meditation Level 1.
-            </p>
-            <button 
-              onClick={() => router.push('/courses/rose-meditation-1/dashboard')}
-              className="btn-primary text-lg px-8 py-3 shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
-            >
-              🌹 Start Your Journey - Level 1
-            </button>
           </div>
         </motion.div>
       </div>

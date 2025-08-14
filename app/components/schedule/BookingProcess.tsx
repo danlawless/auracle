@@ -171,63 +171,8 @@ const BookingProcess = () => {
           </div>
         </motion.div>
 
-        {/* Bottom CTA */}
-        <motion.div
-          className="text-center mt-16"
-          initial={{ opacity: 0, y: 30 }}
-          whileInView={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-          viewport={{ once: true }}
-        >
-          <div className="card-sacred max-w-2xl mx-auto">
-            <div className="flex justify-center mb-6">
-              <div className="w-16 h-16 bg-gradient-rose rounded-full flex items-center justify-center">
-                <span className="text-2xl">✨</span>
-              </div>
-            </div>
-            <h3 className="text-2xl font-serif font-semibold text-gray-800 mb-4">
-              Ready to Begin Your Sacred Session?
-            </h3>
-            <p className="text-gray-600 mb-6 leading-relaxed">
-              "Visualize your grounding cord now. Feel your presence deepen." 
-              Your transformative journey with Jae is just a few clicks away.
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <a href="/book" className="btn-primary text-lg px-12 py-4 inline-block text-center">
-                Schedule Your Session
-              </a>
-              <a href="/essence" className="btn-secondary text-lg px-12 py-4 inline-block text-center">
-                Learn More About Our Essence
-              </a>
-            </div>
-          </div>
-        </motion.div>
-
-        {/* Trust Indicators */}
-        <motion.div
-          className="flex justify-center items-center space-x-8 text-gray-600 text-sm mt-12"
-          initial={{ opacity: 0 }}
-          whileInView={{ opacity: 1 }}
-          transition={{ duration: 0.8 }}
-          viewport={{ once: true }}
-        >
-          <div className="flex items-center">
-            <span className="text-xl mr-2">🔒</span>
-            <span>Secure Payments</span>
-          </div>
-          <div className="flex items-center">
-            <span className="text-xl mr-2">💯</span>
-            <span>Satisfaction Guaranteed</span>
-          </div>
-          <div className="flex items-center">
-            <span className="text-xl mr-2">🎥</span>
-            <span>HD Video Quality</span>
-          </div>
-          <div className="flex items-center">
-            <span className="text-xl mr-2">🤝</span>
-            <span>100% Confidential</span>
-          </div>
-        </motion.div>
+        
+      
       </div>
     </section>
   )

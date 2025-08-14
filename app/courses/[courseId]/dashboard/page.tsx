@@ -2,6 +2,7 @@
 
 import { useParams } from 'next/navigation'
 import CourseDashboard from '../../../components/courses/CourseDashboard'
+import CourseProtection from '../../../components/course/CourseProtection'
 import { roseMeditationLessons } from '../../../../data/sample-lessons'
 
 // Mock course data - this would come from your API/database
@@ -74,10 +75,17 @@ export default function CourseDashboardPage() {
   }
   
   return (
-    <CourseDashboard 
-      course={mockCourse}
-      lessons={roseMeditationLessons}
-    />
+    <CourseProtection
+      courseId={courseId}
+      courseTitle="Rose Meditation Level 1"
+      coursePrice="$49"
+      originalPrice="$197"
+    >
+      <CourseDashboard 
+        course={mockCourse}
+        lessons={roseMeditationLessons}
+      />
+    </CourseProtection>
   )
 }
 

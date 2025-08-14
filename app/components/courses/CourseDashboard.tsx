@@ -395,23 +395,25 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                 </div>
               </div>
             ) : (
-              <div className="card-sacred border-2 border-rose-pink/20 bg-rose-pink/5">
-                <h3 className="text-lg font-serif font-semibold text-gray-800 mb-4">
-                  Continue Your Journey
-                </h3>
-                <p className="text-sm text-gray-600 mb-4">
-                  Pick up where you left off and maintain your spiritual practice momentum.
-                </p>
-                <button 
-                  onClick={() => {
-                    const currentLesson = lessons.find(l => l.id === courseProgress.currentLesson)
-                    if (currentLesson) startLesson(currentLesson)
-                  }}
-                  className="w-full btn-primary"
-                >
-                  <Play className="h-4 w-4 mr-2" />
-                  Continue Learning
-                </button>
+              <div className="card-sacred border-2 border-rose-pink/20 bg-gradient-to-br from-rose-pink/5 to-deep-rose/5 max-w-2xl mx-auto">
+                <div className="text-center">
+                  <h3 className="text-2xl lg:text-3xl font-serif font-semibold text-gray-800 mb-4">
+                    Continue Your Journey
+                  </h3>
+                  <p className="text-lg text-gray-600 mb-8 leading-relaxed max-w-lg mx-auto">
+                    Pick up where you left off and maintain your spiritual practice momentum.
+                  </p>
+                  <button 
+                    onClick={() => {
+                      const currentLesson = lessons.find(l => l.id === courseProgress.currentLesson)
+                      if (currentLesson) startLesson(currentLesson)
+                    }}
+                    className="btn-primary text-lg px-8 py-4 shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
+                  >
+                    <Play className="h-5 w-5 mr-3" />
+                    Continue Learning
+                  </button>
+                </div>
               </div>
             )}
 

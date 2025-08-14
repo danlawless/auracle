@@ -3,11 +3,17 @@
 import React, { useState } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Sparkles, Menu, X } from 'lucide-react'
+import { Sparkles, Menu, X, User, LogOut, BookOpen } from 'lucide-react'
+import { useUser } from '../contexts/UserContext'
+import AuthModal from './auth/AuthModal'
 
 const Header = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
+  const [isAuthModalOpen, setIsAuthModalOpen] = useState(false)
+  const [authMode, setAuthMode] = useState<'login' | 'register'>('login')
+  const [showUserMenu, setShowUserMenu] = useState(false)
   const pathname = usePathname()
+  const { user, logout } = useUser()
 
   const navigation = [
     { name: 'Essence', href: '/' },
@@ -19,6 +25,16 @@ const Header = () => {
       return pathname === '/'
     }
     return pathname?.startsWith(href)
+  }
+
+  const handleAuthSuccess = (userData: any) => {
+    setIsAuthModalOpen(false)
+    // User context will handle the login
+  }
+
+  const openAuthModal = (mode: 'login' | 'register') => {
+    setAuthMode(mode)
+    setIsAuthModalOpen(true)
   }
 
   return (
@@ -60,19 +76,79 @@ const Header = () => {
             ))}
             <Link 
               href="/schedule" 
-              className="btn-primary"
+              className={`group relative px-3 py-2 text-base font-medium transition-colors duration-200 ${
+                isActive('/schedule')
+                  ? 'text-deep-rose'
+                  : 'text-gray-700 hover:text-deep-rose'
+              }`}
             >
               Sessions
+              <span 
+                className={`absolute -bottom-1 left-0 h-0.5 bg-gradient-rose transition-all duration-300 ${
+                  isActive('/schedule') ? 'w-full' : 'w-0 group-hover:w-full'
+                }`}
+              />
             </Link>
-            {/* Admin Access - Only visible in development */}
-            {process.env.NODE_ENV === 'development' && (
-              <Link 
-                href="/admin" 
-                className="text-xs px-3 py-1 bg-rose-100 text-rose-700 rounded-full hover:bg-rose-200 transition-colors"
-              >
-                Admin
-              </Link>
+
+            {/* User Authentication */}
+            {user ? (
+              <div className="relative">
+                <button
+                  onClick={() => setShowUserMenu(!showUserMenu)}
+                  className="flex items-center space-x-2 text-gray-700 hover:text-deep-rose transition-colors duration-200"
+                >
+                  <div className="w-8 h-8 bg-gradient-to-br from-rose-pink to-deep-rose rounded-full flex items-center justify-center text-white text-sm font-semibold">
+                    {user.name.charAt(0).toUpperCase()}
+                  </div>
+                  <span className="hidden lg:block font-medium">
+                    {user.name.split(' ')[0]}
+                  </span>
+                </button>
+
+                {/* User Menu Dropdown */}
+                {showUserMenu && (
+                  <div className="absolute right-0 mt-2 w-48 bg-white rounded-lg shadow-lg border border-gray-200 py-2 z-[60]">
+                    <Link
+                      href="/library"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                      onClick={() => setShowUserMenu(false)}
+                    >
+                      <BookOpen className="h-4 w-4 mr-2" />
+                      My Library
+                    </Link>
+                    <Link
+                      href="/profile"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                      onClick={() => setShowUserMenu(false)}
+                    >
+                      <User className="h-4 w-4 mr-2" />
+                      Profile
+                    </Link>
+                    <hr className="my-2" />
+                    <button
+                      onClick={() => {
+                        logout()
+                        setShowUserMenu(false)
+                      }}
+                      className="flex items-center w-full px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <LogOut className="h-4 w-4 mr-2" />
+                      Sign Out
+                    </button>
+                  </div>
+                )}
+              </div>
+            ) : (
+              <div className="flex items-center space-x-3">
+                <button
+                  onClick={() => openAuthModal('login')}
+                  className="btn-secondary"
+                >
+                  Login
+                </button>
+              </div>
             )}
+
           </div>
 
           {/* Mobile menu button */}
@@ -112,26 +188,27 @@ const Header = () => {
               <Link
                 href="/schedule"
                 onClick={() => setIsMobileMenuOpen(false)}
-                className="block px-3 py-2 mt-4"
+                className={`block px-3 py-2 text-base font-medium transition-colors duration-200 ${
+                  isActive('/schedule')
+                    ? 'text-deep-rose bg-rose-50'
+                    : 'text-gray-700 hover:text-deep-rose hover:bg-rose-50/50'
+                }`}
               >
-                <span className="btn-primary inline-block w-full text-center">
-                  Sessions
-                </span>
+                Sessions
               </Link>
-              {/* Admin Access - Only visible in development */}
-              {process.env.NODE_ENV === 'development' && (
-                <Link
-                  href="/admin"
-                  onClick={() => setIsMobileMenuOpen(false)}
-                  className="block px-3 py-2 mt-2 text-center text-xs bg-rose-100 text-rose-700 rounded-full mx-3"
-                >
-                  Admin Panel
-                </Link>
-              )}
+
             </div>
           </div>
         )}
       </nav>
+
+      {/* Auth Modal */}
+      <AuthModal
+        isOpen={isAuthModalOpen}
+        onClose={() => setIsAuthModalOpen(false)}
+        initialMode={authMode}
+        onAuthSuccess={handleAuthSuccess}
+      />
     </header>
   )
 }

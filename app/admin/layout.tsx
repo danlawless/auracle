@@ -61,12 +61,12 @@ export default function AdminLayout({
         )}
       </AnimatePresence>
 
-      {/* Sidebar */}
+      {/* Sidebar - Hidden on desktop */}
       <motion.div
         initial={false}
         animate={{ x: sidebarOpen ? 0 : '-100%' }}
         transition={{ duration: 0.3, ease: 'easeInOut' }}
-        className="fixed inset-y-0 left-0 z-50 w-72 bg-white/95 backdrop-blur-xl shadow-2xl lg:translate-x-0 lg:static lg:inset-0"
+        className="fixed inset-y-0 left-0 z-50 w-72 bg-white/95 backdrop-blur-xl shadow-2xl lg:hidden"
       >
         <div className="flex h-full flex-col">
           {/* Header */}
@@ -138,7 +138,7 @@ export default function AdminLayout({
       </motion.div>
 
       {/* Main content */}
-      <div className="lg:pl-72">
+      <div className="min-h-screen">
         {/* Mobile header */}
         <div className="sticky top-0 z-10 bg-white/80 backdrop-blur-xl border-b border-gray-200 px-4 py-4 lg:hidden">
           <div className="flex items-center justify-between">
@@ -156,8 +156,59 @@ export default function AdminLayout({
           </div>
         </div>
 
+        {/* Desktop header */}
+        <div className="hidden lg:block sticky top-0 z-10 bg-white/90 backdrop-blur-xl border-b border-gray-200">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="flex items-center justify-between h-16">
+              <div className="flex items-center space-x-3">
+                <div className="w-8 h-8 bg-gradient-to-br from-rose-pink to-deep-rose rounded-full flex items-center justify-center">
+                  <span className="text-white text-lg">🌹</span>
+                </div>
+                <div>
+                  <h1 className="font-serif font-bold text-gray-900">The Auracle</h1>
+                  <p className="text-xs text-gray-500">Sacred Management</p>
+                </div>
+              </div>
+              
+              {/* Desktop Navigation */}
+              <div className="flex items-center space-x-6">
+                {navigation.slice(0, 6).map((item) => {
+                  const isActive = pathname === item.href || (item.href !== '/admin' && pathname?.startsWith(item.href))
+                  return (
+                    <Link
+                      key={item.name}
+                      href={item.href}
+                      className={`flex items-center px-3 py-2 rounded-lg text-sm font-medium transition-all duration-200 ${
+                        isActive
+                          ? 'bg-gradient-to-r from-rose-50 to-golden-50 text-gray-900'
+                          : 'text-gray-600 hover:text-gray-900 hover:bg-gray-50'
+                      }`}
+                    >
+                      <div className={`p-1.5 rounded-md mr-2 bg-gradient-to-br ${colorClasses[item.color]} text-white`}>
+                        <item.icon className="h-3 w-3" />
+                      </div>
+                      {item.name}
+                    </Link>
+                  )
+                })}
+              </div>
+
+              {/* User menu */}
+              <div className="flex items-center space-x-3">
+                <div className="w-8 h-8 bg-gradient-to-br from-golden-light to-earth-copper rounded-full flex items-center justify-center">
+                  <User className="h-4 w-4 text-white" />
+                </div>
+                <div className="text-right">
+                  <p className="text-sm font-medium text-gray-900">Jae</p>
+                  <p className="text-xs text-gray-500">Admin</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         {/* Page content */}
-        <main className="min-h-screen">
+        <main>
           {children}
         </main>
       </div>

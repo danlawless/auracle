@@ -11,174 +11,130 @@ const CourseCatalog = () => {
     {
       id: 'rose-meditation-1',
       title: 'Rose Meditation Level 1',
-      subtitle: 'Foundation of Sacred Practice',
-      description: 'Begin your journey with the fundamental practices of Rose Meditation, learning to connect with your inner sanctuary through guided visualizations.',
+      subtitle: 'Mini Course - Your Gateway to Sacred Practice',
+      description: 'Begin your transformative journey with the foundational practices that will unlock your spiritual potential and set you on the path to becoming an Aura Reader.',
       image: '🌹',
       price: 197,
       originalPrice: 297,
       duration: '4 weeks',
-      lessons: 12,
-      students: 847,
+      lessons: 10,
+      students: 2847,
       rating: 4.9,
-      level: 'Beginner',
+      level: 'Start Here',
       includes: [
-        '12 HD video lessons',
+        '10 HD video lessons',
         'Guided meditation audios',
         'Sacred practice journal',
-        'Weekly group calls',
+        'AI-powered learning assistant',
         'Lifetime access'
       ],
       highlights: [
         'Golden Sun Visualization',
-        'Grounding Cord Technique',
+        'Grounding Cord Mastery',
         'Pink Rose Heart Opening',
-        'Energy Boundary Setting'
+        'Aura Boundary Setting'
       ],
-      category: 'Foundation'
+      category: 'Journey Step 1',
+      isAvailable: true,
+      isPopular: true,
+      journeyStep: 1
     },
     {
-      id: 'aura-reading-fundamentals',
-      title: 'Aura Reading Fundamentals',
-      subtitle: 'Awaken Your Intuitive Sight',
-      description: 'Develop your natural ability to see and interpret auras, understanding the language of energy that surrounds every living being.',
-      image: '👁️',
+      id: 'rose-meditation-2',
+      title: 'Rose Meditation Level 2',
+      subtitle: 'Deepen Your Sacred Practice',
+      description: 'Expand your abilities with advanced Rose Meditation techniques and deeper spiritual connections. Build upon Level 1 foundations.',
+      image: '🌹✨',
       price: 397,
       originalPrice: 497,
       duration: '6 weeks',
-      lessons: 18,
-      students: 523,
-      rating: 4.8,
-      level: 'Intermediate',
-      includes: [
-        '18 comprehensive lessons',
-        'Practice partner sessions',
-        'Aura color guide',
-        'Energy mapping tools',
-        'Personal feedback'
-      ],
-      highlights: [
-        'Aura Layer Recognition',
-        'Color Interpretation',
-        'Energy Field Mapping',
-        'Protective Techniques'
-      ],
-      category: 'Development'
-    },
-    {
-      id: 'energy-hygiene-mastery',
-      title: 'Energy Hygiene Mastery',
-      subtitle: 'Cleansing, Recovery & Protection',
-      description: 'Master the essential practices of energetic self-care, learning to cleanse, protect, and maintain your energetic field.',
-      image: '✨',
-      price: 297,
-      originalPrice: 397,
-      duration: '5 weeks',
       lessons: 15,
-      students: 692,
-      rating: 4.9,
-      level: 'All Levels',
-      includes: [
-        '15 practical lessons',
-        'Daily practice routines',
-        'Protection rituals',
-        'Cleansing ceremonies',
-        'Emergency protocols'
-      ],
-      highlights: [
-        'Daily Cleansing Rituals',
-        'Psychic Protection',
-        'Energy Recovery',
-        'Space Clearing'
-      ],
-      category: 'Essential'
-    },
-    {
-      id: 'sacred-visualization',
-      title: 'Sacred Visualization Mastery',
-      subtitle: 'Golden Sun & Pink Rose Practices',
-      description: 'Deepen your visualization skills with advanced techniques using the sacred symbols of the Golden Sun and Pink Rose.',
-      image: '☀️',
-      price: 347,
-      originalPrice: 447,
-      duration: '6 weeks',
-      lessons: 16,
-      students: 389,
-      rating: 4.8,
+      students: 0,
+      rating: 0,
       level: 'Intermediate',
       includes: [
-        '16 visualization sessions',
-        'Advanced techniques',
-        'Sacred geometry',
-        'Manifestation practices',
-        'Personal attunement'
+        '15 advanced video lessons',
+        'Master-level meditations',
+        'Advanced practice guide',
+        'Group healing sessions',
+        'Lifetime access'
       ],
       highlights: [
-        'Golden Sun Mastery',
-        'Rose Heart Activation',
-        'Sacred Geometry',
-        'Manifestation Alchemy'
+        'Advanced Four Roses',
+        'Energy Transmutation',
+        'Chakra Rose Work',
+        'Sacred Healing Techniques'
       ],
-      category: 'Advanced'
+      category: 'Journey Step 2',
+      isAvailable: false,
+      isPopular: false,
+      journeyStep: 2
     },
     {
-      id: 'spiritual-boundaries',
-      title: 'Spiritual Boundaries & Four Roses',
-      subtitle: 'Sacred Protection & Observation',
-      description: 'Learn the profound practice of the Four Roses technique for creating sacred boundaries and maintaining spiritual sovereignty.',
-      image: '🛡️',
-      price: 447,
-      originalPrice: 547,
+      id: 'rose-meditation-3',
+      title: 'Rose Meditation Level 3',
+      subtitle: 'Master Level Sacred Practice',
+      description: 'Master the highest levels of Rose Meditation and prepare for professional energy work. Complete your foundation training.',
+      image: '🌹👑',
+      price: 597,
+      originalPrice: 797,
       duration: '8 weeks',
       lessons: 20,
-      students: 267,
-      rating: 5.0,
+      students: 0,
+      rating: 0,
       level: 'Advanced',
       includes: [
-        '20 intensive lessons',
-        'Four Roses mastery',
-        'Boundary protocols',
-        'Advanced protection',
-        'Mentorship calls'
+        '20 master-level lessons',
+        'Professional techniques',
+        'Certification preparation',
+        'Mentorship sessions',
+        'Lifetime access'
       ],
       highlights: [
-        'Four Roses Technique',
-        'Energetic Sovereignty',
-        'Advanced Protection',
-        'Sacred Observation'
+        'Master Rose Techniques',
+        'Sacred Geometry Integration',
+        'Advanced Healing Protocols',
+        'Spiritual Mastery'
       ],
-      category: 'Mastery'
+      category: 'Journey Step 3',
+      isAvailable: false,
+      isPopular: false,
+      journeyStep: 3
     },
     {
-      id: 'complete-auracle-certification',
-      title: 'Complete Auracle Certification',
-      subtitle: 'Master Practitioner Training',
-      description: 'The comprehensive certification program covering all aspects of aura reading, Rose Meditation, and sacred healing practices.',
-      image: '🎓',
+      id: 'aura-reader-certification',
+      title: 'Become an Aura Reader',
+      subtitle: 'Professional Certification Program',
+      description: 'Transform your spiritual practice into a professional skill. Complete certification program to guide others and offer professional readings.',
+      image: '👁️✨',
       price: 1297,
       originalPrice: 1797,
       duration: '12 weeks',
       lessons: 48,
-      students: 156,
-      rating: 4.9,
+      students: 0,
+      rating: 0,
       level: 'Professional',
       includes: [
         '48 comprehensive modules',
-        'Live mentorship',
-        'Practice sessions',
+        'Live mentorship calls',
+        'Practice client sessions',
         'Certification exam',
-        'Business guidance'
+        'Business training'
       ],
       highlights: [
-        'Complete Methodology',
-        'Teaching Certification',
-        'Business Training',
-        'Ongoing Support'
+        'Aura Reading Mastery',
+        'Professional Ethics',
+        'Client Session Skills',
+        'Business Development'
       ],
-      category: 'Certification'
+      category: 'Final Destination',
+      isAvailable: false,
+      isPopular: false,
+      journeyStep: 4
     }
   ]
 
-  const categories = ['All', 'Foundation', 'Essential', 'Development', 'Advanced', 'Mastery', 'Certification']
+  const categories = ['All', 'Journey Step 1', 'Journey Step 2', 'Journey Step 3', 'Final Destination']
 
   return (
     <section className="py-20 bg-gradient-sacred">
@@ -192,12 +148,16 @@ const CourseCatalog = () => {
           viewport={{ once: true }}
         >
           <h2 className="text-4xl md:text-5xl font-serif font-bold text-gradient-rose mb-6">
-            Sacred Course Catalog
+            Your Complete Journey to Aura Reading Mastery
           </h2>
-          <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Choose your perfect course and begin transforming your spiritual practice today. 
-            Each course is lovingly crafted to guide you deeper into sacred awareness.
+          <p className="text-xl text-gray-700 max-w-4xl mx-auto leading-relaxed mb-8">
+            Follow the sacred pathway from Rose Meditation Level 1 through professional certification. 
+            Each step builds upon the last, creating a complete transformation.
           </p>
+          <div className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-golden-light to-earth-copper text-white rounded-full text-lg font-medium shadow-lg">
+            <span className="text-xl mr-2">🌟</span>
+            Complete 4-Step Journey: Level 1 → Level 2 → Level 3 → Aura Reader
+          </div>
         </motion.div>
 
         {/* Category Filter */}
@@ -223,12 +183,29 @@ const CourseCatalog = () => {
           {courses.map((course, index) => (
             <motion.div
               key={course.id}
-              className="card-sacred group relative overflow-hidden"
+              className={`card-sacred group relative overflow-hidden ${course.isPopular ? 'ring-2 ring-rose-pink shadow-2xl' : ''} ${!course.isAvailable ? 'opacity-75' : ''}`}
               initial={{ opacity: 0, y: 30 }}
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: index * 0.1 }}
               viewport={{ once: true }}
             >
+              {/* Popular Badge */}
+              {course.isPopular && (
+                <div className="absolute -top-2 -right-2 z-20">
+                  <div className="bg-gradient-to-r from-rose-pink to-deep-rose text-white px-3 py-1 rounded-full text-xs font-bold shadow-lg">
+                    🔥 START HERE
+                  </div>
+                </div>
+              )}
+              
+              {/* Coming Soon Overlay */}
+              {!course.isAvailable && (
+                <div className="absolute inset-0 bg-gray-900/20 backdrop-blur-[1px] z-10 flex items-center justify-center">
+                  <div className="bg-white/95 px-4 py-2 rounded-full text-gray-700 font-medium shadow-lg">
+                    Coming Soon
+                  </div>
+                </div>
+              )}
               {/* Course Header */}
               <div className="flex items-start justify-between mb-6">
                 <div className="flex items-center space-x-4">
@@ -329,6 +306,8 @@ const CourseCatalog = () => {
                 <button 
                   onClick={(e) => {
                     e.preventDefault()
+                    if (!course.isAvailable) return
+                    
                     console.log('Course button clicked:', course.id)
                     try {
                       if (course.id === 'rose-meditation-1') {
@@ -346,34 +325,43 @@ const CourseCatalog = () => {
                         : `/courses/${course.id}`
                     }
                   }}
-                  className="flex-1 btn-primary text-center"
+                  disabled={!course.isAvailable}
+                  className={`flex-1 text-center py-3 px-6 rounded-full font-medium transition-all duration-300 ${
+                    course.isAvailable 
+                      ? 'btn-primary hover:shadow-lg hover:scale-105' 
+                      : 'bg-gray-200 text-gray-500 cursor-not-allowed'
+                  }`}
                 >
-                  {course.id === 'rose-meditation-1' ? 'Start Learning' : 'Coming Soon'}
+                  {course.isAvailable ? (course.isPopular ? '🌹 Start Your Journey' : 'Learn More') : 'Coming Soon'}
                 </button>
-                <button 
-                  onClick={(e) => {
-                    e.preventDefault()
-                    console.log('Play button clicked:', course.id)
-                    try {
-                      if (course.id === 'rose-meditation-1') {
-                        router.push(`/courses/${course.id}/dashboard`)
-                      } else {
-                        router.push(`/courses/${course.id}`)
-                      }
-                    } catch (error) {
-                      console.error('Navigation error:', error)
-                      window.location.href = course.id === 'rose-meditation-1' 
-                        ? `/courses/${course.id}/dashboard` 
-                        : `/courses/${course.id}`
-                    }
-                  }}
-                  className="px-4 py-3 border-2 border-rose-pink text-rose-pink rounded-full hover:bg-rose-pink hover:text-white transition-all duration-300"
-                >
-                  <Play className="h-4 w-4" />
-                </button>
-                <button className="px-4 py-3 border-2 border-golden-light text-earth-copper rounded-full hover:bg-golden-light hover:text-white transition-all duration-300">
-                  <Download className="h-4 w-4" />
-                </button>
+                
+                {course.isAvailable && (
+                  <>
+                    <button 
+                      onClick={(e) => {
+                        e.preventDefault()
+                        try {
+                          if (course.id === 'rose-meditation-1') {
+                            router.push(`/courses/${course.id}/dashboard`)
+                          } else {
+                            router.push(`/courses/${course.id}`)
+                          }
+                        } catch (error) {
+                          console.error('Navigation error:', error)
+                          window.location.href = course.id === 'rose-meditation-1' 
+                            ? `/courses/${course.id}/dashboard` 
+                            : `/courses/${course.id}`
+                        }
+                      }}
+                      className="px-4 py-3 border-2 border-rose-pink text-rose-pink rounded-full hover:bg-rose-pink hover:text-white transition-all duration-300"
+                    >
+                      <Play className="h-4 w-4" />
+                    </button>
+                    <button className="px-4 py-3 border-2 border-golden-light text-earth-copper rounded-full hover:bg-golden-light hover:text-white transition-all duration-300">
+                      <Download className="h-4 w-4" />
+                    </button>
+                  </>
+                )}
               </div>
             </motion.div>
           ))}
@@ -387,25 +375,64 @@ const CourseCatalog = () => {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <div className="card-sacred max-w-2xl mx-auto">
-            <div className="flex justify-center mb-4">
-              <div className="w-12 h-12 bg-gradient-gold rounded-full flex items-center justify-center">
-                <span className="text-xl">🎁</span>
+          <div className="card-sacred max-w-3xl mx-auto bg-gradient-to-br from-rose-pink/10 to-deep-rose/10 border-2 border-rose-pink/20">
+            <div className="flex justify-center mb-6">
+              <div className="w-16 h-16 bg-gradient-rose rounded-full flex items-center justify-center shadow-lg">
+                <span className="text-2xl">🌹</span>
               </div>
             </div>
-            <h3 className="text-2xl font-serif font-semibold text-gray-800 mb-4">
-              Special Bundle Offers
+            <h3 className="text-3xl font-serif font-semibold text-gray-800 mb-4">
+              Your Journey Starts with Rose Meditation Level 1
             </h3>
-            <p className="text-gray-600 mb-6 leading-relaxed">
-              Save up to 40% when you bundle courses together. Create your perfect learning path 
-              and receive bonus materials, extended support, and exclusive community access.
+            <p className="text-xl text-gray-600 mb-8 leading-relaxed">
+              Join <strong>2,847 students</strong> who started their transformation with our most popular mini-course. 
+              Master the foundational practices that will prepare you for the complete journey to becoming an Aura Reader.
             </p>
+            
+            {/* Journey Steps Preview */}
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-8">
+              <div className="text-center">
+                <div className="w-12 h-12 bg-gradient-to-r from-rose-pink to-deep-rose rounded-full flex items-center justify-center mx-auto mb-2">
+                  <span className="text-white font-bold">1</span>
+                </div>
+                <div className="text-sm font-medium text-gray-800">Level 1</div>
+                <div className="text-xs text-gray-600">Available Now</div>
+              </div>
+              <div className="text-center opacity-60">
+                <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center mx-auto mb-2">
+                  <span className="text-gray-500 font-bold">2</span>
+                </div>
+                <div className="text-sm font-medium text-gray-500">Level 2</div>
+                <div className="text-xs text-gray-400">Coming Soon</div>
+              </div>
+              <div className="text-center opacity-60">
+                <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center mx-auto mb-2">
+                  <span className="text-gray-500 font-bold">3</span>
+                </div>
+                <div className="text-sm font-medium text-gray-500">Level 3</div>
+                <div className="text-xs text-gray-400">Coming Soon</div>
+              </div>
+              <div className="text-center opacity-60">
+                <div className="w-12 h-12 bg-gray-200 rounded-full flex items-center justify-center mx-auto mb-2">
+                  <span className="text-gray-500 text-lg">👁️</span>
+                </div>
+                <div className="text-sm font-medium text-gray-500">Aura Reader</div>
+                <div className="text-xs text-gray-400">Final Goal</div>
+              </div>
+            </div>
+
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <button className="btn-primary">
-                View Bundle Deals
+              <button 
+                onClick={() => router.push('/courses/rose-meditation-1/dashboard')}
+                className="btn-primary text-lg px-8 py-4 shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
+              >
+                🌹 Start Level 1 - Only $197
               </button>
-              <button className="btn-secondary">
-                Get Free Course Preview
+              <button 
+                onClick={() => router.push('/courses/rose-meditation-1')}
+                className="btn-secondary text-lg px-8 py-4"
+              >
+                Learn More About Level 1
               </button>
             </div>
           </div>

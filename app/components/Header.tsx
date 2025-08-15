@@ -18,6 +18,7 @@ const Header = () => {
   const navigation = [
     { name: 'Essence', href: '/' },
     { name: 'Courses', href: '/courses' },
+    { name: 'Sessions', href: '/schedule' },
   ]
 
   const isActive = (href: string) => {
@@ -74,21 +75,6 @@ const Header = () => {
                 />
               </Link>
             ))}
-            <Link 
-              href="/schedule" 
-              className={`group relative px-3 py-2 text-base font-medium transition-colors duration-200 ${
-                isActive('/schedule')
-                  ? 'text-deep-rose'
-                  : 'text-gray-700 hover:text-deep-rose'
-              }`}
-            >
-              Sessions
-              <span 
-                className={`absolute -bottom-1 left-0 h-0.5 bg-gradient-rose transition-all duration-300 ${
-                  isActive('/schedule') ? 'w-full' : 'w-0 group-hover:w-full'
-                }`}
-              />
-            </Link>
 
             {/* User Authentication */}
             {user ? (
@@ -185,17 +171,6 @@ const Header = () => {
                   {item.name}
                 </Link>
               ))}
-              <Link
-                href="/schedule"
-                onClick={() => setIsMobileMenuOpen(false)}
-                className={`block px-3 py-2 text-base font-medium transition-colors duration-200 ${
-                  isActive('/schedule')
-                    ? 'text-deep-rose bg-rose-50'
-                    : 'text-gray-700 hover:text-deep-rose hover:bg-rose-50/50'
-                }`}
-              >
-                Sessions
-              </Link>
 
             </div>
           </div>

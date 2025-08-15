@@ -47,15 +47,48 @@ const AdminModal = ({ isOpen, onClose }: AdminModalProps) => {
     onClose()
   }
 
+  // Scroll to bottom when modal opens
+  useEffect(() => {
+    if (isOpen) {
+      // Scroll to bottom to show the modal
+      setTimeout(() => {
+        window.scrollTo({
+          top: document.documentElement.scrollHeight,
+          behavior: 'smooth'
+        })
+      }, 100)
+    }
+  }, [isOpen])
+
   if (!isOpen) return null
 
   return (
-    <div className="fixed top-0 left-0 right-0 bottom-0 z-[100] flex items-center justify-center p-4" style={{ minHeight: '100vh' }}>
+    <div 
+      className="fixed inset-0 z-[9999] flex items-end justify-center p-4 pb-8"
+      style={{
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        right: 0,
+        bottom: 0,
+        display: 'flex',
+        alignItems: 'flex-end',
+        justifyContent: 'center',
+      }}
+    >
       {/* Backdrop */}
-      <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" onClick={handleClose} />
+      <div className="fixed inset-0 bg-black/50 backdrop-blur-sm" onClick={handleClose} />
       
       {/* Modal */}
-      <div className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md max-h-[80vh] overflow-y-auto p-8" onClick={(e) => e.stopPropagation()} style={{ margin: 'auto' }}>
+      <div 
+        className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md p-8"
+        style={{
+          maxHeight: '80vh',
+          overflowY: 'auto',
+          marginBottom: '2rem',
+        }}
+        onClick={(e) => e.stopPropagation()}
+      >
           {/* Close Button */}
           <button
             onClick={handleClose}

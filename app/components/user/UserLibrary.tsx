@@ -13,7 +13,8 @@ import {
   Calendar,
   Award,
   Sparkles,
-  ArrowRight
+  ArrowRight,
+  Video
 } from 'lucide-react'
 import { useUser } from '../../contexts/UserContext'
 

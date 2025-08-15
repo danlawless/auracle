@@ -17,7 +17,7 @@ const AdminModal = ({ isOpen, onClose }: AdminModalProps) => {
   const router = useRouter()
 
   // Simple password - in production, you'd want more security
-  const ADMIN_PASSWORD = 'auracle2024'
+  const ADMIN_PASSWORD = '1234'
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
@@ -47,45 +47,37 @@ const AdminModal = ({ isOpen, onClose }: AdminModalProps) => {
     onClose()
   }
 
-  // Scroll to bottom when modal opens
+  // Simple body scroll lock
   useEffect(() => {
     if (isOpen) {
-      // Scroll to bottom to show the modal
-      setTimeout(() => {
-        window.scrollTo({
-          top: document.documentElement.scrollHeight,
-          behavior: 'smooth'
-        })
-      }, 100)
+      document.body.style.overflow = 'hidden'
+    } else {
+      document.body.style.overflow = 'unset'
+    }
+
+    return () => {
+      document.body.style.overflow = 'unset'
     }
   }, [isOpen])
 
   if (!isOpen) return null
 
   return (
-    <div 
-      className="fixed inset-0 z-[9999] flex items-end justify-center p-4 pb-8"
-      style={{
-        position: 'fixed',
-        top: 0,
-        left: 0,
-        right: 0,
-        bottom: 0,
-        display: 'flex',
-        alignItems: 'flex-end',
-        justifyContent: 'center',
-      }}
-    >
+    <div className="fixed inset-0 z-[9999] flex items-end justify-center p-4">
       {/* Backdrop */}
-      <div className="fixed inset-0 bg-black/50 backdrop-blur-sm" onClick={handleClose} />
+      <div 
+        className="absolute inset-0 bg-black/50 backdrop-blur-sm cursor-pointer" 
+        onClick={handleClose}
+        style={{ zIndex: -1 }}
+      />
       
       {/* Modal */}
       <div 
-        className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md p-8"
+        className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md p-8 mb-8"
         style={{
           maxHeight: '80vh',
           overflowY: 'auto',
-          marginBottom: '2rem',
+          zIndex: 1,
         }}
         onClick={(e) => e.stopPropagation()}
       >
@@ -122,7 +114,7 @@ const AdminModal = ({ isOpen, onClose }: AdminModalProps) => {
                   type={showPassword ? 'text' : 'password'}
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
-                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-rose-pink focus:border-transparent transition-all duration-200"
+                  className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-rose-pink focus:border-transparent transition-all duration-200 text-gray-900 bg-white"
                   placeholder="Enter admin password"
                   required
                   disabled={isLoading}

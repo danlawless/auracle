@@ -7,39 +7,44 @@ import { BookOpen, Users, Calendar, Headphones } from 'lucide-react'
 const ServicesSection = () => {
   const services = [
     {
+      icon: Calendar,
+      title: 'Personal Aura Readings',
+      description: 'Connect with your divine guides and receive profound spiritual insights in one-on-one sessions with Jennifer',
+      features: ['30, 60, or 90-minute sessions', 'Spirit connection & messages', 'Past life insights', 'Energy & chakra healing'],
+      pricing: 'Starting at $150',
+      cta: 'Book Your Reading',
+      href: '/schedule',
+      gradient: 'from-golden-light to-earth-copper',
+      highlight: 'Most Popular'
+    },
+    {
       icon: BookOpen,
-      title: 'Rose Meditation Courses',
-      description: 'Journey through Level 1 and beyond with comprehensive guided practices',
-      features: ['Self-paced learning', 'Video & audio guides', 'Sacred texts & PDFs', 'Community support'],
-      cta: 'Explore Courses',
+      title: 'Rose Meditation Journey',
+      description: 'Master the sacred art of Rose Meditation through our progressive 3-level course system',
+      features: ['Level 1, 2, 3 progression', 'AI-guided learning', 'Interactive lessons', 'Achievement system'],
+      pricing: 'Self-paced learning',
+      cta: 'Start Your Journey',
       href: '/courses',
       gradient: 'from-rose-pink to-deep-rose'
     },
     {
-      icon: Calendar,
-      title: 'Personal Aura Readings',
-      description: 'One-on-one sessions with Jae, the master Auracle reader',
-      features: ['60-minute sessions', 'Personalized insights', 'Energy assessment', 'Guidance & clarity'],
-      cta: 'Book Reading',
-      href: '/schedule',
-      gradient: 'from-golden-light to-earth-copper'
-    },
-    {
       icon: Headphones,
-      title: 'Guided Meditations',
-      description: 'Sacred audio experiences for daily practice and spiritual growth',
-      features: ['Golden Sun visualizations', 'Pink Rose meditations', 'Energy cleansing', 'Grounding practices'],
-      cta: 'Listen Now',
-      href: '/courses',
+      title: 'Sacred Audio Library',
+      description: 'Immerse yourself in guided meditations, Golden Sun visualizations, and energy cleansing practices',
+      features: ['Pink Rose meditations', 'Golden Sun practices', 'Grounding cord techniques', 'Chakra balancing'],
+      pricing: 'Included with courses',
+      cta: 'Explore Library',
+      href: '/library',
       gradient: 'from-soft-ivory to-rose-pink'
     },
     {
       icon: Users,
-      title: 'Sacred Community',
-      description: 'Join our circle of practitioners for support and shared wisdom',
-      features: ['Monthly gatherings', 'Peer support', 'Advanced workshops', 'Sacred discussions'],
-      cta: 'Join Circle',
-      href: '/community',
+      title: 'Integration Sessions',
+      description: 'Deepen your understanding with follow-up sessions to integrate your reading insights into daily life',
+      features: ['30, 60, or 90-minute sessions', 'Personalized guidance', 'Practical application', 'Ongoing support'],
+      pricing: 'Same session rates',
+      cta: 'Book Integration',
+      href: '/schedule',
       gradient: 'from-earth-copper to-golden-light'
     }
   ]
@@ -75,6 +80,15 @@ const ServicesSection = () => {
               transition={{ duration: 0.8, delay: index * 0.1 }}
               viewport={{ once: true }}
             >
+              {/* Popular Badge */}
+              {service.highlight && (
+                <div className="absolute -top-2 -right-2 z-20">
+                  <div className="bg-gradient-to-r from-rose-pink to-deep-rose text-white px-3 py-1 rounded-full text-xs font-bold shadow-lg">
+                    🌹 {service.highlight}
+                  </div>
+                </div>
+              )}
+
               {/* Background Gradient */}
               <div className={`absolute inset-0 bg-gradient-to-br ${service.gradient} opacity-5 group-hover:opacity-10 transition-opacity duration-300`} />
               
@@ -85,9 +99,16 @@ const ServicesSection = () => {
                     <service.icon className="h-6 w-6" />
                   </div>
                   <div className="flex-1">
-                    <h3 className="text-2xl font-serif font-semibold text-gray-800 mb-2">
-                      {service.title}
-                    </h3>
+                    <div className="flex items-center justify-between mb-2">
+                      <h3 className="text-2xl font-serif font-semibold text-gray-800">
+                        {service.title}
+                      </h3>
+                      {service.pricing && (
+                        <span className="text-sm font-medium text-golden-light bg-golden-light/10 px-2 py-1 rounded-full">
+                          {service.pricing}
+                        </span>
+                      )}
+                    </div>
                     <p className="text-gray-600 leading-relaxed">
                       {service.description}
                     </p>
@@ -96,10 +117,10 @@ const ServicesSection = () => {
 
                 {/* Features */}
                 <div className="mb-6">
-                  <ul className="grid grid-cols-2 gap-2">
+                  <ul className="grid grid-cols-1 gap-2">
                     {service.features.map((feature, featureIndex) => (
                       <li key={featureIndex} className="flex items-center text-sm text-gray-600">
-                        <span className="w-1.5 h-1.5 bg-rose-pink rounded-full mr-2 flex-shrink-0" />
+                        <span className="w-1.5 h-1.5 bg-rose-pink rounded-full mr-3 flex-shrink-0" />
                         {feature}
                       </li>
                     ))}
@@ -126,25 +147,41 @@ const ServicesSection = () => {
           transition={{ duration: 0.8 }}
           viewport={{ once: true }}
         >
-          <div className="card-sacred max-w-2xl mx-auto">
+          <div className="card-sacred max-w-3xl mx-auto">
             <div className="flex justify-center mb-4">
               <div className="w-12 h-12 bg-gradient-gold rounded-full flex items-center justify-center">
-                <span className="text-xl">✨</span>
+                <span className="text-xl">🌹</span>
               </div>
             </div>
             <h3 className="text-2xl font-serif font-semibold text-gray-800 mb-4">
-              Ready to Begin Your Journey?
+              Ready to Connect with Your Divine Guidance?
             </h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              "Visualize your grounding cord now. Feel your presence deepen."
-              Start with a personal reading or explore our transformative courses.
+              "Visualize your grounding cord now. Feel your presence deepen." Whether you seek immediate spiritual insights through a personal aura reading or wish to master sacred practices through our Rose Meditation journey, your path to self-sovereignty begins here.
             </p>
+            <div className="grid sm:grid-cols-3 gap-4 mb-6">
+              <div className="text-center p-4 bg-golden-light/5 rounded-lg">
+                <div className="text-2xl mb-2">🔮</div>
+                <div className="font-medium text-gray-800">30-Min Reading</div>
+                <div className="text-sm text-gray-600">$150 • Focused guidance</div>
+              </div>
+              <div className="text-center p-4 bg-rose-pink/5 rounded-lg">
+                <div className="text-2xl mb-2">✨</div>
+                <div className="font-medium text-gray-800">60-Min Reading</div>
+                <div className="text-sm text-gray-600">$200 • Deep exploration</div>
+              </div>
+              <div className="text-center p-4 bg-earth-copper/5 rounded-lg">
+                <div className="text-2xl mb-2">🌟</div>
+                <div className="font-medium text-gray-800">90-Min Reading</div>
+                <div className="text-sm text-gray-600">$250 • Complete experience</div>
+              </div>
+            </div>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link href="/schedule" className="btn-primary">
-                Book Your First Reading
+                Book Your Aura Reading
               </Link>
               <Link href="/courses" className="btn-secondary">
-                Browse All Courses
+                Start Rose Meditation
               </Link>
             </div>
           </div>

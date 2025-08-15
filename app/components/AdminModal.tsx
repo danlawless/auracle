@@ -50,12 +50,14 @@ const AdminModal = ({ isOpen, onClose }: AdminModalProps) => {
   if (!isOpen) return null
 
   return (
-    <div className="fixed top-0 left-0 right-0 bottom-0 z-[100] flex items-center justify-center p-4" style={{ minHeight: '100vh' }}>
+    <div className="fixed inset-0 z-[100] overflow-y-auto">
       {/* Backdrop */}
       <div className="absolute inset-0 bg-black/50 backdrop-blur-sm" onClick={handleClose} />
       
-      {/* Modal */}
-      <div className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md max-h-[80vh] overflow-y-auto p-8" onClick={(e) => e.stopPropagation()} style={{ margin: 'auto' }}>
+      {/* Centering container */}
+      <div className="flex min-h-full items-center justify-center p-4">
+        {/* Modal */}
+        <div className="relative bg-white rounded-2xl shadow-2xl w-full max-w-md p-8" onClick={(e) => e.stopPropagation()}>
           {/* Close Button */}
           <button
             onClick={handleClose}

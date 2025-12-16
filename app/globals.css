@@ -202,4 +202,89 @@
   body {
     padding-top: 0;
   }
+
+  /* Book Reader Prose Styles */
+  .prose-reader {
+    @apply text-gray-700 leading-relaxed;
+    font-size: 1.0625rem;
+  }
+
+  .prose-reader h1 {
+    @apply font-serif text-3xl md:text-4xl text-deep-purple mt-12 mb-6;
+  }
+
+  .prose-reader h2 {
+    @apply font-serif text-2xl md:text-3xl text-deep-purple mt-10 mb-4;
+  }
+
+  .prose-reader h3 {
+    @apply font-serif text-xl md:text-2xl text-royal-purple mt-8 mb-3;
+  }
+
+  .prose-reader h4 {
+    @apply font-serif text-lg text-royal-purple mt-6 mb-2;
+  }
+
+  .prose-reader p {
+    @apply mb-5;
+  }
+
+  .prose-reader ul,
+  .prose-reader ol {
+    @apply mb-5 pl-6;
+  }
+
+  .prose-reader ul {
+    @apply list-disc;
+  }
+
+  .prose-reader ol {
+    @apply list-decimal;
+  }
+
+  .prose-reader li {
+    @apply mb-2;
+  }
+
+  .prose-reader li > ul,
+  .prose-reader li > ol {
+    @apply mt-2 mb-0;
+  }
+
+  .prose-reader strong {
+    @apply font-semibold text-gray-800;
+  }
+
+  .prose-reader em {
+    @apply italic text-gray-600;
+  }
+
+  .prose-reader blockquote {
+    @apply border-l-4 border-vibrant-pink/40 pl-5 py-1 my-6 italic text-gray-600 bg-soft-lavender/10 rounded-r-lg;
+  }
+
+  .prose-reader hr {
+    @apply my-10 border-soft-lavender/50;
+  }
+
+  .prose-reader a {
+    @apply text-deep-purple underline decoration-vibrant-pink/30 hover:decoration-vibrant-pink transition-colors;
+  }
+
+  .prose-reader code {
+    @apply bg-soft-lavender/20 text-royal-purple px-1.5 py-0.5 rounded text-sm font-mono;
+  }
+
+  .prose-reader pre {
+    @apply bg-gray-800 text-gray-100 p-4 rounded-lg overflow-x-auto my-6;
+  }
+
+  .prose-reader pre code {
+    @apply bg-transparent text-inherit p-0;
+  }
+
+  /* Special callout boxes for safety resources, tips, etc. */
+  .prose-reader p:has(strong:first-child) {
+    @apply bg-soft-lavender/15 p-4 rounded-lg border-l-4 border-vibrant-pink/50;
+  }
 }

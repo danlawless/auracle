@@ -1,0 +1,31 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+# Validate commit message format
+# Format: [emoji] Imperative verb + description
+# Example: ✨ Add user authentication
+
+commit_msg=$(cat "$1")
+
+# Check if commit message starts with an emoji (optional) and has descriptive text
+if ! echo "$commit_msg" | grep -qE '^(\p{Emoji}|[A-Z])'; then
+  echo "❌ Invalid commit message format!"
+  echo ""
+  echo "Expected format: [emoji] Imperative verb + description"
+  echo "Example: ✨ Add user authentication"
+  echo "Example: 🐛 Fix navigation bug"
+  echo "Example: Add user profile page (emoji optional)"
+  echo ""
+  echo "Your message: $commit_msg"
+  exit 1
+fi
+
+# Check minimum length
+if [ ${#commit_msg} -lt 10 ]; then
+  echo "❌ Commit message too short (minimum 10 characters)"
+  echo "Your message: $commit_msg"
+  exit 1
+fi
+
+echo "✅ Commit message format valid"
+

@@ -114,6 +114,8 @@ When the person who hurt you is also the person you run to for comfort after bei
 
 This is the same mechanism behind why kidnapping victims sometimes bond with their captors (Stockholm Syndrome) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds—it just bonds.
 
+**Physical intimidation intensifies this bonding even further.** When someone demonstrates your physical vulnerability—placing their hand on your throat, making a fist near you, standing over you—your body registers existential threat. Your survival brain activates. When that same person then becomes "safe" again (doesn't follow through, becomes calm, shows affection), the relief is overwhelming. The drop from mortal fear to safety creates an especially powerful neurochemical response. This is why relationships with physical intimidation can create some of the strongest trauma bonds—your body confuses the relief from their restraint with love, when really it's just relief that they chose not to hurt you this time. (See Chapter 3, Tactic 4; Chapter 7, Exit Phase Escalation)
+
 ---
 
 ## What Looks Like Love Is Often Relief

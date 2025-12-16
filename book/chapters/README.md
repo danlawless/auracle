@@ -13,7 +13,7 @@
 | [Front Matter](./00-front-matter.md) | *About This Book* | Who this book is for, how to use it, and what you'll gain |
 | [Chapter 1](./01-opening-manifesto.md) | The Opening Manifesto | What this book is really about—the invisible architecture of control |
 | [Chapter 2](./02-energetic-signature.md) | The Energetic Signature | How to recognize control in your body before your mind catches up |
-| [Chapter 3](./03-narcissist-playbook.md) | The Narcissist Playbook | 31 tactics of control, named and decoded |
+| [Chapter 3](./03-narcissist-playbook.md) | The Narcissist Playbook | 34 tactics of control, named and decoded |
 | [Chapter 4](./04-trauma-bonds.md) | The Psychology of Trauma Bonds | Why you got hooked, and why leaving is so hard |
 | [Chapter 5](./05-narcissist-archetypes.md) | Narcissist Archetypes & Roles | Understanding the different faces of narcissism |
 | [Chapter 6](./06-family-systems.md) | Family Systems & Narcissistic Dynamics | When manipulation is your origin story |

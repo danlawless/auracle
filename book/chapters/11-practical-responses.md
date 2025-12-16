@@ -217,6 +217,8 @@ Not arguing. Not conceding. Simply stating that two perspectives exist. Then end
 
 ### When They Make Threats
 
+**General threats:**
+
 **Them:** "If you leave, you'll never see the kids. If you tell anyone, I'll make sure you regret it. You'll be nothing without me."
 
 **Options:**
@@ -228,6 +230,36 @@ Not arguing. Not conceding. Simply stating that two perspectives exist. Then end
 **Don't do:** Make counter-threats. Engage with the content of the threat. Let fear make your decisions.
 
 *Note: If threats involve physical harm, get to safety and contact authorities.*
+
+---
+
+**Suicide threats:**
+
+**Them:** "If you leave, I'll kill myself. I can't live without you. I'll jump off this balcony right now."
+
+**Your response:**
+
+1. **Call 911 or a crisis line immediately.** Say: "I'm calling for help because you're saying you want to hurt yourself."
+2. **Contact their family, friends, or emergency contacts** if you have them.
+3. **Do not take responsibility for their life.** You are not a mental health professional. You cannot prevent someone else's suicide by staying in an abusive relationship.
+4. **Still leave if you need to leave.** Their threat does not obligate you to stay.
+
+**Why this is critical:**
+
+- If they're genuinely suicidal, they need professional help you cannot provide. Calling 911 gets them that help.
+- If they're manipulating you (using the threat to control), calling 911 calls their bluff and shows that tactic won't work.
+- Either way, you've done what you can. Their choices after that are theirs.
+
+**What not to do:**
+
+- Don't stay to "keep them alive." You can't. And you'll destroy yourself trying.
+- Don't negotiate ("I'll stay if you get help"). Suicide threats are abuse. There's no deal to be made.
+- Don't keep it secret. Tell people. This is too big to carry alone.
+- Don't become their suicide prevention plan. That's not love—that's hostage-taking.
+
+*Resources: National Suicide Prevention Lifeline: 988 | Crisis Text Line: Text HOME to 741741*
+
+(See Chapter 3, Tactic 29; Chapter 7, Exit Phase Escalation for more context)
 
 ---
 

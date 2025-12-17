@@ -1,8 +1,212 @@
 # The Narcissism Decoder
 
+---
+
+<div align="center">
+
+# The Narcissism Decoder
+
+</div>
+
+---
+
+<div align="center">
+
+# The Narcissism Decoder
+
 ## Control Disguised as Care
 
 ### A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns
+
+---
+
+**Jae**
+
+*Master Auracle Practitioner & Spiritual Guide*
+
+---
+
+**The Auracle Press**
+
+</div>
+
+---
+
+## Copyright
+
+© 2024 Jae / The Auracle
+
+All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+**Disclaimer:** This book is intended for educational and informational purposes only. It is not a substitute for professional mental health treatment, therapy, or legal advice. The author is not a licensed mental health professional. If you are in an abusive situation, please seek help from qualified professionals and local resources.
+
+The patterns described in this book are archetypal and universal. Any resemblance to specific individuals is due to the common nature of these behavioral patterns, not identification of particular persons.
+
+**Content Warning:** This book contains descriptions of emotional abuse, manipulation, and narcissistic behavior patterns that may be triggering for some readers. Please practice self-care while reading and take breaks as needed.
+
+First Edition: 2024
+
+**Contact:** theauracle.com
+
+---
+
+## Dedication
+
+*For everyone who was told they were "too sensitive"—*
+
+*You weren't.*
+
+*You were sensing something real.*
+
+*This book is your validation.*
+
+---
+
+*And for the version of me who needed this book years ago—*
+
+*I wrote it for us.*
+
+---
+
+## Epigraph
+
+> *"The truth will set you free, but first it will piss you off."*
+>
+> — Gloria Steinem
+
+---
+
+> *"Until you make the unconscious conscious, it will direct your life and you will call it fate."*
+>
+> — Carl Jung
+
+---
+
+## Contents
+
+A complete table of contents with chapter descriptions can be found in the [Navigation Guide](./README.md).
+
+**Part I: Recognition**
+- Front Matter — Introduction & How to Use This Book
+- Chapter 1 — The Opening Manifesto
+- Chapter 2 — The Energetic Signature
+- Chapter 3 — The Narcissist Playbook
+
+**Part II: Understanding**
+- Chapter 4 — The Psychology of Trauma Bonds
+- Chapter 5 — Narcissist Archetypes & Roles
+- Chapter 6 — Family Systems & Narcissistic Dynamics
+- Chapter 7 — Recognizing Manipulation in Different Relationships
+
+**Part III: Recovery**
+- Chapter 8 — Decoder Cards
+- Chapter 9 — Energetic Remapping
+- Chapter 10 — Spiritual Integration
+- Chapter 11 — Practical Responses & Scripts
+- Chapter 12 — Moving Forward
+
+**Appendices**
+- Appendix A — Content Creation Structure
+- Appendix B — The Grief Process After Leaving
+- Appendix C — Understanding Your Childhood Patterns
+- Appendix D — Resources
+- Appendix E — Glossary of Terms
+- Appendix F — Bibliography & Further Reading
+- About the Author
+
+---
+
+## Foreword
+
+*By a Fellow Survivor*
+
+---
+
+I wish I had this book ten years ago.
+
+Ten years ago, I was in the thick of it—questioning my own memory, apologizing for things I didn't do, and feeling like I was slowly losing my mind. The person I loved most had convinced me that my perception was broken, that my sensitivity was a flaw, that the problem was always, somehow, me.
+
+I didn't have words for what was happening. I couldn't explain why I felt so exhausted after conversations that looked normal from the outside. I couldn't articulate why "I love you" sometimes felt like a threat. I just knew something was deeply wrong, and I was told—over and over—that the wrongness was me.
+
+When I finally found language for these patterns—gaslighting, love-bombing, trauma bonds—it was like someone had turned on a light in a room I'd been stumbling through in the dark. I wasn't crazy. I wasn't too sensitive. I was responding accurately to something real.
+
+That's what this book offers you: a light.
+
+Jae has done something remarkable here. She's taken the confusing, crazy-making experience of narcissistic abuse and made it *legible*. She's named the patterns so precisely that you'll find yourself saying, "That's exactly what it felt like"—and in that recognition, you'll begin to heal.
+
+This isn't a book that pathologizes or diagnoses. It doesn't tell you to hate anyone. It simply gives you the decoder ring you needed all along—so you can see clearly, protect yourself wisely, and eventually, move forward freely.
+
+If you're holding this book, something in you already knows something is wrong. Trust that knowing. Let these pages validate what your body has been trying to tell you.
+
+And know this: You're not alone. Thousands of us have walked this path. We survived. We healed. We reclaimed ourselves.
+
+You will too.
+
+With love and solidarity,
+
+*A Fellow Survivor*
+
+---
+
+## Preface
+
+### Why I Wrote This Book
+
+---
+
+This book was born from pain—my own, and the pain of hundreds of people I've worked with over the years.
+
+I didn't set out to become an expert on narcissistic abuse. That expertise found me, the way it finds most of us—through lived experience. Through years of confusion, self-doubt, and the slow erosion of my sense of reality. Through the long journey of recovery and the even longer journey of understanding.
+
+My path as a spiritual practitioner began with a profound awakening over five years ago. But beneath that awakening was a darker truth: I had spent years in relationships and family dynamics that systematically taught me to distrust my own perception. The sensitivity that would later become my gift—the ability to read energy, to sense what lives beneath the surface—was first labeled a flaw. "Too sensitive," they said. "Too emotional." "Making things up."
+
+It took years to understand that my sensitivity wasn't the problem. It was accurate. It was detecting patterns of manipulation and control that operated just below the surface of "normal" behavior. The confusion I felt wasn't weakness—it was the intended result of tactics designed to confuse.
+
+When I began working with clients as an Auracle practitioner, I started seeing the same patterns everywhere. Person after person came to me carrying the same wounds: the self-doubt, the hypervigilance, the inability to trust their own knowing. They'd been in relationships where love felt like a prison. They'd grown up in families where care came with conditions and strings. They'd lost years—sometimes decades—to people who used their empathy against them.
+
+And almost universally, they didn't have words for what had happened.
+
+That's why I wrote this book.
+
+Not to create more victims. Not to encourage anyone to diagnose their ex or their mother or their boss. But to provide what I desperately needed and couldn't find: a clear, comprehensive guide to the patterns of control disguised as care.
+
+The material in these pages comes from multiple sources: my own experience, years of research, the wisdom of the therapeutic community, and most importantly, the shared experiences of the many people who trusted me with their stories. This book is a synthesis—an attempt to distill everything I've learned into something that can help you recognize, understand, and break free.
+
+I want to be clear about what this book is and isn't:
+
+**This book is** a pattern recognition guide. It describes behaviors and dynamics, not people. It's designed to help you see clearly, respond effectively, and protect your peace.
+
+**This book is not** a diagnostic manual. It doesn't qualify you to determine whether someone has Narcissistic Personality Disorder. That's a clinical diagnosis requiring professional evaluation. What it does is help you recognize harmful patterns—patterns that cause damage regardless of their clinical origin.
+
+I wrote this book for the person I was ten years ago: confused, doubting myself, desperately needing someone to validate that what I was experiencing was real. I wrote it for everyone who has been told they were too sensitive when they were actually too perceptive. I wrote it for the empaths, the healers, the people whose capacity for love made them targets.
+
+If that's you, I see you. I believe you. And I hope these pages bring you the clarity and freedom you deserve.
+
+With love and fierce protection,
+
+**Jae**
+
+---
+
+## Acknowledgments
+
+---
+
+This book exists because of the courage of everyone who shared their stories with me.
+
+To my clients and community: Thank you for trusting me with your pain, your healing, and your transformation. Every session, every conversation, every "me too" moment taught me something that found its way into these pages. This book is as much yours as it is mine.
+
+To the survivors who came before: The therapists, researchers, writers, and advocates who first named these patterns and created language for the unspeakable—your work made mine possible. I stand on shoulders of giants.
+
+To my own guides and teachers: Both human and spiritual. You helped me reclaim my perception when I had lost all trust in myself. You held space while I healed. You taught me that sensitivity is a gift, not a wound.
+
+To the people who saw me clearly when I couldn't see myself: You know who you are. Your steady presence was the anchor I needed. Thank you for reflecting my truth back to me when I had forgotten it.
+
+To everyone who will read this book and recognize themselves: Thank you for your courage. Picking up a book like this is an act of bravery. You're already healing by choosing to understand.
+
+And to you, the reader holding this right now: Thank you for being here. Whatever brought you to these pages—confusion, pain, a desperate need to understand—you're in the right place. The journey ahead won't always be easy, but it will be worth it.
+
+You are not alone.
 
 ---
 
@@ -120,4 +324,3 @@ This is not a race. This is a homecoming.
 ---
 
 *Let's begin.*
-

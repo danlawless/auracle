@@ -4,44 +4,124 @@
 
 <div align="center">
 
-## Jae
+## Jennifer Brooke
 
-**Master Auracle Practitioner & Spiritual Guide**
+**Jae**
 
-*Founder of The Auracle*
+*Aura Therapist, Mental Health Counselor & Spiritual Guide*
+
+*Founder of The Auracle | Co-Owner of Amate Events*
 
 </div>
 
 ---
 
-## The Journey to Healing
+## From Feardom to Freedom
 
-Jae's path to becoming a guide for others began with her own descent into—and emergence from—the confusion of narcissistic abuse.
+Jennifer Brooke's journey to becoming a guide for others began with her own descent into—and emergence from—the darkness of narcissistic abuse.
 
-For years, she lived in relationships and family dynamics that systematically eroded her trust in herself. The sensitivity that would later become her greatest gift was first labeled a liability: "too emotional," "too intense," "making things up." Like many survivors, she learned to doubt her own perception before she learned to trust it.
+A creative at heart, Jennifer has worn many hats: artist, event producer, singer, personal trainer, yoga instructor, psychotherapist, and sales professional. She holds a **Master of Science in Mental Health Counseling** and spent years working in traditional talk therapy. But none of her credentials prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
 
-Her awakening came not through sudden revelation but through the slow, painful process of recognizing patterns she had normalized. The checking disguised as care. The concern that felt like surveillance. The love that came with conditions she could never quite meet. Once she saw the architecture of control, she couldn't unsee it.
+For years, she allowed herself to shrink in abusive and narcissistic relationships. Depression and anxiety became constant companions. Her self-esteem, in her own words, was "mortally wounded." Like many survivors, she had learned to seek external validation instead of trusting herself—a pattern that made her vulnerable to those who would exploit her empathy.
 
-The years that followed were devoted to understanding: first her own experience, then the universal patterns beneath it. She studied psychology, neuroscience, and trauma. She learned somatic practices and energy work. She sat with hundreds of people carrying the same wounds she had carried—and discovered that healing was not only possible but transformative.
+The breakthrough came through deep Jungian shadow work. Through transformative experiences called "Transitions," Jennifer confronted the parts of herself that had enabled toxic dynamics to continue. She released passive-aggressive patterns, negativity, blame, and the desperate need for external approval. She said goodbye to her wounded self and embraced the woman she was meant to become.
+
+This work was brutally honest. She had to own her part. And through that ownership, she reclaimed her sovereignty.
+
+---
+
+## The Awakening
+
+Jennifer's spiritual journey began in earnest with a powerful Kundalini awakening, guided by her coach **Peggy Butkus** and astrologer **Shira Beth Brenner**.
+
+A pivotal moment came when she received her Reiki I initiation at Maha Rose in New York—just two weeks before her father passed away. That initiation opened her clairvoyance, and on the night her father crossed over, she experienced her first psychic vision. In Cyprus, she began writing about her communications with him through clairaudience, producing over 200 pages documenting the healing that unfolded as she learned to listen beyond the veil.
+
+What followed was a three-year quest across the globe in search of spiritual community, healing, and self-discovery:
+
+**Cyprus** — Where she processed her grief and opened to clairaudience
+
+**Greece** — Where she studied astrology with **Kaypacha** (founder of Astrology for the Soul) and uncovered her soul's blueprint
+
+**Nicaragua** — Where she spent a year breaking free from societal constraints and US cultural conditioning, connecting with transformative communities and learning to think freely
+
+**Costa Rica & Mexico** — Where she found her spiritual home
+
+The turning point came when she met **Diego Dosal Stieglitz**, visionary spiritual leader and co-creator of transformative experiences at Zunya, Amate events, and the Ekah Collective. Diego introduced her to **Angelina Ataide** (Angel), founder of **Escola da Aura**.
+
+In that moment, Jennifer's path became crystal clear. She had found the modality that would become her life's work.
+
+---
+
+## The Training
+
+Jennifer's journey with Escola da Aura has taken her deep into the practice of aura therapy—a unique modality utilizing clairvoyance to read the auric field and receive messages directly from Source.
+
+**Escola da Aura Journey:**
+- Reiki 2 initiation with Angelina Ataide in Mexico
+- Aura 2 theme reading training in Brazil
+- Reiki 1 deepening initiation in Brazil
+- Aura 4 techniques practice with teachers from across Brazil
+- Upcoming: Aura 2 and 3 (relationships) training
+- 2025: Founding member of the International School of Aura
+
+**Daily Practices:**
+- Qi Gong & Tai Chi under the guidance of Deborah Rosene, Psy.D.
+- Daily Reiki practice with gratitude
+- Kundalini breathwork
+- Rose Meditation
+- Consistent spiritual practice and prayer
+
+**Additional Training & Influences:**
+- Aaron Doughty (mindset and personal development)
+- Elizabeth April (psychic training)
+- Brandy Joy (Magickal Mystery School, Traditional Hermetic Secret Society)
+- Abraham-Hicks, Dr. Michael Newton, Brian Weiss, Caroline Myss
+
+---
+
+## Living in Community
+
+Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (their tech wizard), and is neighbors with Diego, Karlita (an incredible chef), and their family. Angelina, Dara, and Peggy are also part of the community.
+
+Living in community starts with an open heart, and Jennifer is grateful every day for the soul family that surrounds her—including the howler monkeys.
+
+---
+
+## Amate Events
+
+Together with Diego (coach), Karlita (chef), and Daniel (tech), Jennifer co-owns and operates **Amate**, hosting transformative soul events that combine energy healing, immersive meditation, aura readings, gourmet cuisine, and cutting-edge technology.
+
+The supreme pleasure of hosting—offering deep immersive meditation, holding space, and providing aura readings—has become her sacred work. Amate has hosted events in Nicaragua, Mexico, Morocco, Portugal, and Costa Rica.
+
+**Instagram:** @amatesoulware
 
 ---
 
 ## The Work
 
-Jae founded **The Auracle** as a space where spirituality meets practical healing. Her work combines:
+Through **The Auracle**, Jennifer offers:
 
-- **Aura Reading & Energy Work** — Helping clients understand their energetic patterns and the imprints left by past relationships
-- **Rose Meditation** — A signature practice for grounding, self-connection, and nervous system regulation
-- **Narcissistic Abuse Recovery** — Guiding survivors through recognition, understanding, and liberation
-- **Spiritual Guidance** — Supporting clients in their broader spiritual journey and soul development
+**Aura Readings**
+- General readings that touch the soul using clairvoyant techniques
+- Theme-based specialized readings
+- Pregnancy readings for expecting parents
+- Relationship readings
 
-Her approach is distinctive: she refuses to separate the spiritual from the psychological, the energetic from the practical. Healing happens in the body as much as the mind, in the energy field as much as the biography.
+**Integration Sessions**
+- Follow-up sessions to help integrate insights from readings
+- Support for ongoing healing and transformation
+
+**Rose Meditation**
+- A signature practice for grounding, self-connection, and nervous system regulation
+
+**Astrology Chart Analysis**
+- Comprehensive chart analysis to understand your soul's blueprint
 
 ---
 
 ## The Philosophy
 
-At the heart of Jae's work is a simple belief:
+At the heart of Jennifer's work is a simple belief:
 
 **Your sensitivity is not your weakness. It's your superpower.**
 
@@ -54,12 +134,13 @@ She believes that:
 - **Healing is possible.** No matter how deep the wound, recovery is within reach.
 - **Your experience matters.** What happened to you was real, and you deserve validation.
 - **Sensitivity is sacred.** It's a gift to be protected, not a flaw to be fixed.
+- **Community heals.** We are not meant to do this work alone.
 
 ---
 
 ## The Book
 
-*The Narcissism Decoder* represents the distillation of everything Jae has learned—from her own journey, from years of working with clients, from studying the research, and from listening to the wisdom of survivor communities.
+*The Narcissism Decoder* represents the distillation of everything Jennifer has learned—from her own journey through narcissistic relationships, from her training in mental health counseling, from years of working with clients, and from the wisdom of survivor communities.
 
 She wrote it for the person she was years ago: confused, self-doubting, desperately needing someone to explain what was happening. She wrote it for everyone who has been told they were "too sensitive" when they were actually too perceptive. She wrote it as the guide she wished she had found.
 
@@ -67,20 +148,32 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 
 ---
 
-## Connect with Jae
+## Vision for the Future
+
+**Continuing Education:**
+- Advanced sound healing training
+- Aura 3 training (couples/relationships)
+- Aura 5 training (advanced techniques)
+- Deepening understanding of energy medicine
+
+**Mission:**
+To help others discover their highest potential and walk the path of healing and self-love. To create transformative experiences that touch souls and awaken consciousness. To build conscious community grounded in authenticity, love, and spiritual truth.
+
+---
+
+## Connect with Jennifer
 
 **The Auracle**
-Website: theauracle.com
+- Website: theauracle.com
+- Aura readings, integration sessions, and spiritual guidance
 
-**Services:**
-- Aura Reading Sessions (30, 60, or 90 minutes)
-- Rose Meditation Courses
-- Spiritual Guidance Sessions
-- Community Events and Workshops
+**Amate Events**
+- Instagram: @amatesoulware
+- Email: jen@ekahcollective.com
 
-**Stay Connected:**
-- Join the mailing list for healing resources and updates
-- Follow The Auracle on social media for daily wisdom
+**Book an Aura Reading**
+- Calendly: calendly.com/holisticlawless
+- Email: holisticlawless@gmail.com
 
 ---
 
@@ -96,9 +189,12 @@ Website: theauracle.com
 
 *You are coming home to yourself. And that home has been waiting for you all along.*
 
+*This is a journey from feardom to freedom. From shadow to light. From separation to unity.*
+
 *With love and fierce protection,*
 
 **Jae**
+*Jennifer Brooke*
 
 ---
 
@@ -107,6 +203,6 @@ Website: theauracle.com
 *"Every soul carries a unique energetic signature, a sacred story written in light.*
 *My gift is helping you read that story and understand its beautiful message."*
 
-— Jae
+**Aho.** 🙏
 
 </div>

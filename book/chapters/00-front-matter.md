@@ -20,9 +20,11 @@
 
 ---
 
-**Jae**
+**Jennifer Brooke**
 
-*Master Auracle Practitioner & Spiritual Guide*
+*Jae*
+
+*Aura Therapist, Mental Health Counselor & Spiritual Guide*
 
 ---
 
@@ -34,11 +36,11 @@
 
 ## Copyright
 
-© 2024 Jae / The Auracle
+© 2024 Jennifer Brooke / The Auracle
 
 All rights reserved. No part of this publication may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the publisher, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
-**Disclaimer:** This book is intended for educational and informational purposes only. It is not a substitute for professional mental health treatment, therapy, or legal advice. The author is not a licensed mental health professional. If you are in an abusive situation, please seek help from qualified professionals and local resources.
+**Disclaimer:** This book is intended for educational and informational purposes only. It is not a substitute for professional mental health treatment, therapy, or legal advice. While the author holds a Master of Science in Mental Health Counseling, this book does not constitute a therapeutic relationship. If you are in an abusive situation, please seek help from qualified professionals and local resources.
 
 The patterns described in this book are archetypal and universal. Any resemblance to specific individuals is due to the common nature of these behavioral patterns, not identification of particular persons.
 
@@ -150,19 +152,35 @@ With love and solidarity,
 
 ## Preface
 
-### Why I Wrote This Book
+### From Feardom to Freedom: Why I Wrote This Book
 
 ---
 
 This book was born from pain—my own, and the pain of hundreds of people I've worked with over the years.
 
-I didn't set out to become an expert on narcissistic abuse. That expertise found me, the way it finds most of us—through lived experience. Through years of confusion, self-doubt, and the slow erosion of my sense of reality. Through the long journey of recovery and the even longer journey of understanding.
+I'm Jennifer Brooke, though most people call me Jae. I hold a Master of Science in Mental Health Counseling and spent years working in traditional talk therapy. I've been a personal trainer, a yoga instructor, an event producer, and a sales professional. But none of those credentials prepared me for what I really needed to learn: how to recognize when love is actually control in disguise.
 
-My path as a spiritual practitioner began with a profound awakening over five years ago. But beneath that awakening was a darker truth: I had spent years in relationships and family dynamics that systematically taught me to distrust my own perception. The sensitivity that would later become my gift—the ability to read energy, to sense what lives beneath the surface—was first labeled a flaw. "Too sensitive," they said. "Too emotional." "Making things up."
+I didn't set out to become an expert on narcissistic abuse. That expertise found me, the way it finds most of us—through lived experience.
 
-It took years to understand that my sensitivity wasn't the problem. It was accurate. It was detecting patterns of manipulation and control that operated just below the surface of "normal" behavior. The confusion I felt wasn't weakness—it was the intended result of tactics designed to confuse.
+### The Shadow I Had to Face
 
-When I began working with clients as an Auracle practitioner, I started seeing the same patterns everywhere. Person after person came to me carrying the same wounds: the self-doubt, the hypervigilance, the inability to trust their own knowing. They'd been in relationships where love felt like a prison. They'd grown up in families where care came with conditions and strings. They'd lost years—sometimes decades—to people who used their empathy against them.
+For years, I allowed myself to shrink in abusive and narcissistic relationships. I was passive-aggressive. I was negative. I blamed others while ignoring my own patterns. I lived with depression and anxiety that I now understand were symptoms of something deeper: I had been conditioned to seek external validation instead of trusting myself. My self-esteem was, in my mentor's words, "mortally wounded."
+
+I had to face all of this through deep Jungian shadow work. Through two transformative experiences called "Transitions," I confronted the parts of myself that had enabled these dynamics to continue. I said goodbye to my need for external approval and love from anyone but myself. I released the toxic patterns I had absorbed—from trauma, from societal conditioning, from fear.
+
+This work was brutally honest. I had to own my part. I had to acknowledge the ways I had been passive in abusive situations. But through this work, I reclaimed my self-worth.
+
+### The Awakening
+
+My spiritual journey truly began with a powerful Kundalini awakening, guided by my coach Peggy Butkus and astrologer Shira Beth Brenner. Two weeks before my father passed away, I received my Reiki I initiation at Maha Rose in New York. That initiation opened my clairvoyance—and on the night my father crossed over, I experienced my first psychic vision.
+
+What followed was a three-year quest across the globe: Cyprus, where I processed my grief through writing and learned to hear beyond the veil. Greece, where I studied astrology with Kaypacha and uncovered my soul's blueprint. Nicaragua, where I broke free from cultural conditioning and learned to think for myself. Costa Rica and Mexico, where I found my spiritual home.
+
+It was in Costa Rica that I met Diego Dosal Stieglitz, who introduced me to Angelina Ataide—the founder of Escola da Aura. In that moment, everything clicked. I had found the modality that would become my life's work: aura therapy, a practice that uses clairvoyant techniques to read the auric field and receive messages directly from Source.
+
+### Why This Book
+
+When I began working with clients, I started seeing the same patterns everywhere. Person after person came carrying the same wounds: the self-doubt, the hypervigilance, the inability to trust their own knowing. They'd been in relationships where love felt like a prison. They'd grown up in families where care came with conditions. They'd lost years to people who used their empathy against them.
 
 And almost universally, they didn't have words for what had happened.
 
@@ -170,21 +188,22 @@ That's why I wrote this book.
 
 Not to create more victims. Not to encourage anyone to diagnose their ex or their mother or their boss. But to provide what I desperately needed and couldn't find: a clear, comprehensive guide to the patterns of control disguised as care.
 
-The material in these pages comes from multiple sources: my own experience, years of research, the wisdom of the therapeutic community, and most importantly, the shared experiences of the many people who trusted me with their stories. This book is a synthesis—an attempt to distill everything I've learned into something that can help you recognize, understand, and break free.
-
-I want to be clear about what this book is and isn't:
+### What This Book Is and Isn't
 
 **This book is** a pattern recognition guide. It describes behaviors and dynamics, not people. It's designed to help you see clearly, respond effectively, and protect your peace.
 
 **This book is not** a diagnostic manual. It doesn't qualify you to determine whether someone has Narcissistic Personality Disorder. That's a clinical diagnosis requiring professional evaluation. What it does is help you recognize harmful patterns—patterns that cause damage regardless of their clinical origin.
 
-I wrote this book for the person I was ten years ago: confused, doubting myself, desperately needing someone to validate that what I was experiencing was real. I wrote it for everyone who has been told they were too sensitive when they were actually too perceptive. I wrote it for the empaths, the healers, the people whose capacity for love made them targets.
+I wrote this book for the person I was years ago: confused, doubting myself, desperately needing someone to validate that what I was experiencing was real. I wrote it for everyone who has been told they were too sensitive when they were actually too perceptive. I wrote it for the empaths, the healers, the people whose capacity for love made them targets.
+
+This is a journey from feardom to freedom. From shadow to light. From separation to unity.
 
 If that's you, I see you. I believe you. And I hope these pages bring you the clarity and freedom you deserve.
 
 With love and fierce protection,
 
 **Jae**
+*Jennifer Brooke*
 
 ---
 
@@ -192,21 +211,49 @@ With love and fierce protection,
 
 ---
 
-This book exists because of the courage of everyone who shared their stories with me.
+This book exists because of the courage of everyone who shared their stories with me—and because of the extraordinary teachers who helped me find my way back to myself.
 
-To my clients and community: Thank you for trusting me with your pain, your healing, and your transformation. Every session, every conversation, every "me too" moment taught me something that found its way into these pages. This book is as much yours as it is mine.
+**To my spiritual mentors:**
 
-To the survivors who came before: The therapists, researchers, writers, and advocates who first named these patterns and created language for the unspeakable—your work made mine possible. I stand on shoulders of giants.
+To **Angelina Ataide** (Angel), founder of Escola da Aura: You saved my spirit. Through aura therapy, you gave me the tools to see clearly—both into others and into myself. This work would not exist without you.
 
-To my own guides and teachers: Both human and spiritual. You helped me reclaim my perception when I had lost all trust in myself. You held space while I healed. You taught me that sensitivity is a gift, not a wound.
+To **Peggy Butkus**: Your guidance through my Kundalini awakening cracked me open in the most necessary way. You taught me that transformation requires both breaking and rebuilding.
 
-To the people who saw me clearly when I couldn't see myself: You know who you are. Your steady presence was the anchor I needed. Thank you for reflecting my truth back to me when I had forgotten it.
+To **Shira Beth Brenner**: Through astrology, you helped me understand my soul's blueprint and showed me that my path, however unconventional, was always written in the stars.
 
-To everyone who will read this book and recognize themselves: Thank you for your courage. Picking up a book like this is an act of bravery. You're already healing by choosing to understand.
+To **Diego Dosal Stieglitz**: You introduced me to my spiritual home and showed me what conscious community looks like. The Transitions experiences you co-created changed my life.
 
-And to you, the reader holding this right now: Thank you for being here. Whatever brought you to these pages—confusion, pain, a desperate need to understand—you're in the right place. The journey ahead won't always be easy, but it will be worth it.
+To **Kaypacha**: Your teachings on astrology helped me understand my cosmic purpose.
+
+To **Deborah Rosene, Psy.D.**: Through Qi Gong and Tai Chi, you taught me that healing lives in the body.
+
+**To the teachers whose work shaped my understanding:**
+
+Abraham-Hicks, Dr. Michael Newton, Brian Weiss, and Caroline Myss—your work on the soul's journey gave me context for my experiences and hope for what's possible.
+
+**To my community:**
+
+To Daniel, my partner and our tech wizard. To Diego, Karlita, Dara, and the whole Costa Rica family. To everyone at Amate and the Ekah Collective. Living in conscious community with you is the greatest gift of my healing journey.
+
+**To my clients:**
+
+Thank you for trusting me with your pain, your healing, and your transformation. Every session, every conversation, every "me too" moment taught me something that found its way into these pages. This book is as much yours as it is mine.
+
+**To the survivors who came before:**
+
+The therapists, researchers, writers, and advocates who first named these patterns and created language for the unspeakable—your work made mine possible.
+
+**To my father:**
+
+Who crossed over and, in doing so, opened my clairvoyance. Our conversations beyond the veil taught me that death is not an ending, and that love transcends everything.
+
+**And to you, the reader:**
+
+Thank you for being here. Whatever brought you to these pages—confusion, pain, a desperate need to understand—you're in the right place. The journey ahead won't always be easy, but it will be worth it.
 
 You are not alone.
+
+**Aho.** 🙏
 
 ---
 

@@ -560,6 +560,110 @@ The request sounds reasonable. You feel guilty for wanting distance. You mistake
 
 ---
 
+## Card 24: Minimal Contact After Apology
+
+**The Pattern:** Symbolic contact without warmth after you've apologized
+
+**What They Say/Do:**
+- You send a sincere apology or letter owning your part
+- They do not engage with the content
+- Contact becomes minimal, flat, or symbolic only
+- Example: "Happy birthday." (period, no warmth, no follow-up)
+- They acknowledge you just enough to stay present but not enough to actually connect
+
+**What's Really Happening:**
+
+Your apology removed their leverage. They can no longer:
+- Hold moral superiority
+- Keep the conflict alive
+- Extract repair from you
+- Maintain a grievance-based identity
+
+So they withdraw instead of reconnect. This is not reconciliation avoidance—it's control through absence.
+
+Instead of mutual repair, they:
+- Avoid vulnerability
+- Avoid their own accountability
+- Preserve distance as safety
+- Maintain superiority by not engaging
+
+Distance becomes the message.
+
+**Why it feels worse than silence:**
+
+Because it says: "I'll acknowledge you just enough to stay relevant—but not enough to be relational." It keeps you emotionally activated without offering connection. It's presence without presence.
+
+**How It Hooks You:**
+
+Because it's not complete silence, you hold out hope. You think: "Maybe I didn't apologize well enough," "Maybe I should try again," "Maybe time will soften this." You stay emotionally activated waiting for connection that never comes.
+
+Symbolic contact without warmth:
+- Reopens emotional doors without offering safety
+- Keeps you in limbo
+- Maintains a hierarchy
+- Prevents closure
+
+Your body is signaling: "This is not nourishing. This is not real connection." That signal is trustworthy.
+
+**Your Power Move:**
+
+Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification. No second letter. 
+
+The correct internal reframe: "Repair is mutual or it's not repair. I completed my part. The relationship's capacity is now visible."
+
+**Key truth:** An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
+
+*See also: Tactic 37 (Chapter 3)*
+
+> *"When I owned my part and silence followed, I realized the apology wasn't the bridge—it was the boundary."*
+
+---
+
+## Card 25: The "I Sabotage Myself" Tactic
+
+**The Pattern:** After being caught in wrongdoing, they pivot to self-pity
+
+**What They Say:**
+- "I always ruin the good things"
+- "I don't know why I'm like this"
+- "I'm broken"
+- "I sabotage myself"
+- "I destroy everything good"
+
+**What's Really Happening:**
+
+This is not confession—it's deflection. The emotional burden shifts from them being harmful to them being hurt. They'd rather be the victim, the tragic antihero, than the person who caused harm.
+
+This accomplishes three things instantly:
+1. **Stops accountability** — You can't stay angry at a "wounded soul"
+2. **Reverses roles** — Suddenly you feel bad for them
+3. **Re-opens emotional access** — Now you're managing their feelings instead of addressing their behavior
+
+This is trauma-bond gold.
+
+**How It Hooks You:**
+
+Compassionate people see their "pain" and think: "They're hurting—this isn't about me." You shift from confronting to caretaking—comforting the person who hurt you.
+
+You feel sympathy instead of anger. Your guard lowers. You feel guilty for being upset. You justify the original betrayal because you're now emotionally managing their feelings.
+
+**Your Power Move:**
+
+Do NOT comfort them. Their "pain" is a shield, not a wound.
+
+Stay on behavior, not their inner world:
+- "That's something you'll need to work on, but it doesn't excuse what happened."
+- "I hear that you're struggling. And the behavior was still unacceptable."
+- "I hope you get the support you need. This conversation is about what happened, not why."
+
+Hold accountability steady: "Regardless of why, the action was wrong."
+
+Withdraw emotional labor. That is the REAL boundary.
+
+*See also: Tactic 28 (Chapter 3)*
+
+---
+
 ## The Decoder Card Emergency Protocol
 
 When activated and confused, use this sequence:

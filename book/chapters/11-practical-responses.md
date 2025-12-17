@@ -201,6 +201,43 @@ Not arguing. Not conceding. Simply stating that two perspectives exist. Then end
 
 ---
 
+### Responding to Pity Plays
+
+When confronted about lying, cheating, or boundary violations, they pivot to self-pity rather than accountability.
+
+**Them:** "I always ruin the good things. I don't know why I'm like this. I'm broken. I sabotage myself."
+
+**Your response:**
+
+"That's something you'll need to work on, but it doesn't excuse what happened."
+
+**When they try to shift to their pain:**
+
+**Them:** "I'm just so messed up. I don't deserve you."
+
+**Your response:**
+
+"I hear that you're struggling. And the behavior was still unacceptable."
+
+**When they say "I'm broken" or "I don't know why I'm like this":**
+
+**Your response:**
+
+"I hope you get the support you need. This conversation is about what happened, not why."
+
+**The key principle:** Stay on behavior, not their inner world. Do not comfort them. Do not redirect to their emotions. Hold accountability steady: "Regardless of why, the action was wrong."
+
+**What's happening:** Their "pain" is a shield, not a wound. The pity play accomplishes three things instantly:
+1. Stops accountability (you can't stay angry at a "wounded soul")
+2. Reverses roles (suddenly you feel bad for them)
+3. Re-opens emotional access (now you're managing their feelings)
+
+**Your power:** Withdraw emotional labor. That is the REAL boundary.
+
+*See also: Chapter 3, Tactic 28; Chapter 8, Card 25*
+
+---
+
 ### When They Escalate Volume
 
 **Them:** *[RAISING VOICE, TALKING OVER YOU]*
@@ -398,6 +435,108 @@ Body language that says "not available" without words:
 - Friendly but brief if they approach
 
 You don't have to be rude. You just don't have to be available.
+
+---
+
+## Holding Boundaries with Family
+
+Family relationships carry unique guilt and obligation scripts. Here's how to hold boundaries without explaining your way out of them.
+
+### When mother asks why you're distant:
+
+**Her:** "You seem so distant lately. Did I do something wrong?"
+
+**Your response:**
+
+"I'm taking space to focus on what feels healthy for me right now."
+
+**Don't:** Explain further. Explanations become ammunition. Let the statement stand.
+
+---
+
+### When mother leaks your confidence to sibling:
+
+**Internal reframe:** "This is information about her capacity, not my worth."
+
+**External action:** Lower the amount you share going forward. No announcement needed. Simply adjust your vulnerability level based on demonstrated trustworthiness.
+
+---
+
+### When family guilts you about grandchildren/events:
+
+**Them:** "We hardly see you anymore. The kids miss you. Family is supposed to be together."
+
+**Your responses:**
+
+- "I'll let you know what works for me."
+- "That doesn't work for me, but I hope you have a wonderful time."
+
+**Don't:** Justify your availability. Defend your choices. Apologize for having boundaries.
+
+---
+
+### When family says "After everything I've done for you..."
+
+**Your responses:**
+
+- "I'm grateful for what you've given. And I still get to have boundaries."
+- "I understand you feel that way."
+
+**Don't:** Get into ledgers. List what you've done in return. Collapse into guilt.
+
+**The principle:** Family membership does not equal unlimited access. Past help does not equal future obligation to accept harmful behavior.
+
+*See also: Chapter 6, Family Systems for context on family dynamics and shame programming*
+
+---
+
+## Scripts for Declining Symbolic Contact
+
+After setting boundaries or ending relationships, they may send minimal, symbolic contact that keeps the door slightly open without offering real connection.
+
+### When they send minimal contact ("Happy Birthday."):
+
+**Option 1:** No response (this is valid and complete)
+
+**Option 2** (if you must respond): "Thank you." [Nothing more]
+
+**Don't:** Re-engage. Ask how they are. Open conversation. Interpret this as a sign they've changed.
+
+---
+
+### When you want to communicate you'd prefer no contact:
+
+**Your message:**
+
+"I appreciate the thought, but I'm not in a place where minimal contact feels meaningful. I'd prefer we either engage genuinely or give each other space."
+
+**Why this works:** It names the pattern (minimal contact) and offers a clear choice (genuine or none). It doesn't blame, just clarifies your need.
+
+---
+
+### When someone asks if they can "check on you":
+
+**Them:** "Can I check on you? I just want to make sure you're okay."
+
+**Your response:**
+
+"I'm good—I'll reach out if I need anything."
+
+**Don't:** Provide details. Justify your independence. Agree to check-ins that undermine your boundaries.
+
+*See also: Chapter 3, Tactics 35 & 37; Chapter 8, Card 24 for pattern recognition*
+
+---
+
+### When you need to exit a conversation that's activating you:
+
+**Your response:**
+
+"I need to step away for a moment."
+
+**That's it.** No explanation. No negotiation. Just exit.
+
+**Practice this:** Your needs don't require justification. "I need to step away" is a complete sentence.
 
 ---
 

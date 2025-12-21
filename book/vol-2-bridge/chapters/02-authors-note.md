@@ -26,6 +26,26 @@ This is not a failure. It's a sequence issue, not a character flaw.
 
 ---
 
+## Field Note: The Moment I Knew
+
+I remember the exact conversation that changed everything.
+
+I was in my therapist's office, explaining—again—why someone in my life had behaved the way they did. I was articulate. I had context. I could trace the lineage of their wounds, their defenses, their unconscious patterns.
+
+My therapist listened, then said something quiet:
+
+*"You understand them perfectly. But do you know how you feel?"*
+
+I paused. The question felt strange—almost irrelevant. Of course I knew how I felt. I felt... responsible. I felt like I should have handled it better. I felt like maybe if I explained differently...
+
+*"That's what you think,"* she said. *"What does your body feel?"*
+
+I couldn't answer. I didn't know.
+
+In that moment, I realized I had built an entire life on understanding others—and I had almost no practice locating myself.
+
+---
+
 ## What Changed
 
 This book was born from the moment I realized that healing did not require more analysis—it required a new internal experience of safety, consistency, and self-trust.
@@ -43,6 +63,26 @@ The questions that actually created change were different:
 - *What would I choose if guilt and shame were not factors?*
 
 These questions led to practice. Practice led to change.
+
+---
+
+## The Uncomfortable Truth About Understanding
+
+Here is something I wish someone had told me earlier:
+
+**Understanding someone's wounds does not obligate you to absorb them.**
+
+I had confused empathy with responsibility. I believed that because I could see why someone behaved a certain way, I should tolerate it. Forgive it. Stay available for it.
+
+But understanding is not obligation.
+
+You can understand why someone is emotionally unavailable and still choose not to wait for them.
+
+You can understand why someone gets defensive and still refuse to accept their deflection.
+
+You can understand how someone's childhood shaped them and still protect yourself from their patterns.
+
+Understanding is a gift of perception. It is not a contract of endurance.
 
 ---
 
@@ -73,6 +113,26 @@ If you are in crisis, please seek professional support. If you are navigating de
 
 ---
 
+## Field Note: The First Time Safety Felt Strange
+
+The first time I dated someone regulated, I almost left.
+
+Not because anything was wrong. Because nothing was wrong. There was no urgency. No drama. No checking my phone compulsively. No analyzing their behavior for hidden meanings.
+
+I remember thinking: *This feels flat. There's no chemistry.*
+
+What I was actually experiencing was the absence of cortisol. The absence of the fight-or-flight response I had been calling "attraction."
+
+My nervous system didn't know what to do with calm.
+
+I stayed anyway. Not because it felt right—it didn't, at first. I stayed because I had read enough to know that my body had been calibrated for intensity, and I needed to recalibrate for safety.
+
+That relationship didn't last forever. But it taught me something critical:
+
+**Chemistry and compatibility are not the same thing.**
+
+---
+
 ## Why I Wrote This
 
 I wrote this book because I needed it.
@@ -84,6 +144,24 @@ I needed someone to explain why I kept repeating patterns even when I saw them c
 I needed someone to say that healing wasn't about becoming less feeling—it was about becoming more resourced.
 
 I couldn't find that book. So I wrote it.
+
+---
+
+## The Reader I'm Writing For
+
+I'm writing for the person who has done the work.
+
+Who has read the books, done the therapy, journaled, processed, understood.
+
+And who still finds their body reacting in ways their mind has outgrown.
+
+I'm writing for the person who knows they shouldn't feel guilty—but feels it anyway.
+
+Who knows they should leave—but keeps staying.
+
+Who knows they deserve better—but keeps accepting less.
+
+This book is for the gap between knowing and being.
 
 ---
 
@@ -120,6 +198,12 @@ Where you stop waiting for someone else to make you feel safe—and learn to cre
 That is the bridge.
 
 And you're already on it.
+
+---
+
+## Integration Line
+
+*"Understanding is a gift of perception. It is not a contract of endurance."*
 
 ---
 

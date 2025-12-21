@@ -139,6 +139,12 @@ When you're ready to move from recognition to healing, **[Volume 2: The Bridge](
 - Dating after trauma
 - Building relationships that regulate rather than activate
 
+When you're ready to move from healing to sovereignty, **[Volume 3: Aura, Sovereignty & Embodied Leadership](../vol-3-sovereignty/README.md)** continues with:
+- Installing internal authority
+- Aura boundaries and field regulation
+- Leadership without performance
+- Living from sovereignty
+
 ---
 
 **[Begin Reading →](./00-front-matter.md)**

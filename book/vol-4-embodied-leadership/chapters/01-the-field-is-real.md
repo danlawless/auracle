@@ -236,6 +236,255 @@ Use this when you've absorbed energy that isn't yours.
 
 ---
 
+## Field Note: The Work Meeting
+
+He walks into the weekly department meeting already bracing.
+
+His manager is unpredictable—warm one moment, critical the next. By the end of most meetings, his shoulders are around his ears, his breathing shallow, his mind racing with what he should have said.
+
+He doesn't realize he's been absorbing the room's anxiety since he walked in. He doesn't realize his field has been shaped by decades of hypervigilance in unpredictable environments.
+
+After the meeting, he's irritable with his partner. He snaps at the dog. He can't relax until late evening.
+
+He thinks it's just work stress. It's field porosity he never learned to manage.
+
+---
+
+## Field Note: The Same Meeting, Later
+
+Same room. Same manager. Same unpredictability.
+
+But he arrives differently.
+
+Before entering, he pauses at the door. Takes three breaths. Feels his feet. Reminds himself: *This is their state, not mine.*
+
+During the meeting, he notices when his shoulders rise. He drops them. He notices when his breath shortens. He lengthens it. He notices when he starts scanning the manager's face for threat. He redirects to his own body.
+
+The manager is still unpredictable. But he's no longer absorbing it.
+
+After the meeting, he's tired—but it's a normal tired. His evening is his own.
+
+---
+
+## The Field in Different Contexts
+
+Your field doesn't exist in isolation. It interacts with different environments in different ways.
+
+### At Work
+
+Work environments often contain:
+- Hierarchies that activate survival patterns
+- Ambient stress from deadlines and politics
+- The accumulated fields of everyone present
+- Historical residue (what happened in this room before)
+
+**What to watch for:**
+- Absorbing boss/colleague anxiety
+- Performing competence instead of embodying it
+- Field shrinking in presence of authority
+- Taking on others' urgency as your own
+
+**The practice:** Before meetings, check your state. During, anchor in your body. After, clear what isn't yours.
+
+### With Family of Origin
+
+Family systems have the strongest pull on your field.
+
+They contain:
+- The original templates your field was shaped by
+- Unspoken roles you were assigned decades ago
+- Emotional currents that predate your consciousness
+- The gravitational pull toward who you used to be
+
+**What to watch for:**
+- Instant regression to childhood roles
+- Field collapse or overexpansion
+- Absorbing decades-old dynamics
+- Losing access to adult resources
+
+**The practice:** Before contact, strengthen your adult field. During, stay in present time. After, actively differentiate.
+
+### In Intimate Relationships
+
+Intimacy involves deliberate field overlap—but not merger.
+
+**What to watch for:**
+- Field fusion (losing where you end and they begin)
+- Using their field to regulate yours
+- Shrinking to make space for them
+- Overexpanding to manage their state
+
+**The practice:** Maintain differentiation even in closeness. Love requires two separate fields choosing to be near.
+
+### In Public Spaces
+
+Crowds, transit, shopping centers—all contain accumulated field energy.
+
+**What to watch for:**
+- Absorbing ambient anxiety
+- Hypervigilance draining resources
+- Field contraction for protection
+- Exhaustion disproportionate to activity
+
+**The practice:** Conscious containment. Your field can be permeable without being porous.
+
+---
+
+## Obstacles to Field Coherence
+
+Common blocks that prevent coherence—and what to do about them.
+
+### "I Can't Feel Anything"
+
+You've been dissociated so long, the field seems imaginary.
+
+**What's happening:** Shutdown is a protective state. Your field exists; access to it is blocked.
+
+**What helps:** Start with the body. Feel the chair beneath you. The air on your skin. Temperature. Pressure. Build back to field awareness through physical sensation.
+
+### "I Feel Everything and Can't Stop"
+
+The opposite problem: overwhelming permeability.
+
+**What's happening:** Your field never learned containment. Boundaries weren't modeled or allowed.
+
+**What helps:** Start with distinction, not protection. Ask: "Is this mine or theirs?" before trying to release anything. The differentiation itself creates some containment.
+
+### "It Works Until I'm Around Certain People"
+
+Field coherence collapses with specific people—often family or old partners.
+
+**What's happening:** These people occupy a different relational category in your nervous system. They bypass your adult defenses.
+
+**What helps:** Prepare specifically for these contacts. Extra grounding before. Shorter exposure. Immediate clearing after. Treat these as high-stakes situations requiring extra resources.
+
+### "I Can Do It in Meditation But Not in Real Life"
+
+The controlled environment supports coherence. Life doesn't.
+
+**What's happening:** You're building the skill but haven't generalized it yet. This is normal.
+
+**What helps:** Bridge practices. Do brief field work in progressively challenging environments—first quiet spaces, then mild social contact, then more intense settings. Build the generalization gradually.
+
+---
+
+## Advanced Field Work
+
+For those who've mastered the basics and are ready for more.
+
+### Deliberate Field Expansion
+
+Once containment is stable, you can practice conscious expansion.
+
+**When to use:** When you want to hold space for others, lead a room, or increase presence.
+
+**Practice:**
+1. Ground in your own coherent field first
+2. Imagine your field gently expanding—not pushing, just extending
+3. The expansion is an offering, not an imposition
+4. Maintain your center while the perimeter extends
+5. Notice what happens in the room
+
+**Caution:** Only expand from stability. If your base field isn't coherent, expansion just leaks more.
+
+### Reading Other Fields
+
+With practice, you can consciously perceive others' fields.
+
+**What you're sensing:**
+- Their nervous system state (regulated, activated, collapsed)
+- Their emotional undercurrent
+- The congruence between their words and their field
+- Hidden agendas or withheld information
+
+**How to develop this:**
+1. First, master awareness of your own field
+2. Notice how your field responds to others
+3. Track what you sense before they speak
+4. Verify against what emerges—build accuracy over time
+
+**Important:** This is not mind-reading. It's pattern recognition through somatic awareness. Hold what you perceive lightly.
+
+### Conscious Field Contribution
+
+You can deliberately contribute to group fields.
+
+**Practice:**
+1. Enter a dysregulated space while maintaining your coherence
+2. Rather than absorbing or defending, radiate
+3. Let your regulation be contagious
+4. The most stable nervous system leads the entrainment
+
+**This is embodied leadership in action.**
+
+---
+
+## The Science Goes Deeper
+
+Additional research supporting field phenomena:
+
+### Heart Rate Variability (HRV)
+
+HRV measures the variation in time between heartbeats. High HRV correlates with:
+- Emotional resilience
+- Stress adaptability
+- Capacity for social engagement
+- What we're calling field coherence
+
+Low HRV correlates with:
+- Chronic stress
+- Emotional rigidity
+- Difficulty regulating
+- Field incoherence
+
+**HRV is trainable.** The practices in this book—slow breathing, vagal toning, regulation—directly improve HRV.
+
+### Social Baseline Theory
+
+Research shows that humans neurobiologically expect to face challenges in proximity to trusted others. The brain literally calculates threats differently based on whether support is perceived as available.
+
+**Implication for field work:** Your coherent field doesn't just feel good to others—it changes how their brains process threat.
+
+### Limbic Resonance
+
+In *A General Theory of Love*, Lewis, Amini, and Lannon describe limbic resonance: the capacity for sharing deep emotional states through physiological attunement.
+
+Mammals regulate each other. Your nervous system state genuinely affects others' nervous system states—not metaphorically, but literally.
+
+**This is the field. Science calls it limbic resonance. Both names point to the same reality.**
+
+---
+
+## What This Means for Your Life
+
+Understanding the field changes everything.
+
+**In conflict:** You don't have to match their activation. Your regulation is itself an intervention.
+
+**In intimacy:** Closeness without fusion becomes possible. Two coherent fields, choosing proximity.
+
+**At work:** Your presence becomes an asset. Coherence creates safety for collaboration.
+
+**In family:** Old patterns lose their grip when you maintain adult field coherence.
+
+**In the world:** You stop being a sponge. You become a lighthouse—illuminating, not absorbing.
+
+---
+
+## The Invitation
+
+You've spent your life with an invisible field you didn't know you had.
+
+Others have been shaping it. Environments have been influencing it. Old patterns have been running it.
+
+Now you know it's there. Now you can work with it.
+
+This isn't about becoming defended. It's about becoming deliberate.
+
+**Your field is trainable. Train it.**
+
+---
+
 ## Closing Note for This Chapter
 
 Your field is real.

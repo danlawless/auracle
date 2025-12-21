@@ -165,6 +165,106 @@ When capacity is exceeded, dysregulation often shows up in one or more of these 
 
 ---
 
+## Attachment Learned Through Witnessing
+
+Children don't need to be touched to be trained.
+
+The nervous system learns attachment not only from how the child is treated, but from what the child witnesses. When a mother figure pursues connection through:
+
+- Begging
+- Surveillance
+- Humiliation
+- Desperation
+
+...the child's body absorbs a template for love—long before sexuality or partnership is conscious.
+
+---
+
+### Field Note: The Window
+
+She is still a child.
+
+Her mother climbs onto the bathtub to reach a small window. Outside, a man is leaving. Inside, her mother is pleading for him to stay.
+
+The child watches from the hallway.
+
+No one explains what's happening, but her body records it:
+*Love means chasing. Love means watching. Love means losing yourself to keep someone close.*
+
+Years later, she will feel panic when attachment feels uncertain—without knowing why.
+
+---
+
+### Field Note: The Drive
+
+Her mother finds an address.
+
+She drives with her teenage daughter to a stranger's house. They sit in the car while her mother bangs on the door and windows.
+
+The daughter stays silent. Frozen. Embarrassed.
+
+Later, she struggles to explain why privacy feels fragile—why boundaries feel negotiable—why exposure feels oddly familiar.
+
+Her body learned:
+*Adult intimacy has no containment. Children are pulled into adult pain. Shame is part of connection.*
+
+---
+
+### Neuroscience Sidebar: Attachment Learning Through Observation
+
+Children learn attachment by observing regulation—or collapse—in caregivers.
+
+When a child witnesses:
+- Abandonment panic
+- Begging for connection
+- Surveillance of partners
+- Humiliation in pursuit of attachment
+
+Their brain encodes:
+- Connection = danger
+- Love = instability
+- Safety requires vigilance
+
+This wires the anxious attachment loop long before sexuality or adult relationships begin.
+
+---
+
+### Neuroscience Sidebar: Boundary Collapse & Shame Encoding
+
+Public boundary violations activate:
+- The **insula** (shame processing)
+- The **anterior cingulate cortex** (social pain)
+
+When children are pulled into adult relational chaos:
+- Their nervous system learns enmeshment
+- Their body learns over-responsibility
+- Their sense of self becomes porous
+
+Later in life, this can appear as:
+- Difficulty leaving unsafe sexual or relational situations
+- Confusion about "what's allowed"
+- Shame without a clear cause
+
+---
+
+### The Pattern That Lives Forward
+
+What a child witnesses becomes what they expect.
+
+If love looked like:
+- Pursuit through desperation
+- Tolerating betrayal
+- Sacrificing dignity for connection
+- Pulling children into adult pain
+
+...the adult may later find themselves in relationships that replay these dynamics—not from choice, but from familiarity.
+
+**One-Line Decoder:** *What isn't healed in one generation becomes the atmosphere of the next.*
+
+For deeper exploration of how these patterns affect sexuality and intimacy, see **[Volume 4: Embodied Leadership](../../vol-4-embodied-leadership/README.md)**, Part III: Erotic Coherence.
+
+---
+
 ## What Children Learn in These Systems
 
 Children do not think:

@@ -199,6 +199,77 @@ But something shifted in that kitchen. She chose differently. And he learned—w
 
 ---
 
+## Vignette 8: Wanting What Hurts
+
+She discovers that roughness activates her.
+
+Anger feels familiar. Intensity feels grounding.
+
+Later, she wonders why tenderness feels empty.
+
+Her body learned long ago:
+*Pain equals presence.*
+
+**What this illustrates:**
+- Arousal conditioned to intensity
+- Adrenaline bonding
+- Confusion between activation and desire
+- The cost of trauma-wired sexuality
+
+---
+
+## Vignette 9: The Yes That Made No Sense
+
+She sleeps with someone she doesn't want.
+
+Her body recoils even as she complies.
+
+Afterward, she can't explain why she agreed.
+
+Shame fills the gap where desire should have been.
+
+**What this illustrates:**
+- Fawn response in intimacy
+- Compliance without consent
+- Shame as aftermath signal
+- Survival overriding choice
+
+---
+
+## Vignette 10: Fulfillment Comes Late
+
+Years pass.
+
+Sex happens—often—but not deeply.
+
+When pleasure finally arrives much later in life, it feels surprising. Almost unfamiliar.
+
+As if her body had been waiting.
+
+**What this illustrates:**
+- Delayed access to pleasure
+- Sexuality organized around performance, not presence
+- Healing as gradual return
+- The body's capacity to wait
+
+---
+
+## What These Sexuality Vignettes Reveal
+
+These patterns are not about desire being wrong. They're about desire being wired to survival before it could be wired to pleasure.
+
+**Common threads:**
+- Attraction ≠ compatibility
+- Arousal can be trauma-conditioned
+- Repulsion is a boundary signal
+- Pleasure may be delayed, not broken
+
+*Sexuality here is mourning what was missing.*
+
+For deeper exploration of sexual healing and reclamation, see **[Volume 4: Embodied Leadership](../../vol-4-embodied-leadership/README.md)**, Part III: Erotic Coherence.
+
+---
+
 ## Using These Vignettes
 
 These stories are not meant to diagnose anyone. They're meant to illuminate patterns.

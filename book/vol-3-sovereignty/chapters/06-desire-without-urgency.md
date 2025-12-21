@@ -298,6 +298,120 @@ Clean desire does NOT sound like:
 
 ---
 
+## When Sexual Desire Follows the Same Pattern
+
+Everything in this chapter applies to sexuality.
+
+Sexual energy is not separate from what you've been learning about desire. It runs through the same systems—dopamine, oxytocin, cortisol, adrenaline—and follows the same patterns.
+
+### What Happens to Sexuality as Sovereignty Installs
+
+As regulation increases and urgency fades, sexual desire may also:
+- Feel quieter
+- Lose its compulsive edge
+- Become less fantasy-driven
+- Feel less "necessary"
+
+This can be alarming. You might wonder:
+- "Have I lost my sexuality?"
+- "Am I broken?"
+- "Will I ever feel passion again?"
+
+**What's actually happening:** Sexuality is decoupling from threat.
+
+### Sexuality Wired to Intensity
+
+In dysregulated environments, sexual energy often becomes paired with:
+- Conflict (arousal after arguments)
+- Relief (sex to soothe the nervous system)
+- Power dynamics (attraction to control or submission)
+- Fear (adrenaline mistaken for desire)
+
+This creates intense chemistry. But it's chemistry driven by survival, not intimacy.
+
+### Sexuality After Sovereignty
+
+Sovereign sexuality has distinct qualities:
+- Desire without pressure
+- Arousal without collapse
+- Attraction without self-loss
+- Pleasure without performance
+
+It's slower. More embodied. Less compulsive.
+
+And it doesn't need chaos to ignite.
+
+### When Desire Reorganizes
+
+As sexuality decouples from threat, confusing patterns may surface.
+
+---
+
+**Field Note: Desire Only During the Fight**
+
+She notices a pattern.
+
+Sexual desire returns after conflict. During calm, it fades.
+
+Her partner feels rejected. She feels confused.
+
+Her body is honest:
+*Safety is new. Activation is familiar.*
+
+---
+
+**Field Note: The Quiet Anger**
+
+She senses resentment—unspoken.
+
+Desire stays distant.
+
+Her body is protecting itself.
+
+Sexuality is no longer willing to perform.
+
+---
+
+**Neuroscience Sidebar: State-Dependent Libido**
+
+For nervous systems shaped by chaos:
+- Conflict → adrenaline → arousal
+- Calm → unfamiliar → low libido
+
+This is *state-dependent desire*.
+
+When the nervous system begins healing:
+- Libido may temporarily decrease
+- Arousal waits for safety to stabilize
+
+This is not loss. It's recalibration.
+
+---
+
+**What This Phase Teaches:**
+- Desire doesn't respond to obligation
+- Anger blocks intimacy when unexpressed
+- Calm exposes unresolved truth
+- Libido reflects nervous system safety
+
+*Sexuality here is resetting, not failing.*
+
+**One-Line Integration:** *A nervous system learning safety may pause desire before it restores it.*
+
+### The Transition
+
+Between trauma-wired sexuality and sovereign sexuality, there's often a neutral phase.
+
+Desire is subtle. Fantasy softens. Libido fluctuates.
+
+**This is reorganization, not dysfunction.**
+
+Don't rush it. Desire returns cleaner.
+
+Volume 4 explores this more fully—how sexuality becomes life force when it's no longer managing fear. For now, trust the quiet. It's preparing you for something more real.
+
+---
+
 ## Reader Reflection
 
 - Do I confuse urgency with wanting?

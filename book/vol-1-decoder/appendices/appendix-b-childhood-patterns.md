@@ -267,6 +267,89 @@ That matters.
 
 ---
 
+## When Sexuality Learns Survival Early
+
+For many people, sexuality was never just about pleasure or connection. It became wired to survival long before conscious choice was possible.
+
+When early environments include:
+- Sexual jokes or material without protection or explanation
+- Witnessing adults pursue connection through humiliation or desperation
+- Boundaries that dissolve under attachment threat
+- Attention that feels intrusive or unsafe
+
+...the nervous system learns that sexuality is about managing safety, not experiencing pleasure.
+
+This section names these patterns briefly. Deeper exploration and healing practices are in **Volume 4: Embodied Leadership**.
+
+---
+
+### Field Note: The Trampoline
+
+She is young. A boy wants something she doesn't.
+
+She feels the moment stretch—the risk of disappointing him heavier than her own discomfort.
+
+She agrees without wanting to.
+
+Later, she can't explain why she didn't leave.
+
+She learns something silently:
+*My body is negotiable if it keeps the peace.*
+
+---
+
+### Field Note: The Story That Wasn't Hers
+
+They don't have sex.
+
+Still, he tells people her most private truth—a story she shared because she trusted him.
+
+Her body learns another lesson:
+*Vulnerability can be weaponized.*
+
+Desire becomes guarded. Silence feels safer than truth.
+
+---
+
+### Field Note: The Moment She Gave Up
+
+She has been drinking. He says it's already happening.
+
+She freezes—not from desire, but from resignation.
+
+She says "okay" without meaning yes.
+
+Something quiet breaks.
+
+Later she thinks:
+*I lost something—and I don't know how to name it.*
+
+---
+
+### What These Patterns Teach
+
+These early experiences wire sexuality to:
+- Consent overridden by appeasement
+- Sexuality paired with fear of displeasing
+- Freeze and fawn responses mistaken for choice
+- Dissociation during intimacy
+
+Sexuality here is not pleasure—it is survival.
+
+**One-Line Decoder:** *Sexuality learned under threat organizes around survival, not pleasure.*
+
+---
+
+### Moving Forward
+
+If these patterns feel familiar, know this: your body was adapting, not broken.
+
+What was learned in chaos can be unlearned in safety—slowly, gently, and without force.
+
+For deeper exploration of how sexuality heals and reorganizes, see **[Volume 4: Embodied Leadership](../../vol-4-embodied-leadership/README.md)**, particularly Part III: Erotic Coherence.
+
+---
+
 ## Chapter Summary
 
 **Key Insights:**

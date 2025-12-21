@@ -278,6 +278,76 @@ When a father figure is emotionally unavailable and the system is emotionally im
 
 ---
 
+## The House Without Doors
+
+Some father wounds are not about absence or volatility. They are about boundaries that never existed—particularly around sexuality.
+
+When a father figure:
+- Makes sexually crass jokes without awareness of impact
+- Leaves explicit material accessible to children
+- Creates an atmosphere where sexuality is ambient, not protected
+- Does not provide containment or explanation around adult content
+
+...the child learns something without words:
+*Sexuality is present, but unsafe. Boundaries are unclear. Discomfort has no language.*
+
+---
+
+### Field Note: The House Without Doors
+
+In her home, sexuality is not private.
+
+Her father makes jokes that land too close. Magazines are left out. Videos are accessible.
+
+Nothing is explained. Nothing is named. Nothing is protected.
+
+An older sibling looks uncomfortable. She feels it too—embarrassment, confusion, a quiet shame she can't place.
+
+Once, by accident, a video plays. She freezes. She turns it off. No one notices. No one asks.
+
+Her body learns something without words:
+*Sexuality is present, but unsafe. Boundaries are unclear. Discomfort has no language.*
+
+---
+
+### Neuroscience Sidebar: Sexual Exposure Without Attunement
+
+When children are exposed to sexual material without context, consent, or protection, the nervous system reacts as it would to threat:
+
+- The **amygdala** flags confusion and danger
+- The **hippocampus** encodes memory with emotional charge
+- The **prefrontal cortex** lacks the developmental capacity to integrate meaning
+
+This creates a state of:
+- Heightened alertness
+- Embarrassment without understanding
+- Shame without explanation
+
+**Key insight:** Shame forms not from sexuality itself, but from lack of containment.
+
+---
+
+### Why This Affects Adult Sexuality
+
+Early exposure without safety can later show up as:
+- Dissociation during intimacy
+- Difficulty feeling present or embodied
+- Confusion between humor, objectification, and connection
+- Discomfort asserting boundaries
+
+The nervous system learns:
+- Sexuality is ambient, not chosen
+- Discomfort should be tolerated
+- Boundaries are porous
+
+None of this reflects desire. It reflects early boundary failure.
+
+**One-Line Decoder:** *When sexuality appears without protection, the body learns vigilance instead of pleasure.*
+
+For deeper exploration of how sexuality heals and reorganizes, see **[Volume 4: Embodied Leadership](../../vol-4-embodied-leadership/README.md)**, Part III: Erotic Coherence.
+
+---
+
 ## Releasing the Father Projection
 
 Part of adult sovereignty is recognizing:

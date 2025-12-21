@@ -47,6 +47,50 @@ After discard:
 - They may have a new partner immediately ("supply replacement")
 - They may return ("hoovering") when you start to recover
 
+### Sexualized Control Dynamics
+
+Sexual dynamics in narcissistic relationships are rarely just about sex. They're about power, control, and the maintenance of the bond.
+
+**How sexuality becomes a control mechanism:**
+
+**Withholding as punishment:**
+- Sex withdrawn after conflict (you "don't deserve" closeness)
+- Affection becomes a reward for compliance
+- Physical intimacy used as leverage
+
+**Flooding as control:**
+- Intense sexuality after arguments to "reset" without repair
+- Love bombing through physical connection
+- Creating dependence on their sexual attention
+
+**Criticism disguised as preference:**
+- Comments about your body framed as "helpful"
+- Comparison to others (exes, porn, ideals)
+- "You'd be more attractive if..."
+- Controlling how you dress, groom, present yourself
+
+**Boundary violations normalized:**
+- Pressure presented as passion
+- "I can't help myself around you" (making their behavior your responsibility)
+- Pushing past discomfort and reframing it as desire
+- Your "no" treated as negotiable
+
+**Arousal + Threat:**
+- Physical intimidation that becomes sexual
+- Making up after scary moments feels intensely bonding
+- You can't tell if the arousal is attraction or fear
+
+**The confusion this creates:**
+
+Many people struggle to name what happened because:
+- The sex felt good (bodies respond to stimulation regardless of consent)
+- They didn't say no clearly enough (they froze, fawned, or were confused)
+- The pleasure felt real (and it was—neurochemically)
+- The relationship "wasn't about sex" (so they dismiss the sexual dynamics)
+
+**The truth:**
+Sexuality in a narcissistic relationship is rarely clean. It carries the same patterns as everything else—control disguised as connection, pressure disguised as passion, and relief mistaken for intimacy.
+
 ### Red Flags to Trust
 
 - "I've never felt this way before" (in week one)
@@ -58,6 +102,8 @@ After discard:
 - Criticism disguised as "helping you improve"
 - Rage or coldness that appears without warning
 - Sexual coercion presented as passion
+- Your sexual boundaries treated as suggestions
+- Arousal that feels mixed with fear or confusion
 
 ### The First-Date Audit
 

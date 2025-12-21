@@ -1,4 +1,4 @@
-# Aura, Sovereignty & Embodied Leadership
+# Sovereignty
 
 ## Volume 3: Living From Internal Authority
 
@@ -18,7 +18,7 @@
 | Chapter | Title | Description |
 |---------|-------|-------------|
 | [Chapter 2](./chapters/02-installing-internal-authority.md) | When No One Else Decides | The autonomy gap and authority relocation |
-| [Chapter 3](./chapters/03-aura-boundaries.md) | What Is Mine — And What Is Not | Aura boundaries and emotional ownership |
+| [Chapter 3](./chapters/03-aura-boundaries.md) | What Is Mine — And What Is Not | Emotional ownership and internal boundaries |
 | [Chapter 4](./chapters/04-sovereignty-without-force.md) | Sovereignty Without Force | Power without pressure, stillness without collapse |
 
 ### Part III — Field Regulation
@@ -165,7 +165,7 @@ APPENDICES
 
 Leadership is not performance. It is presence that does not manage the field.
 
-Aura boundaries are not walls. They are the quiet confidence that says:
+Boundaries are not walls. They are the quiet confidence that says:
 
 > *What belongs to you can stay with you. What belongs to me can stay with me.*
 
@@ -213,7 +213,21 @@ This book is grounded in:
 
 ---
 
+## 🔜 What Comes Next
+
+After sovereignty installs, something new becomes possible: living from your presence, not just protecting it.
+
+**[Volume 4: Embodied Leadership](../vol-4-embodied-leadership/README.md)** explores:
+- Aura hygiene and field coherence
+- Sexual energy as life force
+- Erotic boundaries and clean intimacy
+- Magnetism without manipulation
+- Leadership that doesn't perform
+
+Volume 4 is for those who have completed the sovereignty work and are ready to inhabit their full presence.
+
+---
+
 **[Begin Reading →](./00-front-matter.md)**
 
 *"I am not small. I am learning to stand without fear."*
-

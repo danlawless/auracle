@@ -177,6 +177,69 @@ Give it time. Slow burn attraction grows. Fast burn attraction often crashes.
 
 ---
 
+## When Desire Changes During Healing
+
+Many people notice significant changes in their sexuality while dating after trauma:
+
+### Libido May Be Lower
+
+As your nervous system heals:
+- Adrenaline decreases
+- Urgency softens
+- Hyperarousal quiets
+
+This can feel like:
+- Less desire overall
+- Less sexual obsession with new people
+- Less fantasy-driven arousal
+- Less immediate "spark"
+
+**This is not dysfunction. It's your sexuality decoupling from threat.**
+
+### Old Patterns May Surface
+
+You might find yourself:
+- Attracted to intensity that feels familiar (and dangerous)
+- Repulsed by people who feel safe (and "boring")
+- Confused about whether you're attracted or just activated
+- Aroused after conflict or tension (old pattern)
+
+**This is normal.** Your nervous system is still running old programs.
+
+### What Helps
+
+**Go slow with physical intimacy.** Give yourself time to track what's actually happening in your body.
+
+**Notice the difference between activation and desire:**
+- Activation: urgency, racing thoughts, can't stop thinking about them
+- Desire: warmth, curiosity, openness, no pressure
+
+**Don't chase the spark.** The "spark" you're used to might have been fear. Let attraction grow differently.
+
+**Trust the neutral.** If someone feels comfortable but not electric, that might be safety. Give it time before deciding.
+
+### The Grief Beneath This
+
+There may be grief here too:
+- For the intensity you've lost
+- For the passion that was actually danger
+- For the person you were before you knew the difference
+
+Let that grief be felt. It's part of the bridge.
+
+### What Comes Later
+
+As sovereignty installs (Volume 3) and you learn to inhabit your body safely (Volume 4), sexuality reorganizes.
+
+Desire returns—but cleaner:
+- Without urgency
+- Without needing intensity to ignite
+- Without self-loss in the process
+
+For now, just notice. Track what your body does. Trust that confusion is part of the path.
+
+---
+
 ## The Energy Audit
 
 After each date, check your energy:

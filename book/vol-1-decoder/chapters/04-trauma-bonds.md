@@ -154,6 +154,67 @@ This isn't attraction in the healthy sense. It's your body responding to a threa
 
 ---
 
+## Sexuality as a Bonding Accelerant
+
+In trauma-bonded relationships, sexuality often becomes weaponized—not always consciously, but systematically.
+
+Sexual energy is regulated by the same systems as everything else in the bond:
+- **Dopamine** (anticipation, novelty)
+- **Oxytocin** (bonding, closeness)
+- **Cortisol/adrenaline** (threat, urgency)
+
+When these systems are hijacked, sexuality becomes:
+- A regulation strategy (sex calms the system after conflict)
+- A bonding shortcut (closeness without repair)
+- A relief valve (the fight ends in bed)
+- A power signal (who initiates, who withholds)
+
+### The Post-Conflict Sexual Pattern
+
+One of the most confusing patterns in trauma bonds is heightened sexual desire after conflict.
+
+The cycle looks like this:
+1. **Conflict** → cortisol and adrenaline spike
+2. **Resolution** (even false resolution) → relief floods the system
+3. **Sexual energy surges** → dopamine + oxytocin create powerful bonding
+4. **Intimacy** → the nervous system interprets this as "safe again"
+5. **Return to baseline** → until the next cycle
+
+Many people describe this as the most intense, connected sex they've ever had. And that's precisely the problem.
+
+**The intensity comes from the contrast, not the connection.**
+
+You're not experiencing deep intimacy—you're experiencing relief from threat, chemically amplified by arousal.
+
+### Why This Creates Confusion
+
+When someone asks, "Was it all bad?" they often think of the sexual connection.
+
+The sex felt real. The closeness felt real.
+
+And it was real—neurochemically.
+
+But real doesn't mean healthy. The bond was created through a cycle of harm and relief, with sexuality acting as the glue.
+
+**Understanding this doesn't mean the pleasure wasn't genuine.** It means the pleasure was wired to threat.
+
+### What This Means for Recovery
+
+As you heal, sexuality may feel confusing:
+- Attraction to "safe" people may feel flat
+- Arousal may not spike without intensity
+- You may miss the "passion" without understanding what it actually was
+
+This is normal. Your nervous system learned to pair arousal with activation.
+
+In Volume 4, we'll explore how sexuality reorganizes after sovereignty installs—how desire returns without needing threat to feel alive.
+
+For now, just know: if you're confused about why the sex was so good in a relationship that hurt you, it's not because you're broken.
+
+**It's because your nervous system was doing exactly what it's designed to do—bonding you to the source of both danger and relief.**
+
+---
+
 ## Codependency and the Trauma Bond
 
 Trauma bonds often coexist with codependency—a pattern where your sense of self becomes organized around another person's needs.

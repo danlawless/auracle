@@ -175,6 +175,65 @@ The chemistry you feel might actually be:
 
 ---
 
+## When Sexual Energy Gets Tangled
+
+One of the most confusing aspects of leaving a trauma bond is what happens to sexuality.
+
+Sexual energy is regulated by the same systems you've been learning about:
+- The autonomic nervous system
+- Dopamine (anticipation, novelty)
+- Oxytocin (bonding, safety)
+- Cortisol and adrenaline (threat, urgency)
+
+In trauma-adapted systems, sexuality often becomes:
+- A regulation strategy (sex after conflict to restore calm)
+- A bonding shortcut (closeness without repair)
+- A relief valve (the only way to discharge tension)
+- A power or safety signal (who initiates, who receives)
+
+**Not because of desire—but because of nervous system learning.**
+
+### What You Might Notice After Leaving
+
+As you separate from the bond, sexual energy may feel:
+
+**Confusing:**
+- Attraction mixed with repulsion
+- Arousal at memories you don't want to have
+- Sexual fantasies about the person who hurt you
+
+**Absent:**
+- Libido drops significantly
+- Interest in sex decreases
+- The body feels disconnected from desire
+
+**Misdirected:**
+- Seeking intensity with new people
+- Chasing the "spark" that was actually danger
+- Difficulty feeling aroused without conflict or drama
+
+### Why This Happens
+
+Your nervous system learned to pair arousal with threat.
+
+The intensity of post-conflict sex, the relief after fear, the oxytocin flooding after stress—these created powerful neural pathways.
+
+**Sexuality became wired to survival, not pleasure.**
+
+### What Helps
+
+**Don't force it:** If your libido is low, that's your nervous system protecting you while it reorganizes. This is not permanent.
+
+**Separate the strands:** Start noticing when arousal is driven by genuine desire versus relief, urgency, or old patterns.
+
+**Expect a neutral phase:** Between trauma-wired sexuality and healthy sexuality, there's often a quiet period. Desire feels muted. Fantasy softens. This is reorganization, not dysfunction.
+
+**Let desire return slowly:** It will. And when it does, it will feel different—less urgent, less compulsive, more embodied.
+
+In Volume 4, we'll explore how sexuality fully integrates after sovereignty installs. For now, know that confusion is normal, neutrality is progress, and your desire hasn't died—it's healing.
+
+---
+
 ## Breaking the Trauma Bond
 
 Understanding the bond is the first step. Here's what helps:

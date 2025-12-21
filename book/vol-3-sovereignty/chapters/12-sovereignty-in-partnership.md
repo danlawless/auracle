@@ -171,6 +171,76 @@ Most relationship struggles come from collapsing these:
 
 ---
 
+## Sexual Intimacy Without Self-Loss
+
+Physical intimacy is where sovereignty often gets most tested.
+
+For many people, sexuality developed in environments where:
+- Saying no wasn't safe
+- Pleasure required performance
+- Closeness came with conditions
+- Arousal was paired with fear or obligation
+
+These patterns don't disappear in healthy relationships. They surface—sometimes confusingly—with people who are actually safe.
+
+### What Sovereign Sexual Intimacy Looks Like
+
+**Presence over performance:**
+- You're in your body, not watching yourself
+- You can feel pleasure without producing it for them
+- You can pause without the moment breaking
+
+**Boundaries inside the body:**
+- You can feel desire without collapsing into it
+- You can say yes without losing yourself
+- You can say no without guilt or shutdown
+- You can change your mind midway
+
+**Choice without pressure:**
+- No urgency to prove anything
+- Arousal allowed to rise or not
+- Neither of you owes the other pleasure
+- Sex is connection, not transaction
+
+**Desire that belongs to you:**
+- You can want without needing
+- You can initiate without agenda
+- You can receive without performing gratitude
+- Your pleasure matters as much as theirs
+
+### When Old Patterns Emerge
+
+Even with a safe partner, you may notice:
+- Freeze responses during intimacy
+- Dissociation or leaving your body
+- Performance habits (moaning, moving, responding "correctly")
+- Arousal mixed with shame or confusion
+- Difficulty receiving pleasure without giving back
+
+**These are not relationship problems. They're nervous system patterns.**
+
+### A Practice: Sovereignty Check During Intimacy
+
+Before, during, or after physical intimacy, ask:
+- "Am I in my body right now?"
+- "Am I choosing this, or performing it?"
+- "Can I feel pleasure without owing something?"
+- "What would I want if I weren't managing their experience?"
+
+You don't have to voice these. Just notice.
+
+### The Ongoing Work
+
+Sexual sovereignty isn't a destination. It's built through:
+- Small moments of staying present
+- Honest communication (not perfectly, but genuinely)
+- Allowing pauses without panic
+- Trusting your partner can handle your truth
+
+Volume 4 explores this more deeply—erotic coherence, clean intimacy, and sexuality as life force. For now, begin noticing: where do you leave yourself in physical closeness?
+
+---
+
 ## The Repair Practice
 
 Repair is where sovereignty is built.

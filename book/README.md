@@ -1,6 +1,6 @@
 # The Sovereignty Series
 
-Two companion books for understanding, surviving, and healing from narcissistic relationships and trauma bonds.
+A four-volume journey from recognition through embodiment—for those healing from narcissistic relationships, trauma bonds, and dysregulated family systems.
 
 ---
 
@@ -22,6 +22,8 @@ This book helps you:
 
 **Best for:** Those currently in confusing relationships, those beginning to wake up to patterns, anyone who needs to name what's happening.
 
+**Core insight:** *"This wasn't love—this was conditioning."*
+
 ---
 
 ### [Volume 2: The Bridge](./vol-2-bridge/README.md)
@@ -40,6 +42,48 @@ This book helps you:
 
 **Best for:** Those who already understand the patterns but feel stuck, those healing after leaving, anyone building new relationships after trauma.
 
+**Core insight:** *"Leaving hurts because your body learned danger as connection."*
+
+---
+
+### [Volume 3: Sovereignty](./vol-3-sovereignty/README.md)
+**Living From Internal Authority**
+
+*A Guide for Those Ready to Stop Shrinking and Start Standing*
+
+**Focus:** Installing internal authority, holding your field, sovereign choice
+
+This book helps you:
+- Install internal authority without outsourcing decisions
+- Distinguish what is yours to carry and what is not
+- Hold emotional fields without absorbing them
+- Choose from desire rather than activation
+- Lead through presence rather than performance
+
+**Best for:** Those who are no longer in crisis but learning to stand without shrinking, those building sovereign relationships and communities.
+
+**Core insight:** *"You are safe to choose without urgency."*
+
+---
+
+### [Volume 4: Embodied Leadership](./vol-4-embodied-leadership/README.md)
+**Aura, Erotic Coherence & Living From Presence**
+
+*A Guide for Those Ready to Inhabit Their Full Power*
+
+**Focus:** Field coherence, sexuality as life force, magnetism without manipulation, embodied leadership
+
+This book helps you:
+- Understand and train your energy field
+- Reclaim sexual energy as life force, not survival strategy
+- Navigate intimacy without self-loss
+- Lead through coherence rather than tactics
+- Live sovereignty as identity, not practice
+
+**Best for:** Those who have installed sovereignty and are ready to inhabit their full presence—in relationships, groups, and life.
+
+**Core insight:** *"Your presence is erotic when it belongs to you."*
+
 ---
 
 ## Reading Path
@@ -53,8 +97,18 @@ Start with **Volume 2**. The issue isn't recognition—it's nervous system repat
 ### If you're building new relationships after leaving
 **Volume 2** focuses specifically on dating after trauma, partner compatibility, and secure attachment.
 
+### If you've done the healing work but still feel small
+**Volume 3** teaches you to stand in the space you've created—without shrinking, performing, or collapsing.
+
+### If you're ready to live from presence rather than protection
+**Volume 4** is for those who have installed sovereignty and are ready for embodied leadership—in intimacy, groups, and life.
+
 ### If you want the complete journey
-Read both, in order. Volume 1 gives you the language. Volume 2 gives you the practice.
+Read all four, in order:
+- Volume 1 gives you the language
+- Volume 2 gives you the healing
+- Volume 3 gives you the authority
+- Volume 4 gives you the life
 
 ---
 
@@ -62,16 +116,19 @@ Read both, in order. Volume 1 gives you the language. Volume 2 gives you the pra
 
 ```
 /book/
-├── vol-1-decoder/     # The Narcissism Decoder
-├── vol-2-bridge/      # The Bridge
-└── raw/               # Source materials and notes
+├── vol-1-decoder/           # The Narcissism Decoder
+├── vol-2-bridge/            # The Bridge
+├── vol-3-sovereignty/       # Sovereignty
+├── vol-4-embodied-leadership/  # Embodied Leadership
+├── extras/                  # Source materials and notes
+└── release/                 # Marketing and launch materials
 ```
 
 ---
 
 ## Core Philosophy
 
-Both books share these principles:
+All four books share these principles:
 
 1. **You were never the problem.** The patterns you adapted to survive are not character flaws.
 
@@ -83,7 +140,31 @@ Both books share these principles:
 
 5. **Compassion without self-abandonment.** You can hold compassion for others while still protecting yourself.
 
+6. **Sovereignty is not separation.** It is self-trust without urgency.
+
+7. **Your presence is your power.** When you stop managing your impact and start trusting yourself, everything changes.
+
+---
+
+## The Arc
+
+```
+Volume 1: SEE     →  "This wasn't love—this was conditioning."
+Volume 2: HEAL    →  "Leaving hurts because your body learned danger as connection."
+Volume 3: STAND   →  "You are safe to choose without urgency."
+Volume 4: LIVE    →  "Your presence is erotic when it belongs to you."
+```
+
+---
+
+## What Makes This Series Different
+
+- **Trauma-informed throughout.** Every chapter respects where the nervous system is.
+- **Neuroscience-grounded.** Each insight is supported by how the brain actually works.
+- **Practical.** Each chapter includes practices, scripts, and tools you can use immediately.
+- **Sovereignty-first.** The goal is never just healing—it's becoming who you actually are.
+- **Sexuality-integrated.** Volume 4 addresses what happens when life force returns after trauma.
+
 ---
 
 *"You were adapting—and now you are choosing."*
-

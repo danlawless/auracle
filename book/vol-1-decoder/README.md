@@ -133,17 +133,28 @@ APPENDICES
 
 ## 📘 Continue Your Journey
 
-When you're ready to move from recognition to healing, **[Volume 2: The Bridge](../vol-2-bridge/README.md)** continues the journey with:
+This is Volume 1 of 7 in the Sovereignty Series.
+
+When you're ready to move from recognition to healing, **[Volume 2: The Bridge](../vol-2-bridge/README.md)** continues with:
 - Secure attachment training
 - Reparenting practices
 - Dating after trauma
 - Building relationships that regulate rather than activate
 
-When you're ready to move from healing to sovereignty, **[Volume 3: Aura, Sovereignty & Embodied Leadership](../vol-3-sovereignty/README.md)** continues with:
+When you're ready to move from healing to sovereignty, **[Volume 3: Sovereignty](../vol-3-sovereignty/README.md)** continues with:
 - Installing internal authority
 - Aura boundaries and field regulation
 - Leadership without performance
 - Living from sovereignty
+
+The complete series:
+- **Volume 1:** The Narcissism Decoder — *Recognition*
+- **Volume 2:** The Bridge — *Healing*
+- **Volume 3:** Sovereignty — *Standing*
+- **Volume 4:** Embodied Leadership — *Living*
+- **Volume 5:** The Lineage — *Parenting*
+- **Volume 6:** The Guide — *Serving*
+- **Volume 7:** The Return — *Thriving*
 
 ---
 

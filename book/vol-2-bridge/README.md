@@ -214,12 +214,21 @@ This book assumes you have some awareness of narcissistic dynamics, trauma bonds
 
 ## 📗 After This Book
 
-When you're ready to move from healing to sovereignty, **[Volume 3: Aura, Sovereignty & Embodied Leadership](../vol-3-sovereignty/README.md)** continues the journey with:
+When you're ready to move from healing to sovereignty, **[Volume 3: Sovereignty](../vol-3-sovereignty/README.md)** continues the journey with:
 - Installing internal authority
 - Aura boundaries and field regulation
 - Leadership without performance
 - Desire without urgency
 - Living from sovereignty
+
+The complete series:
+- **Volume 1:** The Narcissism Decoder — *Recognition*
+- **Volume 2:** The Bridge — *Healing*
+- **Volume 3:** Sovereignty — *Standing*
+- **Volume 4:** Embodied Leadership — *Living*
+- **Volume 5:** The Lineage — *Parenting*
+- **Volume 6:** The Guide — *Serving*
+- **Volume 7:** The Return — *Thriving*
 
 ---
 

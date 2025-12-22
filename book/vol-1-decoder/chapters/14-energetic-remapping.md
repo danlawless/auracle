@@ -1,4 +1,4 @@
-# Chapter 9: Energetic Remapping — Recovery Tools
+# Chapter 14: Energetic Remapping — Recovery Tools
 
 ## Rewiring Your Nervous System for Freedom
 

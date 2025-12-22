@@ -1,4 +1,4 @@
-# Chapter 11: Practical Responses & Scripts
+# Chapter 15: Practical Responses & Scripts
 
 ## What to Actually Say and Do
 

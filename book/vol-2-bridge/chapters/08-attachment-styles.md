@@ -530,7 +530,7 @@ Training happens through:
 
 ---
 
-## Micro-Vignettes
+## Field Notes
 
 **Anxious Attachment (Dating):**
 They replay the last text, wondering if they said too much. Silence feels personal. They send another message—just to be safe. They check if they're still liked. They can't quite believe they are.

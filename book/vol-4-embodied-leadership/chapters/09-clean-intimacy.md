@@ -574,7 +574,7 @@ For contrast, here's what ineffective repair looks like:
 
 ---
 
-## The Healing Counter-Vignette
+## The Healing Field Note
 
 What does it look like when intimacy heals? Not through dramatic breakthrough—but through quiet, repeated experiences of safety.
 

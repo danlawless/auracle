@@ -111,7 +111,7 @@ Understanding the pattern helps you heal—not to assign blame, but to see clear
 
 The enmeshed mother often experienced emotional neglect or abandonment herself. She seeks from her child the attunement she never received. The child becomes the parent's emotional regulator—a role reversal that feels like love but is actually labor.
 
-**Micro-vignette:** *She cancels plans with friends because her mother sounds sad on the phone. She doesn't notice the pattern until a therapist points it out: her mother's needs always come first. Always. And the guilt she feels when she has her own life—that guilt was installed early, and runs deep.*
+**Field Note:** *She cancels plans with friends because her mother sounds sad on the phone. She doesn't notice the pattern until a therapist points it out: her mother's needs always come first. Always. And the guilt she feels when she has her own life—that guilt was installed early, and runs deep.*
 
 **Healing path:**
 - Practice having preferences without checking if they're acceptable
@@ -143,7 +143,7 @@ The enmeshed mother often experienced emotional neglect or abandonment herself. 
 
 The anxious mother's worry is not really about the child—it's about her own unregulated nervous system. The child becomes the object of projection. Every milestone, every transition, every moment of independence activates her fear. Her "care" is actually fear in disguise.
 
-**Micro-vignette:** *Before she leaves for a trip, her mother sends articles about plane crashes, warnings about dangerous neighborhoods, stories of travelers who never came home. "I'm not trying to scare you," her mother says. "I just saw it and thought of you." But somehow, the trip now feels heavier. Her excitement dulls. Her independence carries guilt.*
+**Field Note:** *Before she leaves for a trip, her mother sends articles about plane crashes, warnings about dangerous neighborhoods, stories of travelers who never came home. "I'm not trying to scare you," her mother says. "I just saw it and thought of you." But somehow, the trip now feels heavier. Her excitement dulls. Her independence carries guilt.*
 
 **Healing path:**
 - Learn to distinguish between your anxiety and anxiety you inherited
@@ -176,7 +176,7 @@ The anxious mother's worry is not really about the child—it's about her own un
 
 The martyr mother never learned that she could have needs and have them met directly. Instead, she learned to sacrifice and resent, give and keep score. The child learns: love is labor, and someone is always owed.
 
-**Micro-vignette:** *"Don't worry about me," her mother says, with a sigh that says worry about me. "I'm fine. I'm used to doing everything myself." The unspoken message: you owe me. You can never repay what I've given. Your independence is ingratitude.*
+**Field Note:** *"Don't worry about me," her mother says, with a sigh that says worry about me. "I'm fine. I'm used to doing everything myself." The unspoken message: you owe me. You can never repay what I've given. Your independence is ingratitude.*
 
 **Healing path:**
 - Ask for what you need directly—not through suffering
@@ -209,7 +209,7 @@ The martyr mother never learned that she could have needs and have them met dire
 
 The withholding mother often received withholding herself. She may have learned that love is dangerous, that closeness hurts, that keeping distance protects. She loves, but she cannot show it in ways the child can receive.
 
-**Micro-vignette:** *She doesn't remember ever hearing "I love you." There were meals on the table, clothes washed, school supplies bought. But no touch. No words. No warmth she could feel. Now, in relationships, she doesn't know what enough looks like. She settles for presence. She calls it love.*
+**Field Note:** *She doesn't remember ever hearing "I love you." There were meals on the table, clothes washed, school supplies bought. But no touch. No words. No warmth she could feel. Now, in relationships, she doesn't know what enough looks like. She settles for presence. She calls it love.*
 
 **Healing path:**
 - Learn what emotional warmth actually feels like (often through other relationships)
@@ -241,7 +241,7 @@ The withholding mother often received withholding herself. She may have learned 
 
 The collapsing mother was not held herself. Her container was never built. She spills, and the child learns to hold what should never have been theirs to carry.
 
-**Micro-vignette:** *She was ten when she started making sure her mother ate. Eleven when she learned to read the signs of a bad day coming. Twelve when she stopped expecting anyone to notice her own feelings. Now she's thirty-five, and she's still the one holding everyone together—while no one holds her.*
+**Field Note:** *She was ten when she started making sure her mother ate. Eleven when she learned to read the signs of a bad day coming. Twelve when she stopped expecting anyone to notice her own feelings. Now she's thirty-five, and she's still the one holding everyone together—while no one holds her.*
 
 **Healing path:**
 - Practice receiving care without immediately giving it back
@@ -274,7 +274,7 @@ The collapsing mother was not held herself. Her container was never built. She s
 
 The critical mother often internalized criticism herself. Her own mother—or culture, or circumstance—installed the belief that worth must be earned through performance. She passes on what she knows.
 
-**Micro-vignette:** *She got 98%. Her mother asked what happened to the other 2%. She got the lead in the play. Her mother asked about the roles she didn't get. Now she's running a company, and the voice in her head still asks: "Yes, but could you have done it better?"*
+**Field Note:** *She got 98%. Her mother asked what happened to the other 2%. She got the lead in the play. Her mother asked about the roles she didn't get. Now she's running a company, and the voice in her head still asks: "Yes, but could you have done it better?"*
 
 **Healing path:**
 - Identify the critical voice as internalized, not true
@@ -306,7 +306,7 @@ The critical mother often internalized criticism herself. Her own mother—or cu
 
 The victimized mother often experienced real harm—but got stuck in the wound. Rather than healing, she organizes her identity around suffering. The child becomes audience, validator, and caretaker of the wound.
 
-**Micro-vignette:** *Every conversation returns to it. What her father did. What her husband did. What life did. Her daughter listens, again, to stories she's heard a hundred times. She's learned that her own joy is a kind of betrayal. How can she be happy when her mother has suffered so much?*
+**Field Note:** *Every conversation returns to it. What her father did. What her husband did. What life did. Her daughter listens, again, to stories she's heard a hundred times. She's learned that her own joy is a kind of betrayal. How can she be happy when her mother has suffered so much?*
 
 **Healing path:**
 - Release responsibility for your parent's unhealed wounds
@@ -338,7 +338,7 @@ The victimized mother often experienced real harm—but got stuck in the wound. 
 
 The absent mother may have been lost to depression, addiction, work, another relationship, or her own trauma. Her absence wasn't necessarily rejection—but to the child's nervous system, it was experienced as abandonment.
 
-**Micro-vignette:** *She was there. Physically. But not there. Her eyes elsewhere. Her attention somewhere he couldn't follow. He learned to stop reaching. Now, in relationships, he notices himself testing: Are you really here? Will you stay? And he can never quite believe the answer is yes.*
+**Field Note:** *She was there. Physically. But not there. Her eyes elsewhere. Her attention somewhere he couldn't follow. He learned to stop reaching. Now, in relationships, he notices himself testing: Are you really here? Will you stay? And he can never quite believe the answer is yes.*
 
 **Healing path:**
 - Grieve the presence you needed and didn't have

@@ -1,6 +1,22 @@
 # Launch Checklist
 
-## Complete Timeline for Volume 1 & Volume 2 Launch
+## Complete Timeline for The Sovereignty Series (4 Volumes)
+
+---
+
+## Overview: Staggered Release Strategy
+
+```
+Week 1-2:    Foundation (Platform Setup)
+Week 3-4:    Volume 1 Launch (The Narcissism Decoder)
+Week 5-10:   Momentum Building + Content Engine
+Week 11-12:  Volume 2 Launch (The Bridge)
+Week 13-18:  Deepening Engagement
+Week 19-20:  Volume 3 Launch (Sovereignty)
+Week 21-26:  Authority Building
+Week 27-28:  Volume 4 Launch (Embodied Leadership)
+Week 29+:    Complete Series Marketing + Future Offerings
+```
 
 ---
 
@@ -44,7 +60,7 @@
 - [ ] Set custom URL: gumroad.com/l/decoder-cards-free
 - [ ] Test download flow
 
-**Book Files**
+**Book Files (Volume 1)**
 - [ ] Finalize manuscript formatting (see `04-formatting-guide.md`)
 - [ ] Convert to EPUB using Atticus or chosen tool
 - [ ] Convert to PDF for Gumroad
@@ -52,7 +68,7 @@
 - [ ] Fix any formatting issues
 
 **Covers**
-- [ ] Finalize ebook cover (2560 x 1600)
+- [ ] Finalize Vol 1 ebook cover (2560 x 1600)
 - [ ] Create Gumroad product image (1600 x 900)
 - [ ] Create social media mockups
 - [ ] Verify readability at thumbnail size
@@ -65,7 +81,7 @@
 
 ---
 
-## Phase 2: Volume 1 Launch
+## Phase 2: Volume 1 Launch (The Narcissism Decoder)
 
 ### Launch Day (Day 0)
 
@@ -86,7 +102,7 @@
 **Evening**
 - [ ] Respond to any comments/questions
 - [ ] Document any issues for fixing
-- [ ] Celebrate 🎉
+- [ ] Celebrate
 
 ---
 
@@ -130,7 +146,7 @@
 
 ---
 
-## Phase 3: Building Momentum (Weeks 2-10)
+## Phase 3: Building Momentum (Weeks 5-10)
 
 ### Weekly Rhythm
 
@@ -161,77 +177,229 @@
 **At 100 Email Subscribers:**
 - [ ] Celebrate publicly
 - [ ] Consider exclusive content for subscribers
-- [ ] Begin planning Volume 2 tease
+- [ ] Begin teasing Volume 2
 
 **At 500 Email Subscribers:**
 - [ ] Significant milestone—share the journey
 - [ ] Prepare Volume 2 launch sequence
 - [ ] Consider waitlist for future offerings
 
-**At 1,000 Email Subscribers:**
-- [ ] You have an audience—congratulations
-- [ ] Consider Substack paid tier
-- [ ] Begin planning coaching/course offering
+---
+
+## Phase 4: Volume 2 Launch (The Bridge) - Weeks 11-12
+
+### Week 9-10: Pre-Launch Preparation
+
+**Book Files (Volume 2)**
+- [ ] Finalize manuscript formatting
+- [ ] Convert to EPUB and PDF
+- [ ] Test in Kindle Previewer
+- [ ] Prepare worksheets as bonus content
+
+**Marketing Prep**
+- [ ] Begin email warm-up sequence (see `06-volume-launch-campaigns.md`)
+- [ ] Tease Vol 2 in newsletter
+- [ ] Upload Vol 2 to platforms (don't publish yet)
+- [ ] Create Vol 1+2 bundle on Gumroad
+
+### Week 11: Launch Week
+
+**Pre-Launch (3 days before)**
+- [ ] Daily countdown content
+- [ ] Final warm-up emails
+- [ ] Notify existing buyers of incoming release
+
+**Volume 2 Launch Day**
+- [ ] Publish Vol 2 on Amazon KDP
+- [ ] Publish Vol 2 on Gumroad
+- [ ] Activate Vol 1+2 bundle ($18.99)
+- [ ] Email full list with launch announcement
+- [ ] Special offer for Vol 1 buyers (bundle upgrade)
+
+**Launch Week Tasks**
+- [ ] Daily social posts
+- [ ] Monitor reviews and sales
+- [ ] Personal outreach for reviews
+- [ ] Celebrate in newsletter
 
 ---
 
-## Phase 4: Volume 2 Launch (Weeks 11-12)
+## Phase 5: Deepening Engagement (Weeks 13-18)
 
-### Week -4 Before Vol 2 Launch
+### Content Focus: The Bridge Themes
 
-- [ ] Begin email warm-up sequence (see `06-vol2-launch-campaign.md`)
-- [ ] Tease Vol 2 in newsletter
-- [ ] Upload Vol 2 to platforms (don't publish yet)
+- [ ] Weekly newsletter on attachment and healing
+- [ ] Social content from Vol 2 chapters
+- [ ] Share reader testimonials
+- [ ] Begin teasing sovereignty themes
 
-### Week -3
+### Preparation for Volume 3
 
-- [ ] Share exclusive preview content
-- [ ] Continue warm-up emails
+**Week 16-17:**
+- [ ] Finalize Vol 3 manuscript
+- [ ] Prepare integration guide as bonus
+- [ ] Create Vol 3 cover assets
+- [ ] Plan sovereignty-themed launch content
 
-### Week -2
+**Week 18:**
+- [ ] Upload Vol 3 to platforms (don't publish)
+- [ ] Begin sovereignty warm-up emails
+- [ ] Create 3-book bundle on Gumroad
 
-- [ ] Open pre-order or interest list
-- [ ] Increase social posting frequency
+---
 
-### Week -1
+## Phase 6: Volume 3 Launch (Sovereignty) - Weeks 19-20
 
-- [ ] Daily countdown content
-- [ ] Final warm-up emails
+### Week 19: Pre-Launch
 
-### Volume 2 Launch Day
+- [ ] Daily sovereignty-themed content
+- [ ] Email sequence highlighting "what comes after healing"
+- [ ] Announce launch date
+- [ ] Offer early access or pre-order to email list
 
-- [ ] Repeat Day 0 checklist for Volume 2
-- [ ] Create bundle offer on Gumroad
-- [ ] Email full list with launch announcement
-- [ ] Special offer for existing customers (bundle discount)
+### Week 20: Launch Week
+
+**Volume 3 Launch Day**
+- [ ] Publish Vol 3 on Amazon KDP
+- [ ] Publish Vol 3 on Gumroad
+- [ ] Activate 3-book bundle ($34.99)
+- [ ] Email full list
+- [ ] Position as "completion of healing arc"
+
+**Launch Week Tasks**
+- [ ] Daily social posts on sovereignty themes
+- [ ] Monitor reviews
+- [ ] Cross-promote previous volumes
+- [ ] Newsletter celebrating the milestone
+
+---
+
+## Phase 7: Authority Building (Weeks 21-26)
+
+### Content Focus: Leadership & Presence
+
+- [ ] Weekly newsletter on sovereignty themes
+- [ ] Social content from Vol 3 chapters
+- [ ] Begin podcast outreach (you now have 3 books)
+- [ ] Consider guest posts or interviews
+
+### Preparation for Volume 4
+
+**Week 23-24:**
+- [ ] Finalize Vol 4 manuscript
+- [ ] Prepare field hygiene menu as bonus
+- [ ] Create Vol 4 cover assets
+- [ ] Plan embodiment-themed launch content
+- [ ] Content warnings/notices for sexuality chapters
+
+**Week 25:**
+- [ ] Upload Vol 4 to platforms (don't publish)
+- [ ] Begin embodiment warm-up emails
+- [ ] Create Complete Series bundle on Gumroad
+
+**Week 26:**
+- [ ] Final warm-up sequence
+- [ ] Announce launch date
+- [ ] Preview content (with appropriate framing)
+
+---
+
+## Phase 8: Volume 4 Launch (Embodied Leadership) - Weeks 27-28
+
+### Week 27: Pre-Launch
+
+- [ ] Daily embodiment-themed content
+- [ ] Email sequence on "living from presence"
+- [ ] Content notice emails about Part III (Erotic Coherence)
+- [ ] Announce this is the final volume
+
+### Week 28: Launch Week
+
+**Volume 4 Launch Day**
+- [ ] Publish Vol 4 on Amazon KDP
+- [ ] Publish Vol 4 on Gumroad
+- [ ] Activate Complete Series bundle ($44.99)
+- [ ] Email full list with "the journey is complete" messaging
+- [ ] Launch coaching/course waitlist
+
+**Launch Week Tasks**
+- [ ] Daily social posts
+- [ ] Celebrate completing the series
+- [ ] Thank readers for the journey
+- [ ] Share what's coming next (future offerings)
+
+---
+
+## Phase 9: Post-Series (Week 29+)
+
+### Ongoing Marketing
+
+- [ ] Complete series as flagship offer
+- [ ] Volume 1 as entry point
+- [ ] Bundle promotions
+- [ ] Seasonal sales
+
+### Future Offerings Development
+
+- [ ] Waitlist for coaching program
+- [ ] Course development (if applicable)
+- [ ] Community/membership consideration
+- [ ] Retreat planning (if applicable)
+
+### Authority Building
+
+- [ ] Podcast guesting (you now have 4 books)
+- [ ] Speaking opportunities
+- [ ] Collaborations with therapists/coaches
+- [ ] Consider paid Substack tier
 
 ---
 
 ## Metrics to Track
 
-### Weekly Tracking
+### Weekly Tracking (Per Volume)
 
 | Metric | Week 1 | Week 2 | Week 3 | Week 4 |
 |--------|--------|--------|--------|--------|
-| Amazon reviews (Vol 1) | | | | |
+| Amazon reviews | | | | |
 | Gumroad sales | | | | |
 | Email subscribers | | | | |
 | Social followers | | | | |
 | Newsletter open rate | | | | |
 
-### 90-Day Goals
+### Per-Volume Goals
 
-- [ ] 25+ Amazon reviews on Volume 1
+| Volume | Amazon Reviews (30 days) | Email Signups | Gumroad Sales |
+|--------|-------------------------|---------------|---------------|
+| Vol 1 | 25+ | 200+ | 50+ |
+| Vol 2 | 25+ | 150+ | 40+ |
+| Vol 3 | 25+ | 100+ | 35+ |
+| Vol 4 | 25+ | 100+ | 35+ |
+
+### Cumulative Goals
+
+**After Volume 2 (Week 12):**
+- [ ] 50+ Amazon reviews total
 - [ ] 500+ email subscribers
-- [ ] 1 podcast/interview appearance
-- [ ] Consistent weekly content rhythm
+- [ ] 1 podcast appearance
 
-### 6-Month Goals
+**After Volume 3 (Week 20):**
+- [ ] 100+ Amazon reviews total
+- [ ] 1,500+ email subscribers
+- [ ] 3 podcast appearances
+- [ ] Consistent weekly content
 
-- [ ] 100+ reviews across both books
-- [ ] 2,000+ email subscribers
-- [ ] Waitlist for coaching/course offering
-- [ ] Revenue covering book production costs
+**After Volume 4 (Week 28):**
+- [ ] 150+ Amazon reviews total
+- [ ] 3,000+ email subscribers
+- [ ] 5+ podcast appearances
+- [ ] Coaching/course waitlist active
+
+**6 Months Post-Series:**
+- [ ] 200+ reviews across all books
+- [ ] 5,000+ email subscribers
+- [ ] First coaching cohort or course launch
+- [ ] Revenue covering all production costs
 
 ---
 
@@ -261,6 +429,13 @@
 3. Post at different times
 4. Ask audience what they want
 
+### If a Volume Launch Underperforms
+1. Extend launch week to 2 weeks
+2. Run a limited-time discount
+3. Bundle with previous volumes
+4. Increase personal outreach
+5. Don't panic—momentum builds over time
+
 ---
 
 ## Success Reminders
@@ -272,8 +447,9 @@
 - Every email subscriber is a person who trusted you
 - Reviews take time—keep asking
 - Comparison is the thief of joy
+- Each volume builds on the last—trust the compound effect
 
-**You wrote two books. You're doing the hard thing. Keep going.**
+**You wrote four books. You're guiding people from confusion to presence. That matters.**
 
 ---
 
@@ -283,15 +459,15 @@
 |----------|---------|
 | `01-platform-setup-guide.md` | Platform setup instructions |
 | `02-decoder-cards-lead-magnet.md` | Free PDF content |
-| `03-book-descriptions.md` | Amazon/Gumroad copy |
+| `03-book-descriptions.md` | Amazon/Gumroad copy for all 4 volumes |
 | `04-formatting-guide.md` | Book formatting |
-| `05-content-calendar.md` | 30 days of content |
-| `06-vol2-launch-campaign.md` | Vol 2 email sequence |
+| `05-content-calendar.md` | Extended content calendar |
+| `06-volume-launch-campaigns.md` | Email sequences for all volume launches |
 | `07-author-bio-versions.md` | Bio templates |
 | `08-substack-welcome-email.md` | Welcome email |
 | `09-substack-start-here-post.md` | Pinned post |
 | `10-social-media-templates.md` | Social content |
-| `11-cover-specifications.md` | Cover specs |
+| `11-cover-specifications.md` | Cover specs for all 4 volumes |
 
 ---
 
@@ -299,5 +475,5 @@
 
 Start with `01-platform-setup-guide.md` and work through in order.
 
-You've got this, Jennifer. 🌴
+The journey of a thousand miles begins with a single step. You've already written the books. Now it's time to share them.
 

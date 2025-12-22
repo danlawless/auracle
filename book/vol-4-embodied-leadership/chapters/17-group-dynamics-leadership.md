@@ -1,4 +1,4 @@
-# Chapter 11: Group Dynamics & Energetic Leadership
+# Chapter 17: Group Dynamics & Energetic Leadership
 
 ## Groups Entrain to the Most Consistent Nervous System, Not the Loudest
 
@@ -690,4 +690,4 @@ This is energetic leadership. And it's available to anyone willing to do the wor
 
 ---
 
-**[Continue to Chapter 12: The Shadow of the Healer →](./12-shadow-of-healer.md)**
+**[Continue to Chapter 18: The Shadow of the Healer →](./18-shadow-of-healer.md)**

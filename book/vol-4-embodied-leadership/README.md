@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ Quick Navigation
+## Quick Navigation
 
 ### Part I — The Field
 | Chapter | Title | Description |
@@ -14,34 +14,40 @@
 | [Front Matter](./00-front-matter.md) | *About This Book* | Who this book is for and how to use it |
 | [Chapter 1](./chapters/01-the-field-is-real.md) | The Field Is Real | Your energy field can be trained |
 | [Chapter 2](./chapters/02-aura-hygiene.md) | Aura Hygiene | Daily practices for energetic clarity |
-| [Chapter 3](./chapters/03-nervous-system-as-engine.md) | The Nervous System as the Aura's Engine | Polyvagal foundations for field coherence |
+| [Chapter 3](./chapters/03-digital-cord-environmental-hygiene.md) | Digital, Cord & Environmental Hygiene | The three domains where most hygiene fails |
+| [Chapter 4](./chapters/04-nervous-system-as-engine.md) | The Nervous System as the Aura's Engine | Polyvagal foundations for field coherence |
+| [Chapter 5](./chapters/05-state-awareness-regulation.md) | State Awareness and Regulation | The practices that move your nervous system |
 
 ### Part II — The Sovereign Body
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 4](./chapters/04-sovereign-yes-no.md) | The Sovereign Yes / The Sovereign No | Boundaries as signals, not lines |
-| [Chapter 5](./chapters/05-sovereign-choice.md) | Sovereign Choice | Decision-making from desire, not shame |
-| [Chapter 6](./chapters/06-detachment-that-loves.md) | Detachment That Still Loves | Caring without carrying |
+| [Chapter 6](./chapters/06-sovereign-yes-no.md) | The Sovereign Yes / The Sovereign No | Boundaries as signals, not lines |
+| [Chapter 7](./chapters/07-holding-the-boundary.md) | Holding the Boundary | The sovereign yes, handling pushback, and building capacity |
+| [Chapter 8](./chapters/08-sovereign-choice.md) | Sovereign Choice | Decision-making from desire, not shame |
+| [Chapter 9](./chapters/09-detachment-that-loves.md) | Detachment That Still Loves | Caring without carrying |
 
 ### Part III — Erotic Coherence
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 7](./chapters/07-sexual-energy-life-force.md) | Sexual Energy as Life Force | When sexuality is no longer hijacked by fear |
-| [Chapter 8](./chapters/08-erotic-boundaries.md) | Erotic Boundaries | Consent as an embodied signal |
-| [Chapter 9](./chapters/09-clean-intimacy.md) | Clean Intimacy | Safety + truth over time |
+| [Chapter 10](./chapters/10-sexual-energy-life-force.md) | Sexual Energy as Life Force | When sexuality is no longer hijacked by fear |
+| [Chapter 11](./chapters/11-sexuality-attachment.md) | Sexuality and Attachment | Intergenerational patterns and attachment styles |
+| [Chapter 12](./chapters/12-erotic-boundaries.md) | Erotic Boundaries | Consent as an embodied signal |
+| [Chapter 13](./chapters/13-erotic-sovereignty.md) | Erotic Sovereignty | Ownership vs. invitation, survival compliance |
+| [Chapter 14](./chapters/14-clean-intimacy.md) | Clean Intimacy | Safety + truth over time |
+| [Chapter 15](./chapters/15-slow-burn.md) | The Slow Burn | The protocol, the repair, and the practices |
 
 ### Part IV — Power Without Narcissism
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 10](./chapters/10-magnetism-without-manipulation.md) | Magnetism Without Manipulation | Coherence, not tactics |
-| [Chapter 11](./chapters/11-group-dynamics-leadership.md) | Group Dynamics & Energetic Leadership | The most consistent nervous system leads |
-| [Chapter 12](./chapters/12-shadow-of-healer.md) | The Shadow of the Healer | When healing work becomes a stage |
+| [Chapter 16](./chapters/16-magnetism-without-manipulation.md) | Magnetism Without Manipulation | Coherence, not tactics |
+| [Chapter 17](./chapters/17-group-dynamics-leadership.md) | Group Dynamics & Energetic Leadership | The most consistent nervous system leads |
+| [Chapter 18](./chapters/18-shadow-of-healer.md) | The Shadow of the Healer | When healing work becomes a stage |
 
 ### Part V — The Path of Embodied Sovereignty
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 13](./chapters/13-repatterning-identity.md) | Repatterning Your Identity | Graduating from old roles |
-| [Chapter 14](./chapters/14-embodied-leadership-life.md) | Embodied Leadership: The Life | Daily practice as the dojo |
+| [Chapter 19](./chapters/19-repatterning-identity.md) | Repatterning Your Identity | Graduating from old roles |
+| [Chapter 20](./chapters/20-embodied-leadership-life.md) | Embodied Leadership: The Life | Daily practice as the dojo |
 
 ### Appendices
 | Appendix | Title | Description |
@@ -54,7 +60,7 @@
 
 ---
 
-## 📖 How to Read This Book
+## How to Read This Book
 
 This book is not about becoming more powerful.
 
@@ -71,7 +77,7 @@ This book teaches you how to embody that.
 
 ---
 
-## 🌟 The Promise
+## The Promise
 
 By the end of this book, you will:
 
@@ -86,62 +92,68 @@ By the end of this book, you will:
 
 ---
 
-## 📚 Book at a Glance
+## Book at a Glance
 
 ```
-PART I: THE FIELD
-├── Front Matter .......... How to use this book
+PART I: THE FIELD (5 chapters)
 ├── Chapter 1 ............. The Field Is Real
 ├── Chapter 2 ............. Aura Hygiene
-└── Chapter 3 ............. The Nervous System as Engine
+├── Chapter 3 ............. Digital, Cord & Environmental Hygiene
+├── Chapter 4 ............. The Nervous System as Engine
+└── Chapter 5 ............. State Awareness and Regulation
 
-PART II: THE SOVEREIGN BODY
-├── Chapter 4 ............. The Sovereign Yes / The Sovereign No
-├── Chapter 5 ............. Sovereign Choice
-└── Chapter 6 ............. Detachment That Still Loves
+PART II: THE SOVEREIGN BODY (4 chapters)
+├── Chapter 6 ............. The Sovereign Yes / The Sovereign No
+├── Chapter 7 ............. Holding the Boundary
+├── Chapter 8 ............. Sovereign Choice
+└── Chapter 9 ............. Detachment That Still Loves
 
-PART III: EROTIC COHERENCE
-├── Chapter 7 ............. Sexual Energy as Life Force
-├── Chapter 8 ............. Erotic Boundaries
-└── Chapter 9 ............. Clean Intimacy
+PART III: EROTIC COHERENCE (6 chapters)
+├── Chapter 10 ............ Sexual Energy as Life Force
+├── Chapter 11 ............ Sexuality and Attachment
+├── Chapter 12 ............ Erotic Boundaries
+├── Chapter 13 ............ Erotic Sovereignty
+├── Chapter 14 ............ Clean Intimacy
+└── Chapter 15 ............ The Slow Burn
 
-PART IV: POWER WITHOUT NARCISSISM
-├── Chapter 10 ............ Magnetism Without Manipulation
-├── Chapter 11 ............ Group Dynamics & Energetic Leadership
-└── Chapter 12 ............ The Shadow of the Healer
+PART IV: POWER WITHOUT NARCISSISM (3 chapters)
+├── Chapter 16 ............ Magnetism Without Manipulation
+├── Chapter 17 ............ Group Dynamics & Energetic Leadership
+└── Chapter 18 ............ The Shadow of the Healer
 
-PART V: THE PATH OF EMBODIED SOVEREIGNTY
-├── Chapter 13 ............ Repatterning Your Identity
-└── Chapter 14 ............ Embodied Leadership: The Life
+PART V: THE PATH OF EMBODIED SOVEREIGNTY (2 chapters)
+├── Chapter 19 ............ Repatterning Your Identity
+└── Chapter 20 ............ Embodied Leadership: The Life
 
 APPENDICES
 ├── Appendix A ............ Field Hygiene Menu
 ├── Appendix B ............ The Consent Ladder
 ├── Appendix C ............ Scripts & Phrases
-└── Appendix D ............ Decoder Cards for Embodied Leadership
+├── Appendix D ............ Decoder Cards for Embodied Leadership
+└── Appendix E ............ Reader Self-Check
 ```
 
 ---
 
-## 🛤️ Reading Paths
+## Reading Paths
 
 Different readers may need different journeys through this material:
 
 ### Quick Start Path (for overwhelmed readers)
-Ch 3 (state) → Ch 4 (yes/no) → Ch 2 (hygiene) → Ch 11 (group dynamics)
+Ch 4 (nervous system) → Ch 6 (yes/no) → Ch 2 (hygiene) → Ch 17 (group dynamics)
 
 ### Relationship Path
-Ch 7 → Ch 8 → Ch 9 → Ch 6
+Ch 10 → Ch 11 → Ch 12 → Ch 13 → Ch 14 → Ch 15 → Ch 9
 
 ### Leadership Path
-Ch 10 → Ch 11 → Ch 12 → Ch 14
+Ch 16 → Ch 17 → Ch 18 → Ch 20
 
 ### Recovery Path
-Ch 2 → Ch 3 → Ch 6 → Ch 13
+Ch 2 → Ch 3 → Ch 4 → Ch 5 → Ch 9 → Ch 19
 
 ---
 
-## 💬 A Note Before You Begin
+## A Note Before You Begin
 
 > *This book is not about adding more to who you are.*
 >
@@ -155,7 +167,7 @@ Ch 2 → Ch 3 → Ch 6 → Ch 13
 
 ---
 
-## 🌉 The Core Principle
+## The Core Principle
 
 **Your aura is not mystical first—it is physiological first.**
 
@@ -165,7 +177,7 @@ This book teaches you to work with that reality deliberately.
 
 ---
 
-## 📘 Before This Book
+## Before This Book
 
 This book assumes you have installed sovereignty.
 
@@ -178,7 +190,7 @@ This book is for those who are no longer protecting themselves but ready to expr
 
 ---
 
-## 🎯 Who This Book Is For
+## Who This Book Is For
 
 This book is written for those who:
 
@@ -192,7 +204,7 @@ This book is written for those who:
 
 ---
 
-## 🧬 The Neuroscience Foundation
+## The Neuroscience Foundation
 
 Each chapter includes a "Neuroscience Lens" section explaining:
 - The physiological basis of energetic phenomena
@@ -208,7 +220,7 @@ This book is grounded in:
 
 ---
 
-## ⚡ The Signature Insight
+## The Signature Insight
 
 **Sexuality heals when it no longer has to regulate fear.**
 
@@ -219,4 +231,3 @@ This volume explores how sexual energy—life force itself—reorganizes once th
 **[Begin Reading →](./00-front-matter.md)**
 
 *"My presence is erotic when it belongs to me."*
-

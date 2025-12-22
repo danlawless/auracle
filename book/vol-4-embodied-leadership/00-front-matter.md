@@ -53,10 +53,10 @@ You don't need to become someone new. You need to inhabit who you've become.
 
 The chapters build on each other, but this book also supports different reading paths depending on what you need:
 
-- **Relationship focus:** Start with Part III (Erotic Coherence)
-- **Leadership focus:** Start with Part IV (Power Without Narcissism)
-- **Quick regulation:** Start with Chapters 2-4
-- **Complete journey:** Read front to back
+- **Relationship focus:** Start with Part III (Erotic Coherence, Chapters 10-15)
+- **Leadership focus:** Start with Part IV (Power Without Narcissism, Chapters 16-18)
+- **Quick regulation:** Start with Chapters 2-5 (Hygiene and Nervous System)
+- **Complete journey:** Read front to back through all 20 chapters
 
 ### Use the Practices
 

@@ -1,4 +1,4 @@
-# Chapter 10: Magnetism Without Manipulation
+# Chapter 16: Magnetism Without Manipulation
 
 ## Coherence, Not Tactics
 
@@ -657,4 +657,4 @@ This is what becomes possible after sovereignty: *A presence so settled that oth
 
 ---
 
-**[Continue to Chapter 11: Group Dynamics & Energetic Leadership →](./11-group-dynamics-leadership.md)**
+**[Continue to Chapter 17: Group Dynamics & Energetic Leadership →](./17-group-dynamics-leadership.md)**

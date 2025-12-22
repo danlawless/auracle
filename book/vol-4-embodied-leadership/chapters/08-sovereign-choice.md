@@ -1,4 +1,4 @@
-# Chapter 5: Sovereign Choice
+# Chapter 8: Sovereign Choice
 
 ## Sovereignty Is Built Through Small, Consistent Choices
 
@@ -645,4 +645,4 @@ That's what it means to be sovereign in a world that wants you to outsource.
 
 ---
 
-**[Continue to Chapter 6: Detachment That Still Loves →](./06-detachment-that-loves.md)**
+**[Continue to Chapter 9: Detachment That Still Loves →](./09-detachment-that-loves.md)**

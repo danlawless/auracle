@@ -1,4 +1,4 @@
-# Chapter 12: The Shadow of the Healer
+# Chapter 18: The Shadow of the Healer
 
 ## Healing Work Can Become a Stage If the Ego Is Running It
 
@@ -636,4 +636,4 @@ And somehow, mysteriously, her presence has become more healing—not less.
 
 ---
 
-**[Continue to Chapter 13: Repatterning Your Identity →](./13-repatterning-identity.md)**
+**[Continue to Chapter 19: Repatterning Your Identity →](./19-repatterning-identity.md)**

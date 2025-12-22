@@ -80,6 +80,20 @@ APPENDICES
 
 ---
 
+## 📎 Appendices
+
+Practical tools you can use immediately—print them, save them, return to them.
+
+| Appendix | Title | Description |
+|----------|-------|-------------|
+| [Appendix A](./appendices/appendix-a-session-hygiene-checklist.md) | Session Hygiene Checklist | Pre-session, during-session, and post-session practices for protecting your field while holding others' healing |
+| [Appendix B](./appendices/appendix-b-red-flags-client-relationships.md) | Red Flags in Client Relationships | Warning signs in clients, in yourself, and in the relationship—what to watch for and what to do |
+| [Appendix C](./appendices/appendix-c-self-assessment-helping-or-hiding.md) | Self-Assessment: Am I Helping or Hiding? | Deep self-examination tool to understand whether you're serving from overflow or hiding behind usefulness |
+| [Appendix D](./appendices/appendix-d-referral-resources-scripts.md) | Referral Resources & Scripts | When and how to refer—decision frameworks, scripts for every situation, building your referral network |
+| [Appendix E](./appendices/appendix-e-decoder-cards-guides.md) | Decoder Cards for Guides | 22 quick-reference cards for common helper challenges—what's happening, what's really going on, what to do |
+
+---
+
 ## 🧠 Neuroscience Foundation
 
 Each chapter should include:
@@ -173,7 +187,7 @@ This is not for those still in acute healing. It's for those ready to serve from
 
 ---
 
-**Status:** Framework Only — Chapters Not Yet Written
+**Status:** Appendices Complete — Chapters In Development
 
 *"Your healing is your credential. Your boundaries are your offering."*
 

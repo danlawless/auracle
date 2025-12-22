@@ -1,4 +1,4 @@
-# Chapter 6: Detachment That Still Loves
+# Chapter 9: Detachment That Still Loves
 
 ## Love Without Entanglement
 
@@ -658,4 +658,4 @@ In fact, that's the only way love sustains.
 
 ---
 
-**[Continue to Chapter 7: Sexual Energy as Life Force →](./07-sexual-energy-life-force.md)**
+**[Continue to Chapter 10: Sexual Energy as Life Force →](./10-sexual-energy-life-force.md)**

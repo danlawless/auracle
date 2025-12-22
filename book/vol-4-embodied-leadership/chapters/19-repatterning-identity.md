@@ -1,4 +1,4 @@
-# Chapter 13: Repatterning Your Identity
+# Chapter 19: Repatterning Your Identity
 
 ## You Don't Heal a Pattern—You Graduate From an Identity
 
@@ -557,5 +557,5 @@ And so are you.
 
 ---
 
-**[Continue to Chapter 14: Embodied Leadership: The Life →](./14-embodied-leadership-life.md)**
+**[Continue to Chapter 20: Embodied Leadership: The Life →](./20-embodied-leadership-life.md)**
 

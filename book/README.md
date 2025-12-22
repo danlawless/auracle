@@ -1,6 +1,6 @@
 # The Sovereignty Series
 
-A four-volume journey from recognition through embodiment—for those healing from narcissistic relationships, trauma bonds, and dysregulated family systems.
+A seven-volume journey from recognition through embodiment and beyond—for those healing from narcissistic relationships, trauma bonds, and dysregulated family systems.
 
 ---
 
@@ -86,6 +86,74 @@ This book helps you:
 
 ---
 
+## Future Volumes (In Development)
+
+### [Volume 5: The Lineage](./vol-5-lineage/README.md) 🚧
+**Breaking the Chain — Parenting After Trauma**
+
+*A Guide for Those Ready to Give Their Children What They Never Received*
+
+**Focus:** Conscious parenting, breaking generational cycles, repair over perfection
+
+This book will help you:
+- Parent while still healing
+- Recognize when your child activates old wounds
+- Repair after ruptures without shame spiraling
+- Co-parent with a narcissistic ex
+- Break the chain of generational trauma consciously
+
+**Best for:** Those who are parenting while healing, those who fear repeating their parents' patterns, anyone raising children after trauma.
+
+**Core insight:** *"You don't have to be healed to be a good parent. You have to be healing."*
+
+**Status:** Framework complete, chapters not yet written
+
+---
+
+### [Volume 6: The Guide](./vol-6-guide/README.md) 🚧
+**Holding Others' Healing Without Losing Your Own**
+
+*A Guide for Those Called to Help Others on This Path*
+
+**Focus:** Sustainable helping, the shadow of the healer, boundaried presence
+
+This book will help you:
+- Understand why trauma survivors become helpers
+- Recognize when helping becomes hiding
+- Navigate the ethics of lived-experience guidance
+- Build sustainable practices that don't burn you out
+- Create content that serves without performing
+
+**Best for:** Those becoming therapists, coaches, or guides; content creators; the friend everyone comes to; anyone feeling called to help others heal.
+
+**Core insight:** *"You cannot give what you don't have. Your healing is your offering."*
+
+**Status:** Framework complete, chapters not yet written
+
+---
+
+### [Volume 7: The Return](./vol-7-return/README.md) 🚧
+**Money, Work & Building a Life After Survival Mode**
+
+*A Guide for Those Ready to Thrive, Not Just Survive*
+
+**Focus:** Financial recovery, career identity, prosperity after trauma
+
+This book will help you:
+- Recover from financial abuse
+- Retrain the scarcity nervous system
+- Rebuild professional identity after trauma
+- Build a business or career from sovereignty
+- Receive abundance without guilt
+
+**Best for:** Those rebuilding financially after abuse, those who lost career development to a relationship, anyone ready to let their outer life match their inner healing.
+
+**Core insight:** *"You are allowed to thrive, not just survive."*
+
+**Status:** Framework complete, chapters not yet written
+
+---
+
 ## Reading Path
 
 ### If you're currently confused or in crisis
@@ -103,12 +171,24 @@ Start with **Volume 2**. The issue isn't recognition—it's nervous system repat
 ### If you're ready to live from presence rather than protection
 **Volume 4** is for those who have installed sovereignty and are ready for embodied leadership—in intimacy, groups, and life.
 
+### If you're parenting while healing
+**Volume 5** *(coming soon)* will address breaking generational cycles and conscious parenting after trauma.
+
+### If you're called to help others heal
+**Volume 6** *(coming soon)* will guide you in sustainable, boundaried helping work.
+
+### If you're rebuilding your material life
+**Volume 7** *(coming soon)* will address financial recovery and career after trauma.
+
 ### If you want the complete journey
-Read all four, in order:
-- Volume 1 gives you the language
-- Volume 2 gives you the healing
-- Volume 3 gives you the authority
-- Volume 4 gives you the life
+Read all seven, in order:
+- Volume 1 gives you the **language**
+- Volume 2 gives you the **healing**
+- Volume 3 gives you the **authority**
+- Volume 4 gives you the **life**
+- Volume 5 gives you the **legacy**
+- Volume 6 gives you the **purpose**
+- Volume 7 gives you the **prosperity**
 
 ---
 
@@ -116,19 +196,22 @@ Read all four, in order:
 
 ```
 /book/
-├── vol-1-decoder/           # The Narcissism Decoder
-├── vol-2-bridge/            # The Bridge
-├── vol-3-sovereignty/       # Sovereignty
-├── vol-4-embodied-leadership/  # Embodied Leadership
-├── extras/                  # Source materials and notes
-└── release/                 # Marketing and launch materials
+├── vol-1-decoder/              # The Narcissism Decoder ✅
+├── vol-2-bridge/               # The Bridge ✅
+├── vol-3-sovereignty/          # Sovereignty ✅
+├── vol-4-embodied-leadership/  # Embodied Leadership ✅
+├── vol-5-lineage/              # The Lineage 🚧
+├── vol-6-guide/                # The Guide 🚧
+├── vol-7-return/               # The Return 🚧
+├── extras/                     # Source materials and notes
+└── release/                    # Marketing and launch materials
 ```
 
 ---
 
 ## Core Philosophy
 
-All four books share these principles:
+All seven books share these principles:
 
 1. **You were never the problem.** The patterns you adapted to survive are not character flaws.
 
@@ -144,6 +227,10 @@ All four books share these principles:
 
 7. **Your presence is your power.** When you stop managing your impact and start trusting yourself, everything changes.
 
+8. **Breaking the chain is possible.** You can give others what you never received.
+
+9. **Thriving is not betrayal.** You are allowed to build a beautiful life.
+
 ---
 
 ## The Arc
@@ -153,6 +240,9 @@ Volume 1: SEE     →  "This wasn't love—this was conditioning."
 Volume 2: HEAL    →  "Leaving hurts because your body learned danger as connection."
 Volume 3: STAND   →  "You are safe to choose without urgency."
 Volume 4: LIVE    →  "Your presence is erotic when it belongs to you."
+Volume 5: GIVE    →  "You don't have to be healed to be a good parent. You have to be healing."
+Volume 6: SERVE   →  "Your healing is your credential. Your boundaries are your offering."
+Volume 7: THRIVE  →  "You are allowed to thrive, not just survive."
 ```
 
 ---
@@ -164,6 +254,23 @@ Volume 4: LIVE    →  "Your presence is erotic when it belongs to you."
 - **Practical.** Each chapter includes practices, scripts, and tools you can use immediately.
 - **Sovereignty-first.** The goal is never just healing—it's becoming who you actually are.
 - **Sexuality-integrated.** Volume 4 addresses what happens when life force returns after trauma.
+- **Generational.** Volume 5 addresses breaking cycles for future generations.
+- **Sustainable.** Volumes 6 and 7 address long-term flourishing, not just survival.
+
+---
+
+## Series Statistics
+
+| Volume | Status | Words | Pages |
+|--------|--------|------:|------:|
+| Vol 1: Decoder | ✅ Complete | ~65,000 | ~238 |
+| Vol 2: Bridge | ✅ Complete | ~99,000 | ~360 |
+| Vol 3: Sovereignty | ✅ Complete | ~69,000 | ~251 |
+| Vol 4: Embodied Leadership | ✅ Complete | ~65,000 | ~238 |
+| Vol 5: Lineage | 🚧 Framework | — | — |
+| Vol 6: Guide | 🚧 Framework | — | — |
+| Vol 7: Return | 🚧 Framework | — | — |
+| **Total (Vols 1-4)** | | **~299,000** | **~1,087** |
 
 ---
 

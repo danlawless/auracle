@@ -78,6 +78,20 @@ APPENDICES
 
 ---
 
+## 📎 Appendices
+
+Practical tools you can use immediately—print them, save them, return to them.
+
+| Appendix | Title | Description |
+|----------|-------|-------------|
+| [Appendix A](./appendices/appendix-a-age-specific-scripts.md) | Age-Specific Scripts | What to say from toddler through teen—developmental lens, common scenarios, scripts for every age |
+| [Appendix B](./appendices/appendix-b-repair-templates.md) | Repair Conversation Templates | How to come back after rupture—anatomy of repair, age-specific considerations, 10+ templated scripts |
+| [Appendix C](./appendices/appendix-c-parent-regulation-tools.md) | Self-Regulation for Parents | Quick tools for when you're triggered—seconds to minutes, for when you can't leave, prevention strategies |
+| [Appendix D](./appendices/appendix-d-coparenting-red-flags.md) | Co-Parenting Red Flags | Warning signs with difficult co-parents, documentation practices, boundary scripts, protecting children |
+| [Appendix E](./appendices/appendix-e-decoder-cards-parenting.md) | Decoder Cards for Parenting | 22 quick-reference cards for common parenting triggers—what's really going on, what to do, anchor phrases |
+
+---
+
 ## 🧠 Neuroscience Foundation
 
 Each chapter should include:
@@ -169,7 +183,7 @@ This is not a beginner's parenting book. It's for those who understand their own
 
 ---
 
-**Status:** Framework Only — Chapters Not Yet Written
+**Status:** Appendices Complete — Chapters In Development
 
 *"The chain breaks with you. Not because you're perfect, but because you're aware."*
 

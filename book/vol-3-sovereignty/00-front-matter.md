@@ -111,13 +111,13 @@ It was meant to help you come home.
 - Start with [Chapter 3: What Is Mine — And What Is Not](./chapters/03-aura-boundaries.md)
 
 **If you confuse urgency with desire:**
-- Start with [Chapter 6: Desire Without Urgency](./chapters/06-desire-without-urgency.md)
+- Start with [Chapter 7: Desire Without Urgency](./chapters/07-desire-without-urgency.md)
 
 **If you feel guilty after choosing yourself:**
-- Start with [Chapter 8: Guilt, Separation & Emotional Contracts](./chapters/08-guilt-separation-contracts.md)
+- Start with [Chapter 9: Guilt, Separation & Emotional Contracts](./chapters/09-guilt-separation-contracts.md)
 
 **If you perform instead of lead:**
-- Start with [Chapter 9: Leadership Without Performing](./chapters/09-leadership-without-performing.md)
+- Start with [Chapter 11: Leadership Without Performing](./chapters/11-leadership-without-performing.md)
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter 5B: When Triggers Return
+# Chapter 6: When Triggers Return
 
 ## Navigating Activation From a Sovereign Place
 
@@ -629,5 +629,5 @@ It's there, waiting for you to remember.
 
 ---
 
-**[Continue to Chapter 6: Desire Without Urgency →](./06-desire-without-urgency.md)**
+**[Continue to Chapter 7: Desire Without Urgency →](./07-desire-without-urgency.md)**
 

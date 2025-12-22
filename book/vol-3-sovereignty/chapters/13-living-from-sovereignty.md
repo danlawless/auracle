@@ -1,4 +1,4 @@
-# Chapter 10: Living From Sovereignty
+# Chapter 13: Living From Sovereignty
 
 ## The Closing Chapter
 
@@ -475,5 +475,5 @@ And you are ready.
 
 ---
 
-**[Continue to Chapter 11: Epilogue + Reader Blessing →](./11-epilogue.md)**
+**[Continue to Chapter 14: Sovereignty in Intimate Partnership →](./14-sovereignty-in-partnership.md)**
 

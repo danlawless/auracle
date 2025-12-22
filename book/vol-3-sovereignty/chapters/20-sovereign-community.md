@@ -1,4 +1,4 @@
-# Chapter 18: The Sovereign Community
+# Chapter 20: The Sovereign Community
 
 ## Finding and Building Your People
 
@@ -574,4 +574,4 @@ Community is coming.
 
 ---
 
-**[Continue to the Epilogue →](./11-epilogue.md)**
+**[Continue to Chapter 21: Epilogue + Reader Blessing →](./21-epilogue.md)**

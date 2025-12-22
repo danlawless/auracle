@@ -1,4 +1,4 @@
-# Chapter 9B: Creativity & Purpose From Sovereignty
+# Chapter 12: Creativity & Purpose From Sovereignty
 
 ## Work, Meaning, and Self-Expression
 
@@ -505,5 +505,5 @@ Because it's who you are.
 
 ---
 
-**[Continue to Chapter 10: Living From Sovereignty →](./10-living-from-sovereignty.md)**
+**[Continue to Chapter 13: Living From Sovereignty →](./13-living-from-sovereignty.md)**
 

@@ -25,34 +25,34 @@
 | Chapter | Title | Description |
 |---------|-------|-------------|
 | [Chapter 5](./chapters/05-holding-the-field.md) | Holding the Field Without Absorbing It | Emotional contagion and co-regulation |
-| [Chapter 5B](./chapters/05b-when-triggers-return.md) | When Triggers Return | Navigating activation from a sovereign place |
-| [Chapter 6](./chapters/06-desire-without-urgency.md) | Desire Without Urgency | When calm replaces intensity |
-| [Chapter 7](./chapters/07-soothing-and-regulation.md) | Soothing & Regulation | Addiction, relief-seeking, and conscious soothing |
+| [Chapter 6](./chapters/06-when-triggers-return.md) | When Triggers Return | Navigating activation from a sovereign place |
+| [Chapter 7](./chapters/07-desire-without-urgency.md) | Desire Without Urgency | When calm replaces intensity |
+| [Chapter 8](./chapters/08-soothing-and-regulation.md) | Soothing & Regulation | Addiction, relief-seeking, and conscious soothing |
 
 ### Part IV — Sovereign Integration
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 8](./chapters/08-guilt-separation-contracts.md) | Guilt, Separation & Emotional Contracts | Ending invisible agreements |
-| [Chapter 8B](./chapters/08b-voice-of-authority.md) | The Voice of Internal Authority | What your sovereign voice sounds like |
-| [Chapter 9](./chapters/09-leadership-without-performing.md) | Leadership Without Performing | Presence over performance |
-| [Chapter 9B](./chapters/09b-creativity-from-sovereignty.md) | Creativity & Purpose From Sovereignty | Work, meaning, and self-expression |
-| [Chapter 10](./chapters/10-living-from-sovereignty.md) | Living From Sovereignty | The closing chapter of Part IV |
+| [Chapter 9](./chapters/09-guilt-separation-contracts.md) | Guilt, Separation & Emotional Contracts | Ending invisible agreements |
+| [Chapter 10](./chapters/10-voice-of-authority.md) | The Voice of Internal Authority | What your sovereign voice sounds like |
+| [Chapter 11](./chapters/11-leadership-without-performing.md) | Leadership Without Performing | Presence over performance |
+| [Chapter 12](./chapters/12-creativity-from-sovereignty.md) | Creativity & Purpose From Sovereignty | Work, meaning, and self-expression |
+| [Chapter 13](./chapters/13-living-from-sovereignty.md) | Living From Sovereignty | The closing chapter of Part IV |
 
 ### Part V — Relational Sovereignty
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 12](./chapters/12-sovereignty-in-partnership.md) | Sovereignty in Intimate Partnership | Closeness without collapse |
-| [Chapter 13](./chapters/13-sovereignty-with-family.md) | Sovereignty With Family of Origin | New dynamics with old systems |
-| [Chapter 14](./chapters/14-sovereignty-at-work.md) | Sovereignty at Work | Authority without armor |
-| [Chapter 15](./chapters/15-navigating-dysregulation.md) | Navigating Others' Dysregulation | When they haven't done the work |
-| [Chapter 16](./chapters/16-holding-space.md) | Holding Space Without Rescuing | The difference between support and absorption |
-| [Chapter 17](./chapters/17-teaching-without-converting.md) | Teaching Without Converting | Sharing the path without preaching |
-| [Chapter 18](./chapters/18-sovereign-community.md) | The Sovereign Community | Finding and building your people |
+| [Chapter 14](./chapters/14-sovereignty-in-partnership.md) | Sovereignty in Intimate Partnership | Closeness without collapse |
+| [Chapter 15](./chapters/15-sovereignty-with-family.md) | Sovereignty With Family of Origin | New dynamics with old systems |
+| [Chapter 16](./chapters/16-sovereignty-at-work.md) | Sovereignty at Work | Authority without armor |
+| [Chapter 17](./chapters/17-navigating-dysregulation.md) | Navigating Others' Dysregulation | When they haven't done the work |
+| [Chapter 18](./chapters/18-holding-space.md) | Holding Space Without Rescuing | The difference between support and absorption |
+| [Chapter 19](./chapters/19-teaching-without-converting.md) | Teaching Without Converting | Sharing the path without preaching |
+| [Chapter 20](./chapters/20-sovereign-community.md) | The Sovereign Community | Finding and building your people |
 
 ### Part VI — Closing
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 19](./chapters/11-epilogue.md) | Epilogue + Reader Blessing | A word before you go |
+| [Chapter 21](./chapters/21-epilogue.md) | Epilogue + Reader Blessing | A word before you go |
 
 ### Appendices
 | Appendix | Title | Description |
@@ -112,28 +112,28 @@ PART II: INSTALLING AUTHORITY
 
 PART III: FIELD REGULATION
 ├── Chapter 5 ............. Holding the Field Without Absorbing It
-├── Chapter 5B ............ When Triggers Return
-├── Chapter 6 ............. Desire Without Urgency
-└── Chapter 7 ............. Soothing & Regulation
+├── Chapter 6 ............. When Triggers Return
+├── Chapter 7 ............. Desire Without Urgency
+└── Chapter 8 ............. Soothing & Regulation
 
 PART IV: SOVEREIGN INTEGRATION
-├── Chapter 8 ............. Guilt, Separation & Emotional Contracts
-├── Chapter 8B ............ The Voice of Internal Authority
-├── Chapter 9 ............. Leadership Without Performing
-├── Chapter 9B ............ Creativity & Purpose From Sovereignty
-└── Chapter 10 ............ Living From Sovereignty
+├── Chapter 9 ............. Guilt, Separation & Emotional Contracts
+├── Chapter 10 ............ The Voice of Internal Authority
+├── Chapter 11 ............ Leadership Without Performing
+├── Chapter 12 ............ Creativity & Purpose From Sovereignty
+└── Chapter 13 ............ Living From Sovereignty
 
 PART V: RELATIONAL SOVEREIGNTY
-├── Chapter 12 ............ Sovereignty in Intimate Partnership
-├── Chapter 13 ............ Sovereignty With Family of Origin
-├── Chapter 14 ............ Sovereignty at Work
-├── Chapter 15 ............ Navigating Others' Dysregulation
-├── Chapter 16 ............ Holding Space Without Rescuing
-├── Chapter 17 ............ Teaching Without Converting
-└── Chapter 18 ............ The Sovereign Community
+├── Chapter 14 ............ Sovereignty in Intimate Partnership
+├── Chapter 15 ............ Sovereignty With Family of Origin
+├── Chapter 16 ............ Sovereignty at Work
+├── Chapter 17 ............ Navigating Others' Dysregulation
+├── Chapter 18 ............ Holding Space Without Rescuing
+├── Chapter 19 ............ Teaching Without Converting
+└── Chapter 20 ............ The Sovereign Community
 
 PART VI: CLOSING
-└── Chapter 19 ............ Epilogue + Reader Blessing
+└── Chapter 21 ............ Epilogue + Reader Blessing
 
 APPENDICES
 ├── Appendix A ............ One-Page Integration Guide

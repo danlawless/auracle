@@ -2,8 +2,8 @@ import Link from 'next/link';
 import { volumes } from './chapters';
 
 export const metadata = {
-  title: 'The Auracle Series | Reader',
-  description: 'A four-volume journey from recognition through healing to sovereignty and embodied leadership.',
+  title: 'The Sovereignty Series | Reader',
+  description: 'A seven-volume journey from recognition through healing to sovereignty, embodied leadership, and beyond.',
 };
 
 const volumeColors = [
@@ -11,6 +11,19 @@ const volumeColors = [
   { gradient: 'from-amber-500 to-orange-600', bg: 'bg-amber-50', border: 'border-amber-200', text: 'text-amber-700' },
   { gradient: 'from-emerald-500 to-teal-600', bg: 'bg-emerald-50', border: 'border-emerald-200', text: 'text-emerald-700' },
   { gradient: 'from-violet-500 to-purple-600', bg: 'bg-violet-50', border: 'border-violet-200', text: 'text-violet-700' },
+  { gradient: 'from-sky-500 to-blue-600', bg: 'bg-sky-50', border: 'border-sky-200', text: 'text-sky-700' },
+  { gradient: 'from-fuchsia-500 to-pink-600', bg: 'bg-fuchsia-50', border: 'border-fuchsia-200', text: 'text-fuchsia-700' },
+  { gradient: 'from-lime-500 to-green-600', bg: 'bg-lime-50', border: 'border-lime-200', text: 'text-lime-700' },
+];
+
+const volumeKeywords = [
+  'SEE',
+  'HEAL',
+  'STAND',
+  'LIVE',
+  'GIVE',
+  'SERVE',
+  'THRIVE',
 ];
 
 export default function ReaderPage() {
@@ -20,20 +33,29 @@ export default function ReaderPage() {
       <section className="pt-24 pb-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h1 className="font-serif text-4xl md:text-5xl text-deep-purple mb-4">
-            The Auracle Series
+            The Sovereignty Series
           </h1>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            A four-volume journey from recognizing manipulation patterns through healing 
-            attachment wounds to living from sovereignty and embodied presence.
+          <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-6">
+            A seven-volume journey from recognizing manipulation patterns through healing, 
+            sovereignty, embodied leadership, parenting, helping others, and building prosperity.
           </p>
+          <div className="flex flex-wrap justify-center gap-2 text-sm text-gray-500">
+            {volumeKeywords.map((keyword, index) => (
+              <span key={keyword} className="flex items-center gap-1">
+                <span className={`font-semibold ${volumeColors[index].text}`}>{keyword}</span>
+                {index < volumeKeywords.length - 1 && <span className="text-gray-300">→</span>}
+              </span>
+            ))}
+          </div>
         </div>
       </section>
 
       {/* Volume Grid */}
       <section className="pb-24 px-6">
-        <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-8">
+        <div className="max-w-7xl mx-auto grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {volumes.map((volume, index) => {
             const colors = volumeColors[index];
+            const keyword = volumeKeywords[index];
             const chapterCount = volume.chapters.filter(c => c.type === 'chapter').length;
             const appendixCount = volume.chapters.filter(c => c.type === 'appendix').length;
 
@@ -43,7 +65,7 @@ export default function ReaderPage() {
                 href={`/reader/${volume.id}`}
                 className={`
                   group relative overflow-hidden rounded-2xl ${colors.bg} ${colors.border} border-2
-                  p-8 transition-all duration-300 hover:shadow-xl hover:scale-[1.02]
+                  p-6 transition-all duration-300 hover:shadow-xl hover:scale-[1.02]
                 `}
               >
                 {/* Volume Number Badge */}
@@ -54,18 +76,23 @@ export default function ReaderPage() {
                   {index + 1}
                 </div>
 
+                {/* Keyword Badge */}
+                <div className={`inline-block px-2 py-1 rounded text-xs font-bold ${colors.text} bg-white/50 mb-3`}>
+                  {keyword}
+                </div>
+
                 {/* Content */}
-                <div className="space-y-4">
+                <div className="space-y-3">
                   <div>
-                    <h2 className={`font-serif text-2xl ${colors.text} mb-1`}>
+                    <h2 className={`font-serif text-xl ${colors.text} mb-1`}>
                       {volume.title}
                     </h2>
-                    <p className="text-sm font-medium text-gray-500 uppercase tracking-wider">
+                    <p className="text-xs font-medium text-gray-500 uppercase tracking-wider">
                       {volume.subtitle}
                     </p>
                   </div>
 
-                  <p className="text-gray-600 text-sm leading-relaxed">
+                  <p className="text-gray-600 text-sm leading-relaxed line-clamp-2">
                     {volume.description}
                   </p>
 
@@ -109,31 +136,65 @@ export default function ReaderPage() {
       <section className="pb-24 px-6">
         <div className="max-w-4xl mx-auto">
           <div className="bg-white rounded-2xl border border-soft-lavender/30 p-8 shadow-sm">
-            <h3 className="font-serif text-xl text-deep-purple mb-4">
+            <h3 className="font-serif text-xl text-deep-purple mb-6">
               Your Reading Journey
             </h3>
-            <div className="space-y-4 text-gray-600 text-sm">
+            <div className="grid md:grid-cols-2 gap-4 text-gray-600 text-sm">
               <p>
-                <strong className="text-deep-purple">Volume 1</strong> helps you recognize and name 
+                <strong className="text-rose-700">Volume 1: SEE</strong> — Recognize and name 
                 the patterns of manipulation you've experienced.
               </p>
               <p>
-                <strong className="text-deep-purple">Volume 2</strong> guides you through healing 
+                <strong className="text-amber-700">Volume 2: HEAL</strong> — Guide you through healing 
                 attachment wounds and learning secure connection.
               </p>
               <p>
-                <strong className="text-deep-purple">Volume 3</strong> installs internal authority 
-                and teaches you to live from sovereignty.
+                <strong className="text-emerald-700">Volume 3: STAND</strong> — Install internal authority 
+                and teach you to live from sovereignty.
               </p>
               <p>
-                <strong className="text-deep-purple">Volume 4</strong> explores embodied leadership, 
+                <strong className="text-violet-700">Volume 4: LIVE</strong> — Explore embodied leadership, 
                 aura coherence, and living from full presence.
+              </p>
+              <p>
+                <strong className="text-sky-700">Volume 5: GIVE</strong> — Break generational cycles 
+                and parent consciously after trauma.
+              </p>
+              <p>
+                <strong className="text-fuchsia-700">Volume 6: SERVE</strong> — Help others heal 
+                without losing yourself in the process.
+              </p>
+              <p className="md:col-span-2 text-center">
+                <strong className="text-lime-700">Volume 7: THRIVE</strong> — Build a life of prosperity, 
+                purpose, and sustainable success after survival mode.
               </p>
             </div>
             <div className="mt-6 pt-6 border-t border-soft-lavender/30">
-              <p className="text-xs text-gray-500 italic">
+              <p className="text-xs text-gray-500 italic text-center">
                 Each volume builds on the previous, but you can start wherever you are in your journey.
               </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Series Stats */}
+      <section className="pb-24 px-6">
+        <div className="max-w-4xl mx-auto">
+          <div className="bg-gradient-to-r from-deep-purple/5 to-soft-lavender/10 rounded-2xl p-8">
+            <div className="grid grid-cols-3 gap-6 text-center">
+              <div>
+                <div className="text-3xl font-bold text-deep-purple">7</div>
+                <div className="text-sm text-gray-500">Volumes</div>
+              </div>
+              <div>
+                <div className="text-3xl font-bold text-deep-purple">~530K</div>
+                <div className="text-sm text-gray-500">Words</div>
+              </div>
+              <div>
+                <div className="text-3xl font-bold text-deep-purple">~1,900</div>
+                <div className="text-sm text-gray-500">Pages</div>
+              </div>
             </div>
           </div>
         </div>

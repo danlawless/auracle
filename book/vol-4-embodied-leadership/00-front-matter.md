@@ -140,13 +140,15 @@ Start where you need to start.
 
 ## What Comes After This
 
-There is no Volume 5.
+After embodiment comes application.
 
-Not because the work ends, but because the work becomes your life.
+**[Volume 5: The Lineage](../vol-5-lineage/README.md)** addresses parenting after trauma—breaking generational cycles and giving your children what you never received.
 
-After this book, there's no more curriculum. There's practice. There's living. There's becoming the embodiment of what you've learned.
+**[Volume 6: The Guide](../vol-6-guide/README.md)** is for those called to help others on this path—sustainable service without losing yourself.
 
-This book ends with you.
+**[Volume 7: The Return](../vol-7-return/README.md)** addresses money, work, and building a life after survival mode—letting your outer world match your inner healing.
+
+These volumes are not required. But for those whose journey continues into parenting, helping, or material rebuilding—they wait for you.
 
 ---
 

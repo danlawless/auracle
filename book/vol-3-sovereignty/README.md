@@ -226,6 +226,15 @@ After sovereignty installs, something new becomes possible: living from your pre
 
 Volume 4 is for those who have completed the sovereignty work and are ready to inhabit their full presence.
 
+The complete series:
+- **Volume 1:** The Narcissism Decoder — *Recognition*
+- **Volume 2:** The Bridge — *Healing*
+- **Volume 3:** Sovereignty — *Standing*
+- **Volume 4:** Embodied Leadership — *Living*
+- **Volume 5:** The Lineage — *Parenting*
+- **Volume 6:** The Guide — *Serving*
+- **Volume 7:** The Return — *Thriving*
+
 ---
 
 **[Begin Reading →](./00-front-matter.md)**

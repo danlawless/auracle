@@ -20,60 +20,181 @@
 |---------|-------|-------------|
 | [Chapter 3](./chapters/03-when-helping-is-hiding.md) | When Helping Is Hiding | The disguise that looks like generosity |
 | [Chapter 4](./chapters/04-rescuers-trap.md) | The Rescuer's Trap | When saving others keeps everyone stuck |
-| Chapter 5 | Vicarious Trauma & Compassion Fatigue | *Coming soon* |
-| Chapter 6 | When Clients Trigger Your Material | *Coming soon* |
-| Chapter 7 | The Need to Be Needed | *Coming soon* |
+| [Chapter 5](./chapters/05-vicarious-trauma-compassion-fatigue.md) | Vicarious Trauma & Compassion Fatigue | When caring costs too much |
+| [Chapter 6](./chapters/06-clients-trigger-your-material.md) | When Clients Trigger Your Material | Managing activation in helping relationships |
+| [Chapter 7](./chapters/07-need-to-be-needed.md) | The Need to Be Needed | The shadow of the helper identity |
 
 ### Part III — Ethical Foundations
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| Chapter 8 | Scope of Practice: Know Your Lane | *Coming soon* |
-| Chapter 9 | The Ethics of Lived Experience | *Coming soon* |
-| Chapter 10 | Referral: When to Pass the Baton | *Coming soon* |
-| Chapter 11 | Dual Relationships & Boundary Complexity | *Coming soon* |
-| Chapter 12 | Confidentiality & Story Stewardship | *Coming soon* |
+| [Chapter 8](./chapters/08-scope-of-practice.md) | Scope of Practice: Know Your Lane | Staying within your competence |
+| [Chapter 9](./chapters/09-ethics-of-lived-experience.md) | The Ethics of Lived Experience | When your story is your credential |
+| [Chapter 10](./chapters/10-referral-when-to-pass-the-baton.md) | Referral: When to Pass the Baton | Knowing when someone needs more |
+| [Chapter 11](./chapters/11-dual-relationships-boundary-complexity.md) | Dual Relationships & Boundary Complexity | Navigating multiple roles |
+| [Chapter 12](./chapters/12-confidentiality-story-stewardship.md) | Confidentiality & Story Stewardship | Honoring others' narratives |
 
 ### Part IV — Sustainable Practice
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| Chapter 13 | Boundaried Presence | *Coming soon* |
-| Chapter 14 | The Container: Session Structure That Protects | *Coming soon* |
-| Chapter 15 | Energy Hygiene for Helpers | *Coming soon* |
-| Chapter 16 | Caseload, Capacity & Saying No | *Coming soon* |
-| Chapter 17 | Supervision & Support Systems | *Coming soon* |
+| [Chapter 13](./chapters/13-boundaried-presence.md) | Boundaried Presence | Being fully present without absorbing |
+| [Chapter 14](./chapters/14-the-container.md) | The Container: Session Structure That Protects | How structure creates safety |
+| [Chapter 15](./chapters/15-energy-hygiene.md) | Energy Hygiene for Helpers | Clearing what isn't yours |
+| [Chapter 16](./chapters/16-caseload-capacity.md) | Caseload, Capacity & Saying No | Protecting your capacity |
+| [Chapter 17](./chapters/17-supervision-support-systems.md) | Supervision & Support Systems | The helpers who help you |
 
 ### Part V — The Path of the Guide
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| Chapter 18 | Teaching Without Converting | *Coming soon* |
-| Chapter 19 | Content Creation as Service | *Coming soon* |
-| Chapter 20 | Building Community, Not Dependency | *Coming soon* |
-| Chapter 21 | The Business of Helping (Without Selling Out) | *Coming soon* |
-| Chapter 22 | When You Outgrow Your Audience | *Coming soon* |
+| [Chapter 18](./chapters/18-teaching-without-converting.md) | Teaching Without Converting | Sharing the path without preaching |
+| [Chapter 19](./chapters/19-content-creation-as-service.md) | Content Creation as Service | When your platform is your practice |
+| [Chapter 20](./chapters/20-building-community-not-dependency.md) | Building Community, Not Dependency | Empowerment over attachment |
+| [Chapter 21](./chapters/21-business-of-helping.md) | The Business of Helping (Without Selling Out) | Ethics of monetization |
+| [Chapter 22](./chapters/22-when-you-outgrow-your-audience.md) | When You Outgrow Your Audience | Evolution and transitions |
 
 ### Part VI — Closing
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| Chapter 23 | Epilogue: The Guide's Blessing | *Coming soon* |
+| [Chapter 23](./chapters/23-epilogue-guides-blessing.md) | Epilogue: The Guide's Blessing | A word before you serve |
 
 ### Appendices
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| Appendix A | Session Hygiene Checklist | *Coming soon* |
-| Appendix B | Red Flags in Client Relationships | *Coming soon* |
-| Appendix C | Self-Assessment: Am I Helping or Hiding? | *Coming soon* |
-| Appendix D | Referral Resources & Scripts | *Coming soon* |
-| Appendix E | Decoder Cards for Guides | *Coming soon* |
+| [Appendix A](./appendices/appendix-a-session-hygiene.md) | Session Hygiene Checklist | Before, during, and after helping |
+| [Appendix B](./appendices/appendix-b-client-red-flags.md) | Red Flags in Client Relationships | Warning signs and responses |
+| [Appendix C](./appendices/appendix-c-helping-or-hiding.md) | Self-Assessment: Am I Helping or Hiding? | Honest evaluation tools |
+| [Appendix D](./appendices/appendix-d-referral-scripts.md) | Referral Resources & Scripts | Language for transitions |
+| [Appendix E](./appendices/appendix-e-decoder-cards-guides.md) | Decoder Cards for Guides | Quick-reference for helping dynamics |
 
 ---
 
-## ⚡ The Vision
+## 📖 How to Read This Book
 
-This volume is for those who've done the work and now feel called to help others. Whether you're becoming a therapist, coach, content creator, or simply the person everyone comes to — this book teaches you to hold space without losing yourself.
+This book is not about becoming a better helper.
 
-Volume 4 introduced "The Shadow of the Healer." This volume expands that into a complete guide for sustainable, boundaried helping.
+It is about becoming a sustainable one.
 
-**Core insight:** *"You cannot give what you don't have. Your healing is your offering."*
+If you've done the work across the earlier volumes, something may be stirring: the desire to help others who are where you once were. To guide. To teach. To hold space.
+
+This book honors that calling—and protects you from its shadows.
+
+---
+
+## 🌟 The Promise
+
+By the end of this book, you will:
+
+1. **Understand** why trauma survivors are drawn to helping roles
+2. **Recognize** when helping becomes a way to avoid your own healing
+3. **Navigate** the ethics of lived-experience guidance
+4. **Build** practices that protect both helper and helped
+5. **Maintain** energy hygiene and prevent burnout
+6. **Know** when to refer and how to do it gracefully
+7. **Create** content that serves without performing
+8. **Sustain** a helping practice for the long term
+
+---
+
+## 📚 Book at a Glance
+
+```
+PART I: ORIENTATION
+├── Front Matter .......... How to use this book
+├── Chapter 1 ............. The Guide's Manifesto
+└── Chapter 2 ............. Why Trauma Survivors Become Helpers
+
+PART II: THE SHADOW OF THE GUIDE
+├── Chapter 3 ............. When Helping Is Hiding
+├── Chapter 4 ............. The Rescuer's Trap
+├── Chapter 5 ............. Vicarious Trauma & Compassion Fatigue
+├── Chapter 6 ............. When Clients Trigger Your Material
+└── Chapter 7 ............. The Need to Be Needed
+
+PART III: ETHICAL FOUNDATIONS
+├── Chapter 8 ............. Scope of Practice: Know Your Lane
+├── Chapter 9 ............. The Ethics of Lived Experience
+├── Chapter 10 ............ Referral: When to Pass the Baton
+├── Chapter 11 ............ Dual Relationships & Boundary Complexity
+└── Chapter 12 ............ Confidentiality & Story Stewardship
+
+PART IV: SUSTAINABLE PRACTICE
+├── Chapter 13 ............ Boundaried Presence
+├── Chapter 14 ............ The Container: Session Structure
+├── Chapter 15 ............ Energy Hygiene for Helpers
+├── Chapter 16 ............ Caseload, Capacity & Saying No
+└── Chapter 17 ............ Supervision & Support Systems
+
+PART V: THE PATH OF THE GUIDE
+├── Chapter 18 ............ Teaching Without Converting
+├── Chapter 19 ............ Content Creation as Service
+├── Chapter 20 ............ Building Community, Not Dependency
+├── Chapter 21 ............ The Business of Helping
+└── Chapter 22 ............ When You Outgrow Your Audience
+
+PART VI: CLOSING
+└── Chapter 23 ............ Epilogue: The Guide's Blessing
+
+APPENDICES
+├── Appendix A ............ Session Hygiene Checklist
+├── Appendix B ............ Red Flags in Client Relationships
+├── Appendix C ............ Self-Assessment: Am I Helping or Hiding?
+├── Appendix D ............ Referral Resources & Scripts
+└── Appendix E ............ Decoder Cards for Guides
+```
+
+---
+
+## 🛤️ Reading Paths
+
+Different readers may need different journeys through this material:
+
+### Shadow Work Path
+Ch 3 (hiding) → Ch 4 (rescuing) → Ch 7 (need to be needed) → Appendix C (self-assessment)
+
+### Ethics Path
+Ch 8 (scope) → Ch 9 (lived experience) → Ch 10 (referral) → Ch 11 (dual relationships)
+
+### Sustainability Path
+Ch 5 (compassion fatigue) → Ch 13 (boundaried presence) → Ch 15 (energy hygiene) → Ch 16 (capacity)
+
+### Content Creator Path
+Ch 19 (content as service) → Ch 20 (community) → Ch 21 (business) → Ch 22 (evolution)
+
+### Complete Journey
+Read front to back. Each part builds on the previous.
+
+---
+
+## 💬 A Note Before You Begin
+
+> *If you're reading this, something in you wants to help.*
+>
+> *That impulse is beautiful. It's also shadowed.*
+>
+> *This book honors both the gift and its shadow. It teaches you to serve without losing yourself—to hold others' healing without making it your identity.*
+>
+> *Your healing is your credential. Your boundaries are your offering.*
+
+---
+
+## 🌉 The Core Principle
+
+**You cannot give what you don't have.**
+
+Sustainable helping requires overflow—not emptiness. You cannot pour from an empty cup, and you cannot help others heal while avoiding your own work.
+
+Your first client is always yourself.
+
+---
+
+## 📘 Before This Book
+
+This book assumes you have:
+- Named the patterns → **[Volume 1: The Narcissism Decoder](../vol-1-decoder/README.md)**
+- Healed significantly → **[Volume 2: The Bridge](../vol-2-bridge/README.md)**
+- Installed sovereignty → **[Volume 3: Sovereignty](../vol-3-sovereignty/README.md)**
+- Begun embodiment → **[Volume 4: Embodied Leadership](../vol-4-embodied-leadership/README.md)**
+
+This is not for those still in acute healing. It's for those ready to serve from overflow.
 
 ---
 
@@ -92,58 +213,9 @@ This book is written for those who:
 
 ---
 
-## 📚 Book Structure
+## 🧬 The Neuroscience Foundation
 
-```
-PART I: ORIENTATION
-├── Front Matter .......... How to use this book ✅
-├── Chapter 1 ............. The Guide's Manifesto ✅
-└── Chapter 2 ............. Why Trauma Survivors Become Helpers ✅
-
-PART II: THE SHADOW OF THE GUIDE
-├── Chapter 3 ............. When Helping Is Hiding ✅
-├── Chapter 4 ............. The Rescuer's Trap ✅
-├── Chapter 5 ............. Vicarious Trauma & Compassion Fatigue 🚧
-├── Chapter 6 ............. When Clients Trigger Your Material 🚧
-└── Chapter 7 ............. The Need to Be Needed 🚧
-
-PART III: ETHICAL FOUNDATIONS
-├── Chapter 8 ............. Scope of Practice: Know Your Lane 🚧
-├── Chapter 9 ............. The Ethics of Lived Experience 🚧
-├── Chapter 10 ............ Referral: When to Pass the Baton 🚧
-├── Chapter 11 ............ Dual Relationships & Boundary Complexity 🚧
-└── Chapter 12 ............ Confidentiality & Story Stewardship 🚧
-
-PART IV: SUSTAINABLE PRACTICE
-├── Chapter 13 ............ Boundaried Presence 🚧
-├── Chapter 14 ............ The Container: Session Structure That Protects 🚧
-├── Chapter 15 ............ Energy Hygiene for Helpers 🚧
-├── Chapter 16 ............ Caseload, Capacity & Saying No 🚧
-└── Chapter 17 ............ Supervision & Support Systems 🚧
-
-PART V: THE PATH OF THE GUIDE
-├── Chapter 18 ............ Teaching Without Converting 🚧
-├── Chapter 19 ............ Content Creation as Service 🚧
-├── Chapter 20 ............ Building Community, Not Dependency 🚧
-├── Chapter 21 ............ The Business of Helping (Without Selling Out) 🚧
-└── Chapter 22 ............ When You Outgrow Your Audience 🚧
-
-PART VI: CLOSING
-└── Chapter 23 ............ Epilogue: The Guide's Blessing 🚧
-
-APPENDICES
-├── Appendix A ............ Session Hygiene Checklist 🚧
-├── Appendix B ............ Red Flags in Client Relationships 🚧
-├── Appendix C ............ Self-Assessment: Am I Helping or Hiding? 🚧
-├── Appendix D ............ Referral Resources & Scripts 🚧
-└── Appendix E ............ Decoder Cards for Guides 🚧
-```
-
----
-
-## 🧠 Neuroscience Foundation
-
-Each chapter includes:
+Each chapter includes a "Neuroscience Lens" section explaining:
 - Mirror neurons and emotional contagion in helping relationships
 - The neuroscience of compassion fatigue
 - Co-regulation vs. over-giving
@@ -158,84 +230,14 @@ Grounded in:
 
 ---
 
-## 🌟 The Promise
+## 🔜 What Comes Next
 
-By the end of this book, readers will:
+After helping, there's thriving.
 
-1. **Understand** why trauma survivors are drawn to helping roles
-2. **Recognize** when helping becomes a way to avoid their own healing
-3. **Navigate** the ethics of lived-experience guidance
-4. **Build** practices that protect both helper and helped
-5. **Maintain** energy hygiene and prevent burnout
-6. **Know** when to refer and how to do it gracefully
-7. **Create** content that serves without performing
-8. **Sustain** a helping practice for the long term
+**[Volume 7: The Return](../vol-7-return/README.md)** addresses money, work, and building a life after survival mode—letting your outer world match your inner healing.
 
 ---
-
-## 🔑 Key Concepts to Develop
-
-| Concept | Description |
-|---------|-------------|
-| **The Wounded Healer** | Jung's archetype and its shadow |
-| **Compassion Fatigue** | When caring costs too much |
-| **Vicarious Trauma** | Absorbing others' trauma material |
-| **Scope of Practice** | Staying in your lane |
-| **The Container** | How structure creates safety |
-| **Teaching vs. Rescuing** | Empowerment over dependency |
-| **Story Stewardship** | Honoring others' narratives |
-| **Sustainable Service** | Helping that doesn't deplete |
-
----
-
-## 💬 Voice & Tone
-
-This volume should:
-- Honor the impulse to help while naming its shadows
-- Be honest about the risks of helping work
-- Provide practical tools for boundaries and sustainability
-- Address both professional helpers and informal ones
-- Include business/money considerations without being salesy
-
----
-
-## 📘 Before This Book
-
-This book assumes readers have:
-- Named their patterns → **Volume 1: The Narcissism Decoder**
-- Healed significantly → **Volume 2: The Bridge**
-- Installed sovereignty → **Volume 3: Sovereignty**
-- Begun embodying presence → **Volume 4: Embodied Leadership**
-
-This is not for those still in acute healing. It's for those ready to serve from overflow.
-
----
-
-## 🔜 Connection to Other Volumes
-
-| Volume | Connection |
-|--------|------------|
-| Vol 1 | Understanding patterns helps you recognize them in clients |
-| Vol 2 | Attachment repair is what you're guiding others toward |
-| Vol 3 | Sovereignty is essential for boundaried helping |
-| Vol 4 | Ch 12 "Shadow of the Healer" expands into this entire volume |
-| Vol 5 | Overlaps with parenting as a form of guiding |
-
----
-
-## 📝 Notes for Development
-
-- Include case studies (composite) of helper-client dynamics
-- Address different contexts: therapy, coaching, content creation, friendship
-- Section on monetization ethics
-- Guidance for those considering formal training
-- Address the "celebrity healer" phenomenon and its risks
-- Include self-assessment tools for burnout
-
----
-
-**Status:** Part I and Part II (Chapters 1-4) Complete — Remaining Chapters In Development
-
-*"Your healing is your credential. Your boundaries are your offering."*
 
 **[Begin Reading →](./00-front-matter.md)**
+
+*"Your healing is your credential. Your boundaries are your offering."*

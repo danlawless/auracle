@@ -86,16 +86,14 @@ This book helps you:
 
 ---
 
-## Future Volumes (In Development)
-
-### [Volume 5: The Lineage](./vol-5-lineage/README.md) 🚧
+### [Volume 5: The Lineage](./vol-5-lineage/README.md)
 **Breaking the Chain — Parenting After Trauma**
 
 *A Guide for Those Ready to Give Their Children What They Never Received*
 
 **Focus:** Conscious parenting, breaking generational cycles, repair over perfection
 
-This book will help you:
+This book helps you:
 - Parent while still healing
 - Recognize when your child activates old wounds
 - Repair after ruptures without shame spiraling
@@ -106,18 +104,16 @@ This book will help you:
 
 **Core insight:** *"You don't have to be healed to be a good parent. You have to be healing."*
 
-**Status:** Framework complete, chapters not yet written
-
 ---
 
-### [Volume 6: The Guide](./vol-6-guide/README.md) 🚧
+### [Volume 6: The Guide](./vol-6-guide/README.md)
 **Holding Others' Healing Without Losing Your Own**
 
 *A Guide for Those Called to Help Others on This Path*
 
 **Focus:** Sustainable helping, the shadow of the healer, boundaried presence
 
-This book will help you:
+This book helps you:
 - Understand why trauma survivors become helpers
 - Recognize when helping becomes hiding
 - Navigate the ethics of lived-experience guidance
@@ -128,18 +124,16 @@ This book will help you:
 
 **Core insight:** *"You cannot give what you don't have. Your healing is your offering."*
 
-**Status:** Framework complete, chapters not yet written
-
 ---
 
-### [Volume 7: The Return](./vol-7-return/README.md) 🚧
+### [Volume 7: The Return](./vol-7-return/README.md)
 **Money, Work & Building a Life After Survival Mode**
 
 *A Guide for Those Ready to Thrive, Not Just Survive*
 
 **Focus:** Financial recovery, career identity, prosperity after trauma
 
-This book will help you:
+This book helps you:
 - Recover from financial abuse
 - Retrain the scarcity nervous system
 - Rebuild professional identity after trauma
@@ -149,8 +143,6 @@ This book will help you:
 **Best for:** Those rebuilding financially after abuse, those who lost career development to a relationship, anyone ready to let their outer life match their inner healing.
 
 **Core insight:** *"You are allowed to thrive, not just survive."*
-
-**Status:** Framework complete, chapters not yet written
 
 ---
 
@@ -172,13 +164,13 @@ Start with **Volume 2**. The issue isn't recognition—it's nervous system repat
 **Volume 4** is for those who have installed sovereignty and are ready for embodied leadership—in intimacy, groups, and life.
 
 ### If you're parenting while healing
-**Volume 5** *(coming soon)* will address breaking generational cycles and conscious parenting after trauma.
+**Volume 5** addresses breaking generational cycles and conscious parenting after trauma.
 
 ### If you're called to help others heal
-**Volume 6** *(coming soon)* will guide you in sustainable, boundaried helping work.
+**Volume 6** guides you in sustainable, boundaried helping work.
 
 ### If you're rebuilding your material life
-**Volume 7** *(coming soon)* will address financial recovery and career after trauma.
+**Volume 7** addresses financial recovery and career after trauma.
 
 ### If you want the complete journey
 Read all seven, in order:
@@ -200,9 +192,9 @@ Read all seven, in order:
 ├── vol-2-bridge/               # The Bridge ✅
 ├── vol-3-sovereignty/          # Sovereignty ✅
 ├── vol-4-embodied-leadership/  # Embodied Leadership ✅
-├── vol-5-lineage/              # The Lineage 🚧
-├── vol-6-guide/                # The Guide 🚧
-├── vol-7-return/               # The Return 🚧
+├── vol-5-lineage/              # The Lineage ✅
+├── vol-6-guide/                # The Guide ✅
+├── vol-7-return/               # The Return ✅
 ├── extras/                     # Source materials and notes
 └── release/                    # Marketing and launch materials
 ```
@@ -267,10 +259,10 @@ Volume 7: THRIVE  →  "You are allowed to thrive, not just survive."
 | Vol 2: Bridge | ✅ Complete | ~99,000 | ~360 |
 | Vol 3: Sovereignty | ✅ Complete | ~69,000 | ~251 |
 | Vol 4: Embodied Leadership | ✅ Complete | ~65,000 | ~238 |
-| Vol 5: Lineage | 🚧 Framework | — | — |
-| Vol 6: Guide | 🚧 Framework | — | — |
-| Vol 7: Return | 🚧 Framework | — | — |
-| **Total (Vols 1-4)** | | **~299,000** | **~1,087** |
+| Vol 5: Lineage | ✅ Complete | ~75,000 | ~273 |
+| Vol 6: Guide | ✅ Complete | ~80,000 | ~291 |
+| Vol 7: Return | ✅ Complete | ~78,000 | ~284 |
+| **Total (Vols 1-7)** | | **~531,000** | **~1,935** |
 
 ---
 

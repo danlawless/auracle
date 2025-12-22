@@ -1,10 +1,70 @@
-# Appendix A: Content Creation Structure
+# Appendix D: Content Creation Structure
 
 ## Turning Your Experience into Teaching
 
 ---
 
 If you feel called to share what you've learned—through YouTube, Instagram, TikTok, podcasts, or writing—this appendix provides structure for creating content that helps others recognize the patterns you've decoded.
+
+**Important:** This appendix appears in Volume 2 (not Volume 1) intentionally. Creating content about narcissistic abuse and trauma recovery requires speaking from a place of healing, not from the wound. Before proceeding, complete the readiness assessment below.
+
+---
+
+## Are You Ready? A Self-Assessment
+
+Before creating content, answer these questions honestly. There are no wrong answers—only information about timing.
+
+### Motivation Check
+
+**Why do I want to create this content?**
+
+✅ **Green lights:**
+- I want to help others recognize patterns earlier than I did
+- I've processed my experience and can discuss it without flooding
+- I feel genuinely called to teach, not just to be heard
+- Creating content feels like an extension of my healing, not a substitute for it
+
+🟡 **Yellow lights (proceed with caution):**
+- I want to feel validated by others who understand
+- I'm still angry and want the world to know what happened
+- I'm hoping content creation will help me process what I went through
+- I feel urgency to start immediately
+
+🔴 **Red lights (wait longer):**
+- I want my abuser to see this and feel exposed
+- I need others to tell me I'm not crazy
+- I can't discuss my experience without crying, shaking, or dissociating
+- I'm hoping this will finally give me closure
+- I'm still in regular contact with the person who harmed me
+
+### Nervous System Check
+
+Can you discuss your experience while remaining regulated? Test yourself:
+
+1. **Write a 2-minute script** about one pattern you experienced
+2. **Read it aloud** to yourself or a trusted person
+3. **Notice your body:** Are you activated? Flooded? Or grounded?
+
+If reading your own script dysregulates you, your nervous system is telling you it's not yet time to teach publicly. That's not failure—that's wisdom.
+
+### Support Check
+
+Before creating content, ensure you have:
+
+- [ ] A therapist, coach, or support group (content creation can reactivate wounds)
+- [ ] At least one person who will review your content before posting
+- [ ] Clear boundaries about what you will and won't share publicly
+- [ ] A plan for taking breaks when needed
+
+### The 90-Day Rule
+
+**Recommended:** Wait at least 90 days after completing the core work in this volume (Chapters 20-22) before beginning content creation. This ensures:
+
+- Your nervous system has had time to integrate new patterns
+- You're speaking from embodied understanding, not intellectual knowledge
+- The urgency to share has settled into sustainable motivation
+
+If the impulse to create content is still strong after 90 days—and you passed the checks above—you're likely ready.
 
 ---
 

@@ -27,8 +27,7 @@
 
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| [Appendix A](./appendices/appendix-a-content-creation.md) | Content Creation Structure | Turning your experience into teaching |
-| [Appendix B](./appendices/appendix-b-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
+| [Appendix A](./appendices/appendix-a-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
 
 ---
 
@@ -55,7 +54,7 @@ Read the book in order starting from the [Front Matter](./00-front-matter.md). T
 The **[Decoder Cards](./chapters/08-decoder-cards.md)** in Chapter 8 are designed to be shared—use them as conversation starters or teaching tools.
 
 ### 🎬 If You're Creating Content
-**[Appendix A: Content Creation Structure](./appendices/appendix-a-content-creation.md)** provides a framework for turning this material into videos, posts, and educational content.
+If you feel called to create content about these patterns, complete your healing journey through **[Volume 2: The Bridge](../vol-2-bridge/README.md)** first. Appendix D in Volume 2 provides a framework for content creation—along with an important readiness self-assessment.
 
 ---
 
@@ -111,8 +110,7 @@ PART III: RESPONSE
 └── Chapter 11 ............ Moving Forward
 
 APPENDICES
-├── Appendix A ............ Content Creation Structure
-└── Appendix B ............ Childhood Patterns
+└── Appendix A ............ Childhood Patterns
 ```
 
 ---

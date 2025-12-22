@@ -69,6 +69,7 @@
 | [Appendix A](./appendices/appendix-a-grief-process.md) | The Grief Process | Navigating the waves of loss |
 | [Appendix B](./appendices/appendix-b-vignettes.md) | Composite Vignettes | Recognizable stories for reflection |
 | [Appendix C](./appendices/appendix-c-worksheets.md) | Self-Assessment Charts & Worksheets | Practical tools for application |
+| [Appendix D](./appendices/appendix-d-content-creation.md) | Content Creation Structure | Turning your experience into teaching (with readiness assessment) |
 
 ---
 
@@ -107,6 +108,10 @@ Think of this book as a place you can return to, not a task to complete.
 **🔹 You feel regulated but want to build something new**
 - [Chapter 20: The Secure Attachment Training Arc](./chapters/20-secure-attachment-training.md)
 - [Chapter 21: Role-Based Reparenting Practices](./chapters/21-reparenting-practices.md)
+
+**🔹 You want to create content to help others**
+- Complete Chapters 20-22 first (the core training)
+- [Appendix D: Content Creation Structure](./appendices/appendix-d-content-creation.md) — includes a readiness self-assessment
 
 ---
 
@@ -170,7 +175,8 @@ PART VII: INTEGRATION
 APPENDICES
 ├── Appendix A ............ The Grief Process
 ├── Appendix B ............ Composite Vignettes
-└── Appendix C ............ Self-Assessment Charts & Worksheets
+├── Appendix C ............ Self-Assessment Charts & Worksheets
+└── Appendix D ............ Content Creation Structure
 ```
 
 ---

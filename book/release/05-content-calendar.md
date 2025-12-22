@@ -1,8 +1,30 @@
-# 30-Day Content Calendar
+# Extended Content Calendar
 
-## Pre-Launch & Launch Phase Content Strategy
+## Content Strategy for The Sovereignty Series (4 Volumes)
 
 All content is extracted directly from the books. Post daily on your chosen social platform, weekly on Substack.
+
+---
+
+## Content Calendar Overview
+
+This calendar covers the first 30 days (Volume 1 launch). Use this as a template for subsequent volume launches, adapting the themes for each book.
+
+**Full Series Content Timeline:**
+- Weeks 1-10: Volume 1 content (recognition themes)
+- Weeks 11-18: Volume 2 content (healing/attachment themes)
+- Weeks 19-26: Volume 3 content (sovereignty themes)
+- Weeks 27-34: Volume 4 content (embodiment themes)
+- Week 35+: Rotate through all volumes, series-level content
+
+**Content Potential Across All 4 Volumes:**
+- Vol 1: ~60 weeks of content
+- Vol 2: ~120 weeks of content
+- Vol 3: ~100 weeks of content
+- Vol 4: ~70 weeks of content
+- **Total: 350+ weeks of unique content**
+
+---
 
 ---
 
@@ -559,4 +581,230 @@ Track these weekly:
 - [ ] What questions are people asking in comments?
 
 Use insights to inform next month's content focus.
+
+---
+
+---
+
+## Volume 3 Content Themes: Sovereignty
+
+Use these themes for Weeks 19-26 (after Volume 3 launch).
+
+### Theme 1: Internal Authority
+
+**Key concepts:**
+- Making decisions without outsourcing approval
+- The autonomy gap (when no one else decides)
+- Self-trust without certainty
+
+**Sample posts:**
+- "I can decide without urgency."
+- "Your hesitation isn't weakness—it's pattern. You learned to wait for permission."
+- "The quiet after healing can feel disorienting. This is where sovereignty begins."
+
+### Theme 2: What Is Mine (Emotional Ownership)
+
+**Key concepts:**
+- Distinguishing your emotions from others'
+- Holding space without absorbing
+- Ending invisible emotional contracts
+
+**Sample posts:**
+- "I can feel without fixing."
+- "Their dysregulation is not your emergency."
+- "Caring about someone doesn't mean carrying them."
+
+### Theme 3: Sovereignty Without Force
+
+**Key concepts:**
+- Power without pressure
+- Stillness without collapse
+- Presence over performance
+
+**Sample posts:**
+- "Sovereignty is not hardening. It is steadiness."
+- "You don't need to be louder. You need to be here."
+- "Leadership that doesn't perform looks like presence."
+
+### Theme 4: Desire Without Urgency
+
+**Key concepts:**
+- When calm replaces intensity
+- Choosing from desire, not activation
+- Trusting the slow burn of authentic wanting
+
+**Sample posts:**
+- "Urgency is not desire. Urgency is fear of losing."
+- "What do you want when nothing is chasing you?"
+- "Calm isn't emptiness. It's space for true desire to emerge."
+
+### Theme 5: Guilt and Emotional Contracts
+
+**Key concepts:**
+- Ending invisible agreements
+- Separation without severing
+- The difference between guilt and wisdom
+
+**Sample posts:**
+- "Guilt after choosing yourself is an old contract, not truth."
+- "You can love someone and not carry them."
+- "Every emotional contract can be renegotiated."
+
+### Theme 6: Relational Sovereignty
+
+**Key concepts:**
+- Closeness without collapse
+- New dynamics with old systems
+- Authority without armor at work
+
+**Sample posts:**
+- "Intimacy doesn't require self-loss."
+- "You can visit your family without becoming who you were."
+- "Sovereignty at work: authority without armor."
+
+---
+
+## Volume 4 Content Themes: Embodied Leadership
+
+Use these themes for Weeks 27-34 (after Volume 4 launch).
+
+### Theme 1: The Field Is Real
+
+**Key concepts:**
+- Your energy field as trainable, not mystical
+- The nervous system as the aura's engine
+- Physiological foundations of "vibes"
+
+**Sample posts:**
+- "Your aura is not mystical first—it is physiological first."
+- "When you regulate internally, you radiate externally."
+- "Your 'vibe' is real. And it's trainable."
+
+### Theme 2: Aura Hygiene
+
+**Key concepts:**
+- Daily practices for energetic clarity
+- Clearing what isn't yours
+- Boundaries as embodied signals
+
+**Sample posts:**
+- "Not everything you feel is yours."
+- "Aura hygiene is as practical as brushing your teeth."
+- "The sovereign yes lives in your body. So does the sovereign no."
+
+### Theme 3: Sexual Energy as Life Force
+
+**Key concepts:**
+- Reclaiming sexuality after trauma
+- When desire no longer has to regulate fear
+- Erotic coherence vs. erotic performance
+
+**Sample posts:**
+- "Sexuality heals when it no longer has to regulate fear."
+- "Your sexuality is life force—not a survival strategy."
+- "My presence is erotic when it belongs to me."
+
+### Theme 4: Clean Intimacy
+
+**Key concepts:**
+- Safety + truth over time
+- Consent as nervous system signal
+- Detachment that still loves
+
+**Sample posts:**
+- "Clean intimacy: safety + truth + time."
+- "Caring without carrying is possible."
+- "Intimacy that deepens rather than depletes."
+
+### Theme 5: Power Without Narcissism
+
+**Key concepts:**
+- Magnetism without manipulation
+- Coherence, not tactics
+- The shadow of the healer
+
+**Sample posts:**
+- "Magnetism isn't manipulation. It's coherence."
+- "The most consistent nervous system leads the room."
+- "When healing work becomes a stage, it's no longer healing work."
+
+### Theme 6: Living From Presence
+
+**Key concepts:**
+- Identity as sovereignty, not practice
+- Trusting your impact rather than managing it
+- The work becomes your life
+
+**Sample posts:**
+- "There is no Volume 5. The work becomes your life."
+- "Stop managing your impact. Start trusting your presence."
+- "You don't need to add more. You need to express what you've built."
+
+---
+
+## Series-Level Content (Week 35+)
+
+After all four volumes are released, rotate through these series-level themes:
+
+### Transformation Journey
+
+Show the complete arc:
+- "Recognition → Liberation → Empowerment → Embodiment"
+- Before/after testimonials from each volume
+- "The journey from confusion to presence"
+
+### Bundle Promotions
+
+- Highlight value of complete series
+- Seasonal sales (Black Friday, New Year)
+- "Start your journey" campaigns
+
+### Future Offerings Teasers
+
+- Coaching waitlist content
+- Community previews
+- Course development updates
+
+### Evergreen Content
+
+Rotate through best-performing content from all volumes:
+- Top quotes from each book
+- Most-saved posts recycled
+- Reader questions answered
+
+---
+
+## Weekly Newsletter Template (All Volumes)
+
+```
+Subject: [Hook from the week's best-performing post]
+
+Opening: Personal reflection (2-3 sentences)
+
+Main Content:
+- One insight from the current volume
+- One practical tool or practice
+- One reflection question
+
+Closing:
+- Teaser for next week
+- CTA (book link, free download, or reply prompt)
+
+P.S. If this helped, here's [link to current volume]
+```
+
+---
+
+## Content Repurposing System
+
+Each chapter becomes:
+1. **Quote card** (static image) — same day
+2. **Thread/carousel** (expanded breakdown) — next day
+3. **Newsletter section** (with personal reflection) — weekly
+4. **Video script** (1-2 min talking head) — optional
+
+**Monthly repurposing:**
+- Top 3 posts → expanded carousel versions
+- Top newsletter → Substack Notes version
+- Reader questions → Q&A post
 

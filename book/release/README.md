@@ -2,7 +2,20 @@
 
 ## Digital-First, Low-Lift Launch Strategy
 
-This folder contains everything you need to launch **The Narcissism Decoder** and **The Bridge** using a digital-first approach focused on building authority and an engaged audience for future offerings.
+This folder contains everything you need to launch the **Sovereignty Series**—a four-volume transformational journey from recognition to embodiment.
+
+---
+
+## The Sovereignty Series
+
+| Volume | Title | Core Question | Focus |
+|--------|-------|---------------|-------|
+| **1** | The Narcissism Decoder | *What is happening to me?* | Pattern recognition, naming tactics |
+| **2** | The Bridge | *Why did this shape me?* | Attachment healing, crossing out of survival |
+| **3** | Sovereignty | *Who am I when I stop shrinking?* | Internal authority, self-trust |
+| **4** | Embodied Leadership | *How do I live from presence?* | Aura, erotic coherence, full expression |
+
+Each volume builds on the previous, creating a natural staggered release strategy.
 
 ---
 
@@ -24,10 +37,24 @@ This folder contains everything you need to launch **The Narcissism Decoder** an
 
 ### Phase 3: Volume 2 Launch (Week 11-12)
 
-- [ ] Start email warm-up sequence from `06-vol2-launch-campaign.md`
+- [ ] Start email warm-up sequence from `06-volume-launch-campaigns.md`
 - [ ] Upload Volume 2 to platforms
-- [ ] Create bundle offer on Gumroad
+- [ ] Create Vol 1+2 bundle offer on Gumroad
 - [ ] Execute launch week plan
+
+### Phase 4: Volume 3 Launch (Week 19-20)
+
+- [ ] Start sovereignty-focused email sequence
+- [ ] Upload Volume 3 to platforms
+- [ ] Create 3-book bundle offer
+- [ ] Position as "completion of healing arc"
+
+### Phase 5: Volume 4 Launch (Week 27-28)
+
+- [ ] Start embodiment-focused email sequence
+- [ ] Upload Volume 4 to platforms
+- [ ] Create Complete Series bundle
+- [ ] Launch coaching/course waitlist
 
 ---
 
@@ -37,16 +64,16 @@ This folder contains everything you need to launch **The Narcissism Decoder** an
 |------|---------|
 | `01-platform-setup-guide.md` | Step-by-step setup for Amazon KDP, Gumroad, Substack |
 | `02-decoder-cards-lead-magnet.md` | Ready-to-convert PDF lead magnet (12 cards) |
-| `03-book-descriptions.md` | Optimized descriptions, keywords, categories, hashtags |
+| `03-book-descriptions.md` | Optimized descriptions, keywords, categories for ALL 4 volumes |
 | `04-formatting-guide.md` | Manuscript formatting, conversion tools, upload checklist |
-| `05-content-calendar.md` | 30 days of social + newsletter content |
-| `06-vol2-launch-campaign.md` | 7-email warm-up sequence + launch strategy |
+| `05-content-calendar.md` | Extended content calendar spanning all 4 releases |
+| `06-volume-launch-campaigns.md` | Email sequences for Vol 2, 3, and 4 launches |
 | `07-author-bio-versions.md` | Short/medium/long author bios for all platforms |
 | `08-substack-welcome-email.md` | Automated welcome email for new subscribers |
 | `09-substack-start-here-post.md` | Pinned "Start Here" post template |
-| `10-social-media-templates.md` | Bio variations, Linktree structure, 10 ready-to-post captions |
-| `11-cover-specifications.md` | Cover requirements for all platforms + design recommendations |
-| `12-launch-checklist.md` | Complete timeline with milestone triggers |
+| `10-social-media-templates.md` | Bio variations, Linktree structure, ready-to-post captions |
+| `11-cover-specifications.md` | Cover requirements for all platforms + all 4 volumes |
+| `12-launch-checklist.md` | Complete timeline with milestone triggers for 4 volumes |
 
 ---
 
@@ -54,41 +81,85 @@ This folder contains everything you need to launch **The Narcissism Decoder** an
 
 ```
          FREE                    PAID                    FUTURE
-    ┌─────────────┐        ┌─────────────┐        ┌─────────────┐
-    │   Decoder   │        │   Vol 1     │        │  Coaching   │
-    │   Cards     │───────▶│   $4.99     │───────▶│  Courses    │
-    │   (Email)   │        │   Vol 2     │        │  Community  │
-    │             │        │   Bundle    │        │             │
-    └─────────────┘        └─────────────┘        └─────────────┘
-         │                       │                      │
-         └───────────────────────┼──────────────────────┘
-                                 │
-                          ┌──────┴──────┐
-                          │   Substack  │
-                          │  Newsletter │
-                          │  (Ongoing)  │
-                          └─────────────┘
+    ┌─────────────┐        ┌─────────────────┐        ┌─────────────┐
+    │   Decoder   │        │   Vol 1  $4.99  │        │  Coaching   │
+    │   Cards     │───────▶│   Vol 2  $6.99  │───────▶│  Courses    │
+    │   (Email)   │        │   Vol 3  $8.99  │        │  Community  │
+    │             │        │   Vol 4  $9.99  │        │  Retreats   │
+    │             │        │   Bundles       │        │             │
+    └─────────────┘        └─────────────────┘        └─────────────┘
+         │                         │                        │
+         └─────────────────────────┼────────────────────────┘
+                                   │
+                            ┌──────┴──────┐
+                            │   Substack  │
+                            │  Newsletter │
+                            │  (Ongoing)  │
+                            └─────────────┘
 ```
 
 **The funnel:**
 1. Social content → Substack signup
 2. Substack → Free Decoder Cards (email capture)
-3. Email list → Book purchases
-4. Book readers → Future offerings (coaching, courses, community)
+3. Email list → Book purchases (staggered releases build anticipation)
+4. Book readers → Future offerings (coaching, courses, community, retreats)
+
+---
+
+## Staggered Release Strategy
+
+### Why Stagger Releases?
+
+1. **Sustained momentum:** 6+ months of launch energy vs. 2 weeks
+2. **List building:** Each launch grows the audience for the next
+3. **Anticipation:** Readers who finish one volume are primed for the next
+4. **Content engine:** Each volume provides months of social/newsletter content
+5. **Natural progression:** Volumes build sequentially—readers need time between
+
+### Release Cadence
+
+```
+Week 1-2:    Foundation setup
+Week 3-4:    Volume 1 Launch (The Narcissism Decoder)
+Week 5-10:   Content engine + audience building
+Week 11-12:  Volume 2 Launch (The Bridge)
+Week 13-18:  Content engine + deeper engagement
+Week 19-20:  Volume 3 Launch (Sovereignty)
+Week 21-26:  Content engine + authority building
+Week 27-28:  Volume 4 Launch (Embodied Leadership)
+Week 29+:    Complete series marketing + future offerings
+```
+
+### Release Themes
+
+| Volume | Launch Theme | Emotional Hook |
+|--------|-------------|----------------|
+| Vol 1 | Recognition | "Finally see what was happening" |
+| Vol 2 | Liberation | "Cross the bridge to healing" |
+| Vol 3 | Empowerment | "Stand in your authority" |
+| Vol 4 | Embodiment | "Live from your full presence" |
 
 ---
 
 ## Key Metrics to Track
 
-**First 90 Days:**
-- 25+ Amazon reviews on Volume 1
-- 500+ email subscribers
-- 1 podcast appearance
+**Per Volume Launch:**
+- 25+ Amazon reviews within 30 days
+- 200+ new email subscribers
+- 50+ Gumroad sales
 
-**First 6 Months:**
-- 100+ Amazon reviews across both books
+**First 6 Months (After Vol 2):**
+- 100+ Amazon reviews across first 2 books
 - 2,000+ email subscribers
+- Consistent weekly content rhythm
+- 1-2 podcast appearances
+
+**First Year (After Vol 4):**
+- 200+ reviews across all 4 books
+- 5,000+ email subscribers
 - Waitlist for coaching/course offering
+- Revenue covering all production costs
+- Community/membership ready to launch
 
 ---
 
@@ -97,11 +168,12 @@ This folder contains everything you need to launch **The Narcissism Decoder** an
 | Platform | Role | Priority |
 |----------|------|----------|
 | Amazon KDP | Discovery + credibility | High |
-| Gumroad | Direct sales + email capture | High |
+| Gumroad | Direct sales + email capture + bundles | High |
 | Substack | Newsletter + community hub | High |
 | Instagram/TikTok | Content distribution | Medium |
+| Podcast Guesting | Authority building | Medium (post Vol 2) |
 
-**Key insight:** Amazon drives discovery but captures no emails. Gumroad has no discovery but captures emails. Use both strategically.
+**Key insight:** Amazon drives discovery but captures no emails. Gumroad has no discovery but captures emails and enables bundles. Use both strategically.
 
 ---
 
@@ -113,11 +185,13 @@ Each book chapter generates 4-6 weeks of content:
 Chapter → Newsletter → 3-5 Social Posts → Video Script (optional)
 ```
 
-Total content potential:
-- Vol 1: 11 chapters + 2 appendices = ~60+ weeks of content
-- Vol 2: 25 chapters + 3 appendices = ~120+ weeks of content
+Total content potential across all 4 volumes:
+- Vol 1: 11 chapters + appendices = ~60 weeks of content
+- Vol 2: 25 chapters + appendices = ~120 weeks of content
+- Vol 3: 19 chapters + appendices = ~100 weeks of content
+- Vol 4: 14 chapters + appendices = ~70 weeks of content
 
-You'll never run out of content.
+**Total: 350+ weeks of content.** You'll never run out.
 
 ---
 
@@ -129,20 +203,66 @@ You'll never run out of content.
 | Vol 1 Paperback | $14.99-16.99 | — |
 | Vol 2 Ebook | $6.99-8.99 | $12.99 (with Worksheets) |
 | Vol 2 Paperback | $16.99-18.99 | — |
-| Bundle | — | $18.99 (both + bonuses) |
+| Vol 3 Ebook | $7.99-9.99 | $14.99 (with Integration Guide) |
+| Vol 3 Paperback | $17.99-19.99 | — |
+| Vol 4 Ebook | $8.99-10.99 | $16.99 (with Field Hygiene Menu) |
+| Vol 4 Paperback | $18.99-21.99 | — |
 | Decoder Cards | — | Free (email required) |
+| Vol 1+2 Bundle | — | $18.99 |
+| Vol 1+2+3 Bundle | — | $34.99 |
+| Complete Series | — | $44.99 |
+
+**Pricing philosophy:** Each volume increases slightly in price (reflecting depth and assumed reader investment). Bundles offer 15-20% savings.
 
 ---
 
 ## Timeline Overview
 
 ```
-Week 1-2:   Platform setup, lead magnet, book descriptions
-Week 3:     Upload Vol 1
-Week 4:     Soft launch, request reviews, begin content
-Week 5-10:  Content engine (newsletter + social)
-Week 11-12: Vol 2 launch campaign
-Week 13+:   Authority building, future offerings development
+FOUNDATION (Weeks 1-2)
+├── Platform setup
+├── Lead magnet creation
+└── Book descriptions + formatting
+
+VOLUME 1 LAUNCH (Weeks 3-4)
+├── Upload + soft launch
+├── Review requests
+└── Begin content engine
+
+MOMENTUM BUILDING (Weeks 5-10)
+├── Weekly newsletter
+├── 3-5 social posts/week
+└── Engagement + list growth
+
+VOLUME 2 LAUNCH (Weeks 11-12)
+├── Email warm-up sequence
+├── Launch + bundle offer
+└── Cross-promote Vol 1
+
+DEEPENING ENGAGEMENT (Weeks 13-18)
+├── Bridge-themed content
+├── Attachment/healing focus
+└── Tease sovereignty themes
+
+VOLUME 3 LAUNCH (Weeks 19-20)
+├── Sovereignty warm-up sequence
+├── Launch + 3-book bundle
+└── Position as "healing complete"
+
+AUTHORITY BUILDING (Weeks 21-26)
+├── Sovereignty-themed content
+├── Leadership focus
+└── Podcast outreach
+
+VOLUME 4 LAUNCH (Weeks 27-28)
+├── Embodiment warm-up sequence
+├── Complete Series bundle
+└── Future offerings waitlist
+
+POST-SERIES (Week 29+)
+├── Complete series marketing
+├── Coaching/course development
+└── Community launch
 ```
 
 ---
@@ -156,7 +276,26 @@ Every piece of content should:
 2. Capture an email (build asset)
 3. Help someone heal (build loyalty)
 
-Future offerings—coaching, courses, community—are the long-term product. The books establish you as the authority who can deliver them.
+Future offerings—coaching, courses, community, retreats—are the long-term product. The four volumes establish you as the definitive authority on the journey from survival to sovereignty to embodied leadership.
+
+---
+
+## The Journey You're Guiding
+
+```
+VOLUME 1                VOLUME 2              VOLUME 3              VOLUME 4
+Recognition             Liberation            Empowerment           Embodiment
+    │                       │                     │                     │
+    ▼                       ▼                     ▼                     ▼
+"I see what's          "I understand        "I trust myself"      "I live from
+ happening"             why & I'm                                   presence"
+                        crossing out"
+    │                       │                     │                     │
+    └───────────────────────┴─────────────────────┴─────────────────────┘
+                                    │
+                              THE READER'S
+                              TRANSFORMATION
+```
 
 ---
 
@@ -166,8 +305,10 @@ Future offerings—coaching, courses, community—are the long-term product. The
 2. Work through files in order
 3. Launch Volume 1
 4. Run content calendar
-5. Launch Volume 2
-6. Begin planning future offerings
+5. Launch Volume 2 (8 weeks later)
+6. Launch Volume 3 (8 weeks later)
+7. Launch Volume 4 (8 weeks later)
+8. Begin planning future offerings
 
-You've got this.
+You've written four books. You're building something significant. Keep going.
 

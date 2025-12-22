@@ -61,7 +61,7 @@ If you feel called to create content about these patterns, complete your healing
 ## 🎯 The Core Tools
 
 ### The 3-3-3 Rule
-Memorize this framework for responding in the moment:
+A grounding tool for conversations that activate you:
 
 - **3 Seconds:** Pause before responding. Count silently.
 - **3 Breaths:** Inhale 4, exhale 6. Engage your parasympathetic nervous system.

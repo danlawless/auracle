@@ -3,7 +3,7 @@ import { volumes } from './chapters';
 
 export const metadata = {
   title: 'The Sovereignty Series | Reader',
-  description: 'A seven-volume journey from recognition through healing to sovereignty, embodied leadership, and beyond.',
+  description: 'A seven-volume, 555,000-word journey from recognition through healing to sovereignty, embodied leadership, parenting, helping others, and prosperity.',
 };
 
 const volumeColors = [
@@ -182,18 +182,22 @@ export default function ReaderPage() {
       <section className="pb-24 px-6">
         <div className="max-w-4xl mx-auto">
           <div className="bg-gradient-to-r from-deep-purple/5 to-soft-lavender/10 rounded-2xl p-8">
-            <div className="grid grid-cols-3 gap-6 text-center">
+            <div className="grid grid-cols-4 gap-6 text-center">
               <div>
                 <div className="text-3xl font-bold text-deep-purple">7</div>
                 <div className="text-sm text-gray-500">Volumes</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-deep-purple">~530K</div>
+                <div className="text-3xl font-bold text-deep-purple">555K</div>
                 <div className="text-sm text-gray-500">Words</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-deep-purple">~1,900</div>
+                <div className="text-3xl font-bold text-deep-purple">2,021</div>
                 <div className="text-sm text-gray-500">Pages</div>
+              </div>
+              <div>
+                <div className="text-3xl font-bold text-deep-purple">143</div>
+                <div className="text-sm text-gray-500">Chapters</div>
               </div>
             </div>
           </div>

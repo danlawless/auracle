@@ -4,175 +4,146 @@
 
 > *A Guide for Those Ready to Thrive, Not Just Survive*
 
----
-
-## ⚡ The Vision
-
-This volume addresses the practical rebuilding that follows emotional healing. Financial abuse, career derailment, and scarcity mindset are embedded in most narcissistic dynamics — but rarely addressed in recovery literature.
-
-You've done the inner work. Now it's time to build the outer life.
-
-**Core insight:** *"You are allowed to thrive, not just survive."*
+**82,348 words | ~299 pages | 22 chapters | 5 appendices**
 
 ---
 
-## 🎯 Who This Book Is For
+## ⚡ Quick Navigation
 
-This book is written for those who:
+### Part I — Orientation
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Front Matter](./00-front-matter.md) | *About This Book* | Who this book is for and how to use it |
+| [Chapter 1](./chapters/01-the-return-manifesto.md) | The Return Manifesto | What this book is really about |
+| [Chapter 2](./chapters/02-survival-mode-not-life-plan.md) | Survival Mode Is Not a Life Plan | Moving beyond just getting by |
 
-- Experienced financial abuse or control
-- Lost years of career development to a relationship
-- Operate from scarcity even when resources are available
-- Feel guilt about wanting money or success
-- Don't know who they are professionally after trauma
-- Want to build a business from sovereignty
-- Need to rebuild credit, savings, or financial foundations
-- Are learning that safety includes material stability
+### Part II — Financial Recovery
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Chapter 3](./chapters/03-understanding-financial-abuse.md) | Understanding Financial Abuse | Naming economic control |
+| [Chapter 4](./chapters/04-scarcity-nervous-system.md) | The Scarcity Nervous System | When your body believes there's never enough |
+| [Chapter 5](./chapters/05-rebuilding-from-zero.md) | Rebuilding From Zero | Practical foundations |
+| [Chapter 6](./chapters/06-money-stories-family-inheritance.md) | Money Stories & Family Inheritance | Inherited beliefs about wealth |
+| [Chapter 7](./chapters/07-financial-sovereignty.md) | Financial Sovereignty | Your money, your rules |
 
----
+### Part III — Work & Identity
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Chapter 8](./chapters/08-professional-identity-after-trauma.md) | Who Am I Professionally? | Identity after diminishment |
+| [Chapter 9](./chapters/09-career-gaps-story.md) | Career Gaps & The Story You Tell | Navigating resume gaps |
+| [Chapter 10](./chapters/10-workplace-narcissism-toxic-leadership.md) | Workplace Narcissism & Toxic Leadership | Recognizing patterns at work |
+| [Chapter 11](./chapters/11-boundaries-work.md) | Boundaries at Work Without Burning Bridges | Professional limits |
+| [Chapter 12](./chapters/12-work-as-escape.md) | When Work Was Your Escape | Workaholism as survival |
 
-## 📚 Proposed Structure
+### Part IV — Purpose & Building
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Chapter 13](./chapters/13-purpose-after-survival.md) | Purpose After Survival | Finding meaning |
+| [Chapter 14](./chapters/14-building-business-from-sovereignty.md) | Building a Business From Sovereignty | Entrepreneurship from wholeness |
+| [Chapter 15](./chapters/15-visibility-without-performing.md) | Visibility Without Performing | Being seen authentically |
+| [Chapter 16](./chapters/16-pricing-charging-receiving.md) | Pricing, Charging & Receiving | The ability to accept |
+| [Chapter 17](./chapters/17-wealth-building-without-guilt.md) | Wealth Building Without Guilt | Prosperity as healing |
 
-```
-PART I: ORIENTATION
-├── Front Matter .......... How to use this book
-├── Chapter 1 ............. The Return Manifesto
-└── Chapter 2 ............. Survival Mode Is Not a Life Plan
+### Part V — Sustainable Success
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Chapter 18](./chapters/18-work-life-boundaries-in-practice.md) | Work-Life Boundaries in Practice | Daily rhythms |
+| [Chapter 19](./chapters/19-success-triggers.md) | Success Triggers | When thriving feels dangerous |
+| [Chapter 20](./chapters/20-building-a-life-that-holds-you.md) | Building a Life That Holds You | Infrastructure for flourishing |
+| [Chapter 21](./chapters/21-the-life-youre-allowed-to-have.md) | The Life You're Allowed to Have | Permission to thrive |
+| [Chapter 22](./chapters/22-epilogue-welcome-home.md) | Epilogue: Welcome Home | Closing blessing |
 
-PART II: FINANCIAL RECOVERY
-├── Chapter 3 ............. Understanding Financial Abuse
-├── Chapter 4 ............. The Scarcity Nervous System
-├── Chapter 5 ............. Rebuilding From Zero (Practical Foundations)
-├── Chapter 6 ............. Money Stories & Family Inheritance
-└── Chapter 7 ............. Financial Sovereignty: Your Money, Your Rules
-
-PART III: WORK & IDENTITY
-├── Chapter 8 ............. Who Am I Professionally? (After Trauma)
-├── Chapter 9 ............. Career Gaps & The Story You Tell
-├── Chapter 10 ............ Workplace Narcissism & Toxic Leadership
-├── Chapter 11 ............ Boundaries at Work Without Burning Bridges
-└── Chapter 12 ............ When Work Was Your Escape
-
-PART IV: PURPOSE & BUILDING
-├── Chapter 13 ............ Purpose After Survival
-├── Chapter 14 ............ Building a Business From Sovereignty
-├── Chapter 15 ............ Visibility Without Performing
-├── Chapter 16 ............ Pricing, Charging & Receiving
-└── Chapter 17 ............ Wealth Building Without Guilt
-
-PART V: SUSTAINABLE SUCCESS
-├── Chapter 18 ............ Work-Life Boundaries in Practice
-├── Chapter 19 ............ Success Triggers (When Thriving Feels Dangerous)
-├── Chapter 20 ............ Building a Life That Holds You
-└── Chapter 21 ............ The Life You're Allowed to Have
-
-PART VI: CLOSING
-└── Chapter 22 ............ Epilogue: Welcome Home
-
-APPENDICES
-├── Appendix A ............ Financial Recovery Checklist
-├── Appendix B ............ Workplace Boundary Scripts
-├── Appendix C ............ Signs of Financial Abuse
-├── Appendix D ............ Business Ethics for Trauma-Informed Entrepreneurs
-└── Appendix E ............ Decoder Cards for Prosperity
-```
+### Appendices
+| Appendix | Title | Description |
+|----------|-------|-------------|
+| [Appendix A](./appendices/appendix-a-financial-recovery-checklist.md) | Financial Recovery Checklist | Practical steps |
+| [Appendix B](./appendices/appendix-b-workplace-boundary-scripts.md) | Workplace Boundary Scripts | What to say at work |
+| [Appendix C](./appendices/appendix-c-signs-of-financial-abuse.md) | Signs of Financial Abuse | Recognition checklist |
+| [Appendix D](./appendices/appendix-d-business-ethics-trauma-informed.md) | Business Ethics for Trauma-Informed Entrepreneurs | Values in practice |
+| [Appendix E](./appendices/appendix-e-decoder-cards-prosperity.md) | Decoder Cards for Prosperity | Quick-reference guides |
 
 ---
 
-## 🧠 Neuroscience Foundation
+## 📖 How to Read This Book
 
-Each chapter should include:
-- The neuroscience of scarcity mindset
-- How financial stress affects the nervous system
-- The relationship between safety and resource acquisition
-- Reward systems and the capacity to receive
+This book is not about getting rich.
 
-Grounded in:
-- Scarcity research (Mullainathan & Shafir)
-- Polyvagal Theory applied to resource acquisition
-- Economic abuse literature
-- Occupational psychology
-- Entrepreneurship from a trauma-informed lens
+It is about building a life that matches the healing you've done.
+
+If you have completed the earlier volumes, you've done the inner work. Now it's time for the outer work—the career, the finances, the material foundations that support a sovereign life.
 
 ---
 
 ## 🌟 The Promise
 
-By the end of this book, readers will:
+By the end of this book, you will:
 
-1. **Understand** how financial abuse and control affected them
-2. **Recognize** scarcity patterns in their relationship with money
+1. **Understand** how financial abuse and control affected you
+2. **Recognize** scarcity patterns in your relationship with money
 3. **Rebuild** practical financial foundations
 4. **Reclaim** professional identity after trauma
 5. **Navigate** workplace dynamics with sovereignty
-6. **Build** businesses or careers aligned with their values
+6. **Build** businesses or careers aligned with your values
 7. **Receive** money and success without guilt
 8. **Create** a life of sustainable prosperity
 
 ---
 
-## 🔑 Key Concepts to Develop
+## 💬 A Note Before You Begin
 
-| Concept | Description |
-|---------|-------------|
-| **Financial Abuse** | Control through money, not just violence |
-| **Scarcity Nervous System** | When the body believes there's never enough |
-| **Economic Coercive Control** | Tactics of financial manipulation |
-| **Career Identity Loss** | Who am I after years of being diminished? |
-| **Survival Mode Work** | When career is escape, not expression |
-| **Prosperity Guilt** | The belief that thriving is betrayal |
-| **Sovereign Business** | Building from values, not wounds |
-| **Receiving Capacity** | The ability to accept abundance |
+> *You've done the inner work.*
+>
+> *You can name the patterns. You've healed the nervous system. You've installed sovereignty. You've begun to inhabit your presence.*
+>
+> *But something is still missing.*
+>
+> *Maybe it's the career you lost to the relationship. Maybe it's the savings that were drained. Maybe it's the scarcity that still lives in your body, even when the bank account says otherwise.*
+>
+> *This book is about the return.*
+>
+> *Not returning to who you were before—that person is gone. But returning to the world with your whole self. Building a life that matches the healing you've done. Letting your outer world catch up to your inner one.*
+>
+> *You are allowed to thrive. Not just survive.*
 
 ---
 
-## 💬 Voice & Tone
+## 🌉 The Core Principle
 
-This volume should:
-- Be practical and actionable
-- Address real financial situations without shame
-- Include both "starting from zero" and "rebuilding" paths
-- Honor that material stability is part of safety
-- Avoid toxic positivity about money
-- Acknowledge systemic barriers while focusing on agency
+**You are allowed to thrive, not just survive.**
+
+Financial abuse, career derailment, and scarcity mindset are embedded in most narcissistic dynamics. Healing isn't complete until your material life reflects your inner work.
+
+Prosperity is not betrayal. It is a fruit of healing.
 
 ---
 
 ## 📘 Before This Book
 
-This book assumes readers have:
-- Named their patterns → **Volume 1: The Narcissism Decoder**
-- Begun healing → **Volume 2: The Bridge**
-- Installed sovereignty → **Volume 3: Sovereignty**
+This book assumes you have:
+- Named your patterns → **[Volume 1: The Narcissism Decoder](../vol-1-decoder/README.md)**
+- Begun healing → **[Volume 2: The Bridge](../vol-2-bridge/README.md)**
+- Installed sovereignty → **[Volume 3: Sovereignty](../vol-3-sovereignty/README.md)**
 
-This volume can be read alongside or after Volume 4. It addresses a parallel track: while Vol 4 covers embodied presence, this covers embodied prosperity.
-
----
-
-## 🔜 Connection to Other Volumes
-
-| Volume | Connection |
-|--------|------------|
-| Vol 1 | Financial abuse is a form of narcissistic control |
-| Vol 2 | Scarcity is a nervous system pattern requiring healing |
-| Vol 3 | Financial sovereignty is an expression of internal authority |
-| Vol 4 | Parallel track — presence and prosperity |
-| Vol 6 | Business building for those becoming guides |
+This volume can be read alongside or after Volumes 4-6. It addresses a parallel track: while those volumes cover presence, parenting, and purpose, this covers prosperity.
 
 ---
 
-## 📝 Notes for Development
+## 🔙 The Complete Series
 
-- Include real financial tools (budgeting, credit repair basics)
-- Address different starting points (poverty, debt, stability)
-- Section on divorce financial recovery
-- Guidance for entrepreneurs vs. employees
-- Address gender dynamics in financial abuse
-- Include success stories (composite) of financial recovery
+You have completed **The Sovereignty Series**:
+
+| Volume | Focus | Core Insight |
+|--------|-------|--------------|
+| 1: Decoder | Recognition | "This wasn't love—this was conditioning." |
+| 2: Bridge | Healing | "Leaving hurts because your body learned danger as connection." |
+| 3: Sovereignty | Authority | "You are safe to choose without urgency." |
+| 4: Embodied Leadership | Presence | "Your presence is erotic when it belongs to you." |
+| 5: Lineage | Legacy | "You don't have to be healed to be a good parent." |
+| 6: Guide | Purpose | "Your healing is your credential." |
+| **7: Return** | **Prosperity** | **"You are allowed to thrive, not just survive."** |
 
 ---
 
-**Status:** Framework Only — Chapters Not Yet Written
+**[Begin Reading →](./00-front-matter.md)**
 
 *"Your prosperity is not a betrayal of your healing. It is a fruit of it."*
-

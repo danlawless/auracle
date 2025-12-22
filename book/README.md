@@ -2,12 +2,28 @@
 
 A seven-volume journey from recognition through embodiment and beyond—for those healing from narcissistic relationships, trauma bonds, and dysregulated family systems.
 
+**Total Series: 555,835 words | ~2,021 pages | 143 chapters | 33 appendices**
+
+---
+
+## The Arc
+
+```
+Volume 1: SEE     →  "This wasn't love—this was conditioning."
+Volume 2: HEAL    →  "Leaving hurts because your body learned danger as connection."
+Volume 3: STAND   →  "You are safe to choose without urgency."
+Volume 4: LIVE    →  "Your presence is erotic when it belongs to you."
+Volume 5: GIVE    →  "You don't have to be healed to be a good parent. You have to be healing."
+Volume 6: SERVE   →  "Your healing is your credential. Your boundaries are your offering."
+Volume 7: THRIVE  →  "You are allowed to thrive, not just survive."
+```
+
 ---
 
 ## The Books
 
 ### [Volume 1: The Narcissism Decoder](./vol-1-decoder/README.md)
-**Control Disguised as Care**
+**Control Disguised as Care** | 66,025 words | ~240 pages | 16 chapters
 
 *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
 
@@ -27,7 +43,7 @@ This book helps you:
 ---
 
 ### [Volume 2: The Bridge](./vol-2-bridge/README.md)
-**Learning Secure Attachment After Trauma**
+**Learning Secure Attachment After Trauma** | 99,108 words | ~360 pages | 26 chapters
 
 *A Guide for Emotionally Sensitive Adults Moving from Survival to Sovereign Connection*
 
@@ -47,7 +63,7 @@ This book helps you:
 ---
 
 ### [Volume 3: Sovereignty](./vol-3-sovereignty/README.md)
-**Living From Internal Authority**
+**Living From Internal Authority** | 69,048 words | ~251 pages | 21 chapters
 
 *A Guide for Those Ready to Stop Shrinking and Start Standing*
 
@@ -67,7 +83,7 @@ This book helps you:
 ---
 
 ### [Volume 4: Embodied Leadership](./vol-4-embodied-leadership/README.md)
-**Aura, Erotic Coherence & Living From Presence**
+**Aura, Erotic Coherence & Living From Presence** | 65,433 words | ~238 pages | 14 chapters
 
 *A Guide for Those Ready to Inhabit Their Full Power*
 
@@ -86,16 +102,14 @@ This book helps you:
 
 ---
 
-## Future Volumes (In Development)
-
-### [Volume 5: The Lineage](./vol-5-lineage/README.md) 🚧
-**Breaking the Chain — Parenting After Trauma**
+### [Volume 5: The Lineage](./vol-5-lineage/README.md)
+**Breaking the Chain — Parenting After Trauma** | 84,162 words | ~306 pages | 21 chapters
 
 *A Guide for Those Ready to Give Their Children What They Never Received*
 
 **Focus:** Conscious parenting, breaking generational cycles, repair over perfection
 
-This book will help you:
+This book helps you:
 - Parent while still healing
 - Recognize when your child activates old wounds
 - Repair after ruptures without shame spiraling
@@ -106,18 +120,16 @@ This book will help you:
 
 **Core insight:** *"You don't have to be healed to be a good parent. You have to be healing."*
 
-**Status:** Framework complete, chapters not yet written
-
 ---
 
-### [Volume 6: The Guide](./vol-6-guide/README.md) 🚧
-**Holding Others' Healing Without Losing Your Own**
+### [Volume 6: The Guide](./vol-6-guide/README.md)
+**Holding Others' Healing Without Losing Your Own** | 89,711 words | ~326 pages | 23 chapters
 
 *A Guide for Those Called to Help Others on This Path*
 
 **Focus:** Sustainable helping, the shadow of the healer, boundaried presence
 
-This book will help you:
+This book helps you:
 - Understand why trauma survivors become helpers
 - Recognize when helping becomes hiding
 - Navigate the ethics of lived-experience guidance
@@ -128,18 +140,16 @@ This book will help you:
 
 **Core insight:** *"You cannot give what you don't have. Your healing is your offering."*
 
-**Status:** Framework complete, chapters not yet written
-
 ---
 
-### [Volume 7: The Return](./vol-7-return/README.md) 🚧
-**Money, Work & Building a Life After Survival Mode**
+### [Volume 7: The Return](./vol-7-return/README.md)
+**Money, Work & Building a Life After Survival Mode** | 82,348 words | ~299 pages | 22 chapters
 
 *A Guide for Those Ready to Thrive, Not Just Survive*
 
 **Focus:** Financial recovery, career identity, prosperity after trauma
 
-This book will help you:
+This book helps you:
 - Recover from financial abuse
 - Retrain the scarcity nervous system
 - Rebuild professional identity after trauma
@@ -149,8 +159,6 @@ This book will help you:
 **Best for:** Those rebuilding financially after abuse, those who lost career development to a relationship, anyone ready to let their outer life match their inner healing.
 
 **Core insight:** *"You are allowed to thrive, not just survive."*
-
-**Status:** Framework complete, chapters not yet written
 
 ---
 
@@ -172,13 +180,13 @@ Start with **Volume 2**. The issue isn't recognition—it's nervous system repat
 **Volume 4** is for those who have installed sovereignty and are ready for embodied leadership—in intimacy, groups, and life.
 
 ### If you're parenting while healing
-**Volume 5** *(coming soon)* will address breaking generational cycles and conscious parenting after trauma.
+**Volume 5** addresses breaking generational cycles and conscious parenting after trauma.
 
 ### If you're called to help others heal
-**Volume 6** *(coming soon)* will guide you in sustainable, boundaried helping work.
+**Volume 6** guides you in sustainable, boundaried helping work.
 
 ### If you're rebuilding your material life
-**Volume 7** *(coming soon)* will address financial recovery and career after trauma.
+**Volume 7** addresses financial recovery and career after trauma.
 
 ### If you want the complete journey
 Read all seven, in order:
@@ -192,6 +200,23 @@ Read all seven, in order:
 
 ---
 
+## Series Statistics
+
+| Volume | Title | Words | Pages | Chapters | Appendices |
+|:------:|-------|------:|------:|:--------:|:----------:|
+| 1 | The Narcissism Decoder | 66,025 | ~240 | 16 | 5 |
+| 2 | The Bridge | 99,108 | ~360 | 26 | 3 |
+| 3 | Sovereignty | 69,048 | ~251 | 21 | 5 |
+| 4 | Embodied Leadership | 65,433 | ~238 | 14 | 5 |
+| 5 | The Lineage | 84,162 | ~306 | 21 | 5 |
+| 6 | The Guide | 89,711 | ~326 | 23 | 5 |
+| 7 | The Return | 82,348 | ~299 | 22 | 5 |
+| **Total** | | **555,835** | **~2,021** | **143** | **33** |
+
+*Page estimates based on 275 words/page (standard trade paperback)*
+
+---
+
 ## Project Structure
 
 ```
@@ -200,9 +225,9 @@ Read all seven, in order:
 ├── vol-2-bridge/               # The Bridge ✅
 ├── vol-3-sovereignty/          # Sovereignty ✅
 ├── vol-4-embodied-leadership/  # Embodied Leadership ✅
-├── vol-5-lineage/              # The Lineage 🚧
-├── vol-6-guide/                # The Guide 🚧
-├── vol-7-return/               # The Return 🚧
+├── vol-5-lineage/              # The Lineage ✅
+├── vol-6-guide/                # The Guide ✅
+├── vol-7-return/               # The Return ✅
 ├── extras/                     # Source materials and notes
 └── release/                    # Marketing and launch materials
 ```
@@ -233,20 +258,6 @@ All seven books share these principles:
 
 ---
 
-## The Arc
-
-```
-Volume 1: SEE     →  "This wasn't love—this was conditioning."
-Volume 2: HEAL    →  "Leaving hurts because your body learned danger as connection."
-Volume 3: STAND   →  "You are safe to choose without urgency."
-Volume 4: LIVE    →  "Your presence is erotic when it belongs to you."
-Volume 5: GIVE    →  "You don't have to be healed to be a good parent. You have to be healing."
-Volume 6: SERVE   →  "Your healing is your credential. Your boundaries are your offering."
-Volume 7: THRIVE  →  "You are allowed to thrive, not just survive."
-```
-
----
-
 ## What Makes This Series Different
 
 - **Trauma-informed throughout.** Every chapter respects where the nervous system is.
@@ -256,21 +267,6 @@ Volume 7: THRIVE  →  "You are allowed to thrive, not just survive."
 - **Sexuality-integrated.** Volume 4 addresses what happens when life force returns after trauma.
 - **Generational.** Volume 5 addresses breaking cycles for future generations.
 - **Sustainable.** Volumes 6 and 7 address long-term flourishing, not just survival.
-
----
-
-## Series Statistics
-
-| Volume | Status | Words | Pages |
-|--------|--------|------:|------:|
-| Vol 1: Decoder | ✅ Complete | ~65,000 | ~238 |
-| Vol 2: Bridge | ✅ Complete | ~99,000 | ~360 |
-| Vol 3: Sovereignty | ✅ Complete | ~69,000 | ~251 |
-| Vol 4: Embodied Leadership | ✅ Complete | ~65,000 | ~238 |
-| Vol 5: Lineage | 🚧 Framework | — | — |
-| Vol 6: Guide | 🚧 Framework | — | — |
-| Vol 7: Return | 🚧 Framework | — | — |
-| **Total (Vols 1-4)** | | **~299,000** | **~1,087** |
 
 ---
 

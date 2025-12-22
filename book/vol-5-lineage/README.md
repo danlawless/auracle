@@ -4,186 +4,135 @@
 
 > *A Guide for Those Ready to Give Their Children What They Never Received*
 
----
-
-## ⚡ The Vision
-
-This volume addresses the question every healed trauma survivor asks: *"How do I not pass this on?"*
-
-Parenting is where sovereignty meets its greatest test. Your children will activate old wounds, trigger survival responses, and mirror back parts of yourself you thought were healed. This book teaches you to parent from presence, not from your own unmet needs.
-
-**Core insight:** *"You don't have to be healed to be a good parent. You have to be healing."*
+**84,162 words | ~306 pages | 21 chapters | 5 appendices**
 
 ---
 
-## 🎯 Who This Book Is For
+## ⚡ Quick Navigation
 
-This book is written for those who:
+### Part I — Orientation
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Front Matter](./00-front-matter.md) | *About This Book* | Who this book is for and how to use it |
+| [Chapter 1](./chapters/01-lineage-manifesto.md) | The Lineage Manifesto | What this book is really about—breaking the chain |
+| [Chapter 2](./chapters/02-already-enough.md) | You Are Already Enough | The foundation of conscious parenting |
 
-- Are parenting while still healing
-- Fear repeating their parents' patterns
-- Get triggered by their own children
-- Want to break generational cycles consciously
-- Are co-parenting with a narcissistic ex
-- Have a child who reminds them of their abuser
-- Want to give their children secure attachment
-- Are learning to repair after rupture
+### Part II — The Triggered Parent
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Chapter 3](./chapters/03-activated-wounds.md) | When Your Child Activates Old Wounds | Understanding parenting triggers |
+| [Chapter 4](./chapters/04-rage-rises.md) | The Rage That Rises | What to do when anger overwhelms |
+| [Chapter 5](./chapters/05-shame-spirals-imperfect-moments.md) | Shame Spirals After Imperfect Moments | Recovery from parenting mistakes |
+| [Chapter 6](./chapters/06-nervous-system-vs-theirs.md) | Your Nervous System vs Theirs | Co-regulation in parent-child dynamics |
 
----
+### Part III — Attachment in Action
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Chapter 7](./chapters/07-secure-attachment.md) | What Secure Attachment Actually Looks Like | Practical secure parenting |
+| [Chapter 8](./chapters/08-repair-over-perfection.md) | Repair Over Perfection | The skill that matters most |
+| [Chapter 9](./chapters/09-age-specific-challenges.md) | Age-Specific Challenges | Developmental lens on parenting |
+| [Chapter 10](./chapters/10-child-mirrors-wound.md) | The Child Who Mirrors Your Wound | When they reflect your pain |
 
-## 📚 Proposed Structure
+### Part IV — Complex Situations
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Chapter 11](./chapters/11-coparenting-narcissistic-ex.md) | Co-Parenting With a Narcissistic Ex | Protecting children in split dynamics |
+| [Chapter 12](./chapters/12-when-grandparents-are-problem.md) | When Grandparents Are the Problem | Managing extended family |
+| [Chapter 13](./chapters/13-child-who-reminds-you.md) | The Child Who Reminds You of Your Abuser | Navigating triggering resemblance |
+| [Chapter 14](./chapters/14-parenting-multiple-children.md) | Parenting Multiple Children Differently | Fairness and individual needs |
+| [Chapter 15](./chapters/15-child-witnesses-healing.md) | When Your Child Witnesses Your Healing | Modeling growth |
+| [Chapter 16](./chapters/16-what-youre-passing-on.md) | What You're Actually Passing On | Generational patterns |
 
-```
-PART I: ORIENTATION
-├── Front Matter .......... How to use this book
-├── Chapter 1 ............. The Lineage Manifesto
-└── Chapter 2 ............. You Are Already Enough
+### Part V — Breaking the Chain
+| Chapter | Title | Description |
+|---------|-------|-------------|
+| [Chapter 17](./chapters/17-the-apology-they-deserve.md) | The Apology They Deserve | How to repair meaningfully |
+| [Chapter 18](./chapters/18-teaching-boundaries-to-children.md) | Teaching Boundaries to Children | Raising boundaried kids |
+| [Chapter 19](./chapters/19-raising-emotionally-literate-humans.md) | Raising Emotionally Literate Humans | Emotional intelligence for kids |
+| [Chapter 20](./chapters/20-the-parent-youre-becoming.md) | The Parent You're Becoming | Identity transformation |
+| [Chapter 21](./chapters/21-epilogue-letter-to-your-lineage.md) | Epilogue: Letter to Your Lineage | Closing blessing |
 
-PART II: THE TRIGGERED PARENT
-├── Chapter 3 ............. When Your Child Activates Old Wounds
-├── Chapter 4 ............. The Rage That Rises
-├── Chapter 5 ............. Shame Spirals After Imperfect Moments
-└── Chapter 6 ............. Your Nervous System vs. Their Nervous System
-
-PART III: ATTACHMENT IN ACTION
-├── Chapter 7 ............. What Secure Attachment Actually Looks Like
-├── Chapter 8 ............. Repair Over Perfection
-├── Chapter 9 ............. Age-Specific Challenges (Developmental Lens)
-└── Chapter 10 ............ The Child Who Mirrors Your Wound
-
-PART IV: COMPLEX SITUATIONS
-├── Chapter 11 ............ Co-Parenting With a Narcissistic Ex
-├── Chapter 12 ............ When Grandparents Are the Problem
-├── Chapter 13 ............ The Child Who Reminds You of Your Abuser
-├── Chapter 14 ............ Parenting Multiple Children Differently
-└── Chapter 15 ............ When Your Child Witnesses Your Healing
-
-PART V: BREAKING THE CHAIN
-├── Chapter 16 ............ What You're Actually Passing On
-├── Chapter 17 ............ The Apology They Deserve
-├── Chapter 18 ............ Teaching Boundaries to Children
-├── Chapter 19 ............ Raising Emotionally Literate Humans
-└── Chapter 20 ............ The Parent You're Becoming
-
-PART VI: CLOSING
-└── Chapter 21 ............ Epilogue: Letter to Your Lineage
-
-APPENDICES
-├── Appendix A ............ Age-Specific Scripts (Toddler to Teen)
-├── Appendix B ............ Repair Conversation Templates
-├── Appendix C ............ Self-Regulation for Parents (Quick Tools)
-├── Appendix D ............ Red Flags in Co-Parenting Situations
-└── Appendix E ............ Decoder Cards for Parenting
-```
-
----
-
-## 📎 Appendices
-
-Practical tools you can use immediately—print them, save them, return to them.
-
+### Appendices
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| [Appendix A](./appendices/appendix-a-age-specific-scripts.md) | Age-Specific Scripts | What to say from toddler through teen—developmental lens, common scenarios, scripts for every age |
-| [Appendix B](./appendices/appendix-b-repair-templates.md) | Repair Conversation Templates | How to come back after rupture—anatomy of repair, age-specific considerations, 10+ templated scripts |
-| [Appendix C](./appendices/appendix-c-parent-regulation-tools.md) | Self-Regulation for Parents | Quick tools for when you're triggered—seconds to minutes, for when you can't leave, prevention strategies |
-| [Appendix D](./appendices/appendix-d-coparenting-red-flags.md) | Co-Parenting Red Flags | Warning signs with difficult co-parents, documentation practices, boundary scripts, protecting children |
-| [Appendix E](./appendices/appendix-e-decoder-cards-parenting.md) | Decoder Cards for Parenting | 22 quick-reference cards for common parenting triggers—what's really going on, what to do, anchor phrases |
+| [Appendix A](./appendices/appendix-a-age-specific-scripts.md) | Age-Specific Scripts | What to say at each developmental stage |
+| [Appendix B](./appendices/appendix-b-repair-templates.md) | Repair Conversation Templates | Scripts for making amends |
+| [Appendix C](./appendices/appendix-c-parent-regulation-tools.md) | Self-Regulation for Parents | Quick tools for triggered moments |
+| [Appendix D](./appendices/appendix-d-coparenting-red-flags.md) | Co-Parenting Red Flags | Warning signs and responses |
+| [Appendix E](./appendices/appendix-e-decoder-cards-parenting.md) | Decoder Cards for Parenting | Quick-reference guides |
 
 ---
 
-## 🧠 Neuroscience Foundation
+## 📖 How to Read This Book
 
-Each chapter should include:
-- How the parent's nervous system affects the child's development
-- Mirror neurons and co-regulation
-- The impact of parental stress on child attachment
-- Neuroplasticity — it's never too late to repair
+This book is not about becoming a perfect parent.
 
-Grounded in:
-- Attachment Theory (Bowlby, Ainsworth)
-- Interpersonal Neurobiology (Dan Siegel)
-- ACEs Research (Adverse Childhood Experiences)
-- Polyvagal Theory applied to parent-child dynamics
-- Circle of Security framework
+It is about becoming a conscious one.
+
+If you have completed the earlier volumes, you understand your patterns. Now the question becomes: how do I not pass them on?
+
+This book teaches you to parent from presence, not from your wounds.
 
 ---
 
 ## 🌟 The Promise
 
-By the end of this book, readers will:
+By the end of this book, you will:
 
-1. **Understand** how their own attachment history shows up in parenting
-2. **Recognize** triggers before they hijack responses
-3. **Regulate** their nervous system in the presence of their child's dysregulation
+1. **Understand** how your own attachment history shows up in parenting
+2. **Recognize** triggers before they hijack your responses
+3. **Regulate** your nervous system in the presence of your child's dysregulation
 4. **Repair** after ruptures without shame spiraling
 5. **Navigate** co-parenting with difficult ex-partners
-6. **Model** emotional regulation for their children
+6. **Model** emotional regulation for your children
 7. **Break** the chain of generational trauma consciously
-8. **Trust** themselves as "good enough" parents
+8. **Trust** yourself as a "good enough" parent
 
 ---
 
-## 🔑 Key Concepts to Develop
+## 💬 A Note Before You Begin
 
-| Concept | Description |
-|---------|-------------|
-| **Rupture and Repair** | Perfection isn't the goal; repair is the skill |
-| **Parallel Processing** | Healing yourself while parenting |
-| **The Generational Echo** | How trauma travels through families |
-| **Conscious Parenting** | Awareness over automation |
-| **The Good Enough Parent** | Winnicott's concept applied |
-| **Modeling Over Teaching** | Children learn what they see |
-| **The Apology** | What a real parental apology sounds like |
+> *You picked up this book because you don't want to pass it on.*
+>
+> *That awareness alone is already breaking the chain.*
+>
+> *What follows is not a manual for perfect parenting. It is a guide for conscious parenting — parenting while healing, parenting while triggered, parenting while still figuring out who you are.*
+>
+> *Your children don't need you to be healed. They need you to be healing.*
+>
+> *That's what you're giving them: a parent who is aware, who repairs, who keeps choosing growth.*
+>
+> *The chain breaks with you.*
 
 ---
 
-## 💬 Voice & Tone
+## 🌉 The Core Principle
 
-This volume should:
-- Reduce shame, not add to it
-- Acknowledge the difficulty of parenting while healing
-- Avoid perfectionism and "gentle parenting" pressure
-- Be practical and script-heavy
-- Honor the reader's courage in breaking the chain
+**You don't have to be healed to be a good parent. You have to be healing.**
+
+Repair matters more than perfection. Awareness matters more than flawlessness. The parent who apologizes teaches more than the parent who never makes mistakes.
 
 ---
 
 ## 📘 Before This Book
 
-This book assumes readers have:
-- Named their patterns → **Volume 1: The Narcissism Decoder**
-- Begun healing → **Volume 2: The Bridge**
-- Installed sovereignty → **Volume 3: Sovereignty**
+This book assumes you have:
+- Named your patterns → **[Volume 1: The Narcissism Decoder](../vol-1-decoder/README.md)**
+- Begun healing → **[Volume 2: The Bridge](../vol-2-bridge/README.md)**
+- Installed sovereignty → **[Volume 3: Sovereignty](../vol-3-sovereignty/README.md)**
 
 This is not a beginner's parenting book. It's for those who understand their own trauma and want to parent differently.
 
 ---
 
-## 🔜 Connection to Other Volumes
+## 🔜 What Comes Next
 
-| Volume | Connection |
-|--------|------------|
-| Vol 1 | Recognition of how patterns show up in parenting |
-| Vol 2 | Attachment styles applied to parent-child dynamics |
-| Vol 3 | Sovereignty while holding space for a child's needs |
-| Vol 4 | Embodied presence as a parent |
-| Vol 6 | Overlaps with helping/guiding others |
+After breaking the chain with your children, you may feel called to help others:
+- **[Volume 6: The Guide](../vol-6-guide/README.md)** — For those called to help others heal
+- **[Volume 7: The Return](../vol-7-return/README.md)** — For those rebuilding prosperity after survival mode
 
 ---
 
-## 📝 Notes for Development
-
-- Include composite vignettes of parent-child interactions
-- Scripts for common triggering situations
-- Age-appropriate language for talking about emotions
-- Section on explaining family estrangement to children
-- Address both mothers and fathers explicitly
-- Include single parent considerations
-
----
-
-**Status:** Appendices Complete — Chapters In Development
+**[Begin Reading →](./00-front-matter.md)**
 
 *"The chain breaks with you. Not because you're perfect, but because you're aware."*
-

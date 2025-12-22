@@ -197,7 +197,7 @@ Children of absent fathers often develop a fantasy relationship with "Father"—
 
 **Growth edge:** Learning to receive steadiness without proving worth first.
 
-**Micro-vignette:** *She's successful. Accomplished. Needs no one. And under the armor, a small voice still asks: "Would he be proud of me?" She doesn't know who "he" is anymore—her father, her boss, her partner. Maybe all of them. Maybe none.*
+**Field Note:** *She's successful. Accomplished. Needs no one. And under the armor, a small voice still asks: "Would he be proud of me?" She doesn't know who "he" is anymore—her father, her boss, her partner. Maybe all of them. Maybe none.*
 
 ---
 
@@ -238,7 +238,7 @@ Children of passive fathers often unconsciously recreate the dynamic in one of t
 
 **Growth edge:** Learning that directness does not equal danger.
 
-**Micro-vignette:** *He notices the tension at dinner. He says nothing. His wife is upset about something—he can feel it. But he learned early: don't engage when the room is charged. So he waits. The moment passes. The repair never happens. This is what love looks like to him: enduring the silence together.*
+**Field Note:** *He notices the tension at dinner. He says nothing. His wife is upset about something—he can feel it. But he learned early: don't engage when the room is charged. So he waits. The moment passes. The repair never happens. This is what love looks like to him: enduring the silence together.*
 
 ---
 
@@ -280,7 +280,7 @@ Many children of volatile fathers develop a hypervigilant radar for other people
 
 **Growth edge:** Learning nervous system regulation before communication.
 
-**Micro-vignette:** *He hears his partner's voice shift—just slightly. His body goes cold. His mind races: What did I do wrong? He's already apologizing before he understands why. Twenty minutes later, he learns she was just frustrated about work. But his body already lived through the explosion that never came.*
+**Field Note:** *He hears his partner's voice shift—just slightly. His body goes cold. His mind races: What did I do wrong? He's already apologizing before he understands why. Twenty minutes later, he learns she was just frustrated about work. But his body already lived through the explosion that never came.*
 
 ---
 
@@ -323,7 +323,7 @@ The critical father's voice often becomes the internal voice. Long after leaving
 
 **Growth edge:** Learning that imperfection is human, not failure.
 
-**Micro-vignette:** *She got the promotion. Her first thought: "What's wrong with this picture?" She waits for the catch, the correction, the flaw someone will find. Her partner celebrates. She can't quite feel it. Somewhere in the background, a voice asks: "Yes, but could you have done it sooner?"*
+**Field Note:** *She got the promotion. Her first thought: "What's wrong with this picture?" She waits for the catch, the correction, the flaw someone will find. Her partner celebrates. She can't quite feel it. Somewhere in the background, a voice asks: "Yes, but could you have done it sooner?"*
 
 ---
 
@@ -365,7 +365,7 @@ Children of idealized fathers often split the world into exceptional and ordinar
 
 **Growth edge:** Allowing ordinariness and humanity.
 
-**Micro-vignette:** *He's the one everyone admires. Smart, successful, composed. At the dinner party, people orbit him. But at home, alone, he stares at the ceiling wondering why he feels so hollow. He has achieved the ideal—and found it empty.*
+**Field Note:** *He's the one everyone admires. Smart, successful, composed. At the dinner party, people orbit him. But at home, alone, he stares at the ceiling wondering why he feels so hollow. He has achieved the ideal—and found it empty.*
 
 ---
 

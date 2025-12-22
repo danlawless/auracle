@@ -1,4 +1,4 @@
-# Chapter 13: Sovereignty With Family of Origin
+# Chapter 15: Sovereignty With Family of Origin
 
 ## New Dynamics With Old Systems
 
@@ -615,6 +615,6 @@ That is growing up.
 
 ---
 
-**[Continue to Chapter 14: Sovereignty at Work →](./14-sovereignty-at-work.md)**
+**[Continue to Chapter 16: Sovereignty at Work →](./16-sovereignty-at-work.md)**
 
 

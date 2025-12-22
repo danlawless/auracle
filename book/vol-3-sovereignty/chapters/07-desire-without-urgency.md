@@ -1,4 +1,4 @@
-# Chapter 6: Desire Without Urgency
+# Chapter 7: Desire Without Urgency
 
 ## When Calm Replaces Intensity
 

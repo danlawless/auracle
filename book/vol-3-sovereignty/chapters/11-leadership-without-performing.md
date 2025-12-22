@@ -1,4 +1,4 @@
-# Chapter 9: Leadership Without Performing
+# Chapter 11: Leadership Without Performing
 
 ---
 
@@ -508,5 +508,5 @@ That's the leadership you're here to embody.
 
 ---
 
-**[Continue to Chapter 9B: Creativity & Purpose From Sovereignty →](./09b-creativity-from-sovereignty.md)**
+**[Continue to Chapter 12: Creativity & Purpose From Sovereignty →](./12-creativity-from-sovereignty.md)**
 

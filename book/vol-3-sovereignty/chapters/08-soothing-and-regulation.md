@@ -1,4 +1,4 @@
-# Chapter 7: Soothing & Regulation
+# Chapter 8: Soothing & Regulation
 
 ## Addiction, Relief-Seeking, and the Nervous System's Search for Safety
 
@@ -580,5 +580,5 @@ Not through control, but through care.
 
 ---
 
-**[Continue to Chapter 8: Guilt, Separation & Emotional Contracts →](./08-guilt-separation-contracts.md)**
+**[Continue to Chapter 9: Guilt, Separation & Emotional Contracts →](./09-guilt-separation-contracts.md)**
 

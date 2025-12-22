@@ -1,4 +1,4 @@
-# Chapter 14: Sovereignty at Work
+# Chapter 16: Sovereignty at Work
 
 ## Authority Without Armor
 
@@ -493,4 +493,4 @@ That's sovereignty at work.
 
 ---
 
-**[Continue to Chapter 15: Navigating Others' Dysregulation →](./15-navigating-dysregulation.md)**
+**[Continue to Chapter 17: Navigating Others' Dysregulation →](./17-navigating-dysregulation.md)**

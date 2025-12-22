@@ -1,4 +1,4 @@
-# Chapter 8: Guilt, Separation & Emotional Contracts
+# Chapter 9: Guilt, Separation & Emotional Contracts
 
 ---
 
@@ -564,5 +564,5 @@ That's what sovereignty makes possible.
 
 ---
 
-**[Continue to Chapter 8B: The Voice of Internal Authority →](./08b-voice-of-authority.md)**
+**[Continue to Chapter 10: The Voice of Internal Authority →](./10-voice-of-authority.md)**
 

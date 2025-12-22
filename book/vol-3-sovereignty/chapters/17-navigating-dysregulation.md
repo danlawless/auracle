@@ -1,4 +1,4 @@
-# Chapter 15: Navigating Others' Dysregulation
+# Chapter 17: Navigating Others' Dysregulation
 
 ## When They Haven't Done the Work
 
@@ -509,4 +509,4 @@ You can do this.
 
 ---
 
-**[Continue to Chapter 16: Holding Space Without Rescuing →](./16-holding-space.md)**
+**[Continue to Chapter 18: Holding Space Without Rescuing →](./18-holding-space.md)**

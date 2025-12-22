@@ -1,4 +1,4 @@
-# Chapter 17: Teaching Without Converting
+# Chapter 19: Teaching Without Converting
 
 ## Sharing the Path Without Preaching
 
@@ -485,4 +485,4 @@ That's sovereignty.
 
 ---
 
-**[Continue to Chapter 18: The Sovereign Community →](./18-sovereign-community.md)**
+**[Continue to Chapter 20: The Sovereign Community →](./20-sovereign-community.md)**

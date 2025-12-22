@@ -1,4 +1,4 @@
-# Chapter 16: Holding Space Without Rescuing
+# Chapter 18: Holding Space Without Rescuing
 
 ## The Difference Between Support and Absorption
 
@@ -557,4 +557,4 @@ You cannot rescue someone into wholeness. But you can witness them there.
 
 ---
 
-**[Continue to Chapter 17: Teaching Without Converting →](./17-teaching-without-converting.md)**
+**[Continue to Chapter 19: Teaching Without Converting →](./19-teaching-without-converting.md)**

@@ -568,5 +568,5 @@ And anchors don't absorb the storm. They hold steady through it.
 
 ---
 
-**[Continue to Chapter 5B: When Triggers Return →](./05b-when-triggers-return.md)**
+**[Continue to Chapter 6: When Triggers Return →](./06-when-triggers-return.md)**
 

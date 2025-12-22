@@ -1,4 +1,4 @@
-# Chapter 12: Sovereignty in Intimate Partnership
+# Chapter 14: Sovereignty in Intimate Partnership
 
 ## Closeness Without Collapse
 
@@ -588,6 +588,6 @@ And you're ready for it.
 
 ---
 
-**[Continue to Chapter 13: Sovereignty With Family of Origin →](./13-sovereignty-with-family.md)**
+**[Continue to Chapter 15: Sovereignty With Family of Origin →](./15-sovereignty-with-family.md)**
 
 

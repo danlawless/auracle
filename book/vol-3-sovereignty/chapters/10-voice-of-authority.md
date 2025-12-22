@@ -1,4 +1,4 @@
-# Chapter 8B: The Voice of Internal Authority
+# Chapter 10: The Voice of Internal Authority
 
 ## What Your Sovereign Voice Sounds Like
 
@@ -499,5 +499,5 @@ Then listening for the quiet answer.
 
 ---
 
-**[Continue to Chapter 9: Leadership Without Performing →](./09-leadership-without-performing.md)**
+**[Continue to Chapter 11: Leadership Without Performing →](./11-leadership-without-performing.md)**
 

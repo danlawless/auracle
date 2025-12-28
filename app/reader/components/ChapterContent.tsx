@@ -17,6 +17,10 @@ const volumeColors: Record<string, { text: string; bg: string; border: string }>
   'vol-2-bridge': { text: 'text-amber-600', bg: 'bg-amber-50', border: 'border-amber-200' },
   'vol-3-sovereignty': { text: 'text-emerald-600', bg: 'bg-emerald-50', border: 'border-emerald-200' },
   'vol-4-embodied-leadership': { text: 'text-violet-600', bg: 'bg-violet-50', border: 'border-violet-200' },
+  'vol-5-lineage': { text: 'text-sky-600', bg: 'bg-sky-50', border: 'border-sky-200' },
+  'vol-6-guide': { text: 'text-fuchsia-600', bg: 'bg-fuchsia-50', border: 'border-fuchsia-200' },
+  'vol-7-return': { text: 'text-lime-600', bg: 'bg-lime-50', border: 'border-lime-200' },
+  'vol-8-quantum': { text: 'text-indigo-600', bg: 'bg-indigo-50', border: 'border-indigo-200' },
 };
 
 function getChapterLabel(type: Chapter['type']): string {

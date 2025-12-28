@@ -14,6 +14,10 @@ const volumeColors: Record<string, { accent: string; bg: string }> = {
   'vol-2-bridge': { accent: 'border-amber-500', bg: 'from-amber-500/10 to-orange-500/10' },
   'vol-3-sovereignty': { accent: 'border-emerald-500', bg: 'from-emerald-500/10 to-teal-500/10' },
   'vol-4-embodied-leadership': { accent: 'border-violet-500', bg: 'from-violet-500/10 to-purple-500/10' },
+  'vol-5-lineage': { accent: 'border-sky-500', bg: 'from-sky-500/10 to-blue-500/10' },
+  'vol-6-guide': { accent: 'border-fuchsia-500', bg: 'from-fuchsia-500/10 to-pink-500/10' },
+  'vol-7-return': { accent: 'border-lime-500', bg: 'from-lime-500/10 to-green-500/10' },
+  'vol-8-quantum': { accent: 'border-indigo-500', bg: 'from-indigo-500/10 to-cyan-500/10' },
 };
 
 export default function ChapterSidebar({ currentSlug, volumeId }: ChapterSidebarProps) {

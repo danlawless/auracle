@@ -3,7 +3,7 @@ import { volumes } from './chapters';
 
 export const metadata = {
   title: 'The Sovereignty Series | Reader',
-  description: 'A seven-volume, 555,000-word journey from recognition through healing to sovereignty, embodied leadership, parenting, helping others, and prosperity.',
+  description: 'An eight-volume journey from recognition through healing to sovereignty, embodied leadership, parenting, helping others, prosperity, and quantum awakening.',
 };
 
 const volumeColors = [
@@ -14,6 +14,7 @@ const volumeColors = [
   { gradient: 'from-sky-500 to-blue-600', bg: 'bg-sky-50', border: 'border-sky-200', text: 'text-sky-700' },
   { gradient: 'from-fuchsia-500 to-pink-600', bg: 'bg-fuchsia-50', border: 'border-fuchsia-200', text: 'text-fuchsia-700' },
   { gradient: 'from-lime-500 to-green-600', bg: 'bg-lime-50', border: 'border-lime-200', text: 'text-lime-700' },
+  { gradient: 'from-indigo-500 to-cyan-600', bg: 'bg-indigo-50', border: 'border-indigo-200', text: 'text-indigo-700' },
 ];
 
 const volumeKeywords = [
@@ -24,6 +25,7 @@ const volumeKeywords = [
   'GIVE',
   'SERVE',
   'THRIVE',
+  'BECOME',
 ];
 
 export default function ReaderPage() {
@@ -36,8 +38,8 @@ export default function ReaderPage() {
             The Sovereignty Series
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-6">
-            A seven-volume journey from recognizing manipulation patterns through healing, 
-            sovereignty, embodied leadership, parenting, helping others, and building prosperity.
+            An eight-volume journey from recognizing manipulation patterns through healing,
+            sovereignty, embodied leadership, parenting, helping others, prosperity, and quantum awakening.
           </p>
           <div className="flex flex-wrap justify-center gap-2 text-sm text-gray-500">
             {volumeKeywords.map((keyword, index) => (
@@ -164,9 +166,13 @@ export default function ReaderPage() {
                 <strong className="text-fuchsia-700">Volume 6: SERVE</strong> — Help others heal 
                 without losing yourself in the process.
               </p>
-              <p className="md:col-span-2 text-center">
-                <strong className="text-lime-700">Volume 7: THRIVE</strong> — Build a life of prosperity, 
+              <p>
+                <strong className="text-lime-700">Volume 7: THRIVE</strong> — Build a life of prosperity,
                 purpose, and sustainable success after survival mode.
+              </p>
+              <p className="md:col-span-2 text-center">
+                <strong className="text-indigo-700">Volume 8: BECOME</strong> — Embody your quantum self and
+                recognize the infinite awareness you've always been.
               </p>
             </div>
             <div className="mt-6 pt-6 border-t border-soft-lavender/30">
@@ -184,19 +190,19 @@ export default function ReaderPage() {
           <div className="bg-gradient-to-r from-deep-purple/5 to-soft-lavender/10 rounded-2xl p-8">
             <div className="grid grid-cols-4 gap-6 text-center">
               <div>
-                <div className="text-3xl font-bold text-deep-purple">7</div>
+                <div className="text-3xl font-bold text-deep-purple">8</div>
                 <div className="text-sm text-gray-500">Volumes</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-deep-purple">555K</div>
+                <div className="text-3xl font-bold text-deep-purple">635K</div>
                 <div className="text-sm text-gray-500">Words</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-deep-purple">2,021</div>
+                <div className="text-3xl font-bold text-deep-purple">2,300</div>
                 <div className="text-sm text-gray-500">Pages</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-deep-purple">143</div>
+                <div className="text-3xl font-bold text-deep-purple">165</div>
                 <div className="text-sm text-gray-500">Chapters</div>
               </div>
             </div>

@@ -197,7 +197,7 @@ You don't have to announce which level you're moving to. Just execute.
 
 Leave without explanation if:
 - Physical intimidation begins
-- They block doorways or corners you
+- They block doorways or corner you
 - Volume escalates to screaming
 - Objects are thrown or damaged
 - Suicide threats are made

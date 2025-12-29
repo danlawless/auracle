@@ -56,6 +56,29 @@ The difference between genuine care and control disguised as care isn't always i
 
 That's the only test you need.
 
+### The Wolf in Sheep's Clothing
+
+There's an ancient fable you already know. A wolf, hungry and clever, realizes it cannot get close to the sheep by being what it is. So it wraps itself in wool. It walks among the flock. It gains trust. And only when it's close enough to consume does it reveal its teeth.
+
+This isn't just a children's story. It's a survival manual.
+
+The patterns in this book are wolves. Every single one of them. But they never arrive wearing wolf skin. They arrive wearing:
+
+- The wool of **care**: "I'm only doing this because I love you."
+- The wool of **protection**: "I'm just trying to keep you safe."
+- The wool of **honesty**: "I'm the only one who will tell you the truth."
+- The wool of **concern**: "I worry about you when I don't hear from you."
+- The wool of **help**: "Let me handle that for you."
+- The wool of **wisdom**: "I know what's best."
+
+The sheep's clothing makes you lower your guard. It makes you feel grateful. It makes you invite the wolf closer.
+
+This book teaches you to see the wolf.
+
+Not by looking for fangs—by the time you see those, it's too late. But by recognizing the way your body responds. By noticing the pattern beneath the words. By trusting the part of you that sensed something was wrong long before your mind had language for it.
+
+The wolf in sheep's clothing doesn't want you to read this book. It survives by staying unnamed. By the end of these pages, you'll be able to name it every time.
+
 ### The Erosion Effect
 
 Control works through accumulation. One comment, one look, one "joke" might be nothing. But fifty of them? Five hundred? They build a structure inside your psyche—an invisible architecture that shapes how you see yourself.

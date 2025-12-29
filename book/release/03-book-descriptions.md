@@ -24,6 +24,9 @@
 **150 characters:**
 Recognize manipulation in real-time. 34 tactics decoded. Scripts to respond. Tools to recover. The confusion ends here.
 
+**150 characters (wolf variant):**
+The wolf wears care, concern, and protection. Learn to see through the clothing. 34 tactics decoded. Your sovereignty begins.
+
 ---
 
 ### Medium Description (for Gumroad, email, social bios)
@@ -34,6 +37,13 @@ You left the conversation feeling worse about yourself—but you can't explain w
 The Narcissism Decoder names the 34 tactics of control disguised as care. Learn to recognize gaslighting, love-bombing, triangulation, and trauma bonds before they hook your nervous system. Includes decoder cards for real-time recognition and practical scripts for responding from power instead of reaction.
 
 The confusion ends here. Your sovereignty begins.
+
+**500 characters (wolf variant):**
+The wolf doesn't arrive wearing wolf skin. It wears care, concern, protection, honesty. You invite it closer because it looks like love. Only when it's close enough to consume does it show its teeth.
+
+The Narcissism Decoder teaches you to see the wolf—34 manipulation tactics, all disguised as virtue, all decoded. Stop looking at the clothing. Start noticing the impact.
+
+The confusion ends here.
 
 ---
 
@@ -579,6 +589,9 @@ Use these for posts, ads, and content:
 - "The confusion ends when you can name the pattern."
 - "34 manipulation tactics. All decoded. All named."
 - "Control disguised as care is still control."
+- "The wolf never arrives wearing wolf skin. It wears care, concern, protection, honesty."
+- "Stop looking at the clothing. Start noticing the impact."
+- "Every manipulation tactic is a wolf in sheep's clothing. This book teaches you to see the wolf."
 
 **Vol 2:**
 - "You can't think your way into secure attachment. You train it."

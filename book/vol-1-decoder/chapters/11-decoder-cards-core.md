@@ -34,6 +34,60 @@ Keep your most-triggered cards accessible. Screenshot them. Write them on an ind
 
 ---
 
+## The Master Card: The Wolf in Sheep's Clothing
+
+**The Pattern:** Every manipulation tactic shares one thing
+
+Before we decode specific tactics, understand the meta-pattern that makes all of them work. Every card that follows is a variation of this ancient dynamic.
+
+**The Fable:**
+A wolf cannot approach the flock as a wolf—the sheep would flee. So it wraps itself in wool. It walks among them. It gains trust. And only when close enough to consume does it reveal its teeth.
+
+**What They Say/Do:**
+- "I'm only saying this because I care."
+- "I'm trying to protect you."
+- "I'm the only one being honest with you."
+- "I worry about you."
+- "Let me help you with that."
+- "I know what's best for you."
+
+**What's Really Happening:**
+Control cannot approach you as control—you would reject it. So it wraps itself in virtuous clothing: care, concern, protection, honesty, help, wisdom. Every tactic in this book is a wolf wearing sheep's clothing. The "clothing" changes; the wolf never does.
+
+**The Disguises (Sheep's Clothing):**
+| What It Looks Like | What It Actually Is |
+|--------------------|---------------------|
+| Concern | Surveillance |
+| Care | Control |
+| Honesty | Cruelty |
+| Protection | Possession |
+| Preference | Criticism |
+| Passion | Pressure |
+| Helping | Taking over |
+| Friendship | Competition |
+| Wisdom | Superiority |
+| Vulnerability | Manipulation |
+
+**How It Hooks You:**
+The clothing works because it activates your values against you. You value care—so you accept surveillance. You value honesty—so you accept cruelty. You value protection—so you accept possession. The wolf studies what you value and wears it.
+
+**Your Power Move:**
+Stop looking at the clothing. Start noticing the impact.
+
+Ask yourself: *"After this interaction, do I feel more myself or less myself?"*
+
+- Genuine care makes you feel larger, freer, more confident.
+- The wolf in sheep's clothing makes you feel smaller, confused, less sure of your own reality.
+
+That's the only test you need. Trust what your body knows before your mind has caught up.
+
+**Why This Card Comes First:**
+Every card that follows is a specific disguise. Gaslighting is a wolf. Love-bombing is a wolf. Triangulation is a wolf. They wear different clothing, but they share one purpose: to get close enough to consume.
+
+Once you see this meta-pattern, you'll recognize new wolves you've never encountered before—because you'll stop being distracted by the clothing.
+
+---
+
 ## Card 1: Concern as Control
 
 **The Pattern:** "Just checking on you"

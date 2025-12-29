@@ -211,6 +211,46 @@ Gray rock is simple but not easy. They will try to provoke you. They'll escalate
 
 Practice helps. So does preparation—knowing in advance what topics they might use and planning your gray rock responses.
 
+### Raising Your Frequency Before Contact
+
+Gray rock is easier when you're not starting from a depleted state. If you know an interaction is coming—a scheduled call, a family event, a coparenting handoff—you can prepare energetically, not just strategically.
+
+The goal: raise your vibration high enough that their provocations can't reach you.
+
+**Why this works:**
+
+When your energy is low—tired, anxious, already activated—you're closer to their frequency. It takes less provocation to destabilize you. But when your energy is elevated, there's a gap. Their attempts to hook you fall short because you're simply not at that level.
+
+Think of it like altitude. They're throwing rocks from the ground. If you're standing at ground level, you get hit. If you've climbed higher, the rocks don't reach.
+
+**High-vibration practices before encounters:**
+
+**Singing:** Belt out songs that make you feel powerful, joyful, or connected to something larger. Singing engages breath, voice, and emotion simultaneously. It's hard to stay contracted while singing at full volume. Even humming shifts your state.
+
+**Dancing:** Move your body with intention. Dancing dispenses excess nervous energy that would otherwise fuel reactivity. It cleanses your field, shakes loose tension, and reconnects you to your body as a source of pleasure rather than anxiety. Five minutes of unstructured movement can shift everything.
+
+**Breathwork:** Energizing breath patterns (like breath of fire or rhythmic breathing) raise your baseline activation in a healthy way—alert and present rather than collapsed or hypervigilant.
+
+**Music:** Create a pre-encounter playlist. Songs that remind you of your strength, your freedom, your life beyond this dynamic.
+
+**Movement:** A brisk walk, jumping jacks, shaking—anything that moves energy through rather than letting it stagnate.
+
+**The practice:**
+
+Before a known encounter:
+1. Give yourself 15-30 minutes of preparation time
+2. Choose your high-vibration practice (singing, dancing, movement)
+3. Let yourself fully engage—this isn't performance, it's preparation
+4. Notice when your energy shifts from anxious to elevated
+5. Set your intention: "I stay above this. Provocations don't reach me here."
+6. Enter the interaction from this higher baseline
+
+**What this feels like:**
+
+When it works, provocations land differently. You notice them without absorbing them. They're trying to start a fire, but you're not made of dry kindling anymore. You might even feel slightly amused—watching them try tactics that would have destroyed you before.
+
+You didn't take the bait because you weren't hungry for what they were offering.
+
 ### Gray Rock Script Bank
 
 Memorize these so they're automatic:

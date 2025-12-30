@@ -145,6 +145,7 @@ export const volumes: Volume[] = [
       { slug: 'shadow-of-healer', title: 'The Shadow of the Healer', filename: '18-shadow-of-healer.md', type: 'chapter' },
       { slug: 'repatterning-identity', title: 'Repatterning Your Identity', filename: '19-repatterning-identity.md', type: 'chapter' },
       { slug: 'embodied-leadership-life', title: 'Embodied Leadership: The Life', filename: '20-embodied-leadership-life.md', type: 'chapter' },
+      { slug: 'myth-of-balance', title: 'The Myth of Balance', filename: '21-myth-of-balance.md', type: 'chapter' },
       { slug: 'appendix-field-hygiene-menu', title: 'Appendix A: Field Hygiene Menu', filename: 'appendix-a-field-hygiene-menu.md', type: 'appendix' },
       { slug: 'appendix-consent-ladder', title: 'Appendix B: The Consent Ladder', filename: 'appendix-b-consent-ladder.md', type: 'appendix' },
       { slug: 'appendix-scripts', title: 'Appendix C: Scripts & Phrases', filename: 'appendix-c-scripts.md', type: 'appendix' },

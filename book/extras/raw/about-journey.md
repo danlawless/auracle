@@ -35,15 +35,6 @@ As I deepen my studies in aura therapy, I am offering donation-based services fo
 - Specialized, theme-based readings offered as part of my studies
 - Available either gratis or at a reduced price for a limited number of clients
 
-**Pregnancy Readings**
-- Gratis readings offered for expecting parents
-- Learn from your baby's soul during the course of your pregnancy
-- Uncover why your baby is incarnating and why they chose you
-
-**Astrology Chart Analysis**
-- Comprehensive chart analysis sessions available
-- Contact: holisticlawless@gmail.com or book via Calendly
-
 ---
 
 ## My Journey Highlights
@@ -130,9 +121,9 @@ Meeting **Angelina Ataide**, founder of Escola da Aura, saved my spirit. In 2025
 
 ## Living in Community
 
-Today, I'm living my dream in **Costa Rica**, on a hill surrounded by lemon trees. I'm neighbors with **Diego** and **Karlita** (an incredible chef) and their family. I share this sacred space with my partner **Daniel** (our tech wizard) and our friends, the howler monkeys.
+Today, I'm living my dream in **Costa Rica**, on a hill surrounded by lemon trees. I share this sacred space with my partner **Daniel** (our tech wizard) and our friends, the howler monkeys.
 
-**Angelina** (Angel), **Dara**, and **Peggy** are also part of our community here. Living in community starts with an open heart, and I'm grateful every day for the soul family that surrounds me.
+Living in community starts with an open heart, and I'm grateful every day for the soul family that surrounds me.
 
 ### Transformative Events
 

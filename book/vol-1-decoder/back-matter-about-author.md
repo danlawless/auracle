@@ -66,7 +66,7 @@ In 2025, this journey crystallized into the founding of the International School
 
 ## Living in Community
 
-Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (their tech wizard), and is neighbors with Diego, Karlita (an incredible chef), and their family. Angelina, Dara, and Peggy are also part of the community.
+Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (their tech wizard).
 
 Living in community starts with an open heart, and Jennifer is grateful every day for the soul family that surrounds her—including the howler monkeys.
 
@@ -79,7 +79,6 @@ Through **Light Field Institute**, Jennifer offers:
 **Aura Readings**
 - General readings that touch the soul using clairvoyant techniques
 - Theme-based specialized readings
-- Pregnancy readings for expecting parents
 - Relationship readings
 
 **Integration Sessions**
@@ -88,9 +87,6 @@ Through **Light Field Institute**, Jennifer offers:
 
 **Rose Meditation**
 - A signature practice for grounding, self-connection, and nervous system regulation
-
-**Astrology Chart Analysis**
-- Comprehensive chart analysis to understand your soul's blueprint
 
 ---
 

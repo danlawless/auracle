@@ -407,7 +407,7 @@ For sustained recovery, commit to this daily protocol for 21 days:
 
 **Midday check-in (2 min):**
 - Pause. Breathe. Where is tension?
-- Release one area deliberately
+- Release one area deliberately (drop your shoulders, unclench your jaw, soften your stomach—wherever you found tightness)
 - Drink water
 
 **After any activation (5-15 min):**

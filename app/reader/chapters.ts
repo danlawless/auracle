@@ -37,7 +37,6 @@ export const volumes: Volume[] = [
       { slug: 'energetic-remapping', title: 'Energetic Remapping — Recovery Tools', filename: '14-energetic-remapping.md', type: 'chapter' },
       { slug: 'practical-responses', title: 'Practical Responses & Scripts', filename: '15-practical-responses.md', type: 'chapter' },
       { slug: 'moving-forward', title: 'Moving Forward', filename: '16-moving-forward.md', type: 'chapter' },
-      { slug: 'appendix-content-creation', title: 'Appendix A: Content Creation Structure', filename: 'appendix-a-content-creation.md', type: 'appendix' },
       { slug: 'appendix-childhood-patterns', title: 'Appendix B: Understanding Your Childhood Patterns', filename: 'appendix-b-childhood-patterns.md', type: 'appendix' },
       { slug: 'appendix-resources', title: 'Appendix D: Resources', filename: 'appendix-d-resources.md', type: 'appendix' },
       { slug: 'appendix-glossary', title: 'Appendix E: Glossary', filename: 'appendix-e-glossary.md', type: 'appendix' },

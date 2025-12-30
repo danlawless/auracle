@@ -87,11 +87,11 @@ This was where I learned to think freely and reconnect with natural rhythms.
 
 ### Costa Rica & Mexico: Finding My Path
 
-The turning point came when I met **Diego Dosal Stieglitz**, visionary spiritual leader and influencer in the Latin American and European markets. He is the co-creator of transformative experiences at Zunya and co-founder of Amate events and Ekah Collective.
+The turning point came when I met **Diego Dosal Stieglitz**, visionary spiritual leader and founder of Zunya, Costa Rica.
 
 Diego introduced me to **Angelina Ataide** (affectionately known as Angel), the founder of **Escola da Aura**. In that moment, my path became crystal clear. I had found my spiritual home and the modality that would become my life's work.
 
-I also experienced the powerful **Transitions** events in Mexico with Diego and the Ekah Collective—immersive experiences that facilitated profound shadow work and transformation.
+I also experienced powerful **Transitions** events in Mexico with Diego—immersive experiences that facilitated profound shadow work and transformation.
 
 ---
 
@@ -130,7 +130,7 @@ This work was brutally honest. I had to own my part in allowing toxic dynamics t
 - **Brazil**: Aura 2 theme reading training with Escola da Aura (with Angelina, Peggy, and special thanks to **Dara Ayoub** and **Caro** for Portuguese translation)
 - **Brazil**: Reiki 1 initiation (second time for deepening)
 - **Brazil**: Aura 4 techniques practice with teachers from all across Brazil
-- **2025**: International School of Aura is born
+- **2025**: International School of Aura and Dreams, Rose OS is born
 - **January 2026**: My first apprenticeship for Aura 1
 - **February 2026**: Aura 2 and 3 (relationships) training
 
@@ -171,14 +171,13 @@ Today, I'm living my dream in **Costa Rica**, on a hill surrounded by lemon tree
 
 **Angelina** (Angel), **Dara**, and **Peggy** are also part of our community here. Living in community starts with an open heart, and I'm grateful every day for the soul family that surrounds me.
 
-### Amate Events: Co-Owner/Operator
+### Transformative Events
 
-Together, Diego (coach), Karlita (chef), Daniel (tech), and I have formed a partnership with **Amate**, hosting transformative soul events. These experiences combine energy healing, immersive meditation, aura readings, gourmet cuisine, and cutting-edge technology to create life-changing experiences.
+Together, Diego (coach), Karlita (chef), Daniel (tech), and I host transformative soul events at Zunya, Costa Rica. These experiences combine energy healing, immersive meditation, aura readings, gourmet cuisine, and cutting-edge technology to create life-changing experiences.
 
 The supreme pleasure of hosting—offering deep immersive meditation, holding space, and providing aura readings—has become my sacred work. We've hosted events in Nicaragua, Mexico, Morocco, Portugal, and Costa Rica.
 
-**Find us on Instagram**: @amatesoulware  
-**For event inquiries**: jen@ekahcollective.com
+**For event inquiries**: holisticlawless@gmail.com
 
 ---
 
@@ -232,8 +231,7 @@ This is a journey from feardom to freedom. From shadow to light. From separation
 
 📅 **Book an Aura Reading**: https://calendly.com/holisticlawless  
 📧 **Email**: holisticlawless@gmail.com  
-📧 **Event Inquiries**: jen@ekahcollective.com  
-📱 **Instagram**: @amatesoulware 
+📧 **Event Inquiries**: holisticlawless@gmail.com 
 
 
 

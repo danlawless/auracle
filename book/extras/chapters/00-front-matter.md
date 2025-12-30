@@ -176,7 +176,7 @@ My spiritual journey truly began with a powerful Kundalini awakening, guided by 
 
 What followed was a three-year quest across the globe: Cyprus, where I processed my grief through writing and learned to hear beyond the veil. Greece, where I studied astrology with Kaypacha and uncovered my soul's blueprint. Nicaragua, where I broke free from cultural conditioning and learned to think for myself. Costa Rica and Mexico, where I found my spiritual home.
 
-It was in Costa Rica that I met Diego Dosal Stieglitz, who introduced me to Angelina Ataide—the founder of Escola da Aura. In that moment, everything clicked. I had found the modality that would become my life's work: aura therapy, a practice that uses clairvoyant techniques to read the auric field and receive messages directly from Source.
+It was in Costa Rica that I met Diego Dosal Stieglitz, founder of Zunya, Costa Rica, who introduced me to Angelina Ataide—the founder of Escola da Aura. In that moment, everything clicked. I had found the modality that would become my life's work: aura therapy, a practice that uses clairvoyant techniques to read the auric field and receive messages directly from Source.
 
 ### Why This Book
 
@@ -233,7 +233,7 @@ Abraham-Hicks, Dr. Michael Newton, Brian Weiss, and Caroline Myss—your work on
 
 **To my community:**
 
-To Daniel, my partner and our tech wizard. To Diego, Karlita, Dara, and the whole Costa Rica family. To everyone at Amate and the Ekah Collective. Living in conscious community with you is the greatest gift of my healing journey.
+To Daniel, my partner and our tech wizard. To Diego, Karlita, Dara, and the whole Costa Rica family. Living in conscious community with you is the greatest gift of my healing journey.
 
 **To my clients:**
 

@@ -44,7 +44,7 @@ What followed was a three-year quest across the globe in search of spiritual com
 
 **Costa Rica & Mexico** — Where she found her spiritual home
 
-The turning point came when she met **Diego Dosal Stieglitz**, visionary spiritual leader and co-creator of transformative experiences at Zunya, Amate events, and the Ekah Collective. Diego introduced her to **Angelina Ataide** (Angel), founder of **Escola da Aura**.
+The turning point came when she met **Diego Dosal Stieglitz**, visionary spiritual leader and founder of Zunya, Costa Rica. Diego introduced her to **Angelina Ataide** (Angel), founder of **Escola da Aura**.
 
 In that moment, Jennifer's path became crystal clear. She had found the modality that would become her life's work.
 
@@ -60,7 +60,7 @@ Jennifer's journey with Escola da Aura has taken her deep into the practice of a
 - Reiki 1 deepening initiation in Brazil
 - Aura 4 techniques practice with teachers from across Brazil
 - Upcoming: Aura 2 and 3 (relationships) training
-- 2025: Founding member of the International School of Aura
+- 2025: Founding member of the International School of Aura and Dreams, Rose OS
 
 **Daily Practices:**
 - Qi Gong & Tai Chi under the guidance of Deborah Rosene, Psy.D.

@@ -10,7 +10,7 @@ Use these versions across platforms. Customize as needed.
 
 *For: Amazon KDP, back of book, podcast introductions*
 
-Jennifer Brooke holds a Master of Science in Mental Health Counseling and spent years in traditional talk therapy before her own healing journey led her beyond the therapy room. After surviving narcissistic relationships and navigating a profound spiritual awakening, she traveled globally—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—seeking community and transformation. She now lives in Costa Rica, where she co-hosts transformative retreats with Amate Events and trains in aura therapy through Escola da Aura. She wrote *The Narcissism Decoder* and *The Bridge* because she needed these books—and couldn't find them.
+Jennifer Brooke holds a Master of Science in Mental Health Counseling and spent years in traditional talk therapy before her own healing journey led her beyond the therapy room. After surviving narcissistic relationships and navigating a profound spiritual awakening, she traveled globally—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—seeking community and transformation. She now lives in Costa Rica, where she co-hosts transformative retreats at Zunya and trains in aura therapy through Escola da Aura. She wrote *The Narcissism Decoder* and *The Bridge* because she needed these books—and couldn't find them.
 
 ---
 
@@ -22,7 +22,7 @@ Jennifer Brooke holds a Master of Science in Mental Health Counseling and has sp
 
 After the death of her father, Jennifer experienced a powerful Kundalini awakening that opened her to new levels of consciousness. What followed was three years of global travel—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—searching for the spiritual community and healing modalities that would become her life's work.
 
-Today, Jennifer lives in Costa Rica surrounded by community, where she co-hosts transformative retreats through Amate Events and trains in aura therapy through Escola da Aura. She is particularly passionate about helping emotionally sensitive adults move from survival to sovereign connection.
+Today, Jennifer lives in Costa Rica surrounded by community, where she co-hosts transformative retreats at Zunya and trains in aura therapy through Escola da Aura. She is particularly passionate about helping emotionally sensitive adults move from survival to sovereign connection.
 
 She wrote *The Narcissism Decoder* and *The Bridge* because she needed them—and when she couldn't find the book that bridged insight and embodiment, she created it.
 
@@ -46,7 +46,7 @@ Through this journey, she had to face her own patterns: passive-aggression, appr
 
 ### The Work Today
 
-Jennifer now lives in Costa Rica, where she co-hosts transformative retreats through Amate Events—immersive experiences combining energy healing, meditation, aura readings, and community. She continues her training in aura therapy through Escola da Aura under the guidance of Angelina Ataide, and her daily practice includes Qi Gong, Tai Chi, Reiki, and meditation.
+Jennifer now lives in Costa Rica, where she co-hosts transformative retreats at Zunya—immersive experiences combining energy healing, meditation, aura readings, and community. She continues her training in aura therapy through Escola da Aura under the guidance of Angelina Ataide, and her daily practice includes Qi Gong, Tai Chi, Reiki, and meditation.
 
 Her books—*The Narcissism Decoder* and *The Bridge*—were born from lived experience, not clinical distance. She wrote them because she needed them. Because insight alone hadn't healed her. Because she couldn't find the book that bridged understanding and embodiment—so she created it.
 
@@ -58,8 +58,7 @@ Jennifer believes that naming patterns breaks their power. That secure attachmen
 
 - **Newsletter:** [Substack link]
 - **Aura Readings:** calendly.com/holisticlawless
-- **Events:** jen@ekahcollective.com
-- **Instagram:** @amatesoulware
+- **Events:** holisticlawless@gmail.com
 
 ---
 

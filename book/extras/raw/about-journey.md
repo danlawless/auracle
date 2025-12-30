@@ -80,7 +80,7 @@ This was where I learned to think freely and reconnect with natural rhythms.
 
 The turning point came when I met **Diego Dosal Stieglitz**, visionary spiritual leader from Mexican high society and founder of Zunya, Costa Rica.
 
-Diego introduced me to **Angelina Ataíde** (affectionately known as Angel), a Portuguese spiritual teacher and founder of **Escola da Aura**, centered in the Brazilian forest. In that moment, my path became crystal clear. I had found my spiritual home and the modality that would become my life's work.
+Diego introduced me to **Angelina Ataíde** (affectionately known as Angel), a Portuguese spiritual teacher and founder of **Escola da Aura**, centered in the chapadas region of Brazil. In that moment, my path became crystal clear. I had found my spiritual home and the modality that would become my life's work.
 
 I also experienced powerful **Transitions** events in Mexico with Diego—immersive experiences that facilitated profound shadow work and transformation.
 
@@ -115,7 +115,7 @@ This work was brutally honest. I had to own my part in allowing toxic dynamics t
 
 ### Advanced Training & Certifications
 
-Meeting **Angelina Ataíde**, Portuguese founder of Escola da Aura in the Brazilian forest, saved my spirit. In 2025, this journey crystallized into the founding of the **International School of Aura and Dreams, Rose OS**.
+Meeting **Angelina Ataíde**, Portuguese founder of Escola da Aura in the chapadas region of Brazil, saved my spirit. In 2025, this journey crystallized into the founding of the **International School of Aura and Dreams, Rose OS**.
 
 ---
 

@@ -158,19 +158,6 @@ These incredible souls have influenced my understanding of the afterlife, life b
 
 ---
 
-## Vision for 2025 & Beyond
-
-**Continuing Education:**
-- Advanced sound healing training
-- Aura 3 training (couples therapy)
-- Aura 5 training (advanced techniques)
-- Deepening my understanding of energy medicine
-
-**Mission:**
-To help others discover their highest potential and walk the path of healing and self-love. To create transformative experiences that touch souls and awaken consciousness. To build conscious community grounded in authenticity, love, and spiritual truth.
-
----
-
 ## Join Me on This Journey
 
 Whether through aura readings, integration sessions, community events, or transformative retreats, I am here to help you discover your highest potential and walk the path of healing and self-love.

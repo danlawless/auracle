@@ -119,19 +119,6 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 
 ---
 
-## Vision for the Future
-
-**Continuing Education:**
-- Advanced sound healing training
-- Aura 3 training (couples/relationships)
-- Aura 5 training (advanced techniques)
-- Deepening understanding of energy medicine
-
-**Mission:**
-To help others discover their highest potential and walk the path of healing and self-love. To create transformative experiences that touch souls and awaken consciousness. To build conscious community grounded in authenticity, love, and spiritual truth.
-
----
-
 ## Connect with Jennifer
 
 **Light Field Institute**

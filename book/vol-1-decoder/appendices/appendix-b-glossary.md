@@ -1,4 +1,4 @@
-# Appendix E: Glossary of Terms
+# Appendix B: Glossary of Terms
 
 ## Key Concepts and Definitions
 

@@ -28,15 +28,15 @@
 | [Chapter 15](./chapters/15-practical-responses.md) | Practical Responses & Scripts | What to actually say and do |
 | [Chapter 16](./chapters/16-moving-forward.md) | Moving Forward | Closing chapters and beginning new ones |
 | [Chapter 17](./chapters/17-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |
+| [Chapter 18](./chapters/18-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
 
 ### Appendices
 
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| [Appendix B](./appendices/appendix-b-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
-| [Appendix D](./appendices/appendix-d-resources.md) | Resources | Books, hotlines, and further reading |
-| [Appendix E](./appendices/appendix-e-glossary.md) | Glossary | Key terms defined |
-| [Appendix F](./appendices/appendix-f-bibliography.md) | Bibliography | Sources and references |
+| [Appendix A](./appendices/appendix-a-resources.md) | Resources | Books, hotlines, and further reading |
+| [Appendix B](./appendices/appendix-b-glossary.md) | Glossary | Key terms defined |
+| [Appendix C](./appendices/appendix-c-bibliography.md) | Bibliography | Sources and references |
 
 ---
 
@@ -132,13 +132,13 @@ PART III: TOOLS
 PART IV: RESPONSE & RECOVERY
 ├── Chapter 14 ............ Energetic Remapping (nervous system tools)
 ├── Chapter 15 ............ Practical Responses & Scripts
-└── Chapter 16 ............ Moving Forward
+├── Chapter 16 ............ Moving Forward
+└── Chapter 18 ............ Understanding Your Childhood Patterns
 
 APPENDICES
-├── Appendix B ............ Childhood Patterns
-├── Appendix D ............ Resources
-├── Appendix E ............ Glossary
-└── Appendix F ............ Bibliography
+├── Appendix A ............ Resources
+├── Appendix B ............ Glossary
+└── Appendix C ............ Bibliography
 ```
 
 ---

@@ -28,15 +28,15 @@
 | [Chapter 15](./chapters/15-practical-responses.md) | Practical Responses & Scripts | What to actually say and do |
 | [Chapter 16](./chapters/16-moving-forward.md) | Moving Forward | Closing chapters and beginning new ones |
 | [Chapter 17](./chapters/17-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |
+| [Chapter 18](./chapters/18-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
 
 ### Appendices
 
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| [Appendix A](./appendices/appendix-a-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
-| [Appendix B](./appendices/appendix-b-resources.md) | Resources | Books, hotlines, and further reading |
-| [Appendix C](./appendices/appendix-c-glossary.md) | Glossary | Key terms defined |
-| [Appendix D](./appendices/appendix-d-bibliography.md) | Bibliography | Sources and references |
+| [Appendix A](./appendices/appendix-a-resources.md) | Resources | Books, hotlines, and further reading |
+| [Appendix B](./appendices/appendix-b-glossary.md) | Glossary | Key terms defined |
+| [Appendix C](./appendices/appendix-c-bibliography.md) | Bibliography | Sources and references |
 
 ---
 
@@ -64,9 +64,6 @@ Read the book in order starting from the [Front Matter](./00-front-matter.md). T
 
 ### 🤝 If You're Helping Others
 The **Decoder Cards** in Chapters [11](./chapters/11-decoder-cards-core.md), [12](./chapters/12-decoder-cards-advanced.md), and [13](./chapters/13-decoder-cards-protocol.md) are designed to be shared—use them as conversation starters or teaching tools.
-
-### 🎬 If You're Creating Content
-When you're ready to share what you've learned, **[Appendix D: Content Creation Structure](../vol-2-bridge/appendices/appendix-d-content-creation.md)** in Volume 2 provides a framework for turning this material into videos, posts, and educational content—including a readiness self-assessment to ensure you're speaking from healing, not from the wound.
 
 ---
 
@@ -135,13 +132,13 @@ PART III: TOOLS
 PART IV: RESPONSE & RECOVERY
 ├── Chapter 14 ............ Energetic Remapping (nervous system tools)
 ├── Chapter 15 ............ Practical Responses & Scripts
-└── Chapter 16 ............ Moving Forward
+├── Chapter 16 ............ Moving Forward
+└── Chapter 18 ............ Understanding Your Childhood Patterns
 
 APPENDICES
-├── Appendix A ............ Childhood Patterns
-├── Appendix B ............ Resources
-├── Appendix C ............ Glossary
-└── Appendix D ............ Bibliography
+├── Appendix A ............ Resources
+├── Appendix B ............ Glossary
+└── Appendix C ............ Bibliography
 ```
 
 ---

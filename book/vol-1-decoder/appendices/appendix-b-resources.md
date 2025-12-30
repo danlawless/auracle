@@ -1,4 +1,4 @@
-# Appendix D: Resources
+# Appendix B: Resources
 
 ## Support, Information, and Next Steps
 

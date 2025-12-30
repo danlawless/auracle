@@ -40,7 +40,7 @@ export default function SettingsPage() {
   // Mock settings data
   const [profileSettings, setProfileSettings] = useState({
     name: 'Jennifer (The Auracle)',
-    email: 'jae@theauracle.com',
+    email: 'lightfieldpress@gmail.com',
     bio: 'A sacred guide devoted to awakening divine remembrance and energetic clarity.',
     timezone: 'America/New_York',
     language: 'en'
@@ -59,7 +59,7 @@ export default function SettingsPage() {
     twoFactorEnabled: false,
     sessionTimeout: '24',
     loginNotifications: true,
-    allowedDomains: ['theauracle.com']
+    allowedDomains: ['lightfield.institute']
   })
 
   const timezoneOptions = [
@@ -571,7 +571,7 @@ export default function SettingsPage() {
                   <div className="space-y-4">
                     <SacredInput
                       label="API Endpoint"
-                      value="https://api.theauracle.com/v1"
+                      value="https://api.lightfield.institute/v1"
                       helpText="Base URL for API access"
                       disabled
                     />

@@ -20,11 +20,11 @@
 
 ---
 
-**Jennifer Brooke**
+**Jennifer Brooke Lawless**
 
-*Jae*
+*Spiritual guide, aura reader, rose meditation guide & researcher of consciousness in the auric and biofield.*
 
-*Aura Therapist, Mental Health Counselor & Spiritual Guide*
+*Founder of Light Field Institute*
 
 ---
 

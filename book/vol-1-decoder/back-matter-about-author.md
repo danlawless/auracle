@@ -4,13 +4,11 @@
 
 <div align="center">
 
-## Jennifer Brooke
+## Jennifer Brooke Lawless
 
-**Jae**
+*Spiritual guide, aura reader, rose meditation guide & researcher of consciousness in the auric and biofield.*
 
-*Aura Therapist, Mental Health Counselor & Spiritual Guide*
-
-*Founder of The Auracle | Co-Owner of Amate Events*
+*Founder of Light Field Institute*
 
 </div>
 
@@ -87,19 +85,9 @@ Living in community starts with an open heart, and Jennifer is grateful every da
 
 ---
 
-## Amate Events
-
-Together with Diego (coach), Karlita (chef), and Daniel (tech), Jennifer co-owns and operates **Amate**, hosting transformative soul events that combine energy healing, immersive meditation, aura readings, gourmet cuisine, and cutting-edge technology.
-
-The supreme pleasure of hosting—offering deep immersive meditation, holding space, and providing aura readings—has become her sacred work. Amate has hosted events in Nicaragua, Mexico, Morocco, Portugal, and Costa Rica.
-
-**Instagram:** @amatesoulware
-
----
-
 ## The Work
 
-Through **The Auracle**, Jennifer offers:
+Through **Light Field Institute**, Jennifer offers:
 
 **Aura Readings**
 - General readings that touch the soul using clairvoyant techniques
@@ -163,13 +151,10 @@ To help others discover their highest potential and walk the path of healing and
 
 ## Connect with Jennifer
 
-**The Auracle**
+**Light Field Institute**
 - Website: theauracle.com
 - Aura readings, integration sessions, and spiritual guidance
-
-**Amate Events**
-- Instagram: @amatesoulware
-- Email: jen@ekahcollective.com
+- Instagram: @jae.lawless
 
 **Book an Aura Reading**
 - Calendly: calendly.com/holisticlawless

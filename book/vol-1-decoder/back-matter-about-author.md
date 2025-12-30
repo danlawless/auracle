@@ -56,7 +56,7 @@ Jennifer's journey with Escola da Aura has taken her deep into the practice of a
 
 In 2025, this journey crystallized into the founding of the International School of Aura and Dreams, Rose OS.
 
-**Additional Training & Influences:**
+**Influences:**
 - Aaron Doughty (mindset and personal development)
 - Elizabeth April (psychic training)
 - Brandy Joy (Magickal Mystery School, Traditional Hermetic Secret Society)

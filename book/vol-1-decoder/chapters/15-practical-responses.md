@@ -396,7 +396,7 @@ At events where they'll be present:
 
 **Before:**
 - Set your intention (e.g., "I will stay grounded regardless of what happens")
-- Visualize a boundary or shield around your energy
+- Visualize a boundary or shield of golden white or luminescent energy around you
 - Plan your gray rock responses for likely provocations
 - Identify your escape route if needed
 

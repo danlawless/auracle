@@ -193,6 +193,20 @@ This appendix consolidates resources for anyone experiencing or recovering from 
 
 ## Safety Planning
 
+### A Personal Note
+
+Before I share this checklist, I want you to know: I did this too.
+
+For months before I left, I quietly sent things I wanted to keep to my parents' home. I had a plan with my therapist—we talked through exactly when and how I would leave. My mom had told me: *when you try to leave, they could try to kill you.*
+
+That didn't happen. But I was cautious anyway.
+
+If you are secretly preparing—sending things to safe places, making quiet plans, having conversations no one knows about—you are not being paranoid. You are being wise. The fact that leaving might go smoothly doesn't mean your preparation was unnecessary. You are honoring what *could* happen, and that is self-protection.
+
+Your caution is not overreaction. It's intelligence.
+
+---
+
 ### Creating a Safety Plan
 
 If you are still in contact with an abusive person, create a safety plan:

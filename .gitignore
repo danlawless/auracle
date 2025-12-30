@@ -7,6 +7,9 @@ content/
 .next/
 out/
 
+# TypeScript build info
+*.tsbuildinfo
+
 # Environment variables
 .env*
 

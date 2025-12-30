@@ -54,20 +54,7 @@ In that moment, Jennifer's path became crystal clear. She had found the modality
 
 Jennifer's journey with Escola da Aura has taken her deep into the practice of aura therapy—a unique modality utilizing clairvoyance to read the auric field and receive messages directly from Source.
 
-**Escola da Aura Journey:**
-- Reiki 2 initiation with Angelina Ataide in Mexico
-- Aura 2 theme reading training in Brazil
-- Reiki 1 deepening initiation in Brazil
-- Aura 4 techniques practice with teachers from across Brazil
-- Upcoming: Aura 2 and 3 (relationships) training
-- 2025: Founding member of the International School of Aura and Dreams, Rose OS
-
-**Daily Practices:**
-- Qi Gong & Tai Chi under the guidance of Deborah Rosene, Psy.D.
-- Daily Reiki practice with gratitude
-- Kundalini breathwork
-- Rose Meditation
-- Consistent spiritual practice and prayer
+In 2025, this journey crystallized into the founding of the International School of Aura and Dreams, Rose OS.
 
 **Additional Training & Influences:**
 - Aaron Doughty (mindset and personal development)

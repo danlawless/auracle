@@ -124,44 +124,7 @@ This work was brutally honest. I had to own my part in allowing toxic dynamics t
 
 ### Advanced Training & Certifications
 
-**Escola da Aura Journey:**
-- Met Angelina Ataide, founder of Escola da Aura—my spirit was saved
-- **Mexico**: Reiki 2 initiation with Angelina (following Diane Stein's lineage)
-- **Brazil**: Aura 2 theme reading training with Escola da Aura (with Angelina, Peggy, and special thanks to **Dara Ayoub** and **Caro** for Portuguese translation)
-- **Brazil**: Reiki 1 initiation (second time for deepening)
-- **Brazil**: Aura 4 techniques practice with teachers from all across Brazil
-- **2025**: International School of Aura and Dreams, Rose OS is born
-- **January 2026**: My first apprenticeship for Aura 1
-- **February 2026**: Aura 2 and 3 (relationships) training
-
-Aura reading in the biofield is a unique tool utilizing clairvoyance (6th and 7th chakras). It has taken me to a new level of awareness and consciousness.
-
-### Daily Practices for Integration
-
-**Movement & Energy Work:**
-- **Qi Gong & Tai Chi**: Under the guidance of **Deborah Rosene, Psy.D.**
-- Daily Reiki practice with gratitude, especially with meals
-- Kundalini breathwork
-
-**Meditation & Spiritual Practice:**
-- Daily Rose Meditation
-- Consistent spiritual practice and prayer
-
-**Addiction Recovery:**
-- Breaking free from caffeine
-- Breaking free from cannabis
-- Breaking free from approval-seeking behaviors
-
-**Emotional Healing:**
-- Finding self-worth and self-love
-- Forgiving my parents
-- Forgiving the past—holding onto nothing negative
-- Establishing healthy boundaries with toxic individuals
-
-**Astrological Alignment:**
-Through astrology, I've uncovered my soul's purpose:
-- **Neptune in the 12th house**: A deeply spiritual path
-- **Uranus and Venus in the 10th house**: An unconventional work life aligned with my authentic expression
+Meeting **Angelina Ataide**, founder of Escola da Aura, saved my spirit. In 2025, this journey crystallized into the founding of the **International School of Aura and Dreams, Rose OS**.
 
 ---
 

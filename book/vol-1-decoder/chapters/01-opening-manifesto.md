@@ -425,7 +425,7 @@ Before diving into the chapters ahead, internalize these foundational tactics:
 
 **The Body Check:** Before any significant interaction, pause and notice your body. Where is there tension? How are you breathing? After the interaction, check again. The difference tells you something important about that person's impact on your nervous system.
 
-These aren't advanced techniques. They're survival basics. Master them before proceeding.
+These aren't advanced techniques. They're survival basics. Master them.
 
 ---
 

@@ -177,8 +177,7 @@ Together, Diego (coach), Karlita (chef), Daniel (tech), and I have formed a part
 
 The supreme pleasure of hosting—offering deep immersive meditation, holding space, and providing aura readings—has become my sacred work. We've hosted events in Nicaragua, Mexico, Morocco, Portugal, and Costa Rica.
 
-**Find us on Instagram**: @amatesoulware  
-**For event inquiries**: jen@ekahcollective.com
+**Find us on Instagram**: @amatesoulware
 
 ---
 
@@ -230,9 +229,8 @@ This is a journey from feardom to freedom. From shadow to light. From separation
 
 ### Contact & Booking
 
-📅 **Book an Aura Reading**: https://calendly.com/holisticlawless  
-📧 **Email**: holisticlawless@gmail.com  
-📧 **Event Inquiries**: jen@ekahcollective.com  
+📅 **Book an Aura Reading**: https://calendly.com/holisticlawless
+📧 **Email**: holisticlawless@gmail.com
 📱 **Instagram**: @amatesoulware 
 
 

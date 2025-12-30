@@ -58,7 +58,6 @@ Jennifer believes that naming patterns breaks their power. That secure attachmen
 
 - **Newsletter:** [Substack link]
 - **Aura Readings:** calendly.com/holisticlawless
-- **Events:** jen@ekahcollective.com
 - **Instagram:** @amatesoulware
 
 ---

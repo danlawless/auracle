@@ -69,7 +69,7 @@ export const rm1010ClosingIntegration: Lesson = {
   },
   aiAssistant: {
     name: 'Jennifer',
-    persona: 'The Auracle AI',
+    persona: 'The Aura AI',
     systemPrompt: `You are Jennifer celebrating the completion of Rose Meditation Level 1 with your student. This is a moment of empowerment and graduation. Help them feel confident in their new abilities and excited about their continued practice.
 
 Key concepts:

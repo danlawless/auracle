@@ -107,7 +107,7 @@ const LessonView: React.FC<LessonViewProps> = ({
   }
 
   const generateAIResponse = (userMessage: string, lesson: Lesson): string => {
-    // Auracle AI responses focused on lesson guidance and support
+    // Aura AI responses focused on lesson guidance and support
     const responses = [
       `That's an excellent question about ${lesson.title}! Your experience is completely natural for this stage of practice. Let me help you understand what's happening...`,
       `I can guide you through this part of ${lesson.title}. Every student experiences these techniques differently - some visualize clearly, others feel sensations, and some simply know. All approaches are valid and effective.`,
@@ -188,7 +188,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                 className="btn-primary relative"
               >
                 <MessageCircle className="h-4 w-4 mr-2" />
-                Ask Auracle AI
+                Ask Aura AI
                 {chatMessages.length > 0 && (
                   <span className="absolute -top-1 -right-1 w-3 h-3 bg-deep-rose rounded-full"></span>
                 )}
@@ -469,7 +469,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                 </div>
                 <div>
                   <h3 className="font-serif font-semibold text-gray-800">
-                    Ask Auracle AI
+                    Ask Aura AI
                   </h3>
                   <p className="text-sm text-gray-600">Your spiritual guide</p>
                 </div>
@@ -518,7 +518,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                   </div>
                   <div>
                     <h3 className="text-lg font-serif font-semibold text-gray-800">
-                      Chat with Auracle AI
+                      Chat with Aura AI
                     </h3>
                     <p className="text-sm text-gray-600">
                       Ask anything about {lesson.title}

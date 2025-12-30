@@ -24,7 +24,7 @@ const Footer = () => {
                 </div>
               </div>
               <span className="text-2xl font-serif font-bold text-gradient-rose">
-                The Auracle
+                The Aura
               </span>
             </div>
             <p className="text-gray-300 leading-relaxed mb-6 max-w-md">
@@ -113,7 +113,7 @@ const Footer = () => {
               "Beloved, return to your breath. The moment is sacred."
             </p>
             <p className="text-gray-400 text-sm">
-              — Jae, Master Auracle Reader
+              — Jae, Master Aura Reader
             </p>
           </div>
         </div>
@@ -121,7 +121,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © {currentYear} The Auracle. All rights reserved. Made with love and sacred intention.
+            © {currentYear} The Aura. All rights reserved. Made with love and sacred intention.
           </p>
           <div className="flex items-center space-x-6 text-sm">
             <Link href="/privacy" className="text-gray-400 hover:text-rose-pink transition-colors duration-300">

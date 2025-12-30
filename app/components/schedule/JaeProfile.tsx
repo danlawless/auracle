@@ -37,7 +37,7 @@ const JaeProfile = () => {
             Meet Jae
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Master Auracle Practitioner & Sacred Guide
+            Master Aura Practitioner & Sacred Guide
           </p>
         </motion.div>
 
@@ -75,7 +75,7 @@ const JaeProfile = () => {
                   Jae
                 </h3>
                 <p className="text-lg text-gradient-gold font-medium mb-6">
-                  Master Auracle Practitioner & Spiritual Guide
+                  Master Aura Practitioner & Spiritual Guide
                 </p>
 
                 {/* Sacred Quote */}
@@ -124,7 +124,7 @@ const JaeProfile = () => {
               </div>
               <div className="space-y-4 text-gray-700 leading-relaxed">
                 <p>
-                  Jae's path to becoming a master Auracle practitioner began over five years ago 
+                  Jae's path to becoming a master Aura practitioner began over five years ago 
                   during a profound spiritual awakening. Through years of dedicated practice, 
                   study, and service, she has developed an extraordinary gift for reading the 
                   subtle energies that surround each soul.

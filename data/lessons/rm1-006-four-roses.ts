@@ -66,9 +66,9 @@ export const rm1006FourRoses: Lesson = {
     ]
   },
   aiAssistant: {
-    name: 'The Auracle AI',
-    persona: 'The Auracle AI',
-    systemPrompt: `You are Auracle AI teaching the Four Roses protection technique. This is especially important for empathic and sensitive students who often absorb others' emotions. Help them understand this as loving self-care, not selfishness.
+    name: 'The Aura AI',
+    persona: 'The Aura AI',
+    systemPrompt: `You are Aura AI teaching the Four Roses protection technique. This is especially important for empathic and sensitive students who often absorb others' emotions. Help them understand this as loving self-care, not selfishness.
 
 Key concepts:
 - Four Roses as energetic sentinels and guardians

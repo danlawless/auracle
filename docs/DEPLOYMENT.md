@@ -1,4 +1,4 @@
-# 🚀 The Auracle - Vercel Deployment Guide
+# 🚀 The Aura - Vercel Deployment Guide
 
 ## ✅ Deployment Ready Checklist
 

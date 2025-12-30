@@ -1,4 +1,4 @@
-// Core course and lesson types for The Auracle learning platform
+// Core course and lesson types for The Aura learning platform
 export interface MediaAsset {
   id: string
   url: string
@@ -64,7 +64,7 @@ export interface Checkpoint {
 
 export interface AIAssistantConfig {
   name: string
-  persona: 'The Auracle AI' | 'wise_guide' | 'gentle_teacher' | 'meditation_guide'
+  persona: 'The Aura AI' | 'wise_guide' | 'gentle_teacher' | 'meditation_guide'
   systemPrompt: string
   context: string[] // Key lesson concepts for AI to reference
   suggestedQuestions: string[]

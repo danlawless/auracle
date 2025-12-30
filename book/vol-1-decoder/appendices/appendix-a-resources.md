@@ -344,9 +344,9 @@ As you heal, consider:
 
 ---
 
-## Additional Resources from The Auracle
+## Additional Resources from The Aura
 
-**Connect with Jae and The Auracle Community:**
+**Connect with Jae and The Aura Community:**
 - Website: lightfield.institute
 - Aura readings and spiritual guidance sessions
 - Rose Meditation courses

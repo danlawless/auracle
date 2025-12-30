@@ -50,8 +50,8 @@ export const UserProvider: React.FC<{ children: React.ReactNode }> = ({ children
     // Check for existing session on mount
     const checkSession = () => {
       try {
-        const session = localStorage.getItem('auracle_user_session')
-        const userData = localStorage.getItem('auracle_user')
+        const session = localStorage.getItem('aura_user_session')
+        const userData = localStorage.getItem('aura_user')
         
         if (session === 'true' && userData) {
           const parsedUser = JSON.parse(userData)
@@ -60,8 +60,8 @@ export const UserProvider: React.FC<{ children: React.ReactNode }> = ({ children
       } catch (error) {
         console.error('Error loading user session:', error)
         // Clear corrupted session
-        localStorage.removeItem('auracle_user_session')
-        localStorage.removeItem('auracle_user')
+        localStorage.removeItem('aura_user_session')
+        localStorage.removeItem('aura_user')
       }
       setIsLoading(false)
     }
@@ -71,14 +71,14 @@ export const UserProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
   const login = (userData: User) => {
     setUser(userData)
-    localStorage.setItem('auracle_user', JSON.stringify(userData))
-    localStorage.setItem('auracle_user_session', 'true')
+    localStorage.setItem('aura_user', JSON.stringify(userData))
+    localStorage.setItem('aura_user_session', 'true')
   }
 
   const logout = () => {
     setUser(null)
-    localStorage.removeItem('auracle_user_session')
-    localStorage.removeItem('auracle_user')
+    localStorage.removeItem('aura_user_session')
+    localStorage.removeItem('aura_user')
     // Redirect to home page
     window.location.href = '/'
   }
@@ -87,7 +87,7 @@ export const UserProvider: React.FC<{ children: React.ReactNode }> = ({ children
     if (user) {
       const updatedUser = { ...user, ...updates }
       setUser(updatedUser)
-      localStorage.setItem('auracle_user', JSON.stringify(updatedUser))
+      localStorage.setItem('aura_user', JSON.stringify(updatedUser))
     }
   }
 

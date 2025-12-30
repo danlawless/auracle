@@ -14,7 +14,7 @@ const AdminProtection = ({ children }: AdminProtectionProps) => {
 
   useEffect(() => {
     // Check for admin session
-    const adminSession = localStorage.getItem('auracle_admin_session')
+    const adminSession = localStorage.getItem('aura_admin_session')
     
     if (adminSession === 'true') {
       setIsAuthorized(true)

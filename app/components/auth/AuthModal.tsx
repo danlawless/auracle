@@ -75,8 +75,8 @@ const AuthModal = ({ isOpen, onClose, initialMode = 'login', onAuthSuccess }: Au
       }
 
       // Store user session
-      localStorage.setItem('auracle_user', JSON.stringify(user))
-      localStorage.setItem('auracle_user_session', 'true')
+      localStorage.setItem('aura_user', JSON.stringify(user))
+      localStorage.setItem('aura_user_session', 'true')
 
       // Call success callback
       onAuthSuccess?.(user)

@@ -39,7 +39,7 @@ export default function SettingsPage() {
 
   // Mock settings data
   const [profileSettings, setProfileSettings] = useState({
-    name: 'Jennifer (The Auracle)',
+    name: 'Jennifer (The Aura)',
     email: 'lightfieldpress@gmail.com',
     bio: 'A sacred guide devoted to awakening divine remembrance and energetic clarity.',
     timezone: 'America/New_York',

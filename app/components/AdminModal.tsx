@@ -29,7 +29,7 @@ const AdminModal = ({ isOpen, onClose }: AdminModalProps) => {
 
     if (password === ADMIN_PASSWORD) {
       // Store admin session (simple approach)
-      localStorage.setItem('auracle_admin_session', 'true')
+      localStorage.setItem('aura_admin_session', 'true')
       onClose()
       router.push('/admin')
     } else {

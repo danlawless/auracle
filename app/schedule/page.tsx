@@ -4,7 +4,7 @@ import JaeProfile from '../components/schedule/JaeProfile'
 import BookingProcess from '../components/schedule/BookingProcess'
 
 export const metadata = {
-  title: 'Schedule Your Spiritual Guidance Session - The Auracle',
+  title: 'Schedule Your Spiritual Guidance Session - The Aura',
   description: 'Book a personal spiritual guidance session with Jae. Transform your spiritual journey with personalized insights and divine guidance.',
 }
 

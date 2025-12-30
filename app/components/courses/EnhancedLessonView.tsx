@@ -292,7 +292,7 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
             </div>
             <div className="flex-1">
               <h3 className="text-xl font-serif font-semibold text-gray-800 mb-3 flex items-center">
-                Auracle AI
+                Aura AI
                 <span className="ml-2 text-sm bg-rose-pink/20 text-rose-pink px-2 py-1 rounded-full font-normal">
                   AI Assistant
                 </span>

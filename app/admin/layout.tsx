@@ -77,7 +77,7 @@ export default function AdminLayout({
                 <span className="text-white text-lg">🌹</span>
               </div>
               <div>
-                <h1 className="font-serif font-bold text-gray-900">The Auracle</h1>
+                <h1 className="font-serif font-bold text-gray-900">The Aura</h1>
                 <p className="text-xs text-gray-500">Sacred Management</p>
               </div>
             </div>
@@ -126,13 +126,13 @@ export default function AdminLayout({
                   <User className="h-4 w-4 text-white" />
                 </div>
                 <div>
-                  <p className="text-sm font-medium text-gray-900">Jae (The Auracle)</p>
+                  <p className="text-sm font-medium text-gray-900">Jae (The Aura)</p>
                   <p className="text-xs text-gray-500">Sacred Administrator</p>
                 </div>
               </div>
               <button
                 onClick={() => {
-                  localStorage.removeItem('auracle_admin_session')
+                  localStorage.removeItem('aura_admin_session')
                   window.location.href = '/'
                 }}
                 className="p-2 text-gray-400 hover:text-gray-600 rounded-lg hover:bg-gray-50"
@@ -173,7 +173,7 @@ export default function AdminLayout({
                   <span className="text-white text-lg">🌹</span>
                 </div>
                 <div>
-                  <h1 className="font-serif font-bold text-gray-900">The Auracle</h1>
+                  <h1 className="font-serif font-bold text-gray-900">The Aura</h1>
                   <p className="text-xs text-gray-500">Sacred Management</p>
                 </div>
               </div>
@@ -212,7 +212,7 @@ export default function AdminLayout({
                     </div>
                     <button
                       onClick={() => {
-                        localStorage.removeItem('auracle_admin_session')
+                        localStorage.removeItem('aura_admin_session')
                         window.location.href = '/'
                       }}
                       className="p-2 text-gray-400 hover:text-gray-600 rounded-lg hover:bg-gray-100 transition-colors"

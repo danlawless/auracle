@@ -1,8 +1,8 @@
-# 🌹 Auracle Admin System - Complete User Guide
+# 🌹 Aura Admin System - Complete User Guide
 
 ## Welcome to Your Sacred Management Hub
 
-This beautiful admin system has been designed specifically for Jae to easily manage The Auracle platform with elegance, intuition, and spiritual grace. Every interface reflects the sacred nature of your work while providing powerful functionality.
+This beautiful admin system has been designed specifically for Jae to easily manage The Aura platform with elegance, intuition, and spiritual grace. Every interface reflects the sacred nature of your work while providing powerful functionality.
 
 ---
 

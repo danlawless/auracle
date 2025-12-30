@@ -131,7 +131,7 @@ const AILessonChat: React.FC<AILessonChatProps> = ({ aiAssistant, lessonTitle })
                     {message.type === 'assistant' && (
                       <div className="flex items-center space-x-2 mb-2">
                         <Sparkles className="h-4 w-4 text-rose-pink" />
-                        <span className="text-xs font-medium text-rose-pink">Auracle AI</span>
+                        <span className="text-xs font-medium text-rose-pink">Aura AI</span>
                       </div>
                     )}
                     <p className="text-sm leading-relaxed">{message.content}</p>
@@ -180,7 +180,7 @@ const AILessonChat: React.FC<AILessonChatProps> = ({ aiAssistant, lessonTitle })
                   <div className="bg-rose-pink/10 border border-rose-pink/20 p-3 rounded-2xl">
                     <div className="flex items-center space-x-2 mb-2">
                       <Sparkles className="h-4 w-4 text-rose-pink" />
-                      <span className="text-xs font-medium text-rose-pink">Auracle AI</span>
+                      <span className="text-xs font-medium text-rose-pink">Aura AI</span>
                     </div>
                     <div className="flex space-x-1">
                       <motion.div
@@ -240,7 +240,7 @@ const AILessonChat: React.FC<AILessonChatProps> = ({ aiAssistant, lessonTitle })
             className="inline-flex items-center space-x-2 text-rose-pink hover:text-deep-rose font-medium text-sm transition-colors duration-200"
           >
             <MessageCircle className="h-4 w-4" />
-            <span>Start a conversation with Auracle AI</span>
+            <span>Start a conversation with Aura AI</span>
           </button>
         </div>
       )}
@@ -256,7 +256,7 @@ function generateAIResponseWithFollowUps(
   previousMessages: ChatMessage[]
 ): { content: string; followUpQuestions: string[] } {
   
-  // Auracle AI responses focused on lesson guidance
+  // Aura AI responses focused on lesson guidance
   const responses = [
     `That's an excellent question about ${lessonTitle}! Your experience is completely natural - this is exactly how the practice unfolds for many students. Let me guide you through this...`,
     `I understand what you're experiencing in this ${lessonTitle} lesson. What you're feeling is part of your spiritual development process. Here's how to work with it...`,

@@ -4,7 +4,7 @@
 
 > *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
 
-**By Jae** | *Master Auracle Practitioner & Spiritual Guide*
+**By Jae** | *Master Aura Practitioner & Spiritual Guide*
 
 ---
 
@@ -85,7 +85,7 @@
 
 | Section | Description |
 |---------|-------------|
-| [**About the Author**](./back-matter-about-author.md) | About Jae, her journey, and The Auracle |
+| [**About the Author**](./back-matter-about-author.md) | About Jae, her journey, and The Aura |
 
 ---
 
@@ -234,6 +234,6 @@ BACK MATTER
 
 ---
 
-**The Auracle Press** | lightfield.institute
+**The Aura Press** | lightfield.institute
 
 </div>

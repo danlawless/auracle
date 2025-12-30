@@ -51,7 +51,7 @@ const Header = () => {
               </div>
             </div>
             <span className="text-2xl font-serif font-bold text-gradient-rose">
-              The Auracle
+              The Aura
             </span>
           </Link>
 

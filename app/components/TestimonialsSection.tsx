@@ -36,7 +36,7 @@ const TestimonialsSection = () => {
     {
       name: 'Maya S.',
       location: 'Sydney',
-      text: 'The community aspect of The Auracle is incredible. Learning alongside others on this sacred journey has enriched my practice immeasurably. Jennifer creates such a safe, nurturing space.',
+      text: 'The community aspect of The Aura is incredible. Learning alongside others on this sacred journey has enriched my practice immeasurably. Jennifer creates such a safe, nurturing space.',
       rating: 5,
       image: '🌹'
     },

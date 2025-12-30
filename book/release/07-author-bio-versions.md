@@ -26,7 +26,7 @@ Today, Jennifer lives in Costa Rica surrounded by community, where she co-hosts 
 
 She wrote *The Narcissism Decoder* and *The Bridge* because she needed them—and when she couldn't find the book that bridged insight and embodiment, she created it.
 
-**Connect:** [Newsletter] | [Instagram] | holisticlawless@gmail.com
+**Connect:** [Newsletter] | [Instagram] | lightfieldpress@gmail.com
 
 ---
 
@@ -58,7 +58,7 @@ Jennifer believes that naming patterns breaks their power. That secure attachmen
 
 - **Newsletter:** [Substack link]
 - **Aura Readings:** calendly.com/holisticlawless
-- **Events:** holisticlawless@gmail.com
+- **Events:** lightfieldpress@gmail.com
 
 ---
 

@@ -128,7 +128,7 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 
 **Book an Aura Reading**
 - Calendly: calendly.com/holisticlawless
-- Email: holisticlawless@gmail.com
+- Email: lightfieldpress@gmail.com
 
 ---
 

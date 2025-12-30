@@ -126,7 +126,7 @@ This newsletter is a companion, not a replacement for care.
 - **Newsletter:** You're here! Subscribe if you haven't.
 - **Events:** I co-host transformative retreats through [Amate Events](https://instagram.com/amatesoulware)
 - **Readings:** Book an aura reading at calendly.com/holisticlawless
-- **Email:** holisticlawless@gmail.com
+- **Email:** lightfieldpress@gmail.com
 
 ---
 

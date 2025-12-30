@@ -131,7 +131,7 @@ Together, Diego (coach), Karlita (chef), Daniel (tech), and I host transformativ
 
 The supreme pleasure of hosting—offering deep immersive meditation, holding space, and providing aura readings—has become my sacred work. We've hosted events in Nicaragua, Mexico, Morocco, Portugal, and Costa Rica.
 
-**For event inquiries**: holisticlawless@gmail.com
+**For event inquiries**: lightfieldpress@gmail.com
 
 ---
 
@@ -171,8 +171,8 @@ This is a journey from feardom to freedom. From shadow to light. From separation
 ### Contact & Booking
 
 📅 **Book an Aura Reading**: https://calendly.com/holisticlawless  
-📧 **Email**: holisticlawless@gmail.com  
-📧 **Event Inquiries**: holisticlawless@gmail.com 
+📧 **Email**: lightfieldpress@gmail.com  
+📧 **Event Inquiries**: lightfieldpress@gmail.com 
 
 
 

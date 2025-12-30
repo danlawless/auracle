@@ -446,6 +446,65 @@ Their journey is theirs.
 
 ---
 
+## Decoder Card: Spiritual Hierarchy & Rank
+
+**Pattern Name:** Meaning-Making as Control
+
+When spiritual teaching becomes spiritual ranking, it stops serving—and starts controlling.
+
+**What It Looks Like:**
+- Measuring progress through physical reactions (puking, crying, visions)
+- Asking diagnostic questions ("Did you ___?")
+- Publicly interpreting someone's experience
+- Assigning "not there yet" status
+- Framing hierarchy as benevolence ("you'll get there one day")
+- Conferring readiness based on external markers
+
+**What It's Actually Doing:**
+- Creating rank without consent
+- Establishing authority over others' inner worlds
+- Regulating the speaker's insecurity through superiority
+- Turning spirituality into a status system
+- Converting personal experience into competitive framework
+
+**What It Is NOT:**
+- Wisdom
+- Attunement
+- Teaching
+- Care
+
+**Impact on the Receiver:**
+- Subtle shame
+- Self-doubt about lived experience
+- Nervous system contraction
+- Loss of agency
+- Feeling "behind" or evaluated
+- Second-guessing authentic spiritual experiences
+
+**Core Truth:** When spirituality requires proof, it stops being spiritual.
+
+**One-Line Decoder:** If someone defines where you "are" without asking, they are not guiding—they are ranking.
+
+---
+
+**What Healthy Spiritual Community Sounds Like:**
+- "Everyone's experience is different."
+- "There's no right way."
+- "How did it feel for you?"
+- "Your body knows what it's doing."
+- "That sounds like what was true for you."
+- No ranking. No future promises. No hierarchy.
+
+**What Unhealthy Spiritual Community Sounds Like:**
+- "Did you [specific physical reaction]? No? You're not there yet."
+- "You'll get there one day."
+- "That's not a real [awakening/breakthrough/release]."
+- "Let me tell you what that experience actually meant."
+
+**Book-Ready Line:** When spiritual communities measure progress, they reproduce the same power dynamics they claim to transcend.
+
+---
+
 ## Reader Reflection
 
 - Where do I cross the line from teaching to converting?

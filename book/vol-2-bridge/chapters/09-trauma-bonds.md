@@ -392,6 +392,36 @@ The distinction matters because activation wears off—but by then, you're bonde
 
 ---
 
+### Case Vignette: Fast-Tracked Belonging
+
+Within a week, she was introduced to his sister and extended family. The tone was warm, inclusive, and enthusiastic. She felt chosen.
+
+The introductions occurred before trust was established. There was no pause to ask if she was ready. The inclusion felt flattering, but also binding. Now she existed inside a social structure that predated her consent.
+
+Leaving later would not be a private decision—it would ripple outward. She sensed pressure to maintain harmony. Her intuition quieted to avoid disruption.
+
+**Pattern Insight:** This is social anchoring—accelerated integration to create emotional cost for withdrawal. Belonging is used as leverage.
+
+**Truth Statement:** True intimacy unfolds with consent, not ahead of it.
+
+---
+
+### Case Vignette: The Curated Entrance
+
+She met him casually. The connection moved quickly, but nothing initially registered as overtly alarming. He commented on her clothing early on—framed as taste, preference, refinement. The remarks were subtle, not cruel. She adjusted without noticing she had done so.
+
+Within days, physical intimacy occurred rapidly, without meaningful discussion of expectations or pacing. The following morning, she returned from work to find him still in her home. He had reorganized her jewelry box. Her personal items were rearranged "more efficiently." Her artwork had been hung on the walls.
+
+No permission was asked.
+
+She experienced a momentary sense of being seen and cared for—followed by quiet disorientation. Her space no longer felt entirely hers, yet she could not point to a clear violation without sounding "ungrateful."
+
+**Pattern Insight:** This illustrates territorial bonding masquerading as care. By altering her physical environment early, he established unconscious authority. The message was not love—it was belonging without consent.
+
+**Truth Statement:** Intimacy that bypasses consent is not closeness. It is rehearsal for control.
+
+---
+
 ## When Sexual Energy Gets Tangled
 
 One of the most confusing aspects of leaving a trauma bond is what happens to sexuality.

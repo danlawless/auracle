@@ -1,4 +1,4 @@
-# Chapter 15: Holding Hope Without Waiting
+# Chapter 16: Holding Hope Without Waiting
 
 ## Moving Forward While Staying Kind
 
@@ -578,3 +578,4 @@ What would it mean to love them from a distance, without needing anything back?
 ## One-Line Anchor
 
 *"Love can exist without orientation. I wish them well from a distance."*
+

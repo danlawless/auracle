@@ -660,6 +660,173 @@ Secure relationships rupture. What makes them secure is that they repair. This w
 
 ---
 
+### Neuroscience Sidebar: Why Repair Works
+
+Repair works because it restores agency and safety at the same time—the two conditions the nervous system requires for intimacy.
+
+**What Happens During Rupture**
+
+When there is entitlement, pressure, or assumption:
+- The amygdala flags threat ("I am not safe to choose")
+- The sympathetic nervous system activates vigilance or freeze
+- The prefrontal cortex shifts into management and compliance
+- Desire shuts down because choice has been compromised
+
+This is not emotional fragility. It is biology protecting autonomy.
+
+**What Repair Does Differently**
+
+When repair is real (not performative), several things happen neurologically:
+
+1. **Threat Deactivation**
+   - Calm accountability signals no retaliation
+   - The amygdala reduces alarm
+   - Cortisol levels begin to fall
+
+2. **Agency Restoration**
+   - When a "no" is accepted without consequence, the brain updates: *I am safe even when I don't comply*
+   - This re-engages the prefrontal cortex, allowing choice to return
+
+3. **Vagal Re-engagement**
+   - Presence without pressure activates the ventral vagal system
+   - This supports: connection, embodiment, emotional regulation
+
+4. **Oxytocin Without Obligation**
+   - Trust-based oxytocin release occurs without performance
+   - Bonding no longer requires self-abandonment
+
+**Why Desire Often Returns After Repair (Not Before)**
+
+Desire is a luxury signal. It only emerges when:
+- Safety is consistent
+- Agency is respected
+- Outcomes are not forced
+
+This is why trust often returns before libido, calm may feel unfamiliar at first, and arousal may lag behind repair. Nothing is wrong. The system is recalibrating.
+
+**What Repair Is Not**
+- Explaining intentions
+- Asking for reassurance
+- Minimizing impact
+- Rushing resolution
+- Expecting desire as proof
+
+Those keep the nervous system guarded.
+
+> **One-Line Decoder:** Repair works because it teaches the body that choice will be honored—even when desire is absent.
+
+---
+
+### False Repair vs Real Repair
+
+**FALSE REPAIR**
+*(Looks like resolution, but the nervous system stays guarded)*
+
+What it sounds like:
+- "I didn't mean it that way."
+- "That's not what I was trying to do."
+- "You're misunderstanding me."
+- "I'm sorry you feel that way."
+- "Can we just move on?"
+
+What's actually happening:
+- Impact is minimized or reframed
+- Intention is centered over effect
+- Accountability is partial or absent
+- The focus is on ending discomfort, not restoring safety
+
+Nervous system response:
+- Amygdala remains alert
+- Prefrontal cortex stays in management mode
+- Body does not re-open
+- Desire stays offline
+
+Outcome:
+- Temporary calm
+- Lingering tension
+- Repeated rupture
+- Increasing withdrawal over time
+
+> False repair seeks closure. It does not restore trust.
+
+---
+
+**REAL REPAIR**
+*(Feels simple, sometimes awkward, and deeply stabilizing)*
+
+What it sounds like:
+- "I see how that impacted you."
+- "I didn't realize I crossed a line."
+- "I'm taking responsibility."
+- "I don't want access without your consent."
+- "Take your time."
+
+What's actually happening:
+- Impact is named without defense
+- Responsibility is owned without explanation
+- Choice is restored
+- No outcome is demanded
+
+Nervous system response:
+- Amygdala threat signal decreases
+- Ventral vagal system re-engages
+- Body relaxes incrementally
+- Trust returns before desire
+
+Outcome:
+- Genuine safety
+- Slower reconnection
+- Increased capacity for intimacy
+- Long-term stability
+
+> Real repair prioritizes safety over resolution.
+
+**Why This Difference Matters**
+
+The nervous system does not track words—it tracks consequence.
+
+If saying no leads to withdrawal, guilt, pressure, or defensiveness, the body learns: *Repair is unsafe.*
+
+If saying no leads to steadiness, presence, respect, and patience, the body updates: *I can remain myself and still be connected.*
+
+> **One-Line Decoder:** Repair is real when nothing is required in return.
+
+---
+
+### Field Note: The Almost
+
+She names it calmly.
+
+"When you assume access, my body shuts down."
+
+He nods quickly. "I get it," he says. "I'm sorry—I didn't mean it like that."
+
+He reaches for her. She stiffens.
+
+"You're still upset?" he asks. "I already apologized."
+
+She tries again. "I just need some space."
+
+He exhales. "This is starting to feel like punishment."
+
+Something closes.
+
+Not loudly. Not dramatically. Just enough.
+
+Her body registers the truth before her mind does:
+
+*My no has a cost. Repair requires me to hurry. My safety depends on his comfort.*
+
+Nothing explodes. Nothing resolves.
+
+They move on.
+
+But something essential doesn't return.
+
+> **One-Line Decoder:** If repair requires you to override yourself, it isn't repair.
+
+---
+
 ## After the 12 Weeks
 
 This program is a foundation, not a destination.

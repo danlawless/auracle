@@ -588,6 +588,60 @@ But recognition alone doesn't create change. The role lives in your nervous syst
 
 ---
 
+## When Objects Replace Intimacy: Gift-Giving as Regulation
+
+In systems where emotional attunement feels unsafe, objects become stand-ins for connection.
+
+**Why This Happens**
+
+The giver:
+- Cannot tolerate emotional ambiguity
+- Uses gifts to create certainty of connection
+- Feels relief when objects are accepted
+- Experiences rejection of gift as rejection of self
+
+The receiver:
+- Feels pressure to accept
+- Experiences gratitude mixed with discomfort
+- Cannot reject without relational cost
+- Learns to perform appreciation
+
+**The Psychological Function**
+
+Gift-giving in dysregulated systems:
+- Replaces verbal repair
+- Creates obligation without consent
+- Maintains connection without vulnerability
+- Converts material exchange into emotional currency
+
+**Pattern: Apology Through Overwhelm**
+
+When someone apologizes with:
+- Overpowering sensory input (strong smell, excessive quantity)
+- No checking for consent or preference
+- No space for your response
+
+They are often trying to:
+- Flood the system
+- Override discomfort
+- Accelerate forgiveness
+- Reset the relationship without doing relational work
+
+This is called *sensory saturation as regulation.*
+
+**Your Body's Response Is Data**
+
+When your body rejects a gift (allergies, loss of appetite, discomfort), your system is signaling:
+- The gift was invasive, not attuned
+- There was no room for "this doesn't work for me"
+- Your system felt overwritten
+
+**Integration Statement:** "I can receive without bonding. I can appreciate without owing."
+
+**One-Line Decoder:** In systems where intimacy feels unsafe, objects are used to hold connection. The gift becomes the relationship—and the receiver pays the cost.
+
+---
+
 ## A Note on Grief
 
 As you recognize your role, you may feel grief.

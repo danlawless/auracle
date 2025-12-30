@@ -454,6 +454,58 @@ You will get this wrong. You'll give one child too much latitude. You'll be too 
 
 ---
 
+## Understanding Sibling Roles in Trauma Families
+
+Sibling dynamics aren't just personality differences—they're adaptive roles formed inside a shared emotional climate. Each role carries a distinct energetic signature, which is why some behaviors irritate you without "triggering" you in the traumatic sense.
+
+### The Sensitive Torchbearer / Meaning-Maker
+
+*Core traits:*
+- Highly attuned to emotional tone
+- Passionate, creative, future-oriented
+- Oriented toward growth, insight, aliveness
+- Feels responsible for keeping energy "up" or meaningful
+
+*Nervous-system orientation:*
+- Moves toward expansion
+- Responds strongly to vitality vs stagnation
+- Quickly detects emotional collapse or cynicism
+
+*What they learned:* "My enthusiasm matters—but it's fragile."
+
+### The Lost Child / Resigned Observer
+
+*Core traits:*
+- Withdrawn or depressive tone
+- Cynicism or quiet superiority
+- Big sighs, flat affect, low initiative
+- Dismissive of passion or dreams
+
+*Nervous-system orientation:*
+- Dorsal vagal dominance (shutdown/resignation)
+- Energy collapses instead of fights
+- Protects self by disengaging from hope
+
+*What they learned:* "Nothing I do changes anything, so why care."
+
+### Why Sibling Role Clashes Create Irritation (Not Trauma)
+
+| Expansion Role | Contraction Role |
+|----------------|------------------|
+| Meaning | Resignation |
+| Aliveness | Survival |
+| Forward motion | Stuckness |
+
+When your sibling's big sighs, negativity, or dismissiveness bothers you, you're not triggered because you're wounded. **You're repelled because you've outgrown the role they're still in.**
+
+The irritation isn't a sign that you have healing work to do. It's a sign that your nervous system now responds to vitality—and their contracted state feels like a threat to your expansion.
+
+**The Default Response:** You don't need to engage every time. Sometimes the healthiest response is internal recognition: "This is their pattern, not my assignment."
+
+**One-Line Integration:** "I'm not upset because they're wrong—I'm protective because I'm alive."
+
+---
+
 ## Reader Reflection
 
 - Do I parent each of my children according to their individual needs?

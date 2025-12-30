@@ -171,6 +171,74 @@ What builds real intimacy over time:
 - Not letting things fester
 - Holding the relationship larger than the rupture
 
+---
+
+## The Repair Conversation Framework (Adult → Adult)
+
+When something needs repair, here's a structure that honors both people:
+
+**Opening (own your side, not the problem):**
+
+"I want to come back to something from earlier, because I don't want any tension sitting between us."
+
+**Name the impact (not their intent):**
+
+"When [specific thing happened], I noticed I got irritable. That's on me to notice—but it's real for my body."
+
+**Translate to nervous system language:**
+
+"I realized I really need clear separation between [X] and [Y] to fully relax. When those blur, my body doesn't settle."
+
+**Reassure without self-abandoning:**
+
+"This isn't about you doing anything wrong, and it's not about control. It's about how I regulate."
+
+**Restate the boundary calmly:**
+
+"I need [specific thing] to stay mostly [specific way], with [flexibility] only occasionally and clearly time-bound."
+
+**Invite collaboration (not debate):**
+
+"Can we find a structure that works for both of us?"
+
+---
+
+**If They Respond Well:**
+
+"Thank you for hearing me. That helps me relax."
+
+Then stop talking. Let the repair land.
+
+**If They Get Defensive:**
+
+Do not over-explain. Use one of these and pause:
+- "I'm not asking you to agree, just to understand."
+- "I'm sharing impact, not accusing."
+- "This isn't a negotiation of whether I need this."
+
+Silence after is part of the repair.
+
+**If You Feel Yourself Escalating:**
+
+Pause and say: "I want to stay connected—let's slow this down."
+
+That's leadership.
+
+---
+
+**Somatic Seal (after the conversation)**
+
+Once it's done:
+- Take a slow exhale
+- Drop your shoulders
+- Say silently: "Repair complete."
+
+Your nervous system needs a clear ending.
+
+**One-Line Decoder:** Repair isn't about who's right—it's about restoring safety before resentment forms.
+
+---
+
 ### Curiosity
 
 - Genuine interest in who they are (not who you want them to be)

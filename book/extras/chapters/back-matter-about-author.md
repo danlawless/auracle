@@ -44,7 +44,7 @@ What followed was a three-year quest across the globe in search of spiritual com
 
 **Costa Rica & Mexico** — Where she found her spiritual home
 
-The turning point came when she met **Diego Dosal Stieglitz**, visionary spiritual leader and co-creator of transformative experiences at Zunya, Amate events, and the Ekah Collective. Diego introduced her to **Angelina Ataide** (Angel), founder of **Escola da Aura**.
+The turning point came when she met **Diego Dosal Stieglitz**, visionary spiritual leader and founder of Zunya, Costa Rica. Diego introduced her to **Angelina Ataide** (Angel), founder of **Escola da Aura**.
 
 In that moment, Jennifer's path became crystal clear. She had found the modality that would become her life's work.
 
@@ -54,20 +54,7 @@ In that moment, Jennifer's path became crystal clear. She had found the modality
 
 Jennifer's journey with Escola da Aura has taken her deep into the practice of aura therapy—a unique modality utilizing clairvoyance to read the auric field and receive messages directly from Source.
 
-**Escola da Aura Journey:**
-- Reiki 2 initiation with Angelina Ataide in Mexico
-- Aura 2 theme reading training in Brazil
-- Reiki 1 deepening initiation in Brazil
-- Aura 4 techniques practice with teachers from across Brazil
-- Upcoming: Aura 2 and 3 (relationships) training
-- 2025: Founding member of the International School of Aura
-
-**Daily Practices:**
-- Qi Gong & Tai Chi under the guidance of Deborah Rosene, Psy.D.
-- Daily Reiki practice with gratitude
-- Kundalini breathwork
-- Rose Meditation
-- Consistent spiritual practice and prayer
+In 2025, this journey crystallized into the founding of the International School of Aura and Dreams, Rose OS.
 
 **Additional Training & Influences:**
 - Aaron Doughty (mindset and personal development)
@@ -79,7 +66,7 @@ Jennifer's journey with Escola da Aura has taken her deep into the practice of a
 
 ## Living in Community
 
-Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (their tech wizard), and is neighbors with Diego, Karlita (an incredible chef), and their family. Angelina, Dara, and Peggy are also part of the community.
+Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (their tech wizard).
 
 Living in community starts with an open heart, and Jennifer is grateful every day for the soul family that surrounds her—including the howler monkeys.
 
@@ -92,7 +79,6 @@ Through **Light Field Institute**, Jennifer offers:
 **Aura Readings**
 - General readings that touch the soul using clairvoyant techniques
 - Theme-based specialized readings
-- Pregnancy readings for expecting parents
 - Relationship readings
 
 **Integration Sessions**
@@ -101,9 +87,6 @@ Through **Light Field Institute**, Jennifer offers:
 
 **Rose Meditation**
 - A signature practice for grounding, self-connection, and nervous system regulation
-
-**Astrology Chart Analysis**
-- Comprehensive chart analysis to understand your soul's blueprint
 
 ---
 
@@ -136,29 +119,16 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 
 ---
 
-## Vision for the Future
-
-**Continuing Education:**
-- Advanced sound healing training
-- Aura 3 training (couples/relationships)
-- Aura 5 training (advanced techniques)
-- Deepening understanding of energy medicine
-
-**Mission:**
-To help others discover their highest potential and walk the path of healing and self-love. To create transformative experiences that touch souls and awaken consciousness. To build conscious community grounded in authenticity, love, and spiritual truth.
-
----
-
 ## Connect with Jennifer
 
 **Light Field Institute**
-- Website: theauracle.com
+- Website: lightfield.institute
 - Aura readings, integration sessions, and spiritual guidance
 - Instagram: @jae.lawless
 
 **Book an Aura Reading**
-- Calendly: calendly.com/holisticlawless
-- Email: holisticlawless@gmail.com
+- Calendly: calendly.com/lightfield
+- Email: lightfieldpress@gmail.com
 
 ---
 

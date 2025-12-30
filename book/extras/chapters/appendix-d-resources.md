@@ -333,7 +333,7 @@ As you heal, consider:
 ## Additional Resources from The Auracle
 
 **Connect with Jae and The Auracle Community:**
-- Website: theauracle.com
+- Website: lightfield.institute
 - Aura readings and spiritual guidance sessions
 - Rose Meditation courses
 - Community support

@@ -22,7 +22,7 @@ As I deepen my studies in aura therapy, I am offering donation-based services fo
 
 **General Aura Reading (Introductory Offer)**
 - Minimum donation of $20, with all donations going to Escola da Aura
-- Book at: https://calendly.com/holisticlawless
+- Book at: https://calendly.com/lightfield
 - This foundational reading must be completed before accessing other services
 
 **Follow-Up Integration Sessions**
@@ -34,15 +34,6 @@ As I deepen my studies in aura therapy, I am offering donation-based services fo
 - Available after completing your general reading
 - Specialized, theme-based readings offered as part of my studies
 - Available either gratis or at a reduced price for a limited number of clients
-
-**Pregnancy Readings**
-- Gratis readings offered for expecting parents
-- Learn from your baby's soul during the course of your pregnancy
-- Uncover why your baby is incarnating and why they chose you
-
-**Astrology Chart Analysis**
-- Comprehensive chart analysis sessions available
-- Contact: holisticlawless@gmail.com or book via Calendly
 
 ---
 
@@ -87,11 +78,11 @@ This was where I learned to think freely and reconnect with natural rhythms.
 
 ### Costa Rica & Mexico: Finding My Path
 
-The turning point came when I met **Diego Dosal Stieglitz**, visionary spiritual leader and influencer in the Latin American and European markets. He is the co-creator of transformative experiences at Zunya and co-founder of Amate events and Ekah Collective.
+The turning point came when I met **Diego Dosal Stieglitz**, visionary spiritual leader and founder of Zunya, Costa Rica.
 
 Diego introduced me to **Angelina Ataide** (affectionately known as Angel), the founder of **Escola da Aura**. In that moment, my path became crystal clear. I had found my spiritual home and the modality that would become my life's work.
 
-I also experienced the powerful **Transitions** events in Mexico with Diego and the Ekah Collective—immersive experiences that facilitated profound shadow work and transformation.
+I also experienced powerful **Transitions** events in Mexico with Diego—immersive experiences that facilitated profound shadow work and transformation.
 
 ---
 
@@ -124,61 +115,23 @@ This work was brutally honest. I had to own my part in allowing toxic dynamics t
 
 ### Advanced Training & Certifications
 
-**Escola da Aura Journey:**
-- Met Angelina Ataide, founder of Escola da Aura—my spirit was saved
-- **Mexico**: Reiki 2 initiation with Angelina (following Diane Stein's lineage)
-- **Brazil**: Aura 2 theme reading training with Escola da Aura (with Angelina, Peggy, and special thanks to **Dara Ayoub** and **Caro** for Portuguese translation)
-- **Brazil**: Reiki 1 initiation (second time for deepening)
-- **Brazil**: Aura 4 techniques practice with teachers from all across Brazil
-- **2025**: International School of Aura is born
-- **January 2026**: My first apprenticeship for Aura 1
-- **February 2026**: Aura 2 and 3 (relationships) training
-
-Aura reading in the biofield is a unique tool utilizing clairvoyance (6th and 7th chakras). It has taken me to a new level of awareness and consciousness.
-
-### Daily Practices for Integration
-
-**Movement & Energy Work:**
-- **Qi Gong & Tai Chi**: Under the guidance of **Deborah Rosene, Psy.D.**
-- Daily Reiki practice with gratitude, especially with meals
-- Kundalini breathwork
-
-**Meditation & Spiritual Practice:**
-- Daily Rose Meditation
-- Consistent spiritual practice and prayer
-
-**Addiction Recovery:**
-- Breaking free from caffeine
-- Breaking free from cannabis
-- Breaking free from approval-seeking behaviors
-
-**Emotional Healing:**
-- Finding self-worth and self-love
-- Forgiving my parents
-- Forgiving the past—holding onto nothing negative
-- Establishing healthy boundaries with toxic individuals
-
-**Astrological Alignment:**
-Through astrology, I've uncovered my soul's purpose:
-- **Neptune in the 12th house**: A deeply spiritual path
-- **Uranus and Venus in the 10th house**: An unconventional work life aligned with my authentic expression
+Meeting **Angelina Ataide**, founder of Escola da Aura, saved my spirit. In 2025, this journey crystallized into the founding of the **International School of Aura and Dreams, Rose OS**.
 
 ---
 
 ## Living in Community
 
-Today, I'm living my dream in **Costa Rica**, on a hill surrounded by lemon trees. I'm neighbors with **Diego** and **Karlita** (an incredible chef) and their family. I share this sacred space with my partner **Daniel** (our tech wizard) and our friends, the howler monkeys.
+Today, I'm living my dream in **Costa Rica**, on a hill surrounded by lemon trees. I share this sacred space with my partner **Daniel** (our tech wizard) and our friends, the howler monkeys.
 
-**Angelina** (Angel), **Dara**, and **Peggy** are also part of our community here. Living in community starts with an open heart, and I'm grateful every day for the soul family that surrounds me.
+Living in community starts with an open heart, and I'm grateful every day for the soul family that surrounds me.
 
-### Amate Events: Co-Owner/Operator
+### Transformative Events
 
-Together, Diego (coach), Karlita (chef), Daniel (tech), and I have formed a partnership with **Amate**, hosting transformative soul events. These experiences combine energy healing, immersive meditation, aura readings, gourmet cuisine, and cutting-edge technology to create life-changing experiences.
+Together, Diego (coach), Karlita (chef), Daniel (tech), and I host transformative soul events at Zunya, Costa Rica. These experiences combine energy healing, immersive meditation, aura readings, gourmet cuisine, and cutting-edge technology to create life-changing experiences.
 
 The supreme pleasure of hosting—offering deep immersive meditation, holding space, and providing aura readings—has become my sacred work. We've hosted events in Nicaragua, Mexico, Morocco, Portugal, and Costa Rica.
 
-**Find us on Instagram**: @amatesoulware  
-**For event inquiries**: jen@ekahcollective.com
+**For event inquiries**: lightfieldpress@gmail.com
 
 ---
 
@@ -205,19 +158,6 @@ These incredible souls have influenced my understanding of the afterlife, life b
 
 ---
 
-## Vision for 2025 & Beyond
-
-**Continuing Education:**
-- Advanced sound healing training
-- Aura 3 training (couples therapy)
-- Aura 5 training (advanced techniques)
-- Deepening my understanding of energy medicine
-
-**Mission:**
-To help others discover their highest potential and walk the path of healing and self-love. To create transformative experiences that touch souls and awaken consciousness. To build conscious community grounded in authenticity, love, and spiritual truth.
-
----
-
 ## Join Me on This Journey
 
 Whether through aura readings, integration sessions, community events, or transformative retreats, I am here to help you discover your highest potential and walk the path of healing and self-love.
@@ -230,10 +170,9 @@ This is a journey from feardom to freedom. From shadow to light. From separation
 
 ### Contact & Booking
 
-📅 **Book an Aura Reading**: https://calendly.com/holisticlawless  
-📧 **Email**: holisticlawless@gmail.com  
-📧 **Event Inquiries**: jen@ekahcollective.com  
-📱 **Instagram**: @amatesoulware 
+📅 **Book an Aura Reading**: https://calendly.com/lightfield  
+📧 **Email**: lightfieldpress@gmail.com  
+📧 **Event Inquiries**: lightfieldpress@gmail.com 
 
 
 

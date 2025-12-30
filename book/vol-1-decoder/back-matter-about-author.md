@@ -44,7 +44,7 @@ What followed was a three-year quest across the globe in search of spiritual com
 
 **Costa Rica & Mexico** — Where she found her spiritual home
 
-The turning point came when she met **Diego Dosal Stieglitz**, visionary spiritual leader and founder of Zunya, Costa Rica. Diego introduced her to **Angelina Ataide** (Angel), founder of **Escola da Aura**.
+The turning point came when she met **Diego Dosal Stieglitz**, visionary spiritual leader from Mexican high society and founder of Zunya, Costa Rica. Diego introduced her to **Angelina Ataíde** (Angel), a Portuguese spiritual teacher and founder of **Escola da Aura**, centered in the Brazilian forest.
 
 In that moment, Jennifer's path became crystal clear. She had found the modality that would become her life's work.
 

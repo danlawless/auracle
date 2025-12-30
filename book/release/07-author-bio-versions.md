@@ -40,13 +40,13 @@ She holds a Master of Science in Mental Health Counseling and spent years workin
 
 ### The Turning Point
 
-After her father's passing, Jennifer experienced a Kundalini awakening that cracked open her consciousness. What followed was three years of global travel—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—in search of healing, community, and her soul's purpose. She wrote over 200 pages communicating with her father through clairaudience. She studied astrology with Kaypacha. She trained in shadow work through the Transitions program with Diego Dosal.
+After her father's passing, Jennifer experienced a Kundalini awakening that cracked open her consciousness. What followed was three years of global travel—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—in search of healing, community, and her soul's purpose. She wrote over 200 pages communicating with her father through clairaudience. She studied astrology with Kaypacha. She trained in shadow work through the Transitions program with Diego Dosal, a visionary leader from Mexican high society.
 
 Through this journey, she had to face her own patterns: passive-aggression, approval-seeking, shrinking in narcissistic relationships, years of depression and anxiety, and the mortally wounded self-esteem that came from a lifetime of emotional enmeshment.
 
 ### The Work Today
 
-Jennifer now lives in Costa Rica, where she co-hosts transformative retreats at Zunya—immersive experiences combining energy healing, meditation, aura readings, and community. She continues her training in aura therapy through Escola da Aura under the guidance of Angelina Ataide, and her daily practice includes Qi Gong, Tai Chi, Reiki, and meditation.
+Jennifer now lives in Costa Rica, where she co-hosts transformative retreats at Zunya—immersive experiences combining energy healing, meditation, aura readings, and community. She continues her training in aura therapy through Escola da Aura under the guidance of Angelina Ataíde, a Portuguese spiritual teacher, and her daily practice includes Qi Gong, Tai Chi, Reiki, and meditation.
 
 Her books—*The Narcissism Decoder* and *The Bridge*—were born from lived experience, not clinical distance. She wrote them because she needed them. Because insight alone hadn't healed her. Because she couldn't find the book that bridged understanding and embodiment—so she created it.
 

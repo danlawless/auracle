@@ -78,9 +78,9 @@ This was where I learned to think freely and reconnect with natural rhythms.
 
 ### Costa Rica & Mexico: Finding My Path
 
-The turning point came when I met **Diego Dosal Stieglitz**, visionary spiritual leader and founder of Zunya, Costa Rica.
+The turning point came when I met **Diego Dosal Stieglitz**, visionary spiritual leader from Mexican high society and founder of Zunya, Costa Rica.
 
-Diego introduced me to **Angelina Ataide** (affectionately known as Angel), the founder of **Escola da Aura**. In that moment, my path became crystal clear. I had found my spiritual home and the modality that would become my life's work.
+Diego introduced me to **Angelina Ataíde** (affectionately known as Angel), a Portuguese spiritual teacher and founder of **Escola da Aura**, centered in the Brazilian forest. In that moment, my path became crystal clear. I had found my spiritual home and the modality that would become my life's work.
 
 I also experienced powerful **Transitions** events in Mexico with Diego—immersive experiences that facilitated profound shadow work and transformation.
 
@@ -115,7 +115,7 @@ This work was brutally honest. I had to own my part in allowing toxic dynamics t
 
 ### Advanced Training & Certifications
 
-Meeting **Angelina Ataide**, founder of Escola da Aura, saved my spirit. In 2025, this journey crystallized into the founding of the **International School of Aura and Dreams, Rose OS**.
+Meeting **Angelina Ataíde**, Portuguese founder of Escola da Aura in the Brazilian forest, saved my spirit. In 2025, this journey crystallized into the founding of the **International School of Aura and Dreams, Rose OS**.
 
 ---
 
@@ -143,7 +143,7 @@ The supreme pleasure of hosting—offering deep immersive meditation, holding sp
 - **Brandy Joy**: Magickal Mystery School and Traditional Hermetic Secret Society training
 - **Peggy Butkus**: Kundalini awakening and deep transformational coaching
 - **Shira Beth Brenner**: Astrology and spiritual guidance
-- **Angelina Ataide**: Aura therapy and spiritual mastery
+- **Angelina Ataíde**: Aura therapy and spiritual mastery
 - **Diego Dosal Stieglitz**: Visionary leadership and transformative event creation
 - **Kaypacha**: Astrology for the Soul
 - **Deborah Rosene, Psy.D.**: Qi Gong and Tai Chi

@@ -1,4 +1,4 @@
-# Appendix F: Bibliography & Further Reading
+# Appendix D: Bibliography & Further Reading
 
 ## Sources, Influences, and Recommended Reading
 

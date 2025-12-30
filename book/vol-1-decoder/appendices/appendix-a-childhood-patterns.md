@@ -1,4 +1,4 @@
-# Appendix C: Understanding Your Childhood Patterns
+# Appendix A: Understanding Your Childhood Patterns
 
 ## How Early Experiences Shape Adult Vulnerability
 

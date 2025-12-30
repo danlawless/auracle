@@ -48,7 +48,7 @@ The patterns described in this book are archetypal and universal. Any resemblanc
 
 First Edition: 2024
 
-**Contact:** theauracle.com
+**Contact:** lightfield.institute
 
 ---
 

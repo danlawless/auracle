@@ -122,7 +122,7 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 ## Connect with Jennifer
 
 **Light Field Institute**
-- Website: theauracle.com
+- Website: lightfield.institute
 - Aura readings, integration sessions, and spiritual guidance
 - Instagram: @jae.lawless
 

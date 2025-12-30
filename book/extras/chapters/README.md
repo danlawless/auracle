@@ -234,6 +234,6 @@ BACK MATTER
 
 ---
 
-**The Auracle Press** | theauracle.com
+**The Auracle Press** | lightfield.institute
 
 </div>

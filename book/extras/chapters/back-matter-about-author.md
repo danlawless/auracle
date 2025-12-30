@@ -127,7 +127,7 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 - Instagram: @jae.lawless
 
 **Book an Aura Reading**
-- Calendly: calendly.com/holisticlawless
+- Calendly: calendly.com/lightfield
 - Email: lightfieldpress@gmail.com
 
 ---

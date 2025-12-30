@@ -22,7 +22,7 @@ As I deepen my studies in aura therapy, I am offering donation-based services fo
 
 **General Aura Reading (Introductory Offer)**
 - Minimum donation of $20, with all donations going to Escola da Aura
-- Book at: https://calendly.com/holisticlawless
+- Book at: https://calendly.com/lightfield
 - This foundational reading must be completed before accessing other services
 
 **Follow-Up Integration Sessions**
@@ -170,7 +170,7 @@ This is a journey from feardom to freedom. From shadow to light. From separation
 
 ### Contact & Booking
 
-📅 **Book an Aura Reading**: https://calendly.com/holisticlawless  
+📅 **Book an Aura Reading**: https://calendly.com/lightfield  
 📧 **Email**: lightfieldpress@gmail.com  
 📧 **Event Inquiries**: lightfieldpress@gmail.com 
 

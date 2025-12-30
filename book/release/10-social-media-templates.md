@@ -90,7 +90,7 @@ Set up in this order (most important first):
    → [Gumroad bundle link]
 
 6. 🔮 Book an Aura Reading
-   → calendly.com/holisticlawless
+   → calendly.com/lightfield
 
 7. 🌴 Amate Events (Retreats)
    → instagram.com/amatesoulware

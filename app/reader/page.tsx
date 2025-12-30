@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { volumes } from './chapters';
+import { getRecentUpdates } from './updates';
 
 export const metadata = {
   title: 'The Sovereignty Series | Reader',
@@ -28,6 +29,52 @@ const volumeKeywords = [
   'BECOME',
 ];
 
+const updateTypeLabels: Record<string, { label: string; color: string }> = {
+  'new-content': { label: 'New', color: 'bg-emerald-100 text-emerald-700' },
+  'new-chapter': { label: 'New Chapter', color: 'bg-blue-100 text-blue-700' },
+  'reorganization': { label: 'Updated', color: 'bg-amber-100 text-amber-700' },
+  'refinement': { label: 'Refined', color: 'bg-violet-100 text-violet-700' },
+};
+
+function RecentUpdatesSection() {
+  const updates = getRecentUpdates(5);
+
+  if (updates.length === 0) return null;
+
+  return (
+    <section className="pb-12 px-6">
+      <div className="max-w-4xl mx-auto">
+        <div className="bg-white rounded-2xl border border-soft-lavender/30 p-6 shadow-sm">
+          <div className="flex items-center gap-2 mb-4">
+            <svg className="w-5 h-5 text-deep-purple" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+            <h3 className="font-serif text-lg text-deep-purple">Recent Updates</h3>
+          </div>
+          <div className="space-y-3">
+            {updates.map((update) => {
+              const typeInfo = updateTypeLabels[update.type];
+              return (
+                <div key={update.id} className="flex items-start gap-3 text-sm">
+                  <span className="text-gray-400 text-xs whitespace-nowrap pt-0.5">
+                    {new Date(update.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+                  </span>
+                  <span className={`px-2 py-0.5 rounded text-xs font-medium ${typeInfo.color}`}>
+                    {typeInfo.label}
+                  </span>
+                  <div className="flex-1">
+                    <span className="text-gray-700">{update.description}</span>
+                  </div>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 export default function ReaderPage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-soft-ivory to-white">
@@ -51,6 +98,9 @@ export default function ReaderPage() {
           </div>
         </div>
       </section>
+
+      {/* Recent Updates */}
+      <RecentUpdatesSection />
 
       {/* Volume Grid */}
       <section className="pb-24 px-6">

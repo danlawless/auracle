@@ -1,6 +1,6 @@
 # AI Coding Config - Installation Complete! 🎉
 
-Successfully installed the complete ai-coding-config system into your Auracle project.
+Successfully installed the complete ai-coding-config system into your Aura project.
 
 ## What Was Installed
 
@@ -224,7 +224,7 @@ For complex features, try the `/autotask` command which handles:
 
 ## Tech Stack Detected
 
-Your Auracle project is running:
+Your Aura project is running:
 - **Next.js 14.0.4** with App Router
 - **React 18.2.0**
 - **TypeScript 5.3.3**

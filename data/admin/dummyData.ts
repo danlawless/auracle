@@ -314,7 +314,7 @@ export const dummyContentPages: AdminContentPage[] = [
         type: 'hero',
         order: 1,
         content: {
-          title: 'The Auracle',
+          title: 'The Aura',
           subtitle: 'Awaken divine remembrance and energetic clarity through the sacred art of Rose Meditation',
           description: '"Beloved, return to your breath. The moment is sacred." Discover your inner sanctuary through guided practices rooted in love, presence, and deep energetic awareness.',
           ctaButtons: [
@@ -329,7 +329,7 @@ export const dummyContentPages: AdminContentPage[] = [
         type: 'about',
         order: 2,
         content: {
-          title: 'Meet Jennifer, The Auracle',
+          title: 'Meet Jennifer, The Aura',
           credentials: [
             'Masters Degree Nova Southeastern University',
             'Bachelors of Science from Boston University',

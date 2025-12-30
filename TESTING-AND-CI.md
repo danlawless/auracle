@@ -1,6 +1,6 @@
 # Testing & CI/CD Setup Guide
 
-Complete testing and continuous integration setup for the Auracle project.
+Complete testing and continuous integration setup for the Aura project.
 
 ## 📦 What's Installed
 
@@ -57,7 +57,7 @@ npm run prepare          # Install husky hooks (runs automatically)
 
 First time setup:
 ```bash
-cd /Users/lawl3ss/Documents/Projects/Auracle
+cd /Users/lawl3ss/Documents/Projects/Aura
 npm install
 ```
 
@@ -375,7 +375,7 @@ npm update
 
 ## 🎉 You're All Set!
 
-Your Auracle project now has:
+Your Aura project now has:
 - ✅ Comprehensive testing setup
 - ✅ Automated code quality checks
 - ✅ Git hooks for consistency

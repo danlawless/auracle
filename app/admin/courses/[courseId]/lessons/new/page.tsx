@@ -62,7 +62,7 @@ export default function NewLessonPage() {
     practiceTitle: '',
     practiceInstructions: [''],
     reflectionPrompts: [''],
-    aiPersona: 'The Auracle AI',
+    aiPersona: 'The Aura AI',
     aiSystemPrompt: '',
     aiSuggestedQuestions: ['']
   })
@@ -454,7 +454,7 @@ export default function NewLessonPage() {
 
                 <SacredTextarea
                   label="System Prompt"
-                  placeholder="You are The Auracle AI, guiding students through [lesson topic]..."
+                  placeholder="You are The Aura AI, guiding students through [lesson topic]..."
                   value={lesson.aiSystemPrompt}
                   onChange={(value) => setLesson(prev => ({ ...prev, aiSystemPrompt: value }))}
                   rows={4}

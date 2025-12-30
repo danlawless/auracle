@@ -1,7 +1,7 @@
 import { useEffect, useRef, useCallback } from 'react';
 
 /**
- * Performance optimization hooks for the Auracle application
+ * Performance optimization hooks for the Aura application
  * These hooks help reduce jitter and improve scroll/interaction performance
  */
 

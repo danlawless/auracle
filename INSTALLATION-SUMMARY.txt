@@ -3,7 +3,7 @@
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 Installation Date: $(date)
-Project: Auracle (Next.js 14 + TypeScript + React)
+Project: Aura (Next.js 14 + TypeScript + React)
 
 ════════════════════════════════════════════════════════════════════════════
 
@@ -50,7 +50,7 @@ Documentation
 🚀 NEXT STEPS (REQUIRED!)
 
 1. Install Dependencies
-   cd /Users/lawl3ss/Documents/Projects/Auracle
+   cd /Users/lawl3ss/Documents/Projects/Aura
    npm install
 
 2. Verify Installation

@@ -9,7 +9,7 @@ The ai-coding-config system is fully installed! Here's what to do next.
 **REQUIRED** - This activates all testing and git hooks:
 
 ```bash
-cd /Users/lawl3ss/Documents/Projects/Auracle
+cd /Users/lawl3ss/Documents/Projects/Aura
 npm install
 ```
 
@@ -184,7 +184,7 @@ npm run pre-commit       # Manual pre-commit check
 
 ## 🎉 You're Ready!
 
-Your Auracle project now has:
+Your Aura project now has:
 - ✅ Enterprise-grade testing setup
 - ✅ Automated code quality checks
 - ✅ CI/CD pipeline

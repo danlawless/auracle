@@ -1,4 +1,4 @@
-# 🌹 Auracle Course System - Complete Overview
+# 🌹 Aura Course System - Complete Overview
 
 ## What We Built
 

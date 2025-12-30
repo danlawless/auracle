@@ -1,7 +1,7 @@
 import { render, screen } from '@testing-library/react';
 import '@testing-library/jest-dom';
 
-// Example test file - demonstrates testing patterns for Auracle
+// Example test file - demonstrates testing patterns for Aura
 
 describe('Example Test Suite', () => {
   it('should demonstrate basic test structure', () => {
@@ -10,11 +10,11 @@ describe('Example Test Suite', () => {
   });
 
   it('should render a simple component', () => {
-    const TestComponent = () => <div>Hello Auracle</div>;
+    const TestComponent = () => <div>Hello Aura</div>;
     
     render(<TestComponent />);
     
-    expect(screen.getByText('Hello Auracle')).toBeInTheDocument();
+    expect(screen.getByText('Hello Aura')).toBeInTheDocument();
   });
 
   it('should handle async operations', async () => {

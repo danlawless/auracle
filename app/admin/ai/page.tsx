@@ -23,10 +23,10 @@ export default function AIAssistantPage() {
 
   // Mock AI configurations
   const [globalConfig, setGlobalConfig] = useState({
-    persona: 'The Auracle AI',
+    persona: 'The Aura AI',
     basePersonality: 'wise_guide',
     responseStyle: 'gentle_encouraging',
-    knowledgeBase: 'Complete knowledge of Rose Meditation, energy work, spiritual practices, and The Auracle teachings.',
+    knowledgeBase: 'Complete knowledge of Rose Meditation, energy work, spiritual practices, and The Aura teachings.',
     defaultGreeting: 'Beloved, I\'m here to support you on your sacred journey. How may I assist you today?',
     escalationTriggers: ['technical issues', 'payment problems', 'urgent concerns']
   })
@@ -145,7 +145,7 @@ export default function AIAssistantPage() {
                   label="AI Persona Name"
                   value={globalConfig.persona}
                   onChange={(value) => setGlobalConfig(prev => ({ ...prev, persona: value }))}
-                  placeholder="e.g., The Auracle AI"
+                  placeholder="e.g., The Aura AI"
                 />
                 
                 <SacredSelect

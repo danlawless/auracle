@@ -1,6 +1,6 @@
-# The Auracle - Your Spiritual Guidance Experience
+# The Aura - Your Spiritual Guidance Experience
 
-## About Jennifer (The Auracle)
+## About Jennifer (The Aura)
 **Credentials & Background**
 - Masters Degree, Nova Southeastern University
 - Bachelor of Science, Boston University  

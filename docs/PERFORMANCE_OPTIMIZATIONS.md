@@ -1,4 +1,4 @@
-# Performance Optimizations - Auracle Frontend
+# Performance Optimizations - Aura Frontend
 
 This document outlines the performance optimizations implemented to eliminate jittery color behavior and improve overall frontend performance during scrolling and interactions.
 

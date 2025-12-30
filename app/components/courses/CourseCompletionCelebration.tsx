@@ -228,7 +228,7 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
                   Your journey into deeper wisdom and spiritual mastery awaits."
                 </p>
                 <p className="text-sm text-gray-600 mt-3 font-medium">
-                  — Jae, Master Auracle Reader
+                  — Jae, Master Aura Reader
                 </p>
               </motion.div>
 

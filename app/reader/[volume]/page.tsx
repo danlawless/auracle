@@ -20,7 +20,7 @@ export async function generateMetadata({ params }: VolumePageProps) {
   }
 
   return {
-    title: `${volume.title} | The Auracle Series`,
+    title: `${volume.title} | The Aura Series`,
     description: `${volume.subtitle} - ${volume.description}`,
   };
 }

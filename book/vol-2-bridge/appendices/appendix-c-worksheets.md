@@ -309,6 +309,90 @@ Use this to track your nervous system state and practices:
 
 ---
 
+## 9. Self-Regulation Practices for Dating
+
+### Real-Time Repair Litmus Test
+*(60–90 seconds, no analysis required)*
+
+**Step 1 — Say One True Sentence**
+
+Use a simple, non-accusatory line:
+- "I need to slow this down."
+- "I'm not available for that right now."
+- "Something in me tightened just now."
+
+**Rule:** Don't explain. Don't justify.
+
+**Step 2 — Observe Their First Response**
+
+**PASS (Green):**
+- They pause
+- They soften or slow
+- They acknowledge impact
+- They don't reach for access
+
+**FAIL (Red):**
+- They explain intent
+- They minimize
+- They push for reassurance
+- They frame your boundary as conflict
+
+**Step 3 — Check Your Body (10 seconds)**
+
+Ask silently:
+- Did my chest soften or tighten?
+- Did my breath deepen or shorten?
+- Do I feel more choice—or pressure?
+
+**Step 4 — Hold for One Beat Longer**
+
+If they passed: Say nothing. Let behavior confirm safety.
+If they failed: "I'm going to take space." Then stop engaging.
+
+**Decision Rule:** One fail early: slow down. Two fails: disengage. Pattern fails: exit.
+
+---
+
+### The 72-Hour Rule
+
+Before making any significant relationship decision:
+
+**Wait 72 hours.**
+
+- Don't reply to an intense message immediately
+- Don't commit when activated
+- Don't have a "big talk" when dysregulated
+- Don't make permanent decisions from temporary emotions
+
+**After 72 hours, ask:**
+- Does this still feel as urgent?
+- What does my regulated self think?
+- What does the pattern over time suggest?
+
+---
+
+### The Energy Audit
+
+After each date or significant interaction, check:
+
+**Regulated energy:**
+- Calm
+- Grounded
+- Curious but not obsessive
+- Able to focus on other things
+- Present in your body
+
+**Activated energy:**
+- Thinking about them constantly
+- Analyzing every message
+- Anxious about next contact
+- Already imagining the future
+- Sleep disruption
+
+Neither is "right" — but activated energy is information.
+
+---
+
 ## Using These Tools
 
 **For initial assessment:** Complete the self-assessments to understand your starting point.
@@ -319,8 +403,11 @@ Use this to track your nervous system state and practices:
 
 **For structured growth:** Follow the 6-month integration plan.
 
+**For real-time calibration:** Use the Repair Litmus Test and Energy Audit after interactions.
+
 ---
 
 *"Assessment is not judgment—it's awareness in service of choice."*
+
 
 

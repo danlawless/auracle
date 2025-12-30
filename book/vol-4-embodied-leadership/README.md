@@ -48,6 +48,7 @@
 |---------|-------|-------------|
 | [Chapter 19](./chapters/19-repatterning-identity.md) | Repatterning Your Identity | Graduating from old roles |
 | [Chapter 20](./chapters/20-embodied-leadership-life.md) | Embodied Leadership: The Life | Daily practice as the dojo |
+| [Chapter 21](./chapters/21-myth-of-balance.md) | The Myth of Balance | Why sovereignty requires uneven moments |
 
 ### Appendices
 | Appendix | Title | Description |
@@ -121,9 +122,10 @@ PART IV: POWER WITHOUT NARCISSISM (3 chapters)
 ├── Chapter 17 ............ Group Dynamics & Energetic Leadership
 └── Chapter 18 ............ The Shadow of the Healer
 
-PART V: THE PATH OF EMBODIED SOVEREIGNTY (2 chapters)
+PART V: THE PATH OF EMBODIED SOVEREIGNTY (3 chapters)
 ├── Chapter 19 ............ Repatterning Your Identity
-└── Chapter 20 ............ Embodied Leadership: The Life
+├── Chapter 20 ............ Embodied Leadership: The Life
+└── Chapter 21 ............ The Myth of Balance
 
 APPENDICES
 ├── Appendix A ............ Field Hygiene Menu

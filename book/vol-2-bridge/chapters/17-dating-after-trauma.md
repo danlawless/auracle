@@ -592,6 +592,247 @@ Staying because you've put time, energy, or emotion in—rather than assessing w
 
 ---
 
+## Repair: The Most Revealing Pattern
+
+One of the most important things to observe in the first 90 days is how someone handles repair.
+
+Every relationship has ruptures—moments of disconnection, misunderstanding, or hurt. That's normal and inevitable.
+
+**What matters is what happens next.**
+
+Repair is where people reveal themselves. It's where you see:
+- Whether they can take responsibility
+- Whether they prioritize connection over being right
+- Whether your experience matters as much as their intention
+- Whether your "no" has consequences
+
+### The Neuroscience of Repair: Why It Matters So Much
+
+Repair works because it restores agency and safety at the same time—the two conditions the nervous system requires for intimacy.
+
+**What Happens During Rupture:**
+
+When there is entitlement, pressure, or assumption:
+- The amygdala flags threat ("I am not safe to choose")
+- The sympathetic nervous system activates vigilance or freeze
+- The prefrontal cortex shifts into management and compliance
+- Desire shuts down because choice has been compromised
+
+This is not emotional fragility. It is biology protecting autonomy.
+
+**What Real Repair Does:**
+
+When repair is genuine (not performative), several things happen neurologically:
+
+1. **Threat Deactivation** — Calm accountability signals no retaliation. The amygdala reduces alarm. Cortisol levels begin to fall.
+
+2. **Agency Restoration** — When a "no" is accepted without consequence, the brain updates: *I am safe even when I don't comply.* This re-engages the prefrontal cortex, allowing choice to return.
+
+3. **Vagal Re-engagement** — Presence without pressure activates the ventral vagal system, supporting connection, embodiment, and emotional regulation.
+
+4. **Oxytocin Without Obligation** — Trust-based bonding occurs without performance. Connection no longer requires self-abandonment.
+
+**Why desire often returns after repair (not before):**
+
+Desire is a luxury signal. It only emerges when safety is consistent, agency is respected, and outcomes are not forced.
+
+This is why trust often returns before libido, calm may feel unfamiliar at first, and arousal may lag behind repair.
+
+**One-line integration:** Repair works because it teaches the body that choice will be honored—even when desire is absent.
+
+---
+
+### False Repair vs Real Repair
+
+Not all repair is equal. Some repair looks like resolution but leaves the nervous system guarded.
+
+**False Repair** *(Looks like resolution, but your body stays guarded)*
+
+What it sounds like:
+- "I didn't mean it that way."
+- "That's not what I was trying to do."
+- "You're misunderstanding me."
+- "I'm sorry you feel that way."
+- "Can we just move on?"
+
+What's actually happening:
+- Impact is minimized or reframed
+- Intention is centered over effect
+- Accountability is partial or absent
+- The focus is on ending discomfort, not restoring safety
+
+Nervous system response:
+- Amygdala remains alert
+- Body does not re-open
+- Lingering tension
+- Increasing withdrawal over time
+
+*False repair seeks closure. It does not restore trust.*
+
+**Real Repair** *(Feels simple, sometimes awkward, and deeply stabilizing)*
+
+What it sounds like:
+- "I see how that impacted you."
+- "I didn't realize I crossed a line."
+- "I'm taking responsibility."
+- "I don't want access without your consent."
+- "Take your time."
+
+What's actually happening:
+- Impact is named without defense
+- Responsibility is owned without explanation
+- Choice is restored
+- No outcome is demanded
+
+Nervous system response:
+- Threat signal decreases
+- Body relaxes incrementally
+- Trust returns before desire
+- Genuine safety
+
+*Real repair prioritizes safety over resolution.*
+
+**The Critical Distinction:**
+
+The nervous system does not track words — it tracks consequence.
+
+If saying no leads to withdrawal, guilt, pressure, or defensiveness → The body learns: *Repair is unsafe.*
+
+If saying no leads to steadiness, presence, respect, and patience → The body updates: *I can remain myself and still be connected.*
+
+**One-line decoder:** Repair is real when nothing is required in return.
+
+---
+
+### Field Note: The Almost (Failed Repair)
+
+She names it calmly.
+
+"When you assume access, my body shuts down."
+
+He nods quickly. "I get it," he says. "I'm sorry—I didn't mean it like that."
+
+He reaches for her. She stiffens.
+
+"You're still upset?" he asks. "I already apologized."
+
+She tries again. "I just need some space."
+
+He exhales. "This is starting to feel like punishment."
+
+Something closes.
+
+Not loudly. Not dramatically. Just enough.
+
+Her body registers the truth before her mind does:
+
+*My no has a cost. Repair requires me to hurry. My safety depends on his comfort.*
+
+Nothing explodes. Nothing resolves.
+
+They move on.
+
+But something essential doesn't return.
+
+**One-line decoder:** If repair requires you to override yourself, it isn't repair.
+
+---
+
+### Dating Phase Red Flags: Repair & Consent
+
+If you notice these early, pause. Don't explain them away.
+
+**Language Red Flags:**
+- "I already said sorry—can we move on?"
+- "That's not what I meant."
+- "You're too sensitive."
+- "Why are you still upset?"
+- "You're punishing me by needing space."
+
+**Behavioral Red Flags:**
+- Apologies followed immediately by reaching for access
+- Pressure for closeness after you name discomfort
+- Sulking, withdrawal, or irritability when you say no
+- Repair attempts that end with your reassurance
+- Framing your boundary as conflict or drama
+
+**Timing Red Flags:**
+- Rushing repair to restore comfort
+- Expecting intimacy as proof that things are "okay"
+- Escalating closeness before trust has stabilized
+
+**Body Signals (Your Body Knows):**
+- Tight chest or shallow breath after an "apology"
+- Feeling obligated to smooth things over
+- A sense that your no has consequences
+- Desire disappearing after you speak up
+
+**Green Flags to Look For:**
+- "I hear you. I'll slow down."
+- Space is respected without resentment
+- No access is requested after a boundary
+- Repair doesn't require reassurance
+- Consistent behavior change over time
+
+**One-line decoder:** If repair costs you your pace, it isn't safe.
+
+---
+
+### Real-Time Repair Litmus Test
+
+Use this when you're in a moment of tension or after a boundary. It takes 60-90 seconds.
+
+**Step 1 — Say One True Sentence**
+
+Use a simple, non-accusatory line:
+- "I need to slow this down."
+- "I'm not available for that right now."
+- "Something in me tightened just now."
+
+**Rule:** Don't explain. Don't justify.
+
+**Step 2 — Observe Their First Response**
+
+Pass or fail happens here.
+
+**PASS (Green):**
+- They pause
+- They soften or slow
+- They acknowledge impact
+- They don't reach for access
+
+**FAIL (Red):**
+- They explain intent
+- They minimize ("It's not a big deal.")
+- They push for reassurance
+- They frame your boundary as conflict
+
+**Step 3 — Check Your Body (10 seconds)**
+
+Ask silently:
+- Did my chest soften or tighten?
+- Did my breath deepen or shorten?
+- Do I feel more choice—or pressure?
+
+Your body's answer is the verdict.
+
+**Step 4 — Hold the Boundary for One Beat Longer**
+
+If they passed: Say nothing. Let behavior confirm safety.
+
+If they failed: Repeat once: "I'm going to take space." Then stop engaging.
+
+**Rule:** Real repair doesn't require repetition.
+
+**Decision Shortcut:**
+- One fail early: slow down.
+- Two fails: disengage.
+- Patterned fails: exit.
+
+*Trust patterns, not apologies.*
+
+---
+
 ## Having the Hard Conversations
 
 Within the first 90 days, you should know the answer to:

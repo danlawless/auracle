@@ -458,6 +458,120 @@ Sit with the discomfort. Notice what arises. Let yourself receive without immedi
 
 ---
 
+## Card 19: False Repair vs Real Repair
+
+**The signal:** Someone apologized, but you don't feel better. You feel like you should accept it, but your body stays guarded. You wonder if you're being too demanding.
+
+**Pattern:** Not all repair is real. Some apologies are about ending discomfort, not restoring safety. Your body can tell the difference—even when your mind says you should move on.
+
+**What's happening:**
+- The apology centered their intention over your impact
+- Nothing was named directly
+- You were asked to move on before safety returned
+- The repair required something from you (reassurance, acceptance, speed)
+- Your nervous system stayed alert because the pattern wasn't addressed
+
+**The reframe:**
+Repair is real when it restores safety, not just when it uses the word "sorry." If your body stayed guarded, the repair didn't land—and that's data, not stubbornness. Real repair leaves you feeling seen. False repair leaves you managing their feelings.
+
+**Practice:**
+Ask yourself: *"Did this repair make me feel more choice, or less?"* Real repair restores agency. If you feel pressure to accept, forgive, or move faster than your body wants—that's not repair. That's obligation.
+
+**Integration line:** *"Repair is real when nothing is required in return."*
+
+---
+
+## Card 20: Repair Litmus Test
+
+**The signal:** You're in an early relationship and unsure if this person is safe. They said something that felt off. Now you need to know: can they repair?
+
+**Pattern:** Repair is the most revealing pattern in early dating. How someone responds to your discomfort tells you everything about whether the relationship can be safe.
+
+**What's happening:**
+- You're assessing safety in real time
+- Their first response shows their capacity
+- Your body is tracking consequence—what happens when you say no
+- This is the moment that determines future trust
+
+**The reframe:**
+You don't need to wait months to know if someone is safe. Introduce a small boundary or need. Watch what happens next. If they defend, minimize, or push for reassurance—that's data. If they pause, soften, and honor your pace—that's also data.
+
+**Practice:**
+Say one true sentence: *"I need to slow this down"* or *"Something felt off just now."* Don't explain. Watch their first response. Pass or fail happens in the next 30 seconds. Then check your body—did your chest soften or tighten?
+
+**Integration line:** *"Real repair doesn't require repetition. Trust patterns, not apologies."*
+
+---
+
+## Card 21: Gift-Giving as Regulation
+
+**The signal:** You feel anxious about arriving somewhere empty-handed. You feel guilty if you don't bring something. You feel pressure to "give back" even when no one asked.
+
+**Pattern:** Gift-giving as regulation isn't generosity—it's a survival strategy learned early. Your nervous system learned: *If I give enough, I belong. If I don't, I'm at risk.*
+
+**What's happening:**
+- Your body is trying to earn safety through contribution
+- You learned love was conditional on what you brought
+- Imbalance feels dangerous
+- You're over-functioning to secure belonging
+- The gift regulates your anxiety, not the relationship
+
+**The reframe:**
+If giving creates pressure in your body, it's not generosity—it's self-protection. Healthy connection doesn't require balance sheets. You belong because you're there, not because of what you bring.
+
+**Practice:**
+Before giving, ask: *"If I didn't give this, would I still feel okay being here?"* If the answer is no, you're trying to earn safety, not express care. Practice arriving without bringing anything. Notice what happens in your body—and what happens in the relationship.
+
+**Integration line:** *"I belong without bringing anything."*
+
+---
+
+## Card 22: "Don't Judge" as Control
+
+**The signal:** Someone says "let's not judge each other" after you've named a concern. You feel silenced, confused, or vaguely wrong for having discernment.
+
+**Pattern:** "Don't judge" sounds mature, but it's often a conversation stopper. It collapses discernment (meaning-making) into judgment (condemnation) to avoid accountability or difference.
+
+**What's happening:**
+- Your perspective is being neutralized
+- Discernment is being framed as attack
+- The speaker is uncomfortable with difference
+- Connection is being protected through sameness
+- Your experience is subtly invalidated
+
+**The reframe:**
+Discernment isn't judgment. You can evaluate what works for you without condemning anyone. "Don't judge" is often code for "don't differentiate." Real connection can hold difference. If it can't, that's data about the relationship's capacity.
+
+**Practice:**
+When you hear "let's not judge," say internally: *"I'm not judging. I'm describing my experience."* You don't need to argue. Just notice whether this relationship can tolerate difference—or whether it requires sameness to feel safe.
+
+**Integration line:** *"Discernment isn't judgment. Difference isn't attack."*
+
+---
+
+## Card 23: "Me Too" Without Curiosity
+
+**The signal:** Every time you share something, someone says "me too" or "same" immediately. You feel flattened, unseen, or like your experience was hijacked.
+
+**Pattern:** Frequent "me too" responses aren't always empathy—sometimes they're self-regulation. The person merges to feel included, rather than witnessing to create connection.
+
+**What's happening:**
+- Your experience wasn't given space to land
+- The responder needed to stay included
+- Similarity is soothing for anxious systems
+- Differentiation feels threatening
+- Connection is being sought through merging, not witnessing
+
+**The reframe:**
+Real empathy centers the speaker. Reflexive "me too" re-centers the responder. This isn't malicious—it's often insecure attachment or underdeveloped witnessing capacity. But if it happens consistently, it affects your sense of being seen.
+
+**Practice:**
+When this happens, notice how your body feels—flattened? Interrupted? Unnamed? That's data about the relational field. You can gently redirect: *"I'm curious what stood out to you about my experience?"* But you don't have to. Sometimes noticing is enough.
+
+**Integration line:** *"'Me too' without curiosity is self-regulation, not empathy."*
+
+---
+
 ## One-Page Summary: The Bridge Cards
 
 | Pattern | Reframe | Practice |

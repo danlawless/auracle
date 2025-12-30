@@ -522,6 +522,148 @@ Where is my shadow? Not where is theirs—where is mine?
 
 ---
 
+## When Insight Becomes Control
+
+There's a specific manifestation of the healer's shadow that deserves its own examination:
+
+**The use of insight as authority rather than invitation.**
+
+### The Subtle Shift
+
+Insight is meant to illuminate. Control is meant to stabilize power.
+
+The shift from one to the other is rarely dramatic. It happens quietly, through language, authority, and unexamined influence.
+
+### The Control Illusion
+
+People who lead with insight often believe they are helping. The danger arises when insight:
+- replaces listening
+- overrides consent
+- becomes identity-protective
+- is used to manage others' perceptions
+
+At that point, insight stops being relational and becomes regulatory.
+
+**Control is not about domination — it's about self-regulation through others.**
+
+### Common Markers of Insight-to-Control Drift
+
+| Healthy Insight | Insight as Control |
+|-----------------|-------------------|
+| Offered, not imposed | Delivered as truth |
+| Curious | Certain |
+| Leaves room for difference | Flattens dissent |
+| Paired with accountability | Paired with justification |
+| Invites dialogue | Ends discussion |
+
+### Psychological Drivers
+
+This pattern often emerges from:
+- insecure attachment
+- shame sensitivity
+- fear of irrelevance
+- identity diffusion
+- trauma-driven reliance on intellect
+
+These are understandable human experiences—not character flaws.
+
+### Why It's So Hard to Spot
+
+Insight-based control:
+- sounds compassionate
+- uses therapeutic language
+- mimics leadership
+- feels "high-vibration"
+- avoids overt aggression
+
+This makes it harder to challenge — and easier to internalize.
+
+### The Cost to Others
+
+Those on the receiving end often report:
+- confusion
+- fatigue
+- loss of clarity
+- self-doubt
+- delayed boundary setting
+
+**They don't feel attacked — they feel absorbed.**
+
+### The Line That Matters
+
+**Insight becomes control the moment it no longer tolerates disagreement.**
+
+### Contrast Vignettes: Invitation vs Control
+
+**Vignette A: Insight as Invitation (Healthy)**
+
+In a small group meeting, Maya listens while another member describes a conflict at work. She pauses before responding.
+
+She says, "I'm wondering if this might connect to how you tend to take responsibility early — but that may not fit. What do you think?"
+
+The other person considers it, nods slowly, and says, "Yes… that feels true."
+
+Maya doesn't elaborate. She doesn't explain further. She lets the insight land and belong to the other person.
+
+*Outcome:* The room feels spacious. The speaker feels seen, not interpreted. The insight strengthens agency.
+
+**Vignette B: Insight as Control (Unhealthy)**
+
+In a similar group, Alex responds immediately when someone shares.
+
+"What's really happening is your inner child is repeating a generational trauma pattern. This is about your mother, not your job."
+
+The speaker hesitates. Alex continues, layering frameworks and conclusions.
+
+"Once you see it, you'll understand why this keeps happening."
+
+The speaker goes quiet.
+
+*Outcome:* The room feels heavy. The speaker feels explained to, not understood. The insight collapses curiosity.
+
+**The Difference in One Line:** Invitation asks. Control tells.
+
+### Field Rule: Spotting the Line in Real Time
+
+Ask yourself:
+- Did the insight increase clarity or reduce it?
+- Did the other person feel more choice or less?
+- Was curiosity left open — or closed?
+- Did the insight belong to them — or to the speaker?
+
+**Somatic Signal:** 
+- Invitation: body softens, breath deepens
+- Control: chest tightens, mind fogs, energy drops
+
+*Your nervous system knows before your mind does.*
+
+### If You Recognize This Pattern in Yourself
+
+This section is not an indictment.
+
+Ask:
+- Do I offer insight without being asked?
+- Do I explain others' experiences to them?
+- Do I struggle when people disengage quietly?
+- Do I equate being understood with being followed?
+
+**Growth begins with consent, not correctness.**
+
+### Healthy Counterposture (For the Receiver)
+
+If you're encountering this pattern:
+- You do not need to debate frameworks
+- You do not need to prove harm
+- You only need to notice how your body feels
+
+*If clarity decreases over time, trust the signal.*
+
+### One-Line Decoder
+
+**If insight requires agreement to maintain connection, it has already become control.**
+
+---
+
 ## A Practice: The Shadow Inventory
 
 Weekly or monthly reflection:

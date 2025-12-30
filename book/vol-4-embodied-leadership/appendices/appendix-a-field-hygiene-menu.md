@@ -528,3 +528,113 @@ Start with minimum. Build from there.
 
 *"I don't need protection. I need to remember to clean."*
 
+---
+
+## Leadership Integrity Practices
+
+These practices are specifically designed for those in leadership, healing, or guidance roles. They address the shadow aspects of power and insight.
+
+---
+
+### Practice: Neutral Presence Posture
+
+*For maintaining sovereignty in groups*
+
+**The Posture:**
+- Relax shoulders
+- Slightly slower speech
+- Minimal explanation
+- No rescuing, no convincing
+
+**Language:**
+- "That's not my experience."
+- "I see it differently."
+- "I'll let that land as it is."
+- "Interesting."
+
+Then stop talking.
+
+**Why This Works:** You stop providing regulation for others. The group must regulate itself.
+
+---
+
+### Practice: Integrity Check (Before Sharing Insight)
+
+Before offering interpretation, diagnosis, or framework, ask yourself:
+
+**Question 1:** Is this for service or status?
+
+**Question 2:** Can I be wrong?
+
+**Question 3:** Am I attached to the outcome?
+
+**Question 4:** Would I share this if no one knew it came from me?
+
+**Question 5:** How would I feel if they rejected this?
+
+**Question 6:** Am I leaving them with more agency or less?
+
+**Rule:** If the answer to any question gives you pause, sit with the insight before sharing.
+
+---
+
+### Practice: The Shadow Inventory
+
+*Weekly or monthly reflection*
+
+**Question 1:** This week, where did I need to be special?
+
+**Question 2:** Where did I compete for wisdom or insight?
+
+**Question 3:** When did I resist feedback most strongly?
+
+**Question 4:** Where did I share insight that was more about me than them?
+
+**Question 5:** What would the people around me say about my shadow—if they felt safe to say it?
+
+**Question 6:** Am I willing to ask them?
+
+---
+
+### Practice: The Ordinary Day
+
+*Periodically, practice being nobody special*
+
+- Don't offer insight
+- Don't guide
+- Don't explain
+- Don't be wise
+- Just be present
+- Let others lead
+- Receive instead of give
+- Be ordinary
+
+Notice what this brings up. Boredom? Discomfort? Relief?
+
+*What you feel when you can't be special is data about your shadow.*
+
+---
+
+### Quick Reference: Leadership Hygiene
+
+| Situation | Practice |
+|-----------|----------|
+| In group dynamics | Neutral Presence Posture |
+| Before sharing insight | Integrity Check |
+| Checking your ego | Shadow Inventory |
+| Needing to be wise | The Ordinary Day |
+
+---
+
+### The Clean Leader Commitment
+
+> *"I commit to leading from service, not status. I commit to holding my insight lightly, offering it as possibility rather than prescription. I commit to leaving people with more agency, not less. I commit to doing my own work so that my shadow doesn't become their burden."*
+
+---
+
+## Integration
+
+Field hygiene and leadership integrity work together. Clean field means clear perception. Clean ego means clean service.
+
+The practices in this appendix are not one-time fixes. They are maintenance. Do them regularly. Your field, your leadership, and your relationships will reflect the consistency of your practice.
+

@@ -590,6 +590,179 @@ Nervous system patterning shaped by exposure, fear, and lack of containment. The
 
 ---
 
+## Card 17: When Insight Becomes Control
+
+### What to Remember
+
+Insight is meant to illuminate. Control is meant to stabilize power. The shift from one to the other happens quietly—through language, authority, and unexamined influence.
+
+### Key Distinctions
+
+| Healthy Insight | Insight as Control |
+|-----------------|-------------------|
+| Offered, not imposed | Delivered as truth |
+| Curious | Certain |
+| Leaves room for difference | Flattens dissent |
+| Paired with accountability | Paired with justification |
+| Invites dialogue | Ends discussion |
+
+### Warning Signs You're Receiving It
+
+- Confusion that wasn't there before
+- Fatigue after interaction
+- Self-doubt about your own experience
+- Feeling explained to, not understood
+- Your clarity decreases over time
+
+### Warning Signs You're Doing It
+
+- Offering insight without being asked
+- Explaining others' experiences to them
+- Struggling when people disengage quietly
+- Equating being understood with being followed
+
+### The Line That Matters
+
+**Insight becomes control the moment it no longer tolerates disagreement.**
+
+### Body Cue
+
+- **Receiving invitation:** body softens, breath deepens
+- **Receiving control:** chest tightens, mind fogs, energy drops
+
+### Integration Line
+
+*"If insight requires agreement to maintain connection, it has already become control."*
+
+---
+
+## Card 18: Spiritual Hierarchy & Rank
+
+### What to Remember
+
+When spiritual experiences are used to establish status, spirituality has become a status system. Ranking inner experience replaces truth with compliance.
+
+### What It Looks Like
+
+- Measuring progress through visible signs (puking, crying, visions)
+- Diagnostic questions that function as assessments
+- Publicly interpreting someone else's experience
+- Assigning "not there yet" status
+- "You'll get there one day" (condescension as encouragement)
+
+### What It's Actually Doing
+
+- Creating rank without consent
+- Establishing authority over others' inner worlds
+- Regulating insecurity through superiority
+- Turning spirituality into competition
+
+### Impact on the Receiver
+
+- Subtle shame
+- Self-doubt about lived experience
+- Feeling "behind" or evaluated
+- Loss of internal authority
+
+### What Healthy Spiritual Community Sounds Like
+
+- "Everyone's experience is different."
+- "There's no right way."
+- "How did it feel for you?"
+- No ranking. No future promises. No hierarchy.
+
+### Integration Line
+
+*"If someone defines where you 'are' without asking, they are not guiding—they are ranking."*
+
+---
+
+## Card 19: Group Dynamics & False Harmony
+
+### What to Remember
+
+In groups, "don't judge" often functions as a dominance move by the least differentiated voice—it sets the emotional limits everyone else must obey.
+
+### False Harmony Signs
+
+- Self-censoring to keep the peace
+- Insight getting diluted into consensus
+- Strong thinkers going quiet
+- Sameness rewarded over truth
+- "Nice" but empty feeling after
+
+### Roles That Emerge
+
+| Role | Function | Cost |
+|------|----------|------|
+| **Peacekeeper** | Removes difference | Stops growth |
+| **Mirrorer** | Prevents separation | Steals others' landing |
+| **Differentiator** | Moves group forward | Gets neutralized |
+| **Scapegoat** | Carries unspoken tension | Burns out |
+
+### When a Group Is No Longer Worth Staying In
+
+1. Does clarity get punished?
+2. Is sameness rewarded more than truth?
+3. Do you feel smaller after?
+
+**Decision Rule:** If you're dimming to stay, the group is costing you.
+
+### Neutral Presence Posture (When You Must Stay)
+
+- "That's not my experience."
+- "I see it differently."
+- "I'll let that land as it is."
+- Then stop talking.
+
+### Integration Line
+
+*"Groups unconsciously organize around the least differentiated nervous system if no one holds structure."*
+
+---
+
+## Card 20: The Myth of Balance
+
+### What to Remember
+
+Balance is a value. It is not a moment-to-moment requirement. Healthy relationships, leadership, and intimacy all require the ability to be uneven—temporarily, consensually, and without collapse.
+
+### False Balance vs Living Order
+
+| False Balance | Living Order |
+|---------------|--------------|
+| Equality at all times | Equality over time |
+| No one above | Roles that rotate |
+| Immediate leveling | Sequential exploration |
+| Sameness as safety | Structure as safety |
+
+### Why Balance Feels Essential
+
+Your nervous system learned:
+- Strong opinions triggered chaos
+- Certainty attracted criticism
+- Power was volatile and dangerous
+
+So you flatten. Not from weakness—from protection.
+
+### The Growth Edge
+
+- You can hold power without becoming dangerous
+- Others can hold power without you being harmed
+- Imbalance can exist without collapse
+
+### Practice: Allowing Imbalance
+
+Before equalizing, ask:
+- "Am I balancing because there's real need—or because I'm uncomfortable?"
+- "What happens if I let this be uneven for 60 seconds?"
+
+### Integration Line
+
+*"Safety comes from consented structure, not constant balance."*
+
+---
+
 ## Quick Reference: Core Integration Lines
 
 Use these as daily mantras or touchstones:

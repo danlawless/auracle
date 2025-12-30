@@ -90,6 +90,90 @@ When you're with someone, your nervous system is continuously asking: "Is this s
 
 ---
 
+## Partner-Facing Repair Guide: Creating Safety
+
+*This section is written for both you and potential partners—anyone who wants to be safe for someone healing.*
+
+### How to Know If You're Creating Safety (In Real Time)
+
+This is not about being perfect. It's about whether your presence restores choice.
+
+**When Your Partner Sets a Boundary**
+
+They might say:
+- "I need to slow this down."
+- "I'm not available for that."
+- "Something just didn't feel right."
+
+Your job in this moment is not to fix, persuade, or resolve.
+
+**Your job is to protect agency.**
+
+### You're Doing It Right If...
+
+**Your First Response:**
+- You pause instead of reacting
+- You soften your tone or body
+- You acknowledge impact without defending intent
+- You do not reach for physical or emotional access
+
+**Examples of safe responses:**
+- "Thank you for telling me."
+- "I hear that."
+- "I'm going to slow down."
+- "Take your time."
+
+**Your Behavior After:**
+- You respect space without sulking
+- You don't bring it up repeatedly
+- You don't ask for reassurance
+- You don't treat distance as punishment
+
+*Consistency matters more than words.*
+
+### What This Signals to the Nervous System
+
+When you respond this way, your partner's body registers:
+- "I am safe even when I say no."
+- "Connection doesn't require self-abandonment."
+- "My boundaries will be honored."
+
+This is what allows trust—and eventually desire—to return.
+
+### Warning Signs You're Not In Repair
+
+If you notice yourself:
+- Explaining your intentions instead of owning impact
+- Asking "Are we okay?" repeatedly
+- Feeling offended by their boundary
+- Wanting closeness as proof things are fine
+- Interpreting space as rejection
+
+**Pause.** These signals mean repair hasn't landed yet.
+
+### What Not to Say
+
+- "That's not what I meant."
+- "I already apologized."
+- "You're being too sensitive."
+- "Can we just move on?"
+- "This feels like punishment."
+
+These responses re-introduce pressure. Pressure shuts the body down.
+
+### The Gold Standard
+
+You pass repair when:
+- your partner relaxes without you asking
+- trust returns before intimacy
+- desire is invited, not expected
+
+**One-line decoder:** If you want intimacy, protect their agency first.
+
+**Quiet truth:** You don't need to understand their nervous system to respect it. You just need to honor the no without cost.
+
+---
+
 ## Emotional Maturity Stages
 
 Not everyone is at the same stage of emotional development.

@@ -1,212 +1,104 @@
-# Appendix B: Worksheets
+# Self-Regulation Practices Collection
 
-## Practical Tools for Integration
-
----
-
-## The Self-Soothing → Regulation Spectrum
-
-Use this chart to normalize where you are without shame and locate what's next — gently.
+> Practical tools and practices for integration across "The Sovereignty Series"
 
 ---
 
-### LEFT: REACTIVE SOOTHING
+## Purpose
 
-*(Not wrong. Often necessary.)*
-
-- Automatic, numbing
-- Time-blind (hours pass)
-- Relief followed by guilt
-- Chosen to stop discomfort fast
-- Nervous system says: *"I need this to survive."*
-
-**Examples:** Binge-watching, scrolling, smoking to "take the edge off," zoning out
+These practices are designed to be:
+- **Somatic** — working with the body, not just the mind
+- **Brief** — completable in 1-5 minutes
+- **Repeatable** — building capacity through repetition
+- **Specific** — addressing particular patterns
 
 ---
 
-### MIDDLE: CONSCIOUS SOOTHING
+## Volume 2: The Bridge — Practices
 
-*(Transition phase — powerful and protective.)*
+### Practice: Real-Time Repair Litmus Test
+*(60–90 seconds, no analysis required)*
 
-- Chosen intentionally
-- Body awareness present
-- Soft limits instead of hard rules
-- Relief without collapse
-- Nervous system says: *"I need rest, not escape."*
+**Step 1 — Say One True Sentence**
 
-**Examples:** Watching one episode with awareness, mindful cannabis use, music + rest
+Use a simple, non-accusatory line:
+- "I need to slow this down."
+- "I'm not available for that right now."
+- "Something in me tightened just now."
 
----
+**Rule:** Don't explain. Don't justify.
 
-### RIGHT: EMBODIED REGULATION
+**Step 2 — Observe Their First Response**
 
-*(This emerges — it is not forced.)*
+**PASS (Green):**
+- They pause
+- They soften or slow
+- They acknowledge impact
+- They don't reach for access
 
-- Relief comes from presence
-- No urgency to escape
-- Desire and rest coexist
-- Nervous system says: *"I am safe here."*
+**FAIL (Red):**
+- They explain intent
+- They minimize
+- They push for reassurance
+- They frame your boundary as conflict
 
-**Examples:** Walking, breath, creativity, attuned connection, stillness
+**Step 3 — Check Your Body (10 seconds)**
 
----
+Ask silently:
+- Did my chest soften or tighten?
+- Did my breath deepen or shorten?
+- Do I feel more choice—or pressure?
 
-### KEY REFRAME
+**Step 4 — Hold for One Beat Longer**
 
-**You do not jump from left to right. You cross through the middle.**
+If they passed: Say nothing. Let behavior confirm safety.
+If they failed: "I'm going to take space." Then stop engaging.
 
----
-
-## Relief vs. Regulation: A Gentle Inquiry
-
-*This is not a test. There are no wrong answers.*
-
----
-
-### 1. What do I reach for when I feel overwhelmed or empty?
-
-*(List behaviors without judgment.)*
-
-_______________________________________________
-
-_______________________________________________
-
-_______________________________________________
+**Decision Rule:** One fail early: slow down. Two fails: disengage. Pattern fails: exit.
 
 ---
 
-### 2. When do these urges appear most often?
+### Practice: The 72-Hour Rule
 
-*(Check any that apply.)*
+Before making any significant relationship decision:
 
-- [ ] After boundary-setting
-- [ ] After making a decision
-- [ ] When calm replaces intensity
-- [ ] When guilt arises
-- [ ] During transitions
+**Wait 72 hours.**
 
----
+- Don't reply to an intense message immediately
+- Don't commit when activated
+- Don't have a "big talk" when dysregulated
+- Don't make permanent decisions from temporary emotions
 
-### 3. How does my body feel before I soothe?
-
-*(Example prompts: tight, restless, heavy, lonely, wired)*
-
-_______________________________________________
+**After 72 hours, ask:**
+- Does this still feel as urgent?
+- What does my regulated self think?
+- What does the pattern over time suggest?
 
 ---
 
-### 4. How does my body feel after I soothe?
+### Practice: The Energy Audit
 
-*(Check what's true.)*
+After each date or significant interaction, check:
 
-- [ ] Relieved
-- [ ] Ashamed
-- [ ] Neutral
-- [ ] Rested
-- [ ] Still activated
+**Regulated energy:**
+- Calm
+- Grounded
+- Curious but not obsessive
+- Able to focus on other things
+- Present in your body
 
----
+**Activated energy:**
+- Thinking about them constantly
+- Analyzing every message
+- Anxious about next contact
+- Already imagining the future
+- Sleep disruption
 
-### 5. One experiment this week
-
-Choose one:
-
-- [ ] Pause for 60 seconds before soothing
-- [ ] Choose soothing consciously
-- [ ] Add embodiment (stretch, breath, water)
-- [ ] Stop gently instead of abruptly
-
----
-
-### Integration Line (Write by hand):
-
-> *"I can offer relief without abandoning myself."*
-
-_______________________________________________
+Neither is "right" — but activated energy is information.
 
 ---
 
-## Reader Reflection Compilation
-
-These prompts appear throughout the book. Use them for journaling or self-inquiry.
-
----
-
-### Chapter 2: Installing Internal Authority
-
-- Where do I instinctively look outward for permission or confirmation?
-- What sensations arise when I don't decide immediately?
-- What happens if I let a question remain unanswered for 24 hours?
-
----
-
-### Chapter 3: Aura Boundaries
-
-- What emotions do I regularly take responsibility for that aren't mine?
-- How do I know, somatically, when I've crossed into absorption?
-- What changes when I do nothing instead of reassuring?
-
----
-
-### Chapter 4: Sovereignty Without Force
-
-- Where do I over-explain, justify, or push to be understood?
-- What fear arises when I say less?
-- What changes when I state my position once and stop?
-
----
-
-### Chapter 5: Holding the Field
-
-- Whose emotions activate me most quickly?
-- How does my body try to match or manage their state?
-- What happens when I stay regulated instead?
-
----
-
-### Chapter 6: Desire Without Urgency
-
-- Do I confuse urgency with wanting?
-- What does "clean desire" feel like in my body?
-- Where am I choosing to end anxiety rather than honor preference?
-
----
-
-### Chapter 7: Soothing & Regulation
-
-- What behaviors do I reach for when I feel overwhelmed or empty?
-- Do they come after boundary-setting or choice?
-- What would it feel like to allow soothing without shame?
-
----
-
-### Chapter 8: Guilt, Separation & Contracts
-
-- What roles do I feel guilty for not performing anymore?
-- How do I react when I don't repair immediately?
-- What might end if I let guilt pass without action?
-
----
-
-### Chapter 9: Leadership Without Performing
-
-- Where do I try to earn authority through effort?
-- What changes when I speak simply and stop?
-- How does my body feel when I don't manage perception?
-
----
-
-### Chapter 10: Living From Sovereignty
-
-- Where does my life already feel quieter and more mine?
-- What am I no longer willing to abandon in myself?
-- What does consistency (not intensity) look like now?
-
----
-
----
-
-## Somatic Self-Regulation Practices
+## Volume 3: Sovereignty — Practices
 
 ### Practice: Stay Without Paying
 
@@ -308,8 +200,6 @@ If not → it's a transaction, not a gift.
 
 ### Practice: Interrupting Authority Imprinting
 
-*For taking statements as fact*
-
 **Step 1: Add a Buffer Phrase**
 
 When someone says something, silently respond: "That's a statement, not a verdict."
@@ -409,18 +299,117 @@ Often the answer isn't the missed action — it's connection, play, rest, novelt
 
 ---
 
+## Volume 4: Embodied Leadership — Practices
+
+### Practice: Neutral Presence Posture
+
+*For maintaining sovereignty in groups*
+
+**The Posture:**
+- Relax shoulders
+- Slightly slower speech
+- Minimal explanation
+- No rescuing, no convincing
+
+**Language:**
+- "That's not my experience."
+- "I see it differently."
+- "I'll let that land as it is."
+- "Interesting."
+
+Then stop talking.
+
+**Why This Works:** You stop providing regulation for others. The group must regulate itself.
+
+---
+
+### Practice: Integrity Check (Before Sharing Insight)
+
+**Question 1:** Is this for service or status?
+
+**Question 2:** Can I be wrong?
+
+**Question 3:** Am I attached to the outcome?
+
+**Question 4:** Would I share this if no one knew it came from me?
+
+**Question 5:** How would I feel if they rejected this?
+
+**Question 6:** Am I leaving them with more agency or less?
+
+---
+
+### Practice: The Shadow Inventory
+
+*Weekly or monthly reflection*
+
+**Question 1:** This week, where did I need to be special?
+
+**Question 2:** Where did I compete for wisdom or insight?
+
+**Question 3:** When did I resist feedback most strongly?
+
+**Question 4:** Where did I share insight that was more about me than them?
+
+**Question 5:** What would the people around me say about my shadow—if they felt safe to say it?
+
+**Question 6:** Am I willing to ask them?
+
+---
+
+### Practice: The Ordinary Day
+
+*Periodically, practice being nobody special*
+
+- Don't offer insight
+- Don't guide
+- Don't explain
+- Don't be wise
+- Just be present
+- Let others lead
+- Receive instead of give
+- Be ordinary
+
+Notice what this brings up. Boredom? Discomfort? Relief?
+
+*What you feel when you can't be special is data about your shadow.*
+
+---
+
 ## Quick Reference: When to Use What
 
 | Situation | Practice |
 |-----------|----------|
+| Dating/early relationship | Repair Litmus Test, 72-Hour Rule |
+| After interactions | Energy Audit |
 | Feeling guilty about not giving | Stay Without Paying |
 | Before offering something | Personal Decision Filter |
 | Taking others' words as truth | Interrupting Authority Imprinting |
 | Reflexively counterbalancing | Staying Landed |
 | Discomfort with imbalance | Allowing Imbalance |
 | Stuck in regret loops | Regret Loop Interruption |
+| In group dynamics | Neutral Presence Posture |
+| Before sharing insight | Integrity Check |
+| Checking your ego | Shadow Inventory |
+| Needing to be wise | The Ordinary Day |
 
 ---
 
-**[Return to Table of Contents →](../README.md)**
+## Placement Guide
+
+| Practice | Primary Volume | Appendix/Chapter |
+|----------|---------------|------------------|
+| Repair Litmus Test | Vol 2 | Ch 17 or Appendix C |
+| 72-Hour Rule | Vol 2 | Ch 17 |
+| Energy Audit | Vol 2 | Ch 17 |
+| Stay Without Paying | Vol 3 | Appendix B |
+| Personal Decision Filter | Vol 3 | Ch 8 or Appendix |
+| Authority Imprinting | Vol 3 | Ch 2 |
+| Staying Landed | Vol 3 | Ch 10 |
+| Allowing Imbalance | Vol 4 | Ch 21 |
+| Regret Loop | Vol 3 | Ch 6 |
+| Neutral Presence | Vol 4 | Ch 17 |
+| Integrity Check | Vol 4 | Ch 18 |
+| Shadow Inventory | Vol 4 | Ch 18 |
+| Ordinary Day | Vol 4 | Ch 18 |
 

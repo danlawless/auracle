@@ -82,7 +82,9 @@ These tactics are about establishing dominance—who has power, who sets the age
 
 ### Tactic 4: Physical Intimidation
 
-**What it looks like:** They get physically close when angry—invading your space with their body. They might make a fist near you, stand over you, block doorways, or touch you in ways that demonstrate power rather than affection. "I could snap your neck with one hand." "You're so small/weak/fragile." They might grab their own hand around your throat, not squeezing, just showing you how easily they could. Physical proximity becomes a threat even without actual violence.
+**What it looks like:** They get physically close when angry, invading your space. They stand over you, block doorways, make a fist near you. They might grab their own hand around your throat—not squeezing, just showing you how easily they could. "I could snap your neck with one hand." "You're so small. So weak. So fragile."
+
+Physical proximity becomes a threat even without actual violence.
 
 **What's really happening:** They're using the implicit threat of physical harm to establish dominance. You don't have to be hit to be controlled by the possibility of being hit. The fear is the point. By demonstrating your physical vulnerability, they remind you who has power—and that your safety depends on their restraint.
 
@@ -152,7 +154,7 @@ These tactics keep you seeking their approval—raising you up just enough to dr
 
 ### Tactic 9: The Aesthetic Seesaw
 
-**What it looks like:** One day: "You're so beautiful." Next day: "I mean, looks aren't that important to me." Or: "You looked great before you gained weight." "I prefer women who are [something you're not], but you're fine."
+**What it looks like:** One day: "You're so beautiful." Next day: "I mean, looks aren't that important to me." Or: "You looked great before you gained weight." "I prefer women who are naturally thin, but you're fine."
 
 Beyond general comments, this extends to controlling your actual appearance: dictating your hair color, nail style, clothing choices, or makeup. "You need to have neutral hair when we see my friends." "No sparkles on your nails." "That color is too loud." They critique your appearance in public—at the salon, in front of others—establishing that how you look is their domain, not yours.
 

@@ -4,14 +4,14 @@
 
 ---
 
-This glossary defines the key terms used throughout this book. Understanding this vocabulary helps you name what you've experienced and communicate about it with others. Language is power—when you can name something, it loses some of its hold over you.
+These are the terms you'll find throughout this book. When you can name what you've experienced, you reclaim power. Understanding this vocabulary helps you communicate about it with others.
 
 ---
 
 ## A
 
 ### Abuse Amnesia
-The phenomenon where victims of abuse forget or minimize past abusive incidents, often remembering only the "good times." This is partly due to trauma's effect on memory and partly due to cognitive dissonance. Abusers often exploit this by referencing a rosy shared past that minimizes the harm.
+When you forget or minimize past abusive incidents, remembering only the "good times." Trauma affects memory. So does cognitive dissonance. Abusers exploit this by referencing a rosy shared past that minimizes the harm.
 
 ### Ambient Abuse
 Subtle, hard-to-identify abuse that creates a constant atmosphere of anxiety without specific incidents to point to. Examples include sighing, eye-rolling, "forgetting" important things, chronic lateness, and other behaviors that individually seem minor but collectively create an oppressive environment.
@@ -251,7 +251,7 @@ Enlisting others to do your work of manipulation, abuse, or control. The people 
 ## R
 
 ### Reactive Abuse
-When a victim of sustained abuse finally reacts with anger, tears, or behavior that can then be used against them. The abuser provokes a reaction and then points to it as evidence that the victim is the problem.
+When you finally react to sustained abuse—with anger, tears, or behavior they can use against you. They provoke the reaction, then point to it as proof that you're the problem.
 
 ### Reality Testing
 The practice of checking your perceptions against outside sources to counter gaslighting effects. May include journaling, consulting trusted friends, or reviewing documentation.

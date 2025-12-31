@@ -241,7 +241,7 @@ Exhausting. The energy in any room flows to them and stays there. You can't fini
 
 After time with them, you feel depleted. Empty. Like you've been performing in someone else's show instead of living your own life.
 
-**The tell:** If someone seems to need ALL the attention ALL the time, and their emotional expressions feel theatrical rather than genuine, you may be encountering this pattern. The shock tactics—whether sexual, emotional, or dramatic—are supply-gathering mechanisms.
+**The tell:** If someone seems to need ALL the attention ALL the time, and their emotional expressions feel theatrical rather than genuine, you may be encountering this pattern. The shock tactics—whether sexual, emotional, or dramatic—secure attention and emotional reactions they feed on.
 
 **Why they're dangerous:** They drain group energy. Their constant need for attention leaves no room for others. Relationships with them feel exhausting because you're always audience to their performance.
 

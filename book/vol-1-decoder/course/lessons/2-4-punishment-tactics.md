@@ -139,7 +139,7 @@ Early in a relationship, you might see mild versions. Pouting instead of rage. S
 
 As you become more attached—or as you start to resist—the tactics intensify.
 
-This is called the "boiling frog" phenomenon. If you dropped a frog in boiling water, it would jump out. But if you slowly heated the water, it wouldn't notice until too late.
+Think of this like a gradual dimming of the lights. If someone suddenly turned off all the lights, you'd notice immediately. But if the lights dimmed one percent every hour, your eyes would adjust. You'd start to think this was normal. By the time you were in near-darkness, you might not even remember what bright felt like.
 
 You may have adapted to a level of control that would have been unacceptable at the start. That adaptation doesn't mean it's okay. It means you've been conditioned.
 

@@ -53,11 +53,9 @@
 ### Appendices
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| [Appendix A](./appendices/appendix-a-field-hygiene-menu.md) | Field Hygiene Menu | Choose-your-own practices |
-| [Appendix B](./appendices/appendix-b-consent-ladder.md) | The Consent Ladder | Yes / Maybe / No / Later |
-| [Appendix C](./appendices/appendix-c-scripts.md) | Scripts & Phrases | Clean language for boundaries and intimacy |
-| [Appendix D](./appendices/appendix-d-decoder-cards.md) | Decoder Cards for Embodied Leadership | Quick-reference cards |
-| [Appendix E](./appendices/appendix-e-sexuality-self-check.md) | Reader Self-Check | Sexuality, safety & the nervous system |
+| [Appendix A](./appendices/appendix-a-glossary.md) | Glossary | Key terms and definitions |
+| [Appendix B](./appendices/appendix-b-bibliography.md) | Bibliography | Citations and references |
+| [Appendix C](./appendices/appendix-c-resources.md) | Resources | Continued learning |
 
 ---
 
@@ -128,11 +126,9 @@ PART V: THE PATH OF EMBODIED SOVEREIGNTY (3 chapters)
 └── Chapter 21 ............ The Myth of Balance
 
 APPENDICES
-├── Appendix A ............ Field Hygiene Menu
-├── Appendix B ............ The Consent Ladder
-├── Appendix C ............ Scripts & Phrases
-├── Appendix D ............ Decoder Cards for Embodied Leadership
-└── Appendix E ............ Reader Self-Check
+├── Appendix A ............ Glossary
+├── Appendix B ............ Bibliography
+└── Appendix C ............ Resources
 ```
 
 ---

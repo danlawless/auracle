@@ -416,6 +416,66 @@ This week, identify one place where you're still hoping your narcissistic ex wil
 
 ---
 
+## Special Case: Triangulation and Message-Passing
+
+One of the most insidious dynamics in high-conflict co-parenting is **triangulation**—using children as messengers, go-betweens, or emotional proxies.
+
+### What Triangulation Looks Like
+
+- "Tell your mother that..."
+- "Ask your dad if he can..."
+- "Your mom says I'm supposed to..."
+- Using the child to extract information about the other household
+- Making the child responsible for relaying decisions, requests, or complaints
+
+### Why It's Harmful
+
+When children are placed in the middle:
+- They become responsible for adult communication
+- They feel the tension both parents are trying to avoid
+- They learn that direct communication is dangerous
+- They develop anxiety around carrying information
+- They may become skilled at reading and managing adult emotions (at a cost)
+
+**The child absorbs the conflict the parents refuse to have directly.**
+
+### The Long-Term Impact
+
+Adults who were triangulated as children often:
+- Feel responsible for others' relationships
+- Struggle with direct conflict
+- Over-function in communication between people
+- Have difficulty staying out of other people's problems
+- Feel anxious when they're not in the middle
+
+### What To Do
+
+**For communication with your ex:**
+- Use email or a co-parenting app for all logistical communication
+- Never send messages through the children
+- Don't ask children about the other household beyond "Did you have fun?"
+- Don't respond to messages that come through the children
+
+**For your children:**
+- "That's something for Dad and me to discuss directly. You don't have to carry messages."
+- "Your only job is to be a kid. The grown-up stuff is for grown-ups."
+- "I'm not going to put you in the middle. If I need to tell Dad something, I'll tell him."
+
+**When your ex triangulates:**
+- Don't engage with the content of messages delivered through children
+- Redirect: "Have your dad text me about that directly."
+- Don't pump children for information, even when your ex does
+
+### The Deeper Truth
+
+You cannot control whether your ex triangulates. But you can refuse to participate from your end.
+
+Every time you communicate directly (even when it's hard), every time you protect your child from being the messenger, you're teaching them: *You are not responsible for managing adult relationships.*
+
+That lesson may be the most valuable thing you give them from this experience.
+
+---
+
 ## Closing Reflection
 
 Co-parenting with a narcissistic ex is not a partnership. It is a managed conflict.

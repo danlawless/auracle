@@ -504,6 +504,70 @@ This is how she learns who is safe.
 
 ---
 
+## The Consent Ladder: A Body-Based Tool
+
+For many of us, consent wasn't something we learned. We learned to override our signals, to say yes when we meant no, to freeze and call it agreement.
+
+This tool helps you reconnect to what your body is actually saying.
+
+### YES
+
+**Body signals:**
+- Chest open and expansive
+- Breath full and deepening naturally
+- Energy rising, leaning forward
+- Warmth spreading through body
+- Presence increasing—you feel more here, not less
+
+**What it sounds like:** "Yes." "I want this." "Keep going."
+
+**The quality of yes:** A real yes has spaciousness. It doesn't feel frantic, obligated, or pressured. If your "yes" feels tight, urgent, or like you're convincing yourself—check again.
+
+### MAYBE
+
+**Body signals:**
+- Mixed signals in the body
+- Part of you interested, part hesitant
+- A sense of "something's not quite landing"
+
+**What to do with maybe:** Slow down. Ask for what you need—more information, more time, more space. Don't override the ambivalence. The body knows something.
+
+### NO
+
+**Body signals:**
+- Chest closing or tightening
+- Body pulling away, leaning back
+- Urge to leave, escape, or withdraw
+- A sense of wrongness, even if you can't articulate why
+
+**What to do with no:** Honor the signal. "No" is a complete sentence. You don't owe anyone an explanation.
+
+### LATER
+
+**Body signals:**
+- Desire present but timing off
+- Interest without urgency
+- A sense of "not yet" rather than "not ever"
+
+**What to do with later:** Name the timing without dismissing the desire. "I want this—and not right now" honors both truths.
+
+### Using the Ladder in Real Time
+
+At any moment during intimacy, check: **Where am I on this ladder right now?**
+
+Your position can change. That's allowed. That's expected. That's healthy.
+
+**If you shift from Yes to Maybe:** Slow down. Say: "I want to pause for a moment."
+
+**If you shift from Yes to No:** Stop. Name it. "I need to stop." You don't need to explain.
+
+**Checking in with yourself:**
+- Hand on belly: "What does my body say?"
+- One breath: Let the answer emerge
+- Trust what comes, even if it's inconvenient
+
+---
+
 ## Reader Reflection
 
 - Where do I override my body's signals during intimacy?

@@ -546,6 +546,112 @@ There's space. No urgency. Disagreement doesn't threaten connection. They can ho
 
 ---
 
+## Gottman's Four Horsemen with Trauma Overlay
+
+John Gottman identified four communication patterns that predict relationship failure: criticism, defensiveness, stonewalling, and contempt—the "Four Horsemen."
+
+What Gottman's research didn't fully address is *why* these patterns emerge and why they're so hard to stop.
+
+**The trauma-informed reframe:** These aren't character flaws. They're nervous system adaptations. Trauma doesn't create villains—it creates nervous systems that protect first and relate second.
+
+### 1. CRITICISM → Threat Scanning Turned Outward
+
+**What Gottman Saw:** Criticism attacks the person instead of the behavior.
+
+**What Trauma Adds:** In trauma-conditioned systems, criticism is often hypervigilance with a voice.
+
+The nervous system learned:
+- "If I don't point out danger, it will get worse."
+- "Silence equals vulnerability."
+- "Control prevents harm."
+
+So the person: scans for flaws, anticipates failure, corrects preemptively, externalizes anxiety as critique.
+
+They're not trying to dominate. They're trying to prevent collapse.
+
+**Trauma Distortion:**
+- The partner becomes the environment to manage
+- Criticism feels urgent, not mean
+- Tone escalates because fear is driving
+
+**Trauma-Informed Translation:** "I'm afraid something bad will happen if I don't say this."
+
+### 2. DEFENSIVENESS → Identity Under Siege
+
+**What Gottman Saw:** Defensiveness blocks accountability.
+
+**What Trauma Adds:** Defensiveness is often identity protection, not ego.
+
+In trauma histories:
+- Mistakes led to humiliation
+- Accountability led to punishment
+- Blame felt annihilating
+
+So when impact is named, the body hears: "You are unsafe. You are wrong. You will be rejected."
+
+The nervous system reacts before thought: explains, deflects, counterattacks, reframes.
+
+**Trauma Distortion:**
+- Impact feels like accusation
+- Repair feels like submission
+- Accountability feels existentially dangerous
+
+**Trauma-Informed Translation:** "If I accept this, I will disappear."
+
+### 3. STONEWALLING → Physiological Shutdown, Not Avoidance
+
+**What Gottman Saw:** Stonewalling is emotional withdrawal that damages connection.
+
+**What Trauma Adds:** Stonewalling is frequently dorsal vagal collapse, not choice.
+
+The nervous system is: flooded, overstimulated, past its window of tolerance.
+
+At that point: words are inaccessible, emotions go offline, presence disappears.
+
+This is not manipulation. It's biological shutdown.
+
+**Trauma Distortion:**
+- Silence is misread as punishment
+- Withdrawal escalates pursuit
+- Both partners feel abandoned
+
+**Trauma-Informed Translation:** "My system is offline. I cannot process right now."
+
+### 4. CONTEMPT → Shame Turned Toxic
+
+**What Gottman Saw:** Contempt is superiority, scorn, and dehumanization.
+
+**What Trauma Adds:** Contempt is often unresolved shame weaponized outward.
+
+This is the most dangerous Horseman because it means:
+- The nervous system learned shame as identity
+- Vulnerability was met with ridicule
+- Power came from humiliation (modeled or endured)
+
+To avoid being the "lesser" one again, the system flips: *I will not be beneath—you will.*
+
+**Trauma Distortion:**
+- Superiority masks terror of inferiority
+- Mockery becomes armor
+- Humanity is withdrawn to maintain control
+
+**Trauma-Informed Truth:** Contempt is not just dysregulation. It is unprocessed shame combined with power. This is why contempt rarely self-corrects, repair often fails, and distance is sometimes necessary.
+
+### The Critical Distinction
+
+| Horseman | Trauma Root | Repair Potential |
+|----------|-------------|------------------|
+| Criticism | Hypervigilance | High (with safety) |
+| Defensiveness | Shame & fear | High (with attunement) |
+| Stonewalling | Overwhelm | High (with regulation) |
+| Contempt | Shame + dominance | Low without deep work |
+
+*Trauma explains behavior. It does not obligate endurance.*
+
+**Integration line:** Trauma doesn't excuse the Horsemen—it explains their origin and clarifies their limits.
+
+---
+
 ## Moving Forward
 
 Understanding your attachment style is not an excuse. It's not a life sentence. It's a map.

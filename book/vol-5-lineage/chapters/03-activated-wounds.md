@@ -475,6 +475,56 @@ This is the gift in the struggle.
 
 ---
 
+## Special Case: The Mediator / Truth Holder Role
+
+If you grew up being the go-between for parents who wouldn't speak directly, you carry a particular wound—and a particular sensitivity.
+
+### The Role You Were Assigned
+
+As a child forced to pass messages between parents:
+- You were placed into emotional logistics
+- You were asked to carry adult tension
+- You were positioned between people who wouldn't speak
+- You were made responsible for emotional flow that wasn't yours to manage
+
+**This creates adults who:**
+- Are sensitive to being used as go-betweens
+- Feel responsible for others' communication
+- Struggle with direct conflict
+- Over-function in relational maintenance
+
+### Why This Hits So Hard in Parenting
+
+When anyone—including your own children—tries to pull you into that same structure, your system says: *No. Not again.*
+
+That reaction isn't trauma reenactment—**it's trauma intelligence.**
+
+You recognize the pattern. Your body knows the cost.
+
+### Field Note: The Message-Passing Child
+
+Her son, age seven, returns from his dad's house with a message: "Dad says you need to change the pickup time."
+
+Her chest tightens. Her jaw clenches. For a moment, she feels rage at her son—which makes no sense. He's just a child.
+
+But her body is recognizing the pattern: *She's being made the mediator again. She's being positioned between people who should speak directly.*
+
+This time, she's on the receiving end. But the dynamic is the same.
+
+She takes a breath. "I hear you, honey. That's for Dad to tell me directly. You don't have to carry messages between us."
+
+Her son looks relieved. He didn't want that job either.
+
+### The Simple Internal Boundary
+
+*"I don't carry messages. I don't manage other people's relationships."*
+
+You don't need to explain. You don't need to justify. You don't need to soften it.
+
+**Even if you never say a word—not participating ends the pattern.**
+
+---
+
 ## Integration
 
 > *"Your child is not trying to wound you. They are simply being a child. But in being a child, they will find every place where your own childhood left marks."*

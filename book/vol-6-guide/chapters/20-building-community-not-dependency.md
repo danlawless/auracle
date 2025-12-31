@@ -518,6 +518,66 @@ For those discerning whether to join a community:
 
 ---
 
+## Group Dynamics That Flatten: Patterns to Watch
+
+Beyond dependency, certain group patterns can undermine the healing communities are meant to provide.
+
+### The "Me Too" Pattern
+
+**The signal:** Every disclosure is met with "me too" or "same here." Individual experiences get absorbed into collective agreement.
+
+**What's actually happening:**
+- Individual experiences get flattened into sameness
+- Uniqueness is uncomfortable for the group
+- Differentiation threatens belonging
+- Stories become currency for inclusion
+
+**Why it's harmful:**
+- Authentic experience gets erased
+- People stop sharing what's actually true
+- The group enforces conformity, not healing
+- Real diversity of experience goes underground
+
+**Healthier alternative:** "Thank you for sharing. What was that like for you specifically?"
+
+### The "Don't Judge" Pattern
+
+**The signal:** Any observation gets shut down with "we don't judge here."
+
+**What's actually happening:**
+- Discernment is being conflated with judgment
+- The group is protecting against uncomfortable truths
+- Valid feedback is being silenced
+- Accountability is being bypassed
+
+**The problem:** Healing requires discernment. Groups that can't tolerate distinction can't support growth.
+
+**Healthier alternative:** "Let's distinguish between judgment and observation. What are you actually noticing?"
+
+### The Ridicule-as-Bonding Pattern
+
+**The signal:** The group bonds through mocking outsiders, other approaches, or former members.
+
+**What it creates:**
+- "Us vs. them" identity
+- Fear of leaving (becoming ridicule target)
+- Shallow belonging based on shared contempt
+- Inability to integrate outside perspectives
+
+**Healthier alternative:** Belonging through shared growth, not shared enemy.
+
+### Signs Your Community Is Flattening
+
+- **Emotional conformity:** Similar reactions expected to everything
+- **Story currency:** Status comes from having the "right" experience
+- **Outside dismissal:** Other approaches are subtly (or not subtly) ranked lower
+- **Departure pathology:** People who leave are explained away
+- **Leader immunity:** Critique doesn't reach the center
+
+**One-Line Decoder:** Healthy community holds diversity. Unhealthy community enforces sameness.
+
+---
+
 ## The Highest Goal
 
 The best communities put themselves out of business—one member at a time.

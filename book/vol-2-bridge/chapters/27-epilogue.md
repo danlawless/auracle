@@ -1,4 +1,4 @@
-# Chapter 26: Epilogue + Reader Blessing
+# Chapter 27: Epilogue + Reader Blessing
 
 ---
 

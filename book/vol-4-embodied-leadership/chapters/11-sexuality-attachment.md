@@ -372,6 +372,119 @@ This helps locate where your sexual patterns came from.
 
 ---
 
+## Self-Assessment: Sexuality, Safety & the Nervous System
+
+This is not a test. This is a mirror. Answer slowly. Skip anything that feels activating. Return when ready.
+
+### Section 1: Early Learning
+
+Check any that resonate:
+- ☐ Boundaries around sexuality felt unclear or absent in my household
+- ☐ Sexuality was shamed, hidden, or treated as something dirty
+- ☐ I witnessed adults using sex to get needs met (attention, security, control)
+- ☐ I learned that love and pain often go together
+- ☐ Adults commented on my body or development in ways that felt uncomfortable
+
+**If several resonate:** Your body learned about sex before it learned about safety. This isn't your fault.
+
+### Section 2: Consent & Choice
+
+Check any that resonate:
+- ☐ I've agreed to sexual situations to keep the peace
+- ☐ I've said "okay" when I felt frozen or unsure
+- ☐ I've gone along with things I didn't want
+- ☐ I've said yes because I didn't know how to say no
+- ☐ I've said yes when my body was saying no
+
+**If several resonate:** This reflects survival intelligence, not weak boundaries. Your nervous system learned that going along was safer than resisting.
+
+### Section 3: Arousal Patterns
+
+Check any that resonate:
+- ☐ Desire increases during conflict or intensity
+- ☐ Calm or safety sometimes reduces my libido
+- ☐ I confuse chemistry with compatibility
+- ☐ Tenderness feels flat compared to intensity
+- ☐ I've mistaken adrenaline for attraction
+
+**If several resonate:** Arousal can be conditioned. Desire can be rewired to safety—but the process takes time and patience.
+
+### Section 4: During Intimacy
+
+Check any that resonate:
+- ☐ I dissociate or feel "not fully there" during sex
+- ☐ I perform instead of feel
+- ☐ I focus on the other person's experience more than my own
+- ☐ I feel like I'm playing a role rather than being myself
+
+**If several resonate:** Dissociation is a protective reflex, not disinterest. Presence can be rebuilt—slowly, safely, at your own pace.
+
+### Section 5: Reclamation Signals
+
+Check any that are emerging:
+- ☐ I'm noticing my body's yes/no more clearly
+- ☐ I pause instead of override myself
+- ☐ Desire is quieter—but feels more honest
+- ☐ I'm less willing to perform
+- ☐ I can say no without as much guilt
+
+**If several resonate:** These are signs of recalibration. Your system is reorganizing. Trust the process.
+
+---
+
+## Why Balance Kills Desire
+
+There's a particular trap for those who learned that imbalance was dangerous:
+
+**They try to keep sexuality "equal."**
+
+But erotic energy requires:
+- Polarity
+- Direction
+- Initiative
+- Surrender or pursuit (not both at once)
+
+When you try to keep sexuality perfectly balanced:
+- No one leads
+- No one takes
+- No one risks
+- Arousal collapses
+
+This is why:
+- Desire often shows up more during conflict
+- Anger can feel erotic
+- Intensity bypasses numbness
+- Polarity returns only when balance is broken
+
+### The Pattern Decoded
+
+Your system may have learned: *imbalance = danger → danger = arousal → arousal = aliveness*
+
+That's not because you're broken. It's because your nervous system associates intensity with safety-return cycles.
+
+### What Healthy Erotic Imbalance Looks Like
+
+Not domination. Not submission.
+
+But **consensual asymmetry**:
+- One leads, one follows
+- Then it switches
+- Both stay sovereign
+- Roles are fluid, not fixed
+- Power is negotiated, not seized
+
+### The Reframe
+
+**Desire doesn't need equality. It needs trust.**
+
+When trust is present, imbalance becomes play, not threat. Polarity becomes energizing, not destabilizing.
+
+The goal is not to eliminate all asymmetry from your erotic life. The goal is to create enough safety that asymmetry can be chosen—and enjoyed—rather than feared or reenacted.
+
+**One-line integration:** *"I can allow erotic polarity without losing myself."*
+
+---
+
 ## Reader Reflection
 
 - What intergenerational patterns around sexuality did I absorb?

@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ Quick Navigation
+## Quick Navigation
 
 ### Part I — Orientation
 | Chapter | Title | Description |
@@ -37,35 +37,34 @@
 | [Chapter 11](./chapters/11-leadership-without-performing.md) | Leadership Without Performing | Presence over performance |
 | [Chapter 12](./chapters/12-creativity-from-sovereignty.md) | Creativity & Purpose From Sovereignty | Work, meaning, and self-expression |
 | [Chapter 13](./chapters/13-living-from-sovereignty.md) | Living From Sovereignty | The closing chapter of Part IV |
+| [Chapter 14](./chapters/14-sovereign-day.md) | The Sovereign Day | Morning, evening, and daily practices |
 
 ### Part V — Relational Sovereignty
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 14](./chapters/14-sovereignty-in-partnership.md) | Sovereignty in Intimate Partnership | Closeness without collapse |
-| [Chapter 15](./chapters/15-sovereignty-with-family.md) | Sovereignty With Family of Origin | New dynamics with old systems |
-| [Chapter 16](./chapters/16-sovereignty-at-work.md) | Sovereignty at Work | Authority without armor |
-| [Chapter 17](./chapters/17-navigating-dysregulation.md) | Navigating Others' Dysregulation | When they haven't done the work |
-| [Chapter 18](./chapters/18-holding-space.md) | Holding Space Without Rescuing | The difference between support and absorption |
-| [Chapter 19](./chapters/19-teaching-without-converting.md) | Teaching Without Converting | Sharing the path without preaching |
-| [Chapter 20](./chapters/20-sovereign-community.md) | The Sovereign Community | Finding and building your people |
+| [Chapter 15](./chapters/15-sovereignty-in-partnership.md) | Sovereignty in Intimate Partnership | Closeness without collapse |
+| [Chapter 16](./chapters/16-sovereignty-with-family.md) | Sovereignty With Family of Origin | New dynamics with old systems |
+| [Chapter 17](./chapters/17-sovereignty-at-work.md) | Sovereignty at Work | Authority without armor |
+| [Chapter 18](./chapters/18-navigating-dysregulation.md) | Navigating Others' Dysregulation | When they haven't done the work |
+| [Chapter 19](./chapters/19-holding-space.md) | Holding Space Without Rescuing | The difference between support and absorption |
+| [Chapter 20](./chapters/20-teaching-without-converting.md) | Teaching Without Converting | Sharing the path without preaching |
+| [Chapter 21](./chapters/21-sovereign-community.md) | The Sovereign Community | Finding and building your people |
 
 ### Part VI — Closing
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 21](./chapters/21-epilogue.md) | Epilogue + Reader Blessing | A word before you go |
+| [Chapter 22](./chapters/22-epilogue.md) | Epilogue + Reader Blessing | A word before you go |
 
 ### Appendices
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| [Appendix A](./appendices/appendix-a-integration-guide.md) | One-Page Integration Guide | Daily anchors and core integration lines |
-| [Appendix B](./appendices/appendix-b-worksheets.md) | Worksheets | Self-soothing spectrum and relief vs regulation |
-| [Appendix C](./appendices/appendix-c-citations.md) | Citations & Scientific Foundations | Research supporting this work |
-| [Appendix D](./appendices/appendix-d-daily-anchors.md) | Sovereignty Daily Anchors | Morning and evening practices |
-| [Appendix E](./appendices/appendix-e-decoder-cards.md) | Decoder Cards for Sovereignty | Quick-reference cards for sovereign living |
+| [Appendix A](./appendices/appendix-a-glossary.md) | Glossary | Key terms and definitions |
+| [Appendix B](./appendices/appendix-b-bibliography.md) | Bibliography | Citations and references |
+| [Appendix C](./appendices/appendix-c-resources.md) | Resources | Continued learning |
 
 ---
 
-## 📖 How to Read This Book
+## How to Read This Book
 
 This book is not about becoming bigger, louder, or more confident.
 
@@ -83,7 +82,7 @@ This book teaches you how to stand in it.
 
 ---
 
-## 🌟 The Promise
+## The Promise
 
 By the end of this book, you will:
 
@@ -98,7 +97,7 @@ By the end of this book, you will:
 
 ---
 
-## 📚 Book at a Glance
+## Book at a Glance
 
 ```
 PART I: ORIENTATION
@@ -121,31 +120,30 @@ PART IV: SOVEREIGN INTEGRATION
 ├── Chapter 10 ............ The Voice of Internal Authority
 ├── Chapter 11 ............ Leadership Without Performing
 ├── Chapter 12 ............ Creativity & Purpose From Sovereignty
-└── Chapter 13 ............ Living From Sovereignty
+├── Chapter 13 ............ Living From Sovereignty
+└── Chapter 14 ............ The Sovereign Day
 
 PART V: RELATIONAL SOVEREIGNTY
-├── Chapter 14 ............ Sovereignty in Intimate Partnership
-├── Chapter 15 ............ Sovereignty With Family of Origin
-├── Chapter 16 ............ Sovereignty at Work
-├── Chapter 17 ............ Navigating Others' Dysregulation
-├── Chapter 18 ............ Holding Space Without Rescuing
-├── Chapter 19 ............ Teaching Without Converting
-└── Chapter 20 ............ The Sovereign Community
+├── Chapter 15 ............ Sovereignty in Intimate Partnership
+├── Chapter 16 ............ Sovereignty With Family of Origin
+├── Chapter 17 ............ Sovereignty at Work
+├── Chapter 18 ............ Navigating Others' Dysregulation
+├── Chapter 19 ............ Holding Space Without Rescuing
+├── Chapter 20 ............ Teaching Without Converting
+└── Chapter 21 ............ The Sovereign Community
 
 PART VI: CLOSING
-└── Chapter 21 ............ Epilogue + Reader Blessing
+└── Chapter 22 ............ Epilogue + Reader Blessing
 
 APPENDICES
-├── Appendix A ............ One-Page Integration Guide
-├── Appendix B ............ Worksheets
-├── Appendix C ............ Citations & Scientific Foundations
-├── Appendix D ............ Sovereignty Daily Anchors
-└── Appendix E ............ Decoder Cards for Sovereignty
+├── Appendix A ............ Glossary
+├── Appendix B ............ Bibliography
+└── Appendix C ............ Resources
 ```
 
 ---
 
-## 💬 A Note Before You Begin
+## A Note Before You Begin
 
 > *I did not arrive here by becoming louder, stronger, or more certain.*
 >
@@ -159,7 +157,7 @@ APPENDICES
 
 ---
 
-## 🌉 The Core Principle
+## The Core Principle
 
 **Sovereignty is not separation. It is self-trust without urgency.**
 
@@ -171,7 +169,7 @@ Boundaries are not walls. They are the quiet confidence that says:
 
 ---
 
-## 📘 Before This Book
+## Before This Book
 
 This book assumes you have crossed The Bridge.
 
@@ -183,7 +181,7 @@ This book is for those who are no longer in crisis, but are learning how to stan
 
 ---
 
-## 🎯 Who This Book Is For
+## Who This Book Is For
 
 This book is written for those who:
 
@@ -198,7 +196,7 @@ This book is written for those who:
 
 ---
 
-## 🧬 The Neuroscience Foundation
+## The Neuroscience Foundation
 
 Each chapter includes a "Neuroscience Lens" section explaining:
 - Why old patterns persist
@@ -213,7 +211,7 @@ This book is grounded in:
 
 ---
 
-## 🔜 What Comes Next
+## What Comes Next
 
 After sovereignty installs, something new becomes possible: living from your presence, not just protecting it.
 
@@ -234,6 +232,7 @@ The complete series:
 - **Volume 5:** The Lineage — *Parenting*
 - **Volume 6:** The Guide — *Serving*
 - **Volume 7:** The Return — *Thriving*
+- **Volume 8:** Quantum You — *Becoming*
 
 ---
 

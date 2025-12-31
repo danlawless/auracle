@@ -388,6 +388,59 @@ This week, notice one moment when your child mirrors something you recognize fro
 
 ---
 
+## When Memory Is Missing: Forced Allegiance
+
+Some parents have another layer to navigate: *they don't remember much of their own childhood.*
+
+If large chunks of your childhood feel "blank," that's often not random. It's protective.
+
+### Why Childhood Feels Blank
+
+When a child:
+- Is pulled into adult conflict
+- Is asked to take sides against a parent
+- Is recruited into loyalty tests
+- Is exposed to ridicule or contempt between caregivers
+
+Their nervous system often chooses **protective dissociation.**
+
+Not because the child is weak—but because remembering while still inside the system would be too costly.
+
+**So the brain does something brilliant and heartbreaking: It stores the experience without narrative.**
+
+That's why children in these situations remember a few emotionally charged moments and little else. Those weren't neutral memories. They were moments of forced allegiance.
+
+### The Impact on Parenting
+
+When you see your child in certain situations—a conflict between you and your co-parent, a moment where they're asked to choose—you may feel intense activation that seems disproportionate.
+
+That's your body remembering what your mind cannot.
+
+### Field Note: The Letter to Court
+
+She doesn't remember writing it. But her mother told her she did—a letter to the court about why she wanted to live with one parent instead of the other.
+
+She was eight.
+
+Now, watching her own daughter the same age, she realizes what was asked of her: to use her words to harm a parent. To be responsible for adult outcomes. To make love conditional on loyalty.
+
+She doesn't remember the letter. But she remembers the feeling—a fracturing. A choice that wasn't really a choice.
+
+No wonder large parts of her childhood are blank. The blank spaces are where the impossible things lived.
+
+### Important Reframe
+
+A child "turning against" a parent didn't mean they lacked integrity. It meant:
+- They were placed in an impossible position
+- Their nervous system chose safety
+- Their memory shut down to survive
+
+**Children don't betray parents. They adapt to power.**
+
+If this was your experience, you did nothing wrong. You survived.
+
+---
+
 ## Closing Reflection
 
 The child who mirrors your wound is not evidence of failure.

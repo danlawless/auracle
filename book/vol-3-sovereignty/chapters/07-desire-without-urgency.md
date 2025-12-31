@@ -604,6 +604,77 @@ Both outcomes provide valuable information.
 
 ---
 
+## Special Case: Joy Tolerance (The Optimizer Pattern)
+
+There's a particular pattern that emerges as desire becomes cleaner:
+
+**Your nervous system learned to scan for improvement the moment pleasure appears.**
+
+In systems where joy was interrupted, criticized, followed by disappointment, or subtly punished, the brain learned: *"Enjoy it, but don't settle. Something could go wrong."*
+
+So the moment you feel pleasure, a protective optimizer shows up:
+
+*"Yes, but what if it were better?"*
+*"This is nice, but we could have..."*
+*"I'm enjoying this, but what about..."*
+
+**That voice is not trying to spoil joy. It's trying to prevent loss.**
+
+### Why This Happens When Agency Wakes Up
+
+When you were less empowered, you didn't regret—you adapted.
+
+Now that you're actually enjoying choice and preference, your mind goes: *"Oh! I like this! I have taste! I have desire!"*
+
+And desire automatically creates comparison, imagination, alternate timelines.
+
+**That's not negativity—that's aliveness.**
+
+You're not regressing. You're upgrading from numb acceptance to preference.
+
+### Field Note: When Enjoyment Triggers the Optimizer
+
+I'm mid-workout, enjoying the resistance band so much my body feels alive and focused. Then my mind offers: *It would be nice to have the other bands for variety.*
+
+I almost mistake that thought for dissatisfaction—until I realize it's just preference waking up, not joy leaving.
+
+### How to Stop the "Spoiling" Without Fighting Yourself
+
+**Don't try to eliminate the thought**—that creates a second layer of tension.
+
+Instead, rename it. When the thought appears, say:
+- *"Ah, preference brain."*
+- *"Oh, future-planning mode."*
+- *"There's the optimizer."*
+
+Then gently return to the body sensation you were enjoying.
+
+You're not suppressing—you're decoupling.
+
+### The Grounding Sentence
+
+**"This is enough for now."**
+
+Not "this is perfect." Not "I shouldn't want more."
+
+Just: *enough for now.*
+
+That tells your nervous system: *"Pleasure doesn't require vigilance."*
+
+### A Playful Truth
+
+Happy people still think improvement thoughts.
+
+The difference is:
+- Unhappy systems believe them
+- Regulated systems notice and return
+
+You caught it in real time. **That's the win.**
+
+**One-line integration:** *"Joy doesn't disappear because a thought visits it. It disappears when we argue with ourselves for having the thought."*
+
+---
+
 ## Reader Reflection
 
 - Do I confuse urgency with wanting?

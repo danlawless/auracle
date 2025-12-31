@@ -6,7 +6,7 @@
 
 ---
 
-## ⚡ Quick Navigation
+## Quick Navigation
 
 ### Part I — Orientation
 | Chapter | Title | Description |
@@ -38,41 +38,42 @@
 | [Chapter 12](./chapters/12-minimal-contact.md) | Minimal Contact & No Contact | Choosing your level of engagement |
 | [Chapter 13](./chapters/13-guilt-after-distance.md) | Guilt After Distance | Why boundaries feel like betrayal |
 | [Chapter 14](./chapters/14-clean-endings.md) | Clean Endings | Closure is internal, not conversational |
-| [Chapter 15](./chapters/15-hope-without-waiting.md) | Holding Hope Without Waiting | Moving forward while staying kind |
+| [Chapter 15](./chapters/15-grief-that-follows.md) | The Grief That Follows Freedom | Navigating the waves of loss |
+| [Chapter 16](./chapters/16-hope-without-waiting.md) | Holding Hope Without Waiting | Moving forward while staying kind |
 
 ### Part V — Replacement
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 16](./chapters/16-slow-burn.md) | Slow Burn vs Fast Burn | The difference between activation and safety |
-| [Chapter 17](./chapters/17-dating-after-trauma.md) | Dating After Trauma | The first 90 days |
-| [Chapter 18](./chapters/18-partner-compatibility.md) | Partner Compatibility | Nervous system matching |
-| [Chapter 19](./chapters/19-differentiation.md) | Differentiation Without Disconnection | Staying connected without self-erasure |
+| [Chapter 17](./chapters/17-slow-burn.md) | Slow Burn vs Fast Burn | The difference between activation and safety |
+| [Chapter 18](./chapters/18-dating-after-trauma.md) | Dating After Trauma | The first 90 days |
+| [Chapter 19](./chapters/19-partner-compatibility.md) | Partner Compatibility | Nervous system matching |
+| [Chapter 20](./chapters/20-differentiation.md) | Differentiation Without Disconnection | Staying connected without self-erasure |
 
 ### Part VI — The Bridge (Core Training)
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 20](./chapters/20-secure-attachment-training.md) | The Secure Attachment Training Arc | A 12-week nervous system program |
-| [Chapter 21](./chapters/21-reparenting-practices.md) | Role-Based Reparenting Practices | Healing the pattern, not the personality |
-| [Chapter 22](./chapters/22-regulation-to-sovereignty.md) | From Regulation to Sovereignty | Living from internal authority |
+| [Chapter 21](./chapters/21-secure-attachment-training.md) | The Secure Attachment Training Arc | A 12-week nervous system program |
+| [Chapter 22](./chapters/22-reparenting-practices.md) | Role-Based Reparenting Practices | Healing the pattern, not the personality |
+| [Chapter 23](./chapters/23-regulation-to-sovereignty.md) | From Regulation to Sovereignty | Living from internal authority |
 
 ### Part VII — Integration
 | Chapter | Title | Description |
 |---------|-------|-------------|
-| [Chapter 23](./chapters/23-relationships-reorganized.md) | Relationships Reorganized | What changes when you change |
-| [Chapter 24](./chapters/24-decoder-cards.md) | Decoder Cards | Quick-reference guides for healing patterns |
-| [Chapter 25](./chapters/25-becoming-the-bridge.md) | Closing: Becoming the Bridge | The final chapter |
-| [Chapter 26](./chapters/26-epilogue.md) | Epilogue + Reader Blessing | A word before you go |
+| [Chapter 24](./chapters/24-relationships-reorganized.md) | Relationships Reorganized | What changes when you change |
+| [Chapter 25](./chapters/25-decoder-cards.md) | Pattern Recognition & Decoder Cards | Understanding healing patterns |
+| [Chapter 26](./chapters/26-becoming-the-bridge.md) | Closing: Becoming the Bridge | The final chapter |
+| [Chapter 27](./chapters/27-epilogue.md) | Epilogue + Reader Blessing | A word before you go |
 
 ### Appendices
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| [Appendix A](./appendices/appendix-a-grief-process.md) | The Grief Process | Navigating the waves of loss |
-| [Appendix B](./appendices/appendix-b-vignettes.md) | Composite Vignettes | Recognizable stories for reflection |
-| [Appendix C](./appendices/appendix-c-worksheets.md) | Self-Assessment Charts & Worksheets | Practical tools for application |
+| [Appendix A](./appendices/appendix-a-glossary.md) | Glossary | Key terms and definitions |
+| [Appendix B](./appendices/appendix-b-bibliography.md) | Bibliography | Citations and references |
+| [Appendix C](./appendices/appendix-c-resources.md) | Resources | Continued learning |
 
 ---
 
-## 📖 How to Read This Book
+## How to Read This Book
 
 This book is not meant to be rushed.
 
@@ -82,35 +83,36 @@ Think of this book as a place you can return to, not a task to complete.
 
 ### Start Here If...
 
-**🔹 You feel confused, guilty, or emotionally overwhelmed**
+**You feel confused, guilty, or emotionally overwhelmed**
 - [Chapter 1: Opening Manifesto](./chapters/01-opening-manifesto.md)
 - [Chapter 13: Guilt After Distance](./chapters/13-guilt-after-distance.md)
 
-**🔹 You understand narcissism but still feel stuck**
+**You understand narcissism but still feel stuck**
 - [Chapter 10: Why Insight Alone Doesn't Heal](./chapters/10-why-insight-isnt-enough.md)
 - [Chapter 11: When the Body Remembers](./chapters/11-when-body-remembers.md)
 
-**🔹 You're trying to detach but feel guilty or anxious**
+**You're trying to detach but feel guilty or anxious**
 - [Chapter 12: Minimal Contact & No Contact](./chapters/12-minimal-contact.md)
-- [Chapter 15: Holding Hope Without Waiting](./chapters/15-hope-without-waiting.md)
+- [Chapter 15: The Grief That Follows Freedom](./chapters/15-grief-that-follows.md)
+- [Chapter 16: Holding Hope Without Waiting](./chapters/16-hope-without-waiting.md)
 
-**🔹 You keep repeating the same relationship patterns**
+**You keep repeating the same relationship patterns**
 - [Chapter 4: Family Roles & Childhood Adaptation](./chapters/04-family-roles.md)
 - [Chapter 5: The Father Archetype Decoder](./chapters/05-father-archetype.md)
 - [Chapter 6: The Mother Archetype Decoder](./chapters/06-mother-archetype.md)
-- [Chapter 16: Slow Burn vs Fast Burn](./chapters/16-slow-burn.md)
+- [Chapter 17: Slow Burn vs Fast Burn](./chapters/17-slow-burn.md)
 
-**🔹 You're dating or considering re-entry into relationships**
-- [Chapter 17: Dating After Trauma](./chapters/17-dating-after-trauma.md)
-- [Chapter 18: Partner Compatibility](./chapters/18-partner-compatibility.md)
+**You're dating or considering re-entry into relationships**
+- [Chapter 18: Dating After Trauma](./chapters/18-dating-after-trauma.md)
+- [Chapter 19: Partner Compatibility](./chapters/19-partner-compatibility.md)
 
-**🔹 You feel regulated but want to build something new**
-- [Chapter 20: The Secure Attachment Training Arc](./chapters/20-secure-attachment-training.md)
-- [Chapter 21: Role-Based Reparenting Practices](./chapters/21-reparenting-practices.md)
+**You feel regulated but want to build something new**
+- [Chapter 21: The Secure Attachment Training Arc](./chapters/21-secure-attachment-training.md)
+- [Chapter 22: Role-Based Reparenting Practices](./chapters/22-reparenting-practices.md)
 
 ---
 
-## 🌟 The Promise
+## The Promise
 
 By the end of this book, you will:
 
@@ -123,7 +125,7 @@ By the end of this book, you will:
 
 ---
 
-## 📚 Book at a Glance
+## Book at a Glance
 
 ```
 PART I: ORIENTATION
@@ -148,34 +150,35 @@ PART IV: DISENTANGLEMENT
 ├── Chapter 12 ............ Minimal Contact & No Contact
 ├── Chapter 13 ............ Guilt After Distance
 ├── Chapter 14 ............ Clean Endings
-└── Chapter 15 ............ Holding Hope Without Waiting
+├── Chapter 15 ............ The Grief That Follows Freedom
+└── Chapter 16 ............ Holding Hope Without Waiting
 
 PART V: REPLACEMENT
-├── Chapter 16 ............ Slow Burn vs Fast Burn
-├── Chapter 17 ............ Dating After Trauma
-├── Chapter 18 ............ Partner Compatibility
-└── Chapter 19 ............ Differentiation Without Disconnection
+├── Chapter 17 ............ Slow Burn vs Fast Burn
+├── Chapter 18 ............ Dating After Trauma
+├── Chapter 19 ............ Partner Compatibility
+└── Chapter 20 ............ Differentiation Without Disconnection
 
 PART VI: THE BRIDGE (CORE TRAINING)
-├── Chapter 20 ............ Secure Attachment Training (12 Weeks)
-├── Chapter 21 ............ Role-Based Reparenting
-└── Chapter 22 ............ From Regulation to Sovereignty
+├── Chapter 21 ............ Secure Attachment Training (12 Weeks)
+├── Chapter 22 ............ Role-Based Reparenting
+└── Chapter 23 ............ From Regulation to Sovereignty
 
 PART VII: INTEGRATION
-├── Chapter 23 ............ Relationships Reorganized
-├── Chapter 24 ............ Decoder Cards (Healing-focused)
-├── Chapter 25 ............ Becoming the Bridge
-└── Chapter 26 ............ Epilogue + Reader Blessing
+├── Chapter 24 ............ Relationships Reorganized
+├── Chapter 25 ............ Pattern Recognition & Decoder Cards
+├── Chapter 26 ............ Becoming the Bridge
+└── Chapter 27 ............ Epilogue + Reader Blessing
 
 APPENDICES
-├── Appendix A ............ The Grief Process
-├── Appendix B ............ Composite Vignettes
-└── Appendix C ............ Self-Assessment Charts & Worksheets
+├── Appendix A ............ Glossary
+├── Appendix B ............ Bibliography
+└── Appendix C ............ Resources
 ```
 
 ---
 
-## 💬 A Note Before You Begin
+## A Note Before You Begin
 
 > *This book is for those who learned to survive connection before they learned to feel safe in it.*
 >
@@ -189,7 +192,7 @@ APPENDICES
 
 ---
 
-## 🌉 The Core Principle
+## The Core Principle
 
 **Secure attachment is not found—it is practiced.**
 
@@ -204,7 +207,7 @@ Healing requires new experiences of safety, not more understanding.
 
 ---
 
-## 📘 Before This Book
+## Before This Book
 
 If you haven't yet named the patterns of manipulation you experienced, **[Volume 1: The Narcissism Decoder](../vol-1-decoder/README.md)** provides that foundation.
 
@@ -212,7 +215,7 @@ This book assumes you have some awareness of narcissistic dynamics, trauma bonds
 
 ---
 
-## 📗 After This Book
+## After This Book
 
 When you're ready to move from healing to sovereignty, **[Volume 3: Sovereignty](../vol-3-sovereignty/README.md)** continues the journey with:
 - Installing internal authority
@@ -229,6 +232,7 @@ The complete series:
 - **Volume 5:** The Lineage — *Parenting*
 - **Volume 6:** The Guide — *Serving*
 - **Volume 7:** The Return — *Thriving*
+- **Volume 8:** Quantum You — *Becoming*
 
 ---
 

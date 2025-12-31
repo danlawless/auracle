@@ -1,4 +1,4 @@
-# Chapter 19: Differentiation Without Disconnection
+# Chapter 20: Differentiation Without Disconnection
 
 ## Staying Connected Without Self-Erasure
 

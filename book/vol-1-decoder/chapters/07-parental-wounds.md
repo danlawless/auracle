@@ -114,6 +114,39 @@ She cannot hold it.
 
 ---
 
+### Field Note: The Testimony
+
+She is called to speak.
+
+Not as witness to a crime, but as evidence of one parent's unfitness—a case built on her mother's fear and her own careful silence.
+
+Before the hearing, she is coached. Not in words, but in implications. In the weight of her mother's desperation. In the understanding that if she doesn't say the right things, everything will fall apart. Her siblings depend on her. Her mother depends on her. The family depends on her saying what needs to be said.
+
+So she says it.
+
+She describes a monster. A man unfit to parent. Words that don't match the father she knows—the one who helped with homework, who drove her to school, who was imperfect but present.
+
+The courtroom believes her. Why wouldn't they? Children don't lie about such things.
+
+But she knows. Her body knows. Something inside her collapses as she speaks—the part of her that trusted herself, that believed words meant truth, that thought loyalty and love were the same thing.
+
+She chose her mother. She betrayed her father. She protected her siblings—or so she told herself.
+
+What she couldn't see then: she was never supposed to choose. The choice itself was the wound.
+
+Years later, she will struggle to trust her own voice. She will second-guess her perceptions. She will feel guilty for speaking and guilty for staying silent. She will wonder if every relationship requires her to pick a side, to perform, to sacrifice truth for belonging.
+
+Her body learned:
+*Love requires betrayal. Protection requires lies. Your words can destroy someone—and you will be asked to use them.*
+
+She was a child. She did what children do when adults fail to protect them from impossible positions: she survived it.
+
+The lie wasn't hers. The burden was never supposed to be hers.
+
+But she carries it still.
+
+---
+
 ### The "Mother Shock" Realization
 
 **What you're feeling:** "I want distance from my mother and I feel guilty for that."

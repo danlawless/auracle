@@ -493,6 +493,90 @@ To offer presence because you want to. Not because guilt demanded it.
 
 ---
 
+## Family Roles Map: How Contracts Form
+
+Understanding your role makes the contract visible. These roles don't come from nowhere—they're trained into families.
+
+### The Mascot / Peacemaker
+
+**Role Message:** "Keep things light. Keep everyone happy."
+
+**Childhood Function:** Diffuse tension, distract from conflict, be the easy one.
+
+**Adult Pattern:**
+- Gifts to smooth tension
+- Over-giving to maintain harmony
+- Anxiety when things feel uneven
+- Difficulty allowing conflict
+
+**Guilt Signature:** "If I don't keep the peace, things will fall apart."
+
+### The Emotional Caretaker
+
+**Role Message:** "Other people's feelings are your responsibility."
+
+**Childhood Function:** Monitor moods, prevent emotional collapses, manage the dysregulated parent.
+
+**Adult Pattern:**
+- Giving to prevent disappointment
+- Over-functioning in relationships
+- Feeling guilty for receiving
+- Chronic hypervigilance for others' states
+
+**Guilt Signature:** "If I don't take care of them, who will?"
+
+### The Golden Child
+
+**Role Message:** "You are loved when you perform well."
+
+**Childhood Function:** Be the success story, the source of pride, the proof the family is okay.
+
+**Adult Pattern:**
+- Giving as proof of worth
+- Anxiety about being "enough"
+- Fear of falling from favor
+- Perfectionism as safety strategy
+
+**Guilt Signature:** "If I'm not exceptional, I'm worthless."
+
+### The Scapegoat
+
+**Role Message:** "You must compensate to be tolerated."
+
+**Childhood Function:** Carry the blame, absorb the dysfunction, be the problem so others don't have to face theirs.
+
+**Adult Pattern:**
+- Over-giving to reduce blame
+- Trying to "balance" power
+- Feeling indebted for belonging
+- Chronic sense of being too much
+
+**Guilt Signature:** "My presence is a burden I must offset."
+
+### The Invisible Child
+
+**Role Message:** "Take up less space."
+
+**Childhood Function:** Don't add to the chaos, be self-sufficient, need nothing.
+
+**Adult Pattern:**
+- Giving instead of asking
+- Avoiding needs
+- Offering value to justify presence
+- Disappearing when things get intense
+
+**Guilt Signature:** "If I have needs, I'm creating problems."
+
+### Key Insight
+
+These roles taught you: **Belonging must be maintained.**
+
+Healing teaches: **Belonging can be assumed.**
+
+**Repatterning Rule:** You are allowed to disappoint people and still be worthy of connection.
+
+---
+
 ## The Grief of Contract-Ending
 
 As contracts dissolve, grief often arrives.

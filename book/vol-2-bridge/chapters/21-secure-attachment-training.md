@@ -1,4 +1,4 @@
-# Chapter 20: The Secure Attachment Training Arc
+# Chapter 21: The Secure Attachment Training Arc
 
 ## A 12-Week Nervous System Program
 

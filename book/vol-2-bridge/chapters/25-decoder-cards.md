@@ -1,4 +1,4 @@
-# Chapter 24: Decoder Cards
+# Chapter 25: Decoder Cards
 
 ## Quick-Reference Guides for Healing Patterns
 
@@ -572,6 +572,63 @@ When this happens, notice how your body feels—flattened? Interrupted? Unnamed?
 
 ---
 
+## Card 24: Access Drift
+
+**The signal:** Looking back, you realize boundaries that once existed have slowly disappeared. You're not sure when it happened. Small asks became assumptions. Pauses became expectations. Space you once had quietly eroded.
+
+**Pattern:** Access Drift is the gradual erosion of consent through incremental boundary crossings. Each individual crossing seems small—easy to dismiss, not worth addressing. But cumulatively, they reshape what's "normal" until you've lost ground you never consciously gave.
+
+**What's happening:**
+- Boundaries are being tested in tiny increments
+- Each small crossing establishes a new baseline
+- What was once asked is now assumed
+- You're adjusting to their expansion rather than holding your line
+- The erosion happens slowly enough to avoid triggering alarm
+
+**The reframe:**
+Access Drift is not an accident. Whether conscious or not, it's a pattern of expansion through small encroachments. The smallness of each step is what makes it effective—and what makes it hard to name. But the cumulative loss is real.
+
+**Practice:**
+Track the drift. Ask: *"What did I used to have that I no longer have? When did that change? Did I consciously choose it?"*
+
+When you notice a small crossing, name it in real time: *"That feels like a step past what we agreed to."* Don't wait for it to feel "big enough." The pattern depends on you dismissing the small.
+
+**Integration line:** *"Small erosions are still erosions. I can name the drift before it becomes the norm."*
+
+---
+
+## Card 25: Soft Claim
+
+**The signal:** Someone gives you something—a gift, a gesture, a symbol—and afterward, something feels different. You feel subtly obligated. The gift came with an unspoken expectation. Your autonomy feels slightly less yours.
+
+**Pattern:** A Soft Claim is a subtle possessive move that establishes ownership without declaration. It often operates through gifts, gestures, or symbolic acts that bypass explicit negotiation. The claim isn't stated—it's installed.
+
+**What's happening:**
+- A gift or gesture creates unspoken obligation
+- Symbolic objects (jewelry, keepsakes) establish ongoing presence
+- The giver maintains connection without direct engagement
+- Consent is bypassed through generosity
+- You feel pressure to reciprocate or maintain closeness you didn't choose
+
+**The reframe:**
+A gift that creates obligation is not generosity—it's regulation through objects. True giving doesn't bind. It doesn't require response. It doesn't establish a claim on your field. If receiving something makes you feel less free, notice that signal.
+
+**Body signals:**
+- Pressure or guilt upon receiving
+- Confusion about whether to reciprocate
+- Feeling "claimed" without agreeing to be
+- Discomfort you can't quite name
+- Anxiety about the implicit expectations
+
+**Practice:**
+When you receive something that feels "off," check: *"Does this gift expand my freedom or constrain it? Am I receiving generosity—or an unspoken contract?"*
+
+You can return gifts. You can name the dynamic. You can decline future offerings. Boundary-awareness is not ingratitude.
+
+**Integration line:** *"A gift that binds is not a gift—it's a claim I didn't consent to."*
+
+---
+
 ## One-Page Summary: The Bridge Cards
 
 | Pattern | Reframe | Practice |
@@ -594,6 +651,8 @@ When this happens, notice how your body feels—flattened? Interrupted? Unnamed?
 | Hypervigilance | Past protection | Soften the scan |
 | Self-blame after conflict | Conditioning, not accuracy | "What was my part? What was theirs?" |
 | Difficulty receiving | Learned, not inherent | "Thank you" without deflecting |
+| Access Drift | Small erosions add up | "Did I consciously choose this?" |
+| Soft Claim | Gifts that bind aren't gifts | "Does this expand or constrain?" |
 
 ---
 

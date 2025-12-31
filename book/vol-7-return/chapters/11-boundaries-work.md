@@ -518,6 +518,90 @@ Chronic overwork keeps you in stress response. Boundaries allow recovery.
 
 ---
 
+## Special Case: Chronic Boundary Erosion at Work
+
+Some boundary violations at work are dramatic—yelling, demands, obvious overreach.
+
+But the most damaging ones are often subtle. **They erode trust through incremental violations.**
+
+### The Pattern of Professional Erosion
+
+**1. Agreements Treated as Suggestions**
+
+You agree to a scope. The scope creeps.
+You set hours. Those hours get blurred.
+You clarify a role. Tasks get added.
+
+Each violation seems minor. But they accumulate.
+
+**What it signals:**
+- Words are for the moment, not commitment
+- Your boundaries are negotiable
+- Pushback isn't expected—and won't be rewarded
+
+**2. Promises Without Follow-Through**
+
+The bonus that's "coming." The promotion that's "in the works." The workload that's "temporary."
+
+When leaders repeatedly make promises they don't keep, they create environments where:
+- Planning becomes impossible
+- Trust collapses
+- Resentment builds
+- Good people leave
+
+**3. Access Drift in Professional Relationships**
+
+You gave your personal number "for emergencies."
+Now they text on weekends.
+
+You said you'd "help out" on one project.
+Now you're permanently overcommitted.
+
+You agreed to flexible hours.
+Now flexibility only goes one direction.
+
+**The cumulative effect:**
+- You can't relax (always waiting for the next intrusion)
+- You resent the relationship
+- You distrust future agreements
+- Burnout becomes inevitable
+
+### Business Boundary Scripts
+
+**For scope creep:**
+- "That's outside our original agreement. Let's revisit the scope."
+- "I'm happy to add that—here's what I'll need to take off my plate."
+- "This falls outside my role. Who should own this?"
+
+**For broken promises:**
+- "We discussed this last quarter. I'd like to understand what changed."
+- "I need clarity on timeline, because I'm making decisions based on this."
+- "I've noticed a pattern of delays. I need to understand what's realistic."
+
+**For access drift:**
+- "I'm going to return to my original boundaries around after-hours communication."
+- "Going forward, I'll be keeping work communication in work channels."
+- "I want to be clear about my availability so we're both on the same page."
+
+**For soft claims on your time:**
+- "I have capacity for X but not Y."
+- "That doesn't work for my schedule."
+- "I'm not available for that, but here's what I can offer."
+
+### Why This Matters for Survivors
+
+If you grew up in environments where:
+- Agreements weren't honored
+- Boundaries were suggestions
+- Your needs were negotiable
+- Consistency wasn't safe to expect
+
+Then you may normalize professional erosion that others would flag immediately.
+
+**The reframe:** You're allowed to expect consistency. You're allowed to notice when agreements aren't kept. You're allowed to name the pattern—professionally and clearly.
+
+---
+
 ## Reader Reflection
 
 - What work boundaries do I currently lack?

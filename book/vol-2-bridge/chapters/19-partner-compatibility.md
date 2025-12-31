@@ -1,4 +1,4 @@
-# Chapter 18: Partner Compatibility
+# Chapter 19: Partner Compatibility
 
 ## Nervous System Matching
 

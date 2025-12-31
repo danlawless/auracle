@@ -682,6 +682,226 @@ Weekly or monthly reflection:
 
 ---
 
+## When Insight Becomes Control
+
+Insight is meant to illuminate. Control is meant to stabilize power.
+
+The shift from one to the other is rarely dramatic. It happens quietly, through language, authority, and unexamined influence.
+
+### The Control Illusion
+
+People who lead with insight often believe they are helping. The danger arises when insight:
+- Replaces listening
+- Overrides consent
+- Becomes identity-protective
+- Is used to manage others' perceptions
+
+At that point, insight stops being relational and becomes regulatory.
+
+### Common Markers of Insight-to-Control Drift
+
+| Healthy Insight | Insight as Control |
+|-----------------|-------------------|
+| Offered, not imposed | Delivered as truth |
+| Curious | Certain |
+| Leaves room for difference | Flattens dissent |
+| Paired with accountability | Paired with justification |
+| Invites dialogue | Ends discussion |
+
+### Psychological Drivers
+
+This pattern often emerges from:
+- Insecure attachment
+- Shame sensitivity
+- Fear of irrelevance
+- Identity diffusion
+- Trauma-driven reliance on intellect
+
+**Control is not about domination—it's about self-regulation through others.**
+
+### Why It's Hard to Spot
+
+Insight-based control:
+- Sounds compassionate
+- Uses therapeutic language
+- Mimics leadership
+- Feels "high-vibration"
+- Avoids overt aggression
+
+This makes it harder to challenge—and easier to internalize.
+
+### The Cost to Others
+
+Those on the receiving end often report:
+- Confusion
+- Fatigue
+- Loss of clarity
+- Self-doubt
+- Delayed boundary setting
+
+**They don't feel attacked—they feel absorbed.**
+
+### The Line That Matters
+
+**Insight becomes control the moment it no longer tolerates disagreement.**
+
+---
+
+## Contrast Vignettes: Insight as Invitation vs. Control
+
+### Vignette A: Insight as Invitation (Healthy)
+
+In a small group meeting, Maya listens while another member describes a conflict at work. She pauses before responding.
+
+She says, "I'm wondering if this might connect to how you tend to take responsibility early—but that may not fit. What do you think?"
+
+The other person considers it, nods slowly, and says, "Yes… that feels true."
+
+Maya doesn't elaborate. She doesn't explain further. She lets the insight land and belong to the other person.
+
+**Outcome:** The room feels spacious. The speaker feels seen, not interpreted. The insight strengthens agency.
+
+### Vignette B: Insight as Control (Unhealthy)
+
+In a similar group, Alex responds immediately when someone shares.
+
+"What's really happening is your inner child is repeating a generational trauma pattern. This is about your mother, not your job."
+
+The speaker hesitates. Alex continues, layering frameworks and conclusions.
+
+"Once you see it, you'll understand why this keeps happening."
+
+The speaker goes quiet.
+
+**Outcome:** The room feels heavy. The speaker feels explained to, not understood. The insight collapses curiosity.
+
+### The Difference in One Line
+
+**Invitation asks. Control tells.**
+
+---
+
+## Field Note: The Check She Ran
+
+She finally understood what was happening.
+
+For months, she felt confused after their conversations. He always seemed to "see" her so clearly. His insights were compelling. His frameworks sophisticated.
+
+But she kept leaving feeling smaller. Unclear. Like her own sense of things had been replaced by his.
+
+One day she ran a check: *Did this insight increase my clarity or reduce it?*
+
+The answer was obvious. She just hadn't let herself see it.
+
+His insight wasn't illuminating—it was colonizing.
+
+She didn't need to debate his framework. She just needed to trust her own experience.
+
+---
+
+## Case Study: The Visionary Partner (Composite)
+
+*This case study is an anonymized composite from multiple sources.*
+
+### Context
+
+A founder-type individual is intelligent, verbally skilled, and highly persuasive. He positions himself as a visionary within multiple business and relational ecosystems. Over time, partners begin to notice a widening gap between language and lived reality.
+
+Initially, the individual is experienced as:
+- Insightful
+- Inspiring
+- Emotionally articulate
+- "Deep"
+
+Over time, however, patterns emerge that create instability and erosion of trust.
+
+### Observed Patterns
+
+**1. Framework Saturation**
+
+Explains nearly everything through a personal interpretive system (spiritual, psychological, generational). These frameworks are not offered as perspectives but as truths.
+
+*Impact:* Others feel interpreted rather than understood. Disagreement is subtly reframed as ignorance.
+
+**2. Insight Without Consent**
+
+Frequently offers emotional or relational "readings" without being asked. Frames this as care or clarity.
+
+*Impact:* Boundaries are crossed. Intimacy is assumed rather than negotiated.
+
+**3. Narrative Dominance**
+
+When conflicts arise, re-explains events using frameworks, often overriding others' lived experiences.
+
+*Impact:* Reality becomes negotiable. Trust erodes.
+
+**4. Future Inflation**
+
+Promises are consistently placed in the near future ("next week," "almost there"). Optimism replaces execution.
+
+*Impact:* Partners feel financially and emotionally destabilized. Accountability diffuses into hope.
+
+**5. Identity Mirroring**
+
+Adopts the interests, language, and skills of those around, later presenting them as intrinsic passions.
+
+*Impact:* Others feel subtly appropriated rather than collaborated with.
+
+### Outcome
+
+Partners disengage after repeated attempts at repair fail. Disengagement is escalated rather than mutual, leaving emotional residue but restoring stability.
+
+### Core Insight
+
+**The issue was not insight itself—it was the use of insight as authority rather than invitation.**
+
+---
+
+## Practice: Integrity Check (Before Sharing Insight)
+
+Use this before offering insight to anyone:
+
+**Step 1:** Was I asked?
+- If no → probably don't offer
+- If yes → proceed
+
+**Step 2:** Is this about them or about me?
+- Am I sharing because it serves them?
+- Or because I want to be seen as insightful?
+
+**Step 3:** Am I leaving room for "no"?
+- Can they disagree without consequence?
+- Will I be okay if they reject the insight?
+
+**Step 4:** Body check
+- Am I grounded or activated?
+- Is there urgency in my desire to share?
+
+**Step 5:** The final test
+- Would I be equally content if someone else offered this insight?
+- If not → ego is running it
+
+**Rule:** If any answer reveals self-interest, pause. The insight can wait.
+
+---
+
+## Practice: Shadow Inventory
+
+Weekly or monthly, ask yourself:
+
+1. Where did I need to be seen as wise this week?
+2. Where did I offer insight without being asked?
+3. Where did I feel threatened by someone else's clarity?
+4. Where did I use helping to feel valuable?
+5. Where did I position myself above others?
+6. Where did I resist feedback about my impact?
+
+**Don't judge the answers. Just notice.**
+
+The shadow doesn't disappear with awareness. But it loses power when seen.
+
+---
+
 ## A Practice: The Ordinary Day
 
 Periodically, practice being nobody special:

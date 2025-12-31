@@ -578,6 +578,111 @@ Triggers aren't just obstacles. They're teachers—uncomfortable ones, but teach
 
 ---
 
+## Special Case: Counterfactual Rumination (Regret Loops)
+
+There's a particular kind of trigger that deserves special attention: the mind that replays alternate versions of the past.
+
+*"I should have..."*
+*"If only I had..."*
+*"Why didn't I just..."*
+
+This is **counterfactual rumination**—and in trauma-conditioned systems, it's more than just cognitive.
+
+**Your nervous system learned:** *"If I choose wrong, something bad happens."*
+
+So after any choice, the mind keeps scanning for missed opportunities, safer alternatives, ways you could have prevented discomfort.
+
+**It's not regret—it's threat monitoring after the fact.**
+
+### Why It Shows Up So Strongly
+
+**1. Delayed Permission**
+
+You didn't always get to choose freely growing up—choices were judged, corrected, mocked, used against you later.
+
+So now, every choice carries a phantom question: *"Was I allowed to want that?"*
+
+**2. Hyper-Responsibility**
+
+You were trained to think: *"My choices affect everyone."*
+
+So your brain keeps revisiting decisions to check: Did I disappoint? Did I waste something? Did I miss the "right" option?
+
+That's not indecision—that's over-accountability.
+
+**3. Safety Came From Re-Thinking**
+
+At some point, replaying choices helped you prepare for criticism, defend yourself, avoid repeating harm.
+
+Your mind learned: *"If I keep thinking, I'll be safer next time."*
+
+Now it does it automatically—even when you're safe.
+
+**4. Grief Masquerading as Regret**
+
+Some of what you call regret is actually:
+- Grief for paths you were never free to explore
+- Sadness for versions of you that didn't get airtime
+- Longing for ease, spontaneity, or joy
+
+The mind frames it as "I should have done X" because grief feels less vulnerable than "I wish I'd had more freedom."
+
+### Why It Gets Worse When You're Calm or Happy
+
+When things slow down (vacation, rest, peace), the nervous system finally has room to process unfinished emotional material.
+
+So instead of gratitude, you get mental time travel, self-critique, alternate timelines.
+
+*This doesn't mean you're unhappy. It means your system is integrating.*
+
+### Field Note: Beach Day Exclusion
+
+A perfect beach day: warmth, waves, nothing scheduled. Then his mind offers: *Why didn't we do this more often? We could have come yesterday. We wasted that day.*
+
+He almost drowns in the spiral—until he recognizes it: the system is scanning for missed safety, not missing joy.
+
+### Practice: Interrupting the Regret Loop
+
+**Step 1: Name the Loop**
+
+When it starts, gently say: *"This is my mind scanning for safety."*
+
+That alone reduces its grip.
+
+**Step 2: Separate Choice from Outcome**
+
+Practice this sentence: *"I made the best choice I could with the information and nervous system I had."*
+
+Say it even if you don't fully believe it yet.
+
+**Step 3: Bring It Back to the Body**
+
+Regret lives in the mind. Safety lives in the body.
+
+Do something sensory: feel your feet, notice temperature, take a long exhale.
+
+This tells the nervous system the scan can stop.
+
+**Step 4: Ask a Better Question**
+
+Instead of: *"Why didn't I do that?"*
+
+Try: *"What am I longing for right now?"*
+
+Often the answer isn't the missed action—it's connection, play, rest, novelty, reassurance.
+
+Meet that need in the present.
+
+**A Key Reframe:**
+
+**Regret doesn't mean joy failed. It means joy was real enough to notice.**
+
+If you weren't enjoying it, there'd be nothing to regret.
+
+**One-line integration:** *"I don't need to re-live the past to honor what I care about."*
+
+---
+
 ## Reader Reflection
 
 - What are my most common triggers?

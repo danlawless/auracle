@@ -56,10 +56,8 @@
 | Appendix | Title | Description |
 |----------|-------|-------------|
 | [Appendix A](./appendices/appendix-a-age-specific-scripts.md) | Age-Specific Scripts | What to say at each developmental stage |
-| [Appendix B](./appendices/appendix-b-repair-templates.md) | Repair Conversation Templates | Scripts for making amends |
-| [Appendix C](./appendices/appendix-c-parent-regulation-tools.md) | Self-Regulation for Parents | Quick tools for triggered moments |
-| [Appendix D](./appendices/appendix-d-coparenting-red-flags.md) | Co-Parenting Red Flags | Warning signs and responses |
-| [Appendix E](./appendices/appendix-e-decoder-cards-parenting.md) | Decoder Cards for Parenting | Quick-reference guides |
+| [Appendix B](./appendices/appendix-b-repair-templates.md) | Bibliography | Citations and references |
+| [Appendix C](./appendices/appendix-c-parent-regulation-tools.md) | Resources | Continued learning |
 
 ---
 

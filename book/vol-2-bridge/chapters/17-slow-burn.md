@@ -1,4 +1,4 @@
-# Chapter 16: Slow Burn vs Fast Burn
+# Chapter 17: Slow Burn vs Fast Burn
 
 ## The Difference Between Activation and Safety
 

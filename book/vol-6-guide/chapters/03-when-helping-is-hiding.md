@@ -403,6 +403,45 @@ This trains the pattern of returning—instead of perpetually giving outward wit
 
 ---
 
+## When Helping Becomes Insight-Projection
+
+There's a particular form of hiding that deserves special attention: **using insight to control others while avoiding your own material.**
+
+### The Pattern
+
+You see something in them. A pattern. A wound. A blind spot.
+
+And you offer it. Not because they asked—but because you saw it.
+
+**What feels like service is actually:**
+- A way to stay in the expert position
+- A way to regulate your own anxiety
+- A way to avoid your own process
+- A way to maintain hierarchy
+
+### Why This Is Particularly Seductive
+
+Insight feels like generosity. You're giving them something valuable—your perception, your framework, your wisdom.
+
+But insight offered without invitation is often:
+- Identity-protective ("I am the one who sees")
+- Anxiety-regulating ("If I name it, I can manage it")
+- Distance-creating ("As long as I'm analyzing, I don't have to feel")
+
+**One-Line Decoder:** If your insight about them makes you feel better—check whether you're hiding.
+
+### The Alternative
+
+**Before offering insight:**
+1. Am I offering because they want this, or because I need to give it?
+2. Am I staying with my own discomfort or redirecting through analysis?
+3. Would silence serve them better?
+4. Is my insight contaminated by my need to be valuable?
+
+**For deeper exploration of when insight becomes control, see Volume 4, Chapter 18: The Shadow of the Healer.**
+
+---
+
 ## Integration Line
 
 > *"Hiding in helping is self-abandonment dressed as generosity."*

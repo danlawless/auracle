@@ -1,4 +1,4 @@
-# Chapter 17: Dating After Trauma
+# Chapter 18: Dating After Trauma
 
 ## The First 90 Days
 

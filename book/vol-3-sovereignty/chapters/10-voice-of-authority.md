@@ -531,6 +531,96 @@ Each explanation feeds the old role.
 
 ---
 
+## Practice: Scripts for Staying Landed
+
+Some people struggle with internal authority not because they lack opinions, but because they automatically diffuse them.
+
+When someone speaks with conviction, they offer the counterpoint.
+When an idea starts to form, they add "the other side."
+When momentum builds, they slow it down.
+
+This isn't intellectual rigor—it's regulation. The nervous system learned that clear stances were dangerous.
+
+Here are scripts for staying landed without becoming rigid.
+
+### The "Land First" Script
+
+*Use when ideas keep getting diffused.*
+
+- "What I actually think is ___."
+- "My current position is ___."
+- "If I had to choose, I'd say ___."
+
+*(Then stop talking.)*
+
+**Why it works:** It trains your body that landing ≠ danger.
+
+### The "Hold the Middle Without Erasing" Script
+
+*Use when you genuinely see nuance.*
+
+- "I'm clear on my view, and I'm open to refining it."
+- "I have a stance, and I'm not done thinking."
+- "This is where I land for now."
+
+**Why it works:** You keep flexibility after authorship.
+
+### The "No Counterbalance" Boundary
+
+*Use when you feel the reflex to add "the other side."*
+
+- "I'm going to let that stand."
+- "I don't need to qualify this yet."
+- "I'm complete with that thought."
+
+**Why it works:** It interrupts the appeasement loop.
+
+### The Clean Authority Move
+
+*When someone is frustrated and you feel the urge to explain:*
+
+"I'm going to let that stand."
+
+Then stop.
+
+**Why this works:**
+- It signals completion
+- It doesn't argue or justify
+- It holds the frame calmly
+
+This is adult authority, not defensiveness.
+
+### The Ownership Statement
+
+*When you're clear but feel exposed:*
+
+"This is my view."
+
+Full stop. No softening. No balancing.
+
+**This is very grounding for the nervous system.**
+
+### The Leadership Move
+
+*When someone is pushing for resolution:*
+
+"I'm not undecided."
+
+**Why this works:**
+- It dissolves the assumption that you're wavering
+- It asserts clarity without aggression
+- It removes the need for debate
+
+### Simple Internal Check (Use Live)
+
+Before speaking, ask: *"Am I clarifying—or cushioning?"*
+
+If it's cushioning → stop. Let the idea land naked.
+
+**One-Line Integration:** *"Clarity doesn't need consensus."*
+
+---
+
 ## Reader Reflection
 
 - What voices are loudest in my head?

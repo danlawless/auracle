@@ -1,4 +1,4 @@
-# Chapter 22: From Regulation to Sovereignty
+# Chapter 23: From Regulation to Sovereignty
 
 ## Living From Internal Authority
 

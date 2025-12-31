@@ -1,4 +1,4 @@
-# Chapter 23: Relationships Reorganized
+# Chapter 24: Relationships Reorganized
 
 ## What Changes When You Change
 

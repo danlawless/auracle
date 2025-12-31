@@ -1,4 +1,4 @@
-# Chapter 25: Becoming the Bridge
+# Chapter 26: Becoming the Bridge
 
 ## The Final Chapter
 

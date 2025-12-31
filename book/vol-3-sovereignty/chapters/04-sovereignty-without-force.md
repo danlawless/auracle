@@ -730,6 +730,82 @@ Sovereignty is learning to stay in the middle.
 
 ---
 
+## Practice: Allowing Imbalance
+
+Some people struggle with sovereignty not because they push too hard, but because they **automatically equalize everything**.
+
+If someone has power, they diffuse it.
+If an idea is taking shape, they add counterpoints.
+If energy is flowing one direction, they redirect it.
+
+This isn't about seeking truth. It's about regulation.
+
+**The nervous system learned:**
+- Imbalance led to danger
+- Hierarchy led to harm
+- Someone being "above" meant someone else got hurt
+- Certainty escalated conflict
+
+So the system internalized: *If everything stays level, nothing explodes.*
+
+### Why This No Longer Works
+
+The problem isn't the value of equality. The problem is applying it to processes that require sequence, leadership, and asymmetry.
+
+Some things are inherently unequal by nature:
+- Ideas need time to form before they're challenged
+- Leadership requires holding direction
+- Creation needs phases (initiation → development → refinement)
+- Intimacy requires one person to lead sometimes, the other to follow
+
+When you try to equalize too early:
+- Ideas never grow
+- Momentum collapses
+- Authority dissolves
+- Others feel stalled or frustrated
+
+*Not because you're wrong—but because balance too early prevents emergence.*
+
+### The Maturity Shift
+
+**Emotional maturity is not equality at all times. It's tolerating temporary imbalance without panic.**
+
+Think of it like this:
+- Child safety requires equality
+- Adult creation requires sequencing
+
+The grown nervous system can say: *I don't need to fix this imbalance right now.*
+
+### The Practice
+
+When you notice the urge to balance, ask silently:
+
+1. *Is this a moment for creation or correction?*
+2. *What happens if I let this be uneven for 60 seconds?*
+
+Then wait. **That pause alone rewires the pattern.**
+
+Try this sequence instead of immediate counterbalancing:
+
+1. **Let it land:** Allow the statement, idea, or energy to exist without response.
+2. **Wait one breath:** Feel the discomfort of asymmetry.
+3. **Check the body:** Is there actual danger, or just old alarm?
+4. **Then respond (if needed):** After landing, add nuance if it serves the conversation.
+
+### The Deeper Truth
+
+You don't want equality because you're small.
+
+You want equality because you've seen what happens when power is misused.
+
+**That's wisdom—not weakness.**
+
+Your growth edge is learning that safe power exists, and you're allowed to hold it.
+
+**One-line integration:** *"I can allow imbalance without losing myself."*
+
+---
+
 ## Closing Note for This Chapter
 
 Sovereignty does not ask you to become harder.

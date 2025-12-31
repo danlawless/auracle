@@ -258,6 +258,55 @@ Aura hygiene works best on three rhythms:
 
 ---
 
+## Quick Reference: What to Do When...
+
+Use this table to select the right practice for your current state:
+
+| If you feel... | Try this (time) |
+|---------------|-----------------|
+| Scattered, diffuse | 60-Second Field Scan (1 min) |
+| Carrying others' moods | Return to Sender (2 min) |
+| Activated after contact | 90-Second Vagal Reset (90 sec) |
+| Need to enter a charged space | Pre-Day Seal (1 min) |
+| Depleted at end of day | Post-Day Clearing (3-5 min) |
+| Digitally overwhelmed | Clean Close + Audit (5 min) |
+| Persistently drained | Cord Check (10 min) |
+| Need weekly reset | Weekly Hygiene Practice (20-60 min) |
+| Need monthly reset | Full Hygiene Reset (2+ hours) |
+| Flooding and can't think | Emergency Grounding (30 sec) |
+| About to have difficult conversation | Pre-Conversation Protocol (2 min) |
+| Just left a difficult person | Contact Recovery (5 min) |
+| Can't sleep, mind spinning | Evening Release Ritual (10 min) |
+| Woke up already anxious | Morning Anchor (3 min) |
+
+---
+
+## Emergency Practices (Under 2 Minutes)
+
+### When Flooding
+
+You're overwhelmed, can't think clearly, emotions are taking over.
+
+1. **Name it:** "I'm flooding." Naming creates tiny distance.
+2. **Ground immediately:** Feet hard on floor. Hand on surface. Name 5 things you can see.
+3. **Breathe:** Long exhales. 4 counts in, 8 counts out.
+4. **Orient:** Look around slowly. Let eyes land on different objects. There is no predator here.
+5. **Delay:** Don't act from flood. "I'll decide when I'm regulated."
+
+**The key:** Don't try to process while flooded. Regulate first. Think later.
+
+### 30-Second Emergency Ground
+
+When you have almost no time and need to shift state immediately.
+
+1. Press feet hard into floor. Feel the ground.
+2. One long exhale with audible sigh.
+3. Name where you are: "I am in [location]."
+4. Place hand on chest. Feel heartbeat.
+5. Say internally: "I am here. Right now. That's all."
+
+---
+
 ## Reader Reflection
 
 - When was the last time I consciously cleared my field?

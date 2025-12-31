@@ -73,7 +73,7 @@ Your body needs to know it's safe *now*, not just in theory.
 
 **Feet on floor:** Press your feet into the ground. Feel the solid surface. You are here, in this moment, in this body.
 
-**5-4-3-2-1:** Name 5 things you see, 4 you hear, 3 you feel, 2 you smell, 1 you taste. This brings attention to present-moment sensory reality.
+**5-4-3-2-1:** Name five things you see, four you hear, three you feel, two you smell, one you taste. This brings attention to present-moment sensory reality.
 
 **Long exhale:** Breathe in for 4 counts, out for 8 counts. The extended exhale activates the parasympathetic nervous system—the "rest and digest" mode that calms activation.
 
@@ -108,8 +108,8 @@ Instead of: *Analyzing whether they were right*
 Try: "That was comparison as control."
 
 This does two things:
-1. **Interrupts the loop** — You give your brain something to do besides replay
-2. **Consolidates learning** — Each translation strengthens your pattern recognition
+1. **Interrupts the loop**—You give your brain something to do besides replay
+2. **Consolidates learning**—Each translation strengthens your pattern recognition
 
 *Every time you name the pattern instead of reliving it, your nervous system learns a new route home.*
 
@@ -171,7 +171,7 @@ Let the witness's perspective inform your own.
 
 ## The Gray Rock Method
 
-When you must interact with a narcissist—due to coparenting, work, family events, or other circumstances—gray rock helps you protect yourself.
+When you must interact with a narcissist—due to co-parenting, work, family events, or other circumstances—gray rock helps you protect yourself.
 
 ### What It Is
 
@@ -213,7 +213,7 @@ Practice helps. So does preparation—knowing in advance what topics they might 
 
 ### Raising Your Frequency Before Contact
 
-Gray rock is easier when you're not starting from a depleted state. If you know an interaction is coming—a scheduled call, a family event, a coparenting handoff—you can prepare energetically, not just strategically.
+Gray rock is easier when you're not starting from a depleted state. If you know an interaction is coming—a scheduled call, a family event, a co-parenting handoff—you can prepare energetically, not just strategically.
 
 The goal: raise your vibration high enough that their provocations can't reach you.
 
@@ -363,15 +363,15 @@ Healing doesn't require reliving trauma at full intensity. Titration means appro
 For moments when you need immediate regulation:
 
 **The 3-3-3 Rule:**
-- Name 3 things you see
-- Name 3 sounds you hear
-- Move 3 parts of your body
+- Name three things you see
+- Name three sounds you hear
+- Move three parts of your body
 
 **The Squeeze-Release:**
-- Clench all muscles tight for 5 seconds
+- Clench all muscles tight for five seconds
 - Release completely
 - Notice the difference
-- Repeat 3 times
+- Repeat three times
 
 **The Butterfly Hug:**
 - Cross arms over chest
@@ -427,7 +427,7 @@ When you're activated and need immediate regulation (memorize this):
 **STOP - BREATHE - GROUND - NAME - CHOOSE**
 
 1. **STOP:** Pause all action. Do not respond, send, decide.
-2. **BREATHE:** 4 counts in, 6 counts out, 3 times minimum.
+2. **BREATHE:** 4 counts in, 6 counts out, three times minimum.
 3. **GROUND:** Feet on floor. Hand on heart. Where are you right now?
 4. **NAME:** "This is activation. My nervous system is responding to old threat."
 5. **CHOOSE:** What do you need? (Exit, support, rest, water, movement)
@@ -443,7 +443,7 @@ For sustained recovery, commit to this daily protocol for 21 days:
 **Morning (5-10 min):**
 - Grounding exercise before phone
 - Set intention: "I choose safety in my body today"
-- 3 qualities affirmation: "I am [discerning], [strong], [clear]"
+- Three qualities affirmation: "I am [discerning], [strong], [clear]"
 
 **Midday check-in (2 min):**
 - Pause. Breathe. Where is tension?
@@ -457,7 +457,7 @@ For sustained recovery, commit to this daily protocol for 21 days:
 **Evening (10 min):**
 - Review the day: Wins? Triggers? Patterns?
 - Shake or move to discharge any residual activation
-- Gratitude: 3 things, no matter how small
+- Gratitude: three things, no matter how small
 
 **Weekly:**
 - Longer somatic practice (yoga, breathwork, massage)

@@ -89,7 +89,7 @@ If healing isn't possible:
    - Sadness is "manipulation"
    - Joy is "showing off"
 
-5. **The golden child is defended, the scapegoat is exposed**
+5. **The Golden Child is defended, the Scapegoat is exposed**
    - Your confidences are leaked
    - Their behavior is excused
    - You're expected to forgive and forget
@@ -326,7 +326,7 @@ When you must attend family events where the narcissist will be present:
 
 1. **Set your intention:** "I will stay grounded regardless of what happens."
 2. **Plan your exits:** Know when you're leaving. Have a reason prepared (even if it's invented).
-3. **Script your responses:** Predict likely provocations. Rehearse gray rock answers.
+3. **Script your responses:** Predict likely provocations. Rehearse Gray Rock answers.
 4. **Coordinate with allies:** If safe family members exist, connect beforehand.
 5. **Limit duration:** The shorter your exposure, the less damage possible.
 

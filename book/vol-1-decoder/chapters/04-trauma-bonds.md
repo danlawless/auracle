@@ -308,15 +308,15 @@ This isn't failure. It's biology. And it's workable.
 
 Understanding how long things take helps manage expectations:
 
-**Week 1-2 after no contact:** The worst. Withdrawal symptoms peak. You'll think you made a mistake. This is normal—ride it.
+**Weeks 1–2 after no contact:** The worst. Withdrawal symptoms peak. You'll think you made a mistake. This is normal—ride it.
 
-**Weeks 3-6:** Waves of clarity alternating with intense urges to reconnect. Keep riding.
+**Weeks 3–6:** Waves of clarity alternating with intense urges to reconnect. Keep riding.
 
-**Months 2-3:** Longer stretches of peace. You start remembering who you were before them.
+**Months 2–3:** Longer stretches of peace. You start remembering who you were before them.
 
-**Months 4-6:** New baseline establishing. You can think about them without your nervous system flooding.
+**Months 4–6:** New baseline establishing. You can think about them without your nervous system flooding.
 
-**6-12 months:** Deeper patterns surface for healing. The initial break was just the beginning.
+**6–12 months:** Deeper patterns surface for healing. The initial break was just the beginning.
 
 **12+ months:** Integration. You carry the lessons without the wounds controlling you.
 

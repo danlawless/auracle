@@ -16,13 +16,13 @@ Romantic relationships are fertile ground for narcissistic dynamics. The vulnera
 
 ### The Arc of a Narcissistic Romance
 
-**Phase 1: Idealization (Love Bombing)**
+**Phase 1: Idealization (Love-Bombing)**
 
 The beginning feels magical. You've never been seen like this. Never pursued like this. They're attentive, intense, and seemingly perfect. Everything moves fast.
 
 **What it feels like in your body:**
 
-A rush. Electricity. Your heart races when you see their name on your phone. You can't stop thinking about them. You feel high—because you are. The neurochemistry of love bombing is similar to addiction. Dopamine floods your system.
+A rush. Electricity. Your heart races when you see their name on your phone. You can't stop thinking about them. You feel high—because you are. The neurochemistry of love-bombing is similar to addiction. Dopamine floods your system.
 
 This intensity feels like proof of connection. It's actually proof of speed.
 
@@ -95,7 +95,7 @@ Sexual dynamics in narcissistic relationships are rarely just about sex. They're
 
 **Flooding as control:**
 - Intense sexuality after arguments to "reset" without repair
-- Love bombing through physical connection
+- Love-bombing through physical connection
 - Creating dependence on their sexual attention
 - Sex substitutes for actual resolution
 
@@ -179,7 +179,7 @@ Use these questions to assess early:
 - Do you feel like you can be yourself, or are you performing?
 - Is there any sense of pressure you can't quite name?
 
-**The tactical rule:** If it feels too good too fast, slow down on purpose. Real connection survives taking your time. Love bombing doesn't.
+**The tactical rule:** If it feels too good too fast, slow down on purpose. Real connection survives taking your time. Love-bombing doesn't.
 
 ### Healthy Romance for Contrast
 
@@ -340,7 +340,7 @@ If you recognize exit-phase escalation, treat this as the dangerous situation it
 
 After you leave, they may cycle between:
 - More suicide threats
-- Love bombing ("I've changed, I'll get help")
+- Love-bombing ("I've changed, I'll get help")
 - Rage ("You destroyed me")
 - Victim playing ("Look what you did to me")
 - Smear campaigns (telling others you're crazy/abusive)

@@ -76,8 +76,8 @@ Stop looking at the clothing. Start noticing the impact.
 
 Ask yourself: *"After this interaction, do I feel more myself or less myself?"*
 
-- Genuine care makes you feel larger, freer, more confident.
-- The wolf in sheep's clothing makes you feel smaller, confused, less sure of your own reality.
+- Genuine care makes you feel larger, freer, and more confident.
+- The wolf in sheep's clothing makes you feel smaller, confused, and less sure of your own reality.
 
 That's the only test you need. Trust what your body knows before your mind has caught up.
 

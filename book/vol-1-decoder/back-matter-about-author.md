@@ -6,7 +6,7 @@
 
 ## Jennifer Brooke Lawless
 
-*Spiritual guide, aura reader, rose meditation guide & researcher of consciousness in the auric and biofield.*
+*Spiritual guide, aura reader, rose meditation guide, and researcher of consciousness in the auric and biofield.*
 
 *Founder of Light Field Institute*
 
@@ -60,7 +60,7 @@ In 2025, this journey crystallized into the founding of the International School
 - Aaron Doughty (mindset and personal development)
 - Elizabeth April (psychic training)
 - Brandy Joy (Magickal Mystery School, Traditional Hermetic Secret Society)
-- Abraham-Hicks, Dr. Michael Newton, Brian Weiss, Caroline Myss
+- Abraham-Hicks, Dr. Michael Newton, Brian Weiss, and Caroline Myss
 
 ---
 
@@ -113,7 +113,7 @@ She believes that:
 
 *The Narcissism Decoder* represents the distillation of everything Jennifer has learned—from her own journey through narcissistic relationships, from her training in mental health counseling, from years of working with clients, and from the wisdom of survivor communities.
 
-She wrote it for the person she was years ago: confused, self-doubting, desperately needing someone to explain what was happening. She wrote it for everyone who has been told they were "too sensitive" when they were actually too perceptive. She wrote it as the guide she wished she had found.
+She wrote it for the person she was years ago: confused, self-doubting, and desperately needing someone to explain what was happening. She wrote it for everyone who has been told they were "too sensitive" when they were actually too perceptive. She wrote it as the guide she wished she had found.
 
 Her hope is that these pages bring clarity to your confusion, language to your experience, and—ultimately—freedom from the patterns that have held you.
 
@@ -138,7 +138,7 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 
 *Thank you for trusting me with your healing journey. Thank you for having the courage to look directly at patterns that were designed to remain invisible. Thank you for choosing yourself.*
 
-*The road ahead may not be easy, but I promise you: it leads somewhere beautiful. On the other side of this understanding is freedom—real, embodied, sovereign freedom.*
+*The road ahead may not be easy, but I promise you: It leads somewhere beautiful. On the other side of this understanding is freedom—real, embodied, and sovereign freedom.*
 
 *You are not broken. You are not too much. You are not the problem.*
 

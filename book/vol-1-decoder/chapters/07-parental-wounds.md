@@ -37,7 +37,7 @@ You may have learned to:
 - Read her moods before your own
 - Make yourself small so she could be big
 - Apologize for existing
-- Need nothing, want nothing, be nothing that inconveniences her
+- Need nothing, want nothing, and be nothing that inconveniences her
 
 And underneath all of it, a primal grief: the mother you needed isn't the mother you got.
 
@@ -71,7 +71,7 @@ And underneath all of it, a primal grief: the mother you needed isn't the mother
 
 **What maternal betrayal does to the daughter:**
 - Creates immediate shame
-- Reinforces the scapegoat role
+- Reinforces the Scapegoat role
 - Reopens childhood wounds
 - Causes self-blame
 - Breaks trust

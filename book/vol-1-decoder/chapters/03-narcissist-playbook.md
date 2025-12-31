@@ -316,7 +316,7 @@ These tactics operate in the realm of intimacy, using closeness as a control mec
 
 ---
 
-### Tactic 22: Excessive Flattery Early On (Love Bombing)
+### Tactic 22: Excessive Flattery Early On (Love-Bombing)
 
 **What it looks like:** Intense attention at the beginning. You're the most amazing person they've ever met. They've never felt this way. Texts all day. Gifts. Grand gestures. Moving fast toward commitment.
 

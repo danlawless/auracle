@@ -19,11 +19,11 @@ These questions are designed to reveal what's underneath the mask—not through 
 
 **How to use these questions:**
 
-1. **Ask casually** — Don't telegraph that you're testing them
-2. **Listen to the structure** — The *way* they answer matters more than the content
-3. **Watch for deflection** — Pivots, counter-questions, and blame-shifts are data
-4. **Note your body** — Your nervous system often registers the truth before your mind
-5. **Pattern over incident** — One strange answer means nothing; patterns reveal everything
+1. **Ask casually**—Don't telegraph that you're testing them
+2. **Listen to the structure**—The *way* they answer matters more than the content
+3. **Watch for deflection**—Pivots, counter-questions, and blame-shifts are data
+4. **Note your body**—Your nervous system often registers the truth before your mind
+5. **Pattern over incident**—One strange answer means nothing; patterns reveal everything
 
 **What you're listening for:**
 
@@ -839,10 +839,10 @@ Unfairness without justification is pure wrongdoing. Their ego can't hold it.
 
 These questions aren't about winning arguments or trapping someone. They're about:
 
-1. **Clarity for yourself** — Understanding what you're dealing with
-2. **Pattern recognition** — Seeing the structure beneath the confusion
-3. **Reality testing** — Confirming your perception is accurate
-4. **Exit preparation** — Gathering evidence for your own decision-making
+1. **Clarity for yourself**—Understanding what you're dealing with
+2. **Pattern recognition**—Seeing the structure beneath the confusion
+3. **Reality testing**—Confirming your perception is accurate
+4. **Exit preparation**—Gathering evidence for your own decision-making
 
 ### How to Use Them
 
@@ -863,11 +863,11 @@ These questions aren't about winning arguments or trapping someone. They're abou
 
 If someone consistently fails these questions:
 
-1. **Stop explaining yourself** — They won't understand because they can't
-2. **Stop seeking acknowledgment** — You won't get it
-3. **Trust your perception** — You're not crazy
-4. **Protect your energy** — Limit contact where possible
-5. **Exit strategically** — With professional support if needed
+1. **Stop explaining yourself**—They won't understand because they can't
+2. **Stop seeking acknowledgment**—You won't get it
+3. **Trust your perception**—You're not crazy
+4. **Protect your energy**—Limit contact where possible
+5. **Exit strategically**—With professional support if needed
 
 ### The Limitation
 

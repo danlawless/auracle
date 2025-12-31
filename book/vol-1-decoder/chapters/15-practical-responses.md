@@ -388,7 +388,7 @@ The repetition signals: This isn't a negotiation. The answer won't change.
 
 ## When You Must Coexist
 
-Sometimes you can't escape—coparenting, work, family events, shared communities. Here's how to protect yourself:
+Sometimes you can't escape—co-parenting, work, family events, shared communities. Here's how to protect yourself:
 
 ### The Neutral Presence Protocol
 

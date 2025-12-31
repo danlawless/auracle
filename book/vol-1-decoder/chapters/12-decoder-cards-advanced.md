@@ -601,12 +601,12 @@ A relational manipulation pattern in which intimacy or commitment is staged as a
 
 The Six Magician Tactics:
 
-1. **Misdirection** — While you're focused on the gesture, the real action (lack of consent, lack of mutual pacing) happens offstage
-2. **Forced Framing** — They tell you what just happened before you can interpret it ("We're friends," "This is romantic")
-3. **Time Compression** — Things happen faster than you can process; objection feels "too late"
-4. **Audience Recruitment** — Witnesses lock in the illusion; saying no feels disruptive
-5. **Object Insertion** — Gifts that are symbolic claims, not attunements
-6. **Reveal Without Humility** — No kneeling, no slowing, no checking your response
+1. **Misdirection**—While you're focused on the gesture, the real action (lack of consent, lack of mutual pacing) happens offstage
+2. **Forced Framing**—They tell you what just happened before you can interpret it ("We're friends," "This is romantic")
+3. **Time Compression**—Things happen faster than you can process; objection feels "too late"
+4. **Audience Recruitment**—Witnesses lock in the illusion; saying no feels disruptive
+5. **Object Insertion**—Gifts that are symbolic claims, not attunements
+6. **Reveal Without Humility**—No kneeling, no slowing, no checking your response
 
 **How It Hooks You:**
 

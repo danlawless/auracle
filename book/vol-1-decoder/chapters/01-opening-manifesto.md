@@ -179,7 +179,7 @@ There's a reason ancient cultures believed that knowing something's true name ga
 
 You become the observer instead of the victim. You see the tactic instead of feeling the confusion. You recognize the pattern instead of drowning in the moment.
 
-This is the power of language. When you have words for "gaslighting," you can catch yourself being gaslit in real time. When you understand "love bombing," you can recognize the intensity as a red flag rather than a romantic gesture. When you know "triangulation," you can see the manipulation in "she said you..."
+This is the power of language. When you have words for "gaslighting," you can catch yourself being gaslit in real time. When you understand "love-bombing," you can recognize the intensity as a red flag rather than a romantic gesture. When you know "triangulation," you can see the manipulation in "she said you..."
 
 ### The Spell-Breaking Power of Language
 
@@ -351,25 +351,25 @@ Your pain was real. Your confusion was induced. Your healing will take time. And
 
 In the chapters that follow, we'll cover:
 
-1. **The Energetic Signature** — How to recognize control in your body before your mind catches up
+1. **The Energetic Signature**—How to recognize control in your body before your mind catches up
 
-2. **The Narcissist Playbook** — 38 specific tactics, named and decoded, with your power moves for each
+2. **The Narcissist Playbook**—38 specific tactics, named and decoded, with your power moves for each
 
-3. **Trauma Bonds** — The neuroscience of why you got hooked and why leaving is so hard
+3. **Trauma Bonds**—The neuroscience of why you got hooked and why leaving is so hard
 
-4. **Archetypes & Roles** — The different types of narcissism and the masks they wear
+4. **Archetypes & Roles**—The different types of narcissism and the masks they wear
 
-5. **Family Systems** — How these patterns operate in families across generations
+5. **Family Systems**—How these patterns operate in families across generations
 
-6. **Relationship Contexts** — Recognizing manipulation in romantic, family, friendship, and work relationships
+6. **Relationship Contexts**—Recognizing manipulation in romantic, family, friendship, and work relationships
 
-7. **Decoder Cards** — Quick-reference guides for specific patterns
+7. **Decoder Cards**—Quick-reference guides for specific patterns
 
-8. **Energetic Remapping** — Practical tools for rewiring your nervous system
+8. **Energetic Remapping**—Practical tools for rewiring your nervous system
 
-9. **Practical Responses** — Scripts and strategies for real-life situations
+9. **Practical Responses**—Scripts and strategies for real-life situations
 
-10. **Moving Forward** — How to close chapters and begin new ones
+10. **Moving Forward**—How to close chapters and begin new ones
 
 Each chapter builds on the last. Each insight prepares you for the next. By the end, you won't just understand what happened to you—you'll understand **why** it happened, **how** it worked, and **what** to do differently.
 

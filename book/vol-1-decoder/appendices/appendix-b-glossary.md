@@ -125,7 +125,7 @@ Making promises about the future with no intention of following through. Used du
 ## G
 
 ### Gaslighting
-A manipulation tactic that makes someone question their own reality, memory, and perceptions. Named after the 1944 film "Gaslight." Examples: denying things that happened, calling you crazy or too sensitive, rearranging facts until you doubt yourself.
+A manipulation tactic that makes someone question their own reality, memory, and perceptions. Named after the 1944 film *Gaslight*. Examples: denying things that happened, calling you crazy or too sensitive, rearranging facts until you doubt yourself.
 
 ### Golden Child
 In narcissistic family systems, the child who is idealized and favored by the narcissistic parent. May become a narcissist themselves or struggle with perfectionism and identity issues.
@@ -244,7 +244,7 @@ Attributing one's own unacceptable thoughts, feelings, or behaviors to someone e
 The part of yourself that developed survival strategies to cope with abuse. May include hypervigilance, people-pleasing, or emotional numbing. Important to honor even while outgrowing these patterns.
 
 ### Proxy Recruitment
-Enlisting others to do your work of manipulation, abuse, or control. The people recruited (flying monkeys) may not realize they're being used.
+Enlisting others to do your work of manipulation, abuse, or control. The people recruited (Flying Monkeys) may not realize they're being used.
 
 ---
 
@@ -278,7 +278,7 @@ Deliberately spreading negative information (often false or exaggerated) about s
 ### Splitting
 Viewing people or situations as all good or all bad with no middle ground. Also called black-and-white thinking. Common in personality disorders.
 
-### Stone Wall
+### Stonewalling
 Refusing to communicate or cooperate. Withdrawing and being unresponsive as a way to punish or control.
 
 ### Supply

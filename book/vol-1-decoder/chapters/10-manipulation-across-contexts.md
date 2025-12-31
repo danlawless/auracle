@@ -67,7 +67,7 @@ A flinch when sharing good news. The impulse to minimize your accomplishments so
 
 **The Intensity Trap**
 
-- Instant best friends (similar to love bombing)
+- Instant best friends (similar to love-bombing)
 - Demands for constant contact and availability
 - Jealousy of your other relationships
 - "You're the only one who understands me"
@@ -240,7 +240,7 @@ Narcissists often thrive in groups—spiritual communities, workplaces, social c
 **Excessive Compliments**
 - Flattery that feels manipulative
 - Mirroring ("I feel exactly the same way!")
-- Love bombing group members to build loyalty
+- Love-bombing group members to build loyalty
 
 **Information Gathering**
 - Asking probing questions
@@ -354,7 +354,7 @@ Narcissistic patterns have found new expression in digital spaces.
 
 ### How Manipulation Shows Up Online
 
-**Love bombing via technology:**
+**Love-bombing via technology:**
 - Constant texting that feels overwhelming
 - Expecting immediate responses
 - Getting upset when you don't reply fast enough

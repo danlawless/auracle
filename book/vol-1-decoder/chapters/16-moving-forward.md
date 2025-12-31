@@ -24,7 +24,7 @@ Not every relationship needs a dramatic confrontation. Not every departure requi
 
 **Sometimes it's a clear statement.** "I'm ending this relationship. Please don't contact me." Then follow-through.
 
-**Sometimes it's managed distance.** For relationships you can't fully end (family, coparenting), you create clear boundaries and stick to them.
+**Sometimes it's managed distance.** For relationships you can't fully end (family, co-parenting), you create clear boundaries and stick to them.
 
 ### What a Clean Ending Isn't
 

@@ -66,13 +66,13 @@ This builds your reality anchor. When they gaslight you later, you'll have evide
 
 Before you can name the pattern, your body knows something is wrong:
 
-- **Chest tightness** — You're being pressured
-- **Confusion that won't resolve** — Reality is being distorted
-- **Exhaustion after contact** — You've been drained
-- **Urge to over-explain** — You're being misunderstood on purpose
-- **Guilt that appeared suddenly** — Shame was deposited in you
-- **Walking on eggshells feeling** — You're managing someone else's emotions
-- **Shrinking sensation** — You're making yourself small for their comfort
+- **Chest tightness**—You're being pressured
+- **Confusion that won't resolve**—Reality is being distorted
+- **Exhaustion after contact**—You've been drained
+- **Urge to over-explain**—You're being misunderstood on purpose
+- **Guilt that appeared suddenly**—Shame was deposited in you
+- **Walking on eggshells feeling**—You're managing someone else's emotions
+- **Shrinking sensation**—You're making yourself small for their comfort
 
 These signals arrive before conscious understanding. Trust them. Your body learned to read danger long before your mind caught up.
 
@@ -98,15 +98,15 @@ If the answers consistently point away from your wellbeing, you're dealing with 
 For moments when you need immediate regulation:
 
 **The 3-3-3 Rule:**
-- Name 3 things you see
-- Name 3 sounds you hear
-- Move 3 parts of your body
+- Name three things you see
+- Name three sounds you hear
+- Move three parts of your body
 
 **The Squeeze-Release:**
-- Clench all muscles tight for 5 seconds
+- Clench all muscles tight for five seconds
 - Release completely
 - Notice the difference
-- Repeat 3 times
+- Repeat three times
 
 **The Butterfly Hug:**
 - Cross arms over chest

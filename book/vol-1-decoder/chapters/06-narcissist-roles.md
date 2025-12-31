@@ -118,7 +118,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it looks like:** Intense attention, flattery, charm. You feel seen, special, chosen. They mirror your interests. They move fast toward intimacy.
 
-**What's really happening:** Love bombing. The seducer role creates rapid bonding before you can assess who they really are. The intensity feels like depth, but it's actually acquisition.
+**What's really happening:** Love-bombing. The seducer role creates rapid bonding before you can assess who they really are. The intensity feels like depth, but it's actually acquisition.
 
 **How it serves control:** The investment of emotional intensity creates obligation. The contrast between this and later coldness keeps you chasing the original high.
 

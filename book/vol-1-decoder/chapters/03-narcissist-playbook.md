@@ -42,7 +42,7 @@ These tactics are about establishing dominance—who has power, who sets the age
 
 **Your power move:** "I'm going to finish this. We can talk when I'm done." Then finish. Do not explain, justify, or apologize for having your own activities.
 
-> *"He'll break your meditation to prove your focus belongs to him."*
+> *"They'll break your meditation to prove your focus belongs to them."*
 
 ---
 
@@ -68,7 +68,7 @@ These tactics are about establishing dominance—who has power, who sets the age
 
 **Your power move:** Lower your voice instead of raising it. Or simply say: "I'm going to pause this conversation until we can both speak at normal volume." Then leave the room if needed.
 
-> *"He doesn't shout because he's angry—he shouts to rewrite the room's frequency."*
+> *"They don't shout because they're angry—they shout to rewrite the room's frequency."*
 
 ---
 
@@ -96,7 +96,7 @@ These tactics are about establishing dominance—who has power, who sets the age
 
 **Your power move:** Stop trying to organize their chaos. Create clear, protected space for yourself—even if it's just one room, one corner, one hour. Chaos is their problem, not yours to solve.
 
-> *"His environment reflects the chaos he refuses to clean inside."*
+> *"Their environment reflects the chaos they refuse to clean inside."*
 
 ---
 
@@ -358,7 +358,7 @@ These tactics target your perception, intuition, and sense of meaning.
 
 **Your power move:** "My perception is valid whether or not you share it." You don't need their agreement to trust what you feel.
 
-> *"When you said 'your energy feels bad,' you named what he was trying to hide—and that threatened him."*
+> *"When you said 'your energy feels bad,' you named what they were trying to hide—and that threatened them."*
 
 ---
 
@@ -440,7 +440,7 @@ Hold accountability steady: "Regardless of why, the action was wrong."
 
 Withdraw emotional labor. That is the REAL boundary.
 
-> *"His 'I'm broken' isn't vulnerability—it's a strategy to make you the caretaker of the person who hurt you."*
+> *"Their 'I'm broken' isn't vulnerability—it's a strategy to make you the caretaker of the person who hurt you."*
 
 ---
 
@@ -597,7 +597,7 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 **Your power move:** Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification. No second letter. An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
 
-*Note: See also Decoder Card 24 (Chapter 12) for quick reference on this pattern.*
+*Note: See also Decoder Card 23 (Chapter 12) for quick reference on this pattern.*
 
 ---
 

@@ -58,7 +58,7 @@ That's the only test you need.
 
 ### The Wolf in Sheep's Clothing
 
-There's an ancient fable you already know. A wolf, hungry and clever, realizes it cannot get close to the sheep by being what it is. So it wraps itself in wool. It walks among the flock. It gains trust. And only when it's close enough to consume does it reveal its teeth.
+There's an old fable you already know—dating at least to medieval times, though the precise origins are uncertain. A wolf, hungry and clever, realizes it cannot get close to the sheep by being what it is. So it wraps itself in wool. It walks among the flock. It gains trust. And only when it's close enough to consume does it reveal its teeth.
 
 This isn't just a children's story. It's a survival manual.
 
@@ -104,17 +104,19 @@ Before making any major decision about someone—whether to commit deeper, share
 
 **Why 72 hours?**
 
-- It takes this long for love-bombing neurochemistry to settle
+Many trauma recovery practitioners recommend a minimum of 72 hours, though this is a practical guideline rather than a scientifically validated timeframe. The specific number matters less than the principle: giving yourself enough time to step back from intensity before making significant decisions.
+
+- It gives time for the initial neurochemistry of excitement to settle
 - Patterns that were invisible in excitement become visible in calm
 - You can observe whether their behavior is consistent or performative
 - Your body's signals become clearer when not flooded with dopamine
 - The "spell" of their presence begins to fade, revealing what's underneath
 
-**The Science Behind It:**
+**The Principle Behind It:**
 
 When you're in the presence of someone charming or intense, your brain releases a cocktail of neurochemicals—dopamine (pleasure and reward), oxytocin (bonding), and sometimes adrenaline (excitement/anxiety). This cocktail literally impairs your judgment. You're not seeing the person; you're seeing the person through a chemical filter.
 
-Seventy-two hours allows these chemicals to metabolize. Your prefrontal cortex—the part of your brain responsible for judgment and decision-making—comes back online. You can think clearly again.
+Time allows these chemicals to metabolize. Your prefrontal cortex—the part of your brain responsible for judgment and decision-making—comes back online. You can think clearly again.
 
 **How to use it:**
 
@@ -137,7 +139,7 @@ This test alone would have saved most of us years.
 
 ## The Gradual Boil
 
-There's an old metaphor about a frog in boiling water. If you drop a frog into hot water, it jumps out immediately. But if you place it in cool water and slowly raise the temperature, it stays until it boils.
+There's a well-known metaphor—even though the biology isn't accurate—about a frog in boiling water. If you drop a frog into hot water, it jumps out immediately. But if you place it in cool water and slowly raise the temperature (the metaphor goes), it stays until it boils. In reality, frogs do attempt to escape as water heats. But the metaphor persists because it captures something true about human psychology.
 
 This is how control works.
 
@@ -212,9 +214,9 @@ If you've been hurt by these patterns—and if you're reading this, you probably
 
 You can:
 
-- **Bury it** — pretend it didn't happen, minimize it, "move on" without processing
-- **Weaponize it** — become bitter, cynical, or vengeful
-- **Transmute it** — turn it into understanding that helps yourself and others
+- **Bury it**—pretend it didn't happen, minimize it, "move on" without processing
+- **Weaponize it**—become bitter, cynical, or vengeful
+- **Transmute it**—turn it into understanding that helps yourself and others
 
 This book is an act of transmutation.
 
@@ -269,11 +271,11 @@ The archetype doesn't care about gender, age, class, or culture. It's a pattern 
 
 By focusing on the archetype rather than the individual, you gain three things:
 
-1. **Protection** — You're not attacking or defaming anyone; you're describing behavior patterns that are well-documented and universal.
+1. **Protection**—You're not attacking or defaming anyone; you're describing behavior patterns that are well-documented and universal.
 
-2. **Universality** — Your insights help everyone who has encountered this pattern, not just people who know your specific person.
+2. **Universality**—Your insights help everyone who has encountered this pattern, not just people who know your specific person.
 
-3. **Transferability** — You'll recognize the pattern in future relationships before getting deeply entangled. The archetype might wear different faces, but the behaviors remain recognizable.
+3. **Transferability**—You'll recognize the pattern in future relationships before getting deeply entangled. The archetype might wear different faces, but the behaviors remain recognizable.
 
 ### The Spectrum of Expression
 
@@ -319,14 +321,14 @@ Their reaction tells you everything.
 
 Behind every person who picks up a book like this is a deeper longing than just "understanding narcissism." What you're really seeking is:
 
-- **Validation** — confirmation that what you experienced was real
-- **Language** — words for things you've felt but couldn't articulate
-- **Permission** — to trust your own perception again
-- **Freedom** — from the hooks still embedded in your nervous system
-- **Sovereignty** — the right to exist without managing someone else's emotions
-- **Understanding** — of how you got here and how to never be here again
-- **Healing** — not just coping, but genuine transformation
-- **Hope** — that healthy, reciprocal love is possible for you
+- **Validation**—confirmation that what you experienced was real
+- **Language**—words for things you've felt but couldn't articulate
+- **Permission**—to trust your own perception again
+- **Freedom**—from the hooks still embedded in your nervous system
+- **Sovereignty**—the right to exist without managing someone else's emotions
+- **Understanding**—of how you got here and how to never be here again
+- **Healing**—not just coping, but genuine transformation
+- **Hope**—that healthy, reciprocal love is possible for you
 
 This book aims to give you all of these.
 
@@ -349,27 +351,36 @@ Your pain was real. Your confusion was induced. Your healing will take time. And
 
 ## The Road Ahead
 
-In the chapters that follow, we'll cover:
+This book contains 18 chapters organized into these key areas:
 
-1. **The Energetic Signature**—How to recognize control in your body before your mind catches up
+**Part I: Recognition**
+- **The Energetic Signature** (Ch 2)—How to recognize control in your body before your mind catches up
+- **The Narcissist Playbook** (Ch 3)—38 specific tactics, named and decoded, with your power moves for each
 
-2. **The Narcissist Playbook**—38 specific tactics, named and decoded, with your power moves for each
+**Part II: Understanding**
+- **Trauma Bonds** (Ch 4)—The neuroscience of why you got hooked and why leaving is so hard
+- **Archetypes & Roles** (Ch 5)—The different types of narcissism and the masks they wear
 
-3. **Trauma Bonds**—The neuroscience of why you got hooked and why leaving is so hard
+**Part III: Family Systems**
+- **Family Roles & Triangulation** (Ch 6)—When manipulation is your origin story
+- **Parental Wounds** (Ch 7)—The mother wound and father wound
+- **Breaking Free from Family Systems** (Ch 8)—Siblings, shame, and sovereignty
+- **Understanding Your Childhood Patterns** (Ch 18)—How early experiences shape adult vulnerability
 
-4. **Archetypes & Roles**—The different types of narcissism and the masks they wear
+**Part IV: Patterns in Context**
+- **Romantic Manipulation** (Ch 9)—How control adapts to intimacy
+- **Manipulation Across Contexts** (Ch 10)—Recognizing patterns in work, friendships, and other arenas
 
-5. **Family Systems**—How these patterns operate in families across generations
+**Part V: Decoder Tools**
+- **Decoder Cards — Core Patterns** (Ch 11)—Quick-reference guides for real-time recognition
+- **Decoder Cards — Advanced Patterns** (Ch 12)—Recognizing sophisticated control tactics
+- **Decoder Cards — Emergency Protocol** (Ch 13)—When you need clarity now
 
-6. **Relationship Contexts**—Recognizing manipulation in romantic, family, friendship, and work relationships
-
-7. **Decoder Cards**—Quick-reference guides for specific patterns
-
-8. **Energetic Remapping**—Practical tools for rewiring your nervous system
-
-9. **Practical Responses**—Scripts and strategies for real-life situations
-
-10. **Moving Forward**—How to close chapters and begin new ones
+**Part VI: Recovery & Response**
+- **Energetic Remapping** (Ch 14)—Practical tools for rewiring your nervous system
+- **Practical Responses** (Ch 15)—Scripts and strategies for real-life situations
+- **Moving Forward** (Ch 16)—How to close chapters and begin new ones
+- **The Exposure Questions** (Ch 17)—Questions that make narcissists reveal themselves
 
 Each chapter builds on the last. Each insight prepares you for the next. By the end, you won't just understand what happened to you—you'll understand **why** it happened, **how** it worked, and **what** to do differently.
 
@@ -442,5 +453,5 @@ Let's begin.
 ---
 
 *"The truth will set you free, but first it will piss you off."*
-— Gloria Steinem
+— commonly attributed to Gloria Steinem
 

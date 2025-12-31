@@ -1,5 +1,7 @@
 # Chapter 12: Romantic Manipulation
 
+> **Content Warning:** This chapter contains detailed discussions of domestic violence, sexual coercion, physical intimidation, trauma bonding, and suicide threats. If you are currently experiencing intimate partner violence or are in an unsafe relationship, please ensure you have support available before continuing. Crisis resources are available in Appendix A, including the National Domestic Violence Hotline: 1-800-799-7233.
+
 ## How Control Adapts to Intimacy
 
 ---
@@ -180,6 +182,36 @@ Use these questions to assess early:
 - Is there any sense of pressure you can't quite name?
 
 **The tactical rule:** If it feels too good too fast, slow down on purpose. Real connection survives taking your time. Love-bombing doesn't.
+
+---
+
+## A Note on Relationship Diversity
+
+While many examples in this chapter use heterosexual relationship dynamics, narcissistic abuse occurs in all relationship types. LGBTQ+ survivors face unique challenges:
+
+**Additional control tactics in LGBTQ+ relationships:**
+- **Outing as threat or punishment:** Using your sexual orientation or gender identity as leverage
+- **Identity invalidation:** "You're not really [gay/trans/bi]" or weaponizing identity against you
+- **Community isolation:** Cutting you off from LGBTQ+ community and support networks
+- **Internalized shame exploitation:** Leveraging societal stigma you may have internalized
+- **Resource barriers:** Many traditional domestic violence resources were not designed with LGBTQ+ survivors in mind
+
+**Additional barriers to leaving:**
+- Fear of not being believed by service providers
+- Fewer resources specifically designed for LGBTQ+ survivors
+- Smaller community size making no-contact harder
+- Concerns about "making the community look bad"
+- Loss of chosen family who may side with the abuser
+
+**LGBTQ+-Specific Resources:**
+- **The Network/La Red:** 617-742-4911 — Partner abuse services for LGBTQ+, SM, and polyamorous communities
+- **FORGE:** 414-559-2123 — Transgender-specific anti-violence support
+- **GLBT National Hotline:** 1-888-843-4564 — Support and local resources
+- **LGBT National Help Center:** lgbthotline.org
+
+If the dynamics in this chapter resonate but the specific examples don't match your experience, trust your perception. Abuse is abuse regardless of the genders involved.
+
+---
 
 ### Healthy Romance for Contrast
 

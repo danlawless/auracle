@@ -26,6 +26,47 @@ A comprehensive guide to understanding narcissistic abuse and reclaiming your po
 
 ---
 
+## Recent Publications (2020-2025)
+
+### Contemporary Research and Practice
+
+**Durvasula, Ramani. *"Don't You Know Who I Am?": How to Stay Sane in an Era of Narcissism, Entitlement, and Incivility* (2019/2020)**
+Dr. Ramani, one of the leading experts on narcissism, addresses how to navigate a world increasingly shaped by narcissistic behavior—from personal relationships to workplace dynamics to social media culture.
+
+**Dodgson, Lindsay C. and Perpetua Neo. *The Gaslighting Recovery Workbook: Healing from Emotional Abuse* (2020)**
+A practical workbook for recovering from gaslighting and emotional manipulation. Includes exercises for rebuilding reality-testing and self-trust.
+
+**Sweet, Corinne. *Stop the Coercive Control: Understanding and Breaking Free from Psychological Abuse* (2021)**
+Focuses specifically on coercive control as a pattern of abuse. Provides clear frameworks for recognizing and escaping controlling relationships.
+
+**Durvasula, Ramani. *It's Not You: Identifying and Healing from Narcissistic People* (2023)**
+Dr. Ramani's latest comprehensive guide to understanding narcissistic relationships across all contexts—romantic, familial, workplace, and social. Particularly strong on healing strategies.
+
+**Arabi, Shahida. *Healing the Adult Children of Narcissists: Essays on The Invisible War Zone and Exercises for Recovery* (2023)**
+Building on her earlier work, Arabi addresses the specific needs of those raised by narcissistic parents. Combines personal essays with structured recovery exercises.
+
+**Walker, Pete. *The Tao of Fully Feeling: Harvesting Forgiveness Out of Blame* (2015, Revised 2021)**
+Walker's updated work on emotional processing and recovery from complex trauma. Particularly relevant for those healing from narcissistic abuse.
+
+**Clarke, Chelsey and Narcissist Apocalypse. *Divorcing a Narcissist: Co-Parenting with a Toxic Ex* (2022)**
+Practical guide for those navigating divorce and co-parenting with narcissistic ex-partners. Includes legal strategies and protective documentation practices.
+
+**Thomas, Christine Louis de Canonville. *The Three Faces of Evil: Unmasking the Full Spectrum of Narcissistic Abuse* (2020)**
+Examines the varying presentations of narcissistic abuse across different relationship types and contexts.
+
+### Research and Academic Works (2020-2025)
+
+**Stark, Evan and Marianne Hester. *Coercive Control: Update and Review* (Journal articles, 2020-2023)**
+Updated research on coercive control as the primary framework for understanding domestic abuse. Stark's continuing work has influenced legal reforms worldwide.
+
+**Campbell, Jacquelyn C. et al. *The Danger Assessment: Validation of Lethality Risk Factors in Abusive Relationships* (Updated research, 2020-2024)**
+Critical research on assessing danger levels in abusive relationships, particularly during exit phases.
+
+**Herman, Judith. *Truth and Repair: How Trauma Survivors Envision Justice* (2023)**
+Herman's latest work examining what justice and healing look like for trauma survivors, including those who experienced relational abuse.
+
+---
+
 ## Understanding Trauma and Its Effects
 
 **van der Kolk, Bessel. *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma* (2014)**
@@ -139,6 +180,39 @@ Personal account combined with practical guidance from a survivor's perspective.
 
 **Glass, Lorna. *The Narcissism Recovery Journal* (2020)**
 Guided journal format for working through recovery, combining education with reflective exercises.
+
+**Machado, Carmen Maria. *In the Dream House* (2019)**
+Groundbreaking memoir of abuse in a same-sex relationship. Uses experimental form to explore how abuse narratives are shaped by heteronormative assumptions. Essential reading for LGBTQ+ survivors and anyone supporting them.
+
+---
+
+## Culturally Diverse Perspectives and Embodied Healing
+
+**Menakem, Resmaa. *My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies* (2017)**
+Examines how trauma lives in the body across generations and communities, with particular attention to racialized trauma. Offers somatic practices for healing. Essential for understanding how individual trauma connects to collective experience.
+
+**Wolynn, Mark. *It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle* (2016)**
+Explores how trauma passes through generations and how to identify and break these cycles. Useful for understanding family systems beyond individual pathology.
+
+**Hill, Jess. *See What You Made Me Do: Power, Control and Domestic Violence* (2019)**
+Investigative journalism on domestic abuse that includes diverse perspectives and challenges simplistic narratives. Winner of the Stella Prize.
+
+**Snyder, Rachel Louise. *No Visible Bruises: What We Don't Know About Domestic Violence Can Kill Us* (2019)**
+Comprehensive examination of domestic violence across communities and systems. Challenges assumptions about who experiences abuse and why.
+
+**hooks, bell. *All About Love: New Visions* (2000)**
+Philosophical exploration of love, connection, and what healthy relationships require. Useful counterpoint to abuse dynamics.
+
+---
+
+## LGBTQ+-Specific Research and Resources
+
+**NCAVP (National Coalition of Anti-Violence Programs).** Annual reports on LGBTQ+ and HIV-affected intimate partner violence.
+
+**Ristock, Janice L. *No More Secrets: Violence in Lesbian Relationships* (2002)**
+Academic examination of intimate partner violence in lesbian relationships, challenging the myth that women don't abuse.
+
+**The Network/La Red.** Resources and research on abuse in LGBTQ+, SM, and polyamorous communities. https://tnlr.org
 
 ---
 

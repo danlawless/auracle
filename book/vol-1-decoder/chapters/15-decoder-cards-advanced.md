@@ -1,5 +1,7 @@
 # Chapter 15: Decoder Cards — Advanced Patterns
 
+> **Content Warning:** This chapter contains detailed discussions of physical intimidation, suicide threats, sexual control, and high-risk abuse tactics. Many of these patterns represent dangerous escalation. If you recognize these patterns in your current situation, please prioritize your safety and consult the crisis resources in Appendix A, including the National Domestic Violence Hotline: 1-800-799-7233 and National Suicide Prevention Lifeline: 988.
+
 ## Recognizing Sophisticated Control Tactics
 
 ---
@@ -149,11 +151,11 @@ The correct internal reframe: "Repair is mutual or it's not repair. I completed 
 This is not confession—it's deflection. The emotional burden shifts from them being harmful to them being hurt. They'd rather be the victim, the tragic antihero, than the person who caused harm.
 
 This accomplishes three things instantly:
-1. **Stops accountability** — You can't stay angry at a "wounded soul"
-2. **Reverses roles** — Suddenly you feel bad for them
-3. **Re-opens emotional access** — Now you're managing their feelings instead of addressing their behavior
+1. **Stops accountability**—You can't stay angry at a "wounded soul"
+2. **Reverses roles**—Suddenly you feel bad for them
+3. **Re-opens emotional access**—Now you're managing their feelings instead of addressing their behavior
 
-This is trauma-bond gold.
+This creates powerful trauma bonds instantly.
 
 **How It Hooks You:**
 
@@ -637,24 +639,24 @@ Romance expands choice. Magician tactics constrict it.
 If 3 or more patterns appear early (within weeks) or cluster together, pause. If your body reacts before your mind does, trust that signal.
 
 **Entry Patterns (How They Arrive):**
-- **Accelerated Intimacy** — Immediate closeness, rapid physical/emotional access
-- **Unasked Assistance** — Fixing, organizing without being asked
-- **Fast Social Integration** — Early introductions creating social cost for withdrawal
+- **Accelerated Intimacy**—Immediate closeness, rapid physical/emotional access
+- **Unasked Assistance**—Fixing, organizing without being asked
+- **Fast Social Integration**—Early introductions creating social cost for withdrawal
 
 **Control Mechanisms (How It Operates):**
-- **Micro-Critique of Identity** — Comments on clothing, tone, choices; framed as "helpful"
-- **Narrative Reframing** — "We were friends," retroactive redefinition of events
-- **Boundary Ambiguity** — Assumptions instead of questions, offense when boundaries appear
+- **Micro-Critique of Identity**—Comments on clothing, tone, choices; framed as "helpful"
+- **Narrative Reframing**—"We were friends," retroactive redefinition of events
+- **Boundary Ambiguity**—Assumptions instead of questions, offense when boundaries appear
 
 **Psychological Hooks (Why It Works):**
-- **Conditional Safety** — Warmth when compliant, withdrawal when independent
-- **Moral Positioning** — "I'm just trying to protect you"
-- **Speed Over Choice** — Things happen faster than you can process
+- **Conditional Safety**—Warmth when compliant, withdrawal when independent
+- **Moral Positioning**—"I'm just trying to protect you"
+- **Speed Over Choice**—Things happen faster than you can process
 
 **Impact Indicators (How You Know):**
-- **Somatic Discrepancy** — Your body tightens while your mind explains
-- **Self-Minimization** — "It's not that bad," "Maybe I'm overreacting"
-- **Identity Compression** — Less spontaneity, more monitoring
+- **Somatic Discrepancy**—Your body tightens while your mind explains
+- **Self-Minimization**—"It's not that bad," "Maybe I'm overreacting"
+- **Identity Compression**—Less spontaneity, more monitoring
 
 **Differentiation Matrix:**
 

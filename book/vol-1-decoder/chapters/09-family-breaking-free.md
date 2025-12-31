@@ -253,7 +253,7 @@ Complete cessation of relationship. May be necessary if:
 - It isn't revenge
 - It isn't permanent unless you want it to be
 - It isn't abandonment (you're not obligated to set yourself on fire to keep others warm)
-- It isn't proof that you're a bad child
+- It isn't proof that you're failing them
 - It isn't the same as not loving them
 
 ### The Permission You May Need
@@ -275,7 +275,7 @@ Guilt is the family system's enforcement mechanism. You may feel guilty for:
 - Having needs
 - Getting healthier
 
-This guilt isn't evidence that you're doing something wrong. It's evidence that you're disrupting a dysfunctional system—which is exactly what healing requires.
+This guilt isn't evidence that you're doing something wrong. It's evidence that you're disrupting a dysfunctional system. That disruption is what healing requires.
 
 ### Releasing the Guilt
 

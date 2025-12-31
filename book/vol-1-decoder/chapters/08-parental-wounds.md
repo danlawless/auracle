@@ -8,11 +8,11 @@
 
 When the narcissist is your mother, the wound runs particularly deep.
 
-Mothers are our first attachment. Biologically, psychologically, we're wired to bond with the maternal figure. When that bond is contaminated by narcissism, it affects our most foundational understanding of:
-- Whether we're worthy of love
-- Whether our needs matter
-- Whether we can trust those closest to us
-- Whether we deserve to exist
+Our primary caregivers are our first attachment—whether biological mothers, adoptive parents, grandparents, or other figures who raised us. Psychologically, you're wired to bond with whoever fills that caregiving role. When that bond is contaminated by narcissism, it affects your most foundational understanding of:
+- Whether you're worthy of love
+- Whether your needs matter
+- Whether you can trust those closest to you
+- Whether you deserve to exist
 
 ### The Narcissistic Mother May:
 
@@ -75,11 +75,11 @@ And underneath all of it, a primal grief: the mother you needed isn't the mother
 - Reopens childhood wounds
 - Causes self-blame
 - Breaks trust
-- Makes you question your reality
-- Makes you feel small
-- Makes you doubt your worth
-- Makes you collapse into guilt or anger
-- Makes you want distance
+- Questions your reality
+- Shrinks you
+- Erases your worth
+- Collapses you into guilt or anger
+- Makes distance the only refuge
 
 This reaction is NORMAL. It means your body remembers every time this has happened before.
 
@@ -106,7 +106,7 @@ She cannot hold it.
 
 4. **Detach with clarity:** Her betrayal is information. Not a crisis. Not a reason to self-blame. Not a reason to re-engage. Information.
 
-**The empowered reframe:** Maternal betrayal is not a sign that you are unlovable—it is evidence she was never capable of emotionally mothering you. This is devastating AND freeing.
+**The empowered reframe:** Maternal betrayal is not a sign that you are unlovable—it is evidence she was never capable of emotionally mothering you. This is devastating—and freeing.
 
 **Activation statement:** "It was not my job to make her safe enough to protect me. I release the shame that was never mine."
 

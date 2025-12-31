@@ -234,7 +234,7 @@ To recognize the energetic signature of control, you need to know what healthy c
 
 ## The Calibration Practice
 
-Your nervous system has been mis-calibrated by experience. If you grew up with control disguised as care, you may not recognize healthy connection when you encounter it—it might even feel boring, suspicious, or "too easy."
+Experience miscalibrated your nervous system. If you grew up with control disguised as care, you may not recognize healthy connection when you encounter it—it might even feel boring, suspicious, or "too easy."
 
 Here's a practice to recalibrate:
 

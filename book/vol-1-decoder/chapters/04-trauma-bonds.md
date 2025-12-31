@@ -21,7 +21,7 @@ This chapter explains the biological mechanisms that create trauma bonds—why y
 
 ## What Is a Trauma Bond?
 
-A trauma bond is a powerful emotional attachment formed between an abused person and their abuser. It develops as a result of a cyclical pattern of intermittent abuse mixed with positive reinforcement.
+A trauma bond forms when abuse and affection alternate unpredictably, creating powerful emotional attachment between the abused person and their abuser. It develops as a result of a cyclical pattern of intermittent abuse mixed with positive reinforcement.
 
 Key word: **intermittent**.
 
@@ -124,13 +124,13 @@ This is one of the hardest truths to accept:
 
 **Much of what you experienced as love was actually relief.**
 
-- Relief that they're not angry anymore
-- Relief that they're being kind
-- Relief that you haven't lost them
-- Relief that the tension is over
-- Relief that you're safe (for now)
+Relief that they're not angry anymore.
+Relief that they're being kind.
+Relief that you haven't lost them.
+Relief that the tension is over.
+Relief that you're safe—for now.
 
-Relief feels like love because it floods your system with feel-good neurochemicals after a period of stress. It's the contrast that makes it feel so good—the depth of the bad makes the good feel deeper.
+This is why relief feels like love: your system floods with neurochemicals after stress. The contrast makes ordinary kindness feel extraordinary. The deeper the fear, the sweeter the relief.
 
 In healthy relationships, love doesn't require pain as its predecessor. Connection doesn't depend on recovery from disconnection. Warmth isn't notable because it follows coldness.
 
@@ -140,7 +140,10 @@ If you can only feel close after conflict, you're in a relief cycle, not a love 
 
 Here's an even deeper truth that can be hard to accept:
 
-**What feels like attraction is often a cocktail: repulsion, sexual energy, dopamine relief, and the false safety that floods in after someone yells—then soothes you again.**
+What feels like attraction is often a cocktail of conflicting elements:
+- Repulsion mixing with sexual energy
+- Dopamine flooding your system with relief
+- False safety that comes after someone yells, then soothes you again
 
 Read that again.
 

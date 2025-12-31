@@ -16,15 +16,15 @@
 
 ## From Feardom to Freedom
 
-Jennifer Brooke's journey to becoming a guide for others began with her own descent into—and emergence from—the darkness of narcissistic abuse.
+Jennifer Brooke's path to helping others began with her own experience of narcissistic abuse—and the hard-won journey out of it.
 
 A creative at heart, Jennifer has worn many hats: artist, event producer, singer, personal trainer, yoga instructor, psychotherapist, and sales professional. She holds a **Master of Science in Mental Health Counseling** and spent years working in traditional talk therapy. But none of her credentials prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
 
 For years, she allowed herself to shrink in abusive and narcissistic relationships. Depression and anxiety became constant companions. Her self-esteem, in her own words, was "mortally wounded." Like many survivors, she had learned to seek external validation instead of trusting herself—a pattern that made her vulnerable to those who would exploit her empathy.
 
-The breakthrough came through deep Jungian shadow work. Through transformative experiences called "Transitions," Jennifer confronted the parts of herself that had enabled toxic dynamics to continue. She released passive-aggressive patterns, negativity, blame, and the desperate need for external approval. She said goodbye to her wounded self and embraced the woman she was meant to become.
+The breakthrough came through deep Jungian shadow work. Through transformative experiences called "Transitions," Jennifer confronted the parts of herself that had enabled toxic dynamics to continue. She released passive-aggressive patterns, negativity, blame, and the desperate need for external approval. The work was uncomfortable. It required brutal honesty about her own part in staying. But on the other side was something she'd been looking for: herself.
 
-This work was brutally honest. She had to own her part. And through that ownership, she reclaimed her sovereignty.
+Through that ownership, she reclaimed her sovereignty.
 
 ---
 
@@ -144,7 +144,7 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 
 *You are coming home to yourself. And that home has been waiting for you all along.*
 
-*This is a journey from feardom to freedom. From shadow to light. From separation to unity.*
+*This is a journey from fear to freedom. From shadow to light. From separation to unity.*
 
 *With love and fierce protection,*
 

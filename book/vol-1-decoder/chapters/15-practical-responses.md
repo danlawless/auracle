@@ -48,7 +48,7 @@ When someone attacks with control energy, don't meet force with force. Redirect.
 
 **Them:** "Just checking to make sure as this is not your home."
 
-**You:** "My home is in my heart 😂🙏"
+**You:** "My home is in my heart."
 
 This response:
 - Doesn't defend
@@ -232,7 +232,7 @@ When confronted about lying, cheating, or boundary violations, they pivot to sel
 2. Reverses roles (suddenly you feel bad for them)
 3. Re-opens emotional access (now you're managing their feelings)
 
-**Your power:** Withdraw emotional labor. That is the REAL boundary.
+**Your power:** Withdraw emotional labor. That is the *real* boundary.
 
 *See also: Chapter 3, Tactic 28; Chapter 8, Card 25*
 

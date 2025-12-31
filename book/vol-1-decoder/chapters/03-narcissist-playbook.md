@@ -42,7 +42,7 @@ These tactics are about establishing dominance—who has power, who sets the age
 
 **Your power move:** "I'm going to finish this. We can talk when I'm done." Then finish. Do not explain, justify, or apologize for having your own activities.
 
-> *"He'll break your meditation to prove your focus belongs to him."*
+> *"They'll break your meditation to prove your focus belongs to them."*
 
 ---
 
@@ -68,13 +68,15 @@ These tactics are about establishing dominance—who has power, who sets the age
 
 **Your power move:** Lower your voice instead of raising it. Or simply say: "I'm going to pause this conversation until we can both speak at normal volume." Then leave the room if needed.
 
-> *"He doesn't shout because he's angry—he shouts to rewrite the room's frequency."*
+> *"They don't shout because they're angry—they shout to rewrite the room's frequency."*
 
 ---
 
 ### Tactic 4: Physical Intimidation
 
-**What it looks like:** They get physically close when angry—invading your space with their body. They might make a fist near you, stand over you, block doorways, or touch you in ways that demonstrate power rather than affection. "I could snap your neck with one hand." "You're so small/weak/fragile." They might grab their own hand around your throat, not squeezing, just showing you how easily they could. Physical proximity becomes a threat even without actual violence.
+**What it looks like:** They get physically close when angry, invading your space. They stand over you, block doorways, make a fist near you. They might grab their own hand around your throat—not squeezing, just showing you how easily they could. "I could snap your neck with one hand." "You're so small. So weak. So fragile."
+
+Physical proximity becomes a threat even without actual violence.
 
 **What's really happening:** They're using the implicit threat of physical harm to establish dominance. You don't have to be hit to be controlled by the possibility of being hit. The fear is the point. By demonstrating your physical vulnerability, they remind you who has power—and that your safety depends on their restraint.
 
@@ -96,7 +98,7 @@ These tactics are about establishing dominance—who has power, who sets the age
 
 **Your power move:** Stop trying to organize their chaos. Create clear, protected space for yourself—even if it's just one room, one corner, one hour. Chaos is their problem, not yours to solve.
 
-> *"His environment reflects the chaos he refuses to clean inside."*
+> *"Their environment reflects the chaos they refuse to clean inside."*
 
 ---
 
@@ -144,7 +146,7 @@ These tactics keep you seeking their approval—raising you up just enough to dr
 
 ### Tactic 9: The Aesthetic Seesaw
 
-**What it looks like:** One day: "You're so beautiful." Next day: "I mean, looks aren't that important to me." Or: "You looked great before you gained weight." "I prefer women who are [something you're not], but you're fine."
+**What it looks like:** One day: "You're so beautiful." Next day: "I mean, looks aren't that important to me." Or: "You looked great before you gained weight." "I prefer women who are naturally thin, but you're fine."
 
 Beyond general comments, this extends to controlling your actual appearance: dictating your hair color, nail style, clothing choices, or makeup. "You need to have neutral hair when we see my friends." "No sparkles on your nails." "That color is too loud." They critique your appearance in public—at the salon, in front of others—establishing that how you look is their domain, not yours.
 
@@ -358,7 +360,7 @@ These tactics target your perception, intuition, and sense of meaning.
 
 **Your power move:** "My perception is valid whether or not you share it." You don't need their agreement to trust what you feel.
 
-> *"When you said 'your energy feels bad,' you named what he was trying to hide—and that threatened him."*
+> *"When you said 'your energy feels bad,' you named what they were trying to hide—and that threatened them."*
 
 ---
 
@@ -440,7 +442,7 @@ Hold accountability steady: "Regardless of why, the action was wrong."
 
 Withdraw emotional labor. That is the REAL boundary.
 
-> *"His 'I'm broken' isn't vulnerability—it's a strategy to make you the caretaker of the person who hurt you."*
+> *"Their 'I'm broken' isn't vulnerability—it's a strategy to make you the caretaker of the person who hurt you."*
 
 ---
 

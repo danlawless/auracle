@@ -4,9 +4,9 @@
 
 ---
 
-It starts as charm and attentiveness, then slowly becomes command.
+It starts as charm. Attentiveness that feels intoxicating. Then, so gradually you don't notice, it becomes command.
 
-You don't notice the shift until your body feels smaller in the room.
+Your body knows first. One day you realize you feel smaller in the room.
 
 One day you're laughing together, feeling seen, feeling special. The next day—or maybe just the next hour—you're walking on eggshells, scanning their face for the mood shift, wondering what you did wrong.
 
@@ -81,7 +81,7 @@ The wolf in sheep's clothing doesn't want you to read this book. It survives by 
 
 ### The Erosion Effect
 
-Control works through accumulation. One comment, one look, one "joke" might be nothing. But fifty of them? Five hundred? They build a structure inside your psyche—an invisible architecture that shapes how you see yourself.
+Control accumulates gradually, one small incident at a time. One comment, one look, one "joke" might be nothing. But fifty of them? Five hundred? They build a structure inside your psyche—an invisible architecture that shapes how you see yourself.
 
 Consider what happens over time:
 
@@ -92,7 +92,7 @@ Consider what happens over time:
 
 This erosion is so gradual you don't notice it happening. Like water wearing away stone, each interaction removes a little more of your confidence, your boundaries, your sense of who you are.
 
-By the time you realize you've changed, you may not remember who you were before.
+By the time you realize you've changed, you can't remember who you were before.
 
 This book is here to help you remember. And to ensure it never happens again.
 
@@ -131,13 +131,13 @@ Seventy-two hours allows these chemicals to metabolize. Your prefrontal cortex�
 - Does your body feel relaxed when you think of them, or slightly tense?
 - Are you excited to see them, or relieved when time together ends?
 
-This test alone would have saved most of us years.
+This test will save you years.
 
 ---
 
 ## The Gradual Boil
 
-There's an old metaphor about a frog in boiling water. If you drop a frog into hot water, it jumps out immediately. But if you place it in cool water and slowly raise the temperature, it stays until it boils.
+You know the fable: a frog dropped into boiling water jumps out immediately. But a frog placed in cool water that heats gradually stays until it boils.
 
 This is how control works.
 

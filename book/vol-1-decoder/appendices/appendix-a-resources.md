@@ -4,7 +4,7 @@
 
 ---
 
-This appendix consolidates resources for anyone experiencing or recovering from narcissistic abuse. Save this section. Share it with others who need it. These resources could be lifesaving.
+You'll find resources here for both crisis moments and long-term recovery. Save this section. Share it with others who need it. These resources could save your life—or someone else's.
 
 ---
 

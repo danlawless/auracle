@@ -267,6 +267,14 @@ That matters.
 
 ---
 
+---
+
+> **⚠️ CONTENT WARNING**
+>
+> The following section contains descriptions of childhood sexual experiences, boundary violations, and sexual trauma. These descriptions are included to help readers recognize patterns in their own histories, but may be activating for some readers. Please pace yourself and skip this section if needed. The chapter summary that follows provides key insights without the detailed descriptions.
+
+---
+
 ## When Sexuality Learns Survival Early
 
 For many people, sexuality was never just about pleasure or connection. It became wired to survival long before conscious choice was possible.

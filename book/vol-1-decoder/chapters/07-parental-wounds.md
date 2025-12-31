@@ -8,11 +8,11 @@
 
 When the narcissist is your mother, the wound runs particularly deep.
 
-Mothers are our first attachment. Biologically, psychologically, you're wired to bond with the maternal figure. When that bond is contaminated by narcissism, it affects our most foundational understanding of:
-- Whether we're worthy of love
-- Whether our needs matter
-- Whether we can trust those closest to us
-- Whether we deserve to exist
+Our primary caregivers are our first attachment—whether biological mothers, adoptive parents, grandparents, or other figures who raised us. Psychologically, you're wired to bond with whoever fills that caregiving role. When that bond is contaminated by narcissism, it affects your most foundational understanding of:
+- Whether you're worthy of love
+- Whether your needs matter
+- Whether you can trust those closest to you
+- Whether you deserve to exist
 
 ### The Narcissistic Mother May:
 

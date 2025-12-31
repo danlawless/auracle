@@ -52,7 +52,7 @@ Every time someone dismissed your perception, they trained you to distrust your 
 
 ### The Neuroception of Safety and Danger
 
-Dr. Stephen Porges, the neuroscientist who developed Polyvagal Theory, coined the term "neuroception" to describe the process by which our nervous system evaluates risk without our conscious awareness. Your body is constantly asking: "Am I safe? Am I in danger? Do I need to fight, flee, freeze, or fawn?"
+Dr. Stephen Porges, the neuroscientist who developed Polyvagal Theory, coined the term "neuroception" to describe the process by which our nervous system evaluates risk without our conscious awareness. (Note: While Polyvagal Theory has been influential in trauma therapy, some aspects remain contested within neuroscience. The core insight about unconscious threat detection, however, is well-supported by research.) Your body is constantly asking: "Am I safe? Am I in danger? Do I need to fight, flee, freeze, or fawn?"
 
 This evaluation happens below the level of thought. Before you've decided what you think about someone, your nervous system has already made an assessment.
 
@@ -644,5 +644,5 @@ The ability to pause, scan your body, and name what you're feeling—before your
 
 ---
 
-*Your body never lies. It just waits for you to listen.*
+*Your body tells its truth. Sometimes that's about now; sometimes it's about then. But it's always worth listening.*
 

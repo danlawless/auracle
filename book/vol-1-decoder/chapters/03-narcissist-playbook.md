@@ -4,6 +4,14 @@
 
 ---
 
+> **⚠️ CONTENT WARNING**
+>
+> This chapter contains descriptions of controlling and abusive behaviors including: physical intimidation and threats of violence, emotional manipulation, sexual coercion, suicide threats, and detailed accounts of psychological abuse tactics. These descriptions are provided to help readers recognize and name harmful patterns. If you're currently in an unsafe situation, please prioritize your physical safety and consider contacting: National Domestic Violence Hotline: 1-800-799-7233.
+>
+> Take breaks as needed. Your wellbeing matters more than finishing the chapter.
+
+---
+
 This chapter is the heart of the decoder. Each tactic is presented with:
 - **What it looks like** on the surface
 - **What's really happening** beneath the surface
@@ -599,7 +607,7 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 **Your power move:** Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification. No second letter. An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
 
-*Note: See also Decoder Card 24 (Chapter 12) for quick reference on this pattern.*
+*Note: See also Decoder Card 23 (Chapter 12) for quick reference on this pattern.*
 
 ---
 

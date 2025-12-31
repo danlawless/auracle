@@ -216,7 +216,7 @@ Don't just recover—build structures that support your new life:
 - Group therapy or support groups (in person or online)
 
 **Self-Support Systems:**
-- Regular practices (from Chapter 9)
+- Regular practices (from Chapter 14)
 - Documentation and journaling
 - Physical health basics
 - Financial independence (or path toward it)
@@ -233,7 +233,7 @@ This isn't failure. It's extremely common.
 
 - The neural pathways are well-worn
 - Familiar feels safe, even when it isn't
-- Love bombing feels good after the work of recovery
+- Love-bombing feels good after the work of recovery
 - Old parts of you still need healing
 
 ### What to Do

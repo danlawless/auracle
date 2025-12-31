@@ -22,13 +22,26 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 | **RAINN (Sexual Assault)** | 1-800-656-4673 | 24/7 support for sexual assault survivors |
 | **National Child Abuse Hotline** | 1-800-422-4453 | 24/7 support for child abuse |
 
+### LGBTQ+-Specific Resources (24/7)
+
+| Resource | Contact | Description |
+|----------|---------|-------------|
+| **The Network/La Red** | 617-742-4911 | Partner abuse in LGBTQ+, SM, and polyamorous communities |
+| **FORGE** | 414-559-2123 | Transgender-specific anti-violence support |
+| **GLBT National Hotline** | 1-888-843-4564 | Support and local resources |
+| **LGBT National Help Center** | lgbthotline.org | Online chat and phone support |
+| **Trevor Project** | 1-866-488-7386 | LGBTQ+ youth crisis support |
+
 ### International Resources
 
 | Country | Resource | Contact |
 |---------|----------|---------|
 | **UK** | National Domestic Abuse Helpline | 0808 2000 247 |
+| **UK** | Galop (LGBTQ+) | 0800 999 5428 |
 | **Canada** | Assaulted Women's Helpline | 1-866-863-0511 |
+| **Canada** | Trans Lifeline | 1-877-330-6366 |
 | **Australia** | 1800 RESPECT | 1800 737 732 |
+| **Australia** | QLife (LGBTQ+) | 1800 184 527 |
 | **New Zealand** | Women's Refuge | 0800 733 843 |
 | **Ireland** | Women's Aid | 1800 341 900 |
 
@@ -37,6 +50,36 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 - **IMAlive:** imAlive.org — Online crisis chat
 - **7 Cups:** 7cups.com — Free emotional support chat
 - **BetterHelp Crisis Resources:** betterhelp.com/crisis
+
+### LGBTQ+ Specific Crisis Resources
+
+| Resource | Contact | Description |
+|----------|---------|-------------|
+| **The Trevor Project** | 1-866-488-7386 or Text START to 678-678 | 24/7 crisis support for LGBTQ+ youth |
+| **Trans Lifeline** | US: 1-877-565-8860, Canada: 1-877-330-6366 | Peer support hotline run by and for trans people |
+| **LGBT National Hotline** | 1-888-843-4564 | Support, information, and local resources |
+| **GLBT National Youth Talkline** | 1-800-246-7743 | Support for LGBTQ+ youth under 25 |
+
+**LGBTQ+ Domestic Violence Resources:**
+- **The Network/La Red:** tnlr.org — 617-742-4911 — Serving LGBTQ+ and polyamorous survivors of partner abuse in Boston and beyond
+- **Northwest Network:** nwnetwork.org — 206-568-7777 — Supporting LGBTQ+ survivors in the Pacific Northwest
+- **FORGE:** forge-forward.org — Resources for transgender and gender non-conforming survivors
+- **LGBTQ+ Partner Abuse and Sexual Assault Helpline:** 1-866-356-6998 — National support line
+
+### Male Survivor Resources
+
+**Specific Support for Men:**
+- **1in6:** 1in6.org — Online support for men who experienced sexual abuse or assault
+- **MaleSurvivor:** malesurvivor.org — Resources, weekends of recovery, online support
+- **ManKind Initiative (UK):** 01823 334244 — Support for male victims of domestic abuse
+- **Men's Advice Line (UK):** 0808 8010327 — Confidential helpline for male domestic abuse victims
+- **National Domestic Violence Hotline:** 1-800-799-7233 — Serves survivors of all genders, including men
+
+**Why Male-Specific Resources Matter:**
+- Social stigma around male vulnerability can prevent help-seeking
+- Traditional domestic violence frameworks may not address men's experiences
+- Peer support with others who share similar barriers can be healing
+- Many men face unique challenges in being believed or taken seriously
 
 ---
 
@@ -119,12 +162,21 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 - *The Verbally Abusive Relationship* by Patricia Evans — Recognizing verbal abuse patterns
 - *Psychopath Free* by Jackson MacKenzie — Recovery after toxic relationships
 - *Becoming the Narcissist's Nightmare* by Shahida Arabi — Understanding and escaping
+- *See What You Made Me Do* by Jess Hill — Australian perspective on coercive control (inclusive of diverse experiences)
+- *No Visible Bruises* by Rachel Louise Snyder — Investigative look at domestic violence across communities
 
 **Healing and Recovery:**
 - *Complex PTSD: From Surviving to Thriving* by Pete Walker — Essential for trauma recovery
 - *The Body Keeps the Score* by Bessel van der Kolk — Understanding trauma in the body
 - *Adult Children of Emotionally Immature Parents* by Lindsay C. Gibson — Family-of-origin healing
 - *Healing the Shame That Binds You* by John Bradshaw — Addressing toxic shame
+- *My Grandmother's Hands* by Resmaa Menakem — Trauma, race, and embodied healing
+- *It Didn't Start with You* by Mark Wolynn — Inherited family trauma
+
+**LGBTQ+-Specific Resources:**
+- *In the Dream House* by Carmen Maria Machado — Memoir of abuse in a same-sex relationship
+- *A Queer History of the United States* by Michael Bronski — Context for LGBTQ+ relationship dynamics
+- Resources at lgbtqiapv.org — Research and support for LGBTQ+ intimate partner violence
 
 **Boundaries and Self-Protection:**
 - *Boundaries* by Henry Cloud and John Townsend — Setting healthy limits

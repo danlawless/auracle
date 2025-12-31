@@ -72,6 +72,10 @@ These tactics are about establishing dominance: who has power, who sets the agen
 
 ---
 
+> **⚠️ CONTENT WARNING**
+>
+> The following tactic (Tactic 4: Physical Intimidation) contains descriptions of physical intimidation and domestic violence scenarios. If you're currently in an unsafe situation, please prioritize your physical safety. National Domestic Violence Hotline: 1-800-799-7233.
+
 ### Tactic 4: Physical Intimidation
 
 **What it looks like:** They get physically close when angry—invading your space with their body. They might make a fist near you, stand over you, block doorways, or touch you in ways that demonstrate power rather than affection. "I could snap your neck with one hand." "You're so small/weak/fragile." They might grab their own hand around your throat, not squeezing, just showing you how easily they could. Physical proximity becomes a threat even without actual violence.

@@ -1,4 +1,4 @@
-# Chapter 10: Manipulation Across Contexts
+# Chapter 12: Manipulation Across Contexts
 
 ## Beyond Romance: Recognizing Patterns Everywhere
 

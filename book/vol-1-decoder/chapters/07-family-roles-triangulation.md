@@ -1,4 +1,4 @@
-# Chapter 6: Family Roles & Triangulation
+# Chapter 7: Family Roles & Triangulation
 
 ## When Manipulation Is Your Origin Story
 

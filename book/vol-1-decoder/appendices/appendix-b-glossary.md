@@ -17,23 +17,23 @@ When you forget or minimize past abusive incidents, remembering only the "good t
 Subtle, hard-to-identify abuse that creates a constant atmosphere of anxiety without specific incidents to point to. Examples include sighing, eye-rolling, "forgetting" important things, chronic lateness, and other behaviors that individually seem minor but collectively create an oppressive environment.
 
 ### Attachment Style
-Patterns of relating to others in close relationships, formed in early childhood. The four main styles are: secure, anxious-preoccupied, dismissive-avoidant, and fearful-avoidant. Understanding your attachment style can help explain vulnerability to certain relationship patterns.
+Patterns of relating to others in close relationships, formed in early childhood. You'll encounter four main styles: secure, anxious-preoccupied, dismissive-avoidant, and fearful-avoidant. Understanding your attachment style can help explain vulnerability to certain relationship patterns.
 
 ---
 
 ## B
 
 ### Baiting
-Deliberately provoking someone to get an emotional reaction, which can then be used against them. Examples: bringing up sensitive topics, making subtle insults, or creating situations designed to trigger jealousy or anger.
+Deliberately provoking you to get an emotional reaction, which the abuser can then use against you. Examples: bringing up sensitive topics, making subtle insults, or creating situations designed to trigger jealousy or anger.
 
 ### Blame-Shifting
-Deflecting responsibility for one's behavior by redirecting focus to the victim. Instead of addressing their own actions, the narcissist makes the conversation about something the victim did wrong.
+Deflecting responsibility for one's behavior by redirecting focus to you. Instead of addressing their own actions, the narcissist makes the conversation about something you did wrong.
 
 ### Boundaries
 Limits you set to protect your physical, emotional, mental, and spiritual wellbeing. Healthy boundaries define what you will and won't accept in relationships. Narcissists typically resist, test, and violate boundaries.
 
 ### Breadcrumbing
-Giving someone just enough attention or affection to keep them interested without any intention of following through. Like leaving a trail of breadcrumbs that leads nowhere.
+Giving you just enough attention or affection to keep you interested without any intention of following through. Like leaving a trail of breadcrumbs that leads nowhere.
 
 ---
 
@@ -46,41 +46,41 @@ A discussion that goes round and round without resolution. The narcissist uses d
 The sense of resolution and understanding at the end of a relationship or situation. Narcissists typically deny closure, leaving things unresolved as a way to maintain connection and control.
 
 ### Coercive Control
-A pattern of controlling behaviors that create an environment of fear and dependency. May include isolation, financial control, monitoring activities, making threats, and other tactics that limit the victim's freedom and autonomy.
+Controlling behaviors that create an environment of fear and dependency around you. This pattern may include isolation, financial control, monitoring activities, making threats, and other tactics that limit your freedom and autonomy.
 
 ### Cognitive Dissonance
-The mental discomfort of holding two conflicting beliefs simultaneously. In narcissistic abuse, this often manifests as struggling to reconcile the loving person you believed existed with the harmful behavior you're experiencing.
+Mental discomfort you feel when holding two conflicting beliefs simultaneously. In narcissistic abuse, you often struggle to reconcile the loving person you believed existed with the harmful behavior you're experiencing.
 
 ### Compartmentalization
 Separating different aspects of life or self to avoid the discomfort of contradiction. Narcissists compartmentalize to maintain their different "masks." Victims compartmentalize to survive cognitive dissonance.
 
 ### Complex PTSD (C-PTSD)
-A form of PTSD that develops from prolonged, repeated trauma, often in situations where escape is difficult. Common in survivors of ongoing abuse. Symptoms include emotional flashbacks, difficulty regulating emotions, negative self-perception, and relationship difficulties.
+PTSD that develops from prolonged, repeated trauma, often in situations where escape is difficult. You commonly see this in survivors of ongoing abuse. Symptoms include emotional flashbacks, difficulty regulating emotions, negative self-perception, and relationship difficulties.
 
 ### Conditioning
-The process by which behavior is modified through repeated associations. In abusive relationships, victims become conditioned to accept treatment, suppress reactions, or respond in specific ways through repeated patterns of reward and punishment.
+Repeated associations that modify your behavior over time. In abusive relationships, you become conditioned to accept treatment, suppress reactions, or respond in specific ways through repeated patterns of reward and punishment.
 
 ### Covert Narcissist
-A narcissist whose traits are less obvious and more hidden. Rather than grandiose displays, covert narcissists often present as shy, victimized, or self-deprecating, while still maintaining the core narcissistic traits of entitlement and lack of empathy.
+A narcissist who hides their traits less obviously. Rather than grandiose displays, covert narcissists often present as shy, victimized, or self-deprecating, while still maintaining the core narcissistic traits of entitlement and lack of empathy.
 
 ---
 
 ## D
 
 ### DARVO
-Acronym for Deny, Attack, Reverse Victim and Offender. A manipulation tactic where the abuser denies the abuse, attacks the victim for bringing it up, and then claims to be the real victim.
+Acronym for Deny, Attack, Reverse Victim and Offender. This manipulation tactic has the abuser denying the abuse, attacking you for bringing it up, and then claiming to be the real victim.
 
 ### Devalue
-The second phase of the narcissistic abuse cycle (after idealization). During devaluation, the narcissist begins criticizing, withdrawing affection, and treating the victim as inferior after initially putting them on a pedestal.
+The second phase of the narcissistic abuse cycle (after idealization). During devaluation, the narcissist begins criticizing you, withdrawing affection, and treating you as inferior after initially putting you on a pedestal.
 
 ### Discard
-The third phase of the narcissistic abuse cycle. The narcissist abruptly ends the relationship, often cruelly and without explanation, leaving the victim confused and devastated. May be followed by hoovering.
+The third phase of the narcissistic abuse cycle. The narcissist abruptly ends the relationship, often cruelly and without explanation, leaving you confused and devastated. May be followed by hoovering.
 
 ### Dissociation
-A disconnection from your thoughts, feelings, surroundings, or sense of identity. A protective response to overwhelming stress or trauma. Can range from mild "zoning out" to more severe forms of disconnection from reality.
+When you disconnect from your thoughts, feelings, surroundings, or sense of identity. Your mind protects you this way from overwhelming stress or trauma. This can range from mild "zoning out" to more severe forms of disconnection from reality.
 
 ### Double Bind
-A situation where no response is correct—you're wrong if you do and wrong if you don't. Creates a sense of helplessness and confusion. Example: Being criticized for being "too emotional" when upset but "cold" when calm.
+A situation where no response you give is correct—you're wrong if you do and wrong if you don't. This creates helplessness and confusion in you. Example: Being criticized for being "too emotional" when upset but "cold" when calm.
 
 ---
 
@@ -90,29 +90,29 @@ A situation where no response is correct—you're wrong if you do and wrong if y
 A sudden regression to the emotional state of a past trauma, without necessarily having visual memories. You may suddenly feel small, helpless, or terrified without fully understanding why. Common in C-PTSD.
 
 ### Emotional Incest (Covert Incest)
-A dynamic where a parent inappropriately relies on a child for emotional support typically expected from an adult partner. While not sexual, it violates emotional boundaries and can cause lasting damage.
+When a parent inappropriately relies on you as a child for emotional support typically expected from an adult partner. While not sexual, this violates your emotional boundaries and can cause lasting damage.
 
 ### Empathy
-The ability to understand and share the feelings of another. Narcissists have impaired empathy—they may intellectually understand emotions but don't feel them the way others do.
+Your ability to understand and share the feelings of another. Narcissists have impaired empathy—they may intellectually understand emotions but don't feel them the way you do.
 
 ### Enabler
 Someone who facilitates the narcissist's behavior, often unintentionally. May make excuses for them, pressure victims to "keep the peace," or fail to acknowledge the abuse.
 
 ### Enmeshment
-An unhealthy closeness where boundaries between individuals are blurred. Often seen in families where members are not allowed to have separate identities, opinions, or lives.
+Unhealthy closeness where boundaries between individuals blur together. You often see this in families where members cannot have separate identities, opinions, or lives.
 
 ---
 
 ## F
 
 ### False Self
-The constructed persona a narcissist presents to the world. Designed to gain admiration and hide their true feelings of inadequacy. The "mask" they wear in public.
+The constructed persona a narcissist presents to the world. They design this persona to gain admiration and hide their true feelings of inadequacy. The "mask" they wear in public.
 
 ### FLEAS
-Maladaptive behaviors picked up from living with a personality-disordered individual. Not full-blown narcissism, but unhealthy patterns learned from exposure. Named from the saying "lie down with dogs, wake up with fleas."
+Maladaptive behaviors you pick up from living with a personality-disordered individual. Not full-blown narcissism, but unhealthy patterns you learn from exposure. The saying "lie down with dogs, wake up with fleas" names this phenomenon.
 
 ### Flying Monkeys
-People who do the narcissist's bidding, often without realizing they're being manipulated. Named after the Wicked Witch's minions in The Wizard of Oz. They may spread gossip, apply pressure, or gather information on the narcissist's behalf.
+People who do the narcissist's bidding, often without realizing they're being manipulated. The Wicked Witch's minions in The Wizard of Oz give this phenomenon its name. They may spread gossip, apply pressure, or gather information on the narcissist's behalf.
 
 ### FOG
 Acronym for Fear, Obligation, and Guilt—the three emotions narcissists use to manipulate and control their victims.
@@ -125,45 +125,45 @@ Making promises about the future with no intention of following through. Used du
 ## G
 
 ### Gaslighting
-A manipulation tactic that makes someone question their own reality, memory, and perceptions. Named after the 1944 film *Gaslight*. Examples: denying things that happened, calling you crazy or too sensitive, rearranging facts until you doubt yourself.
+A manipulation tactic that makes you question your own reality, memory, and perceptions. The 1944 film *Gaslight* gives this tactic its name. Examples: denying things that happened, calling you crazy or too sensitive, rearranging facts until you doubt yourself.
 
 ### Golden Child
-In narcissistic family systems, the child who is idealized and favored by the narcissistic parent. May become a narcissist themselves or struggle with perfectionism and identity issues.
+In narcissistic family systems, the child whom the narcissistic parent idealizes and favors. This child may become a narcissist themselves or struggle with perfectionism and identity issues.
 
 ### Gray Rock Method
 A technique for dealing with narcissists where you become as boring and unresponsive as a gray rock. Giving minimal emotional reactions and keeping conversations brief and dull.
 
 ### Grandiosity
-An inflated sense of self-importance characteristic of narcissism. The belief that one is special, superior, or deserving of special treatment.
+An inflated sense of self-importance that characterizes narcissism. The narcissist believes they're special, superior, or deserving of special treatment.
 
 ### Grooming
-The process of building trust and emotional connection for the purpose of manipulation or abuse. Can occur over weeks, months, or years before abuse becomes apparent.
+Building trust and emotional connection with you for the purpose of manipulation or abuse. This can occur over weeks, months, or years before abuse becomes apparent.
 
 ---
 
 ## H
 
 ### Hoovering
-Attempts to suck a victim back into a relationship after a discard or when they try to leave. Named after the vacuum cleaner. May include love-bombing, false apologies, threats, or playing victim.
+Attempts to suck you back into a relationship after a discard or when you try to leave. The vacuum cleaner gives this tactic its name. May include love-bombing, false apologies, threats, or playing victim.
 
 ### Hypervigilance
-A state of increased alertness and sensitivity to potential threats. Common in trauma survivors. In relationships, manifests as constantly scanning for mood changes or signs of impending conflict.
+A state where you become increasingly alert and sensitive to potential threats. You commonly experience this as a trauma survivor. In relationships, you constantly scan for mood changes or signs of impending conflict.
 
 ---
 
 ## I
 
 ### Idealization
-The first phase of the narcissistic abuse cycle. The narcissist puts the victim on a pedestal, showering them with attention, affection, and admiration. Creates the "high" that the victim later chases.
+The first phase of the narcissistic abuse cycle. The narcissist puts you on a pedestal, showering you with attention, affection, and admiration. This creates the "high" that you later chase.
 
 ### Identified Patient
-In family therapy, the family member who is blamed for the family's problems. In narcissistic families, often the scapegoat is treated as the "problem" while the real dysfunction is ignored.
+In family therapy, the family member whom everyone blames for the family's problems. In narcissistic families, the family often treats the scapegoat as the "problem" while ignoring the real dysfunction.
 
 ### Intermittent Reinforcement
-An unpredictable pattern of reward and punishment that creates powerful psychological bonding. The inconsistency creates hope and addiction similar to gambling.
+An unpredictable pattern of reward and punishment that creates powerful psychological bonding in you. The inconsistency creates hope and addiction in you similar to gambling.
 
 ### Invalidation
-Dismissing, ignoring, or rejecting someone's thoughts, feelings, or experiences. A core tactic of emotional abuse that erodes self-trust.
+Dismissing, ignoring, or rejecting your thoughts, feelings, or experiences. This core tactic of emotional abuse erodes your self-trust.
 
 ---
 
@@ -203,19 +203,19 @@ Constantly changing expectations or criteria for success so that the victim can 
 ## N
 
 ### Narcissistic Collapse
-When a narcissist's false self is exposed or their supply is cut off, leading to rage, depression, or dramatic behavior.
+When you expose a narcissist's false self or cut off their supply, this leads to rage, depression, or dramatic behavior.
 
 ### Narcissistic Injury
-A perceived threat to a narcissist's self-esteem or self-worth, leading to disproportionate rage or withdrawal. Can be triggered by minor criticism or perceived slights.
+A perceived threat to a narcissist's self-esteem or self-worth, leading to disproportionate rage or withdrawal. Minor criticism or perceived slights can trigger this response.
 
 ### Narcissistic Personality Disorder (NPD)
-A clinical diagnosis in the DSM-5 characterized by grandiosity, need for admiration, and lack of empathy. Note: This book describes behavioral patterns, not clinical diagnosis.
+A clinical diagnosis in the DSM-5 that features grandiosity, need for admiration, and lack of empathy. Note: This book describes behavioral patterns, not clinical diagnosis.
 
 ### Narcissistic Rage
-Intense anger in response to narcissistic injury. Can be explosive (yelling, violence, threats) or passive-aggressive (silent treatment, sabotage).
+Intense anger in response to narcissistic injury. This rage can explode (yelling, violence, threats) or manifest passive-aggressively (silent treatment, sabotage).
 
 ### Narcissistic Supply
-The attention, admiration, and emotional reactions that narcissists need to maintain their self-image. Can be positive (praise) or negative (fear, anger).
+The attention, admiration, and emotional reactions that narcissists need to maintain their self-image. This supply can come from positive sources (praise) or negative ones (fear, anger).
 
 ### No Contact
 Completely cutting off all communication and interaction with a narcissist. Often recommended for healing but not always possible.
@@ -235,13 +235,13 @@ A narcissist whose traits are obvious and grandiose. They openly seek admiration
 ## P
 
 ### Parentification
-When a child is forced to take on adult responsibilities, particularly caring for a parent emotionally or practically. Common in families with narcissistic parents.
+When others force you as a child to take on adult responsibilities, particularly caring for a parent emotionally or practically. You commonly experience this in families with narcissistic parents.
 
 ### Projection
-Attributing one's own unacceptable thoughts, feelings, or behaviors to someone else. Example: A narcissist who is cheating accuses their partner of cheating.
+Attributing one's own unacceptable thoughts, feelings, or behaviors to you instead. Example: A narcissist who is cheating accuses you of cheating.
 
 ### Protective Self
-The part of yourself that developed survival strategies to cope with abuse. May include hypervigilance, people-pleasing, or emotional numbing. Important to honor even while outgrowing these patterns.
+The part of yourself that developed survival strategies to cope with abuse. This may include hypervigilance, people-pleasing, or emotional numbing. You need to honor this part even while outgrowing these patterns.
 
 ### Proxy Recruitment
 Enlisting others to do your work of manipulation, abuse, or control. The people recruited (Flying Monkeys) may not realize they're being used.
@@ -254,26 +254,26 @@ Enlisting others to do your work of manipulation, abuse, or control. The people 
 When you finally react to sustained abuse—with anger, tears, or behavior they can use against you. They provoke the reaction, then point to it as proof that you're the problem.
 
 ### Reality Testing
-The practice of checking your perceptions against outside sources to counter gaslighting effects. May include journaling, consulting trusted friends, or reviewing documentation.
+When you check your perceptions against outside sources to counter gaslighting effects. This may include journaling, consulting trusted friends, or reviewing documentation.
 
 ### Reparenting
-The process of providing yourself the nurturing, validation, and care you didn't receive as a child. Often part of healing from narcissistic family dynamics.
+When you provide yourself the nurturing, validation, and care you didn't receive as a child. This often becomes part of your healing from narcissistic family dynamics.
 
 ### Rumination
-Repetitively thinking about distressing experiences without resolution. Common after narcissistic abuse as the mind tries to make sense of what happened.
+When you repetitively think about distressing experiences without resolution. You commonly experience this after narcissistic abuse as your mind tries to make sense of what happened.
 
 ---
 
 ## S
 
 ### Scapegoat
-In narcissistic family systems, the child who is blamed, criticized, and treated as the family problem. The repository for the family's dysfunction.
+In narcissistic family systems, the child whom the family blames, criticizes, and treats as the problem. This child becomes the repository for the family's dysfunction.
 
 ### Silent Treatment
-Withdrawing communication as punishment or manipulation. A form of emotional abuse designed to create anxiety and extract compliance.
+Withdrawing communication as punishment or manipulation. This form of emotional abuse aims to create anxiety in you and extract compliance.
 
 ### Smear Campaign
-Deliberately spreading negative information (often false or exaggerated) about someone to damage their reputation. Often occurs when victims try to leave or expose the narcissist.
+Deliberately spreading negative information (often false or exaggerated) about you to damage your reputation. This often occurs when you try to leave or expose the narcissist.
 
 ### Splitting
 Viewing people or situations as all good or all bad with no middle ground. Also called black-and-white thinking. Common in personality disorders.
@@ -289,29 +289,29 @@ See "Narcissistic Supply."
 ## T
 
 ### Toxic Shame
-A deep, pervasive sense of being fundamentally flawed or defective as a person. Different from healthy shame about specific behaviors. Often instilled through narcissistic abuse.
+A deep, pervasive sense that you're fundamentally flawed or defective as a person. This differs from healthy shame about specific behaviors. Narcissistic abuse often instills this in you.
 
 ### Trauma Bond
-An attachment formed through repeated cycles of abuse and intermittent reinforcement. Creates powerful psychological bonds that make leaving difficult. Similar to Stockholm Syndrome.
+An attachment you form through repeated cycles of abuse and intermittent reinforcement. This creates powerful psychological bonds that make leaving difficult. Similar to Stockholm Syndrome.
 
 ### Triangulation
 Bringing a third party into the dynamic to create jealousy, insecurity, or competition. Examples: comparing you unfavorably to an ex, flirting with others, or using children as messengers.
 
 ### Trigger
-A stimulus (word, sensation, situation) that activates a trauma response, often bringing back emotions from past experiences.
+A stimulus (word, sensation, situation) that activates a trauma response in you, often bringing back emotions from past experiences.
 
 ---
 
 ## V
 
 ### Validation
-Acknowledgment that someone's thoughts, feelings, and experiences are real and understandable. The opposite of invalidation. Essential for healing.
+Acknowledgment that your thoughts, feelings, and experiences are real and understandable. The opposite of invalidation. This becomes essential for your healing.
 
 ### Victim Stance
 When an abuser presents themselves as the victim to avoid accountability and garner sympathy. Different from actual victimization.
 
 ### Vulnerability Hangover
-The uncomfortable feeling after sharing something personal or setting a boundary. Common in recovery as you learn that vulnerability is safe.
+The uncomfortable feeling you experience after sharing something personal or setting a boundary. You commonly feel this in recovery as you learn that vulnerability is safe.
 
 ---
 

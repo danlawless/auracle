@@ -338,51 +338,17 @@ The most disorienting thing you can do to a narcissist isn't to beat them at the
 
 ---
 
-## The 5-Second Response Protocol
+## Quick Response Tools
 
-When hit with a tactic and caught off guard:
+When you need immediate response techniques in a crisis moment, see **Chapter 16: Decoder Cards—Emergency Protocol**. That chapter covers:
 
-**Second 1-2:** Pause. Take a breath. Say nothing.
+- The 5-Second Response Protocol
+- The Universal Response Bank (memorizable phrases for any tactic)
+- The Broken Record Technique
+- Quick Grounding Techniques
+- The Exit Ladder
 
-**Second 3:** Internally identify: "This is [tactic name]."
-
-**Second 4:** Choose from your response bank (see below).
-
-**Second 5:** Deliver flatly. Do not elaborate.
-
-### The Universal Response Bank
-
-Memorize these. They work for almost any tactic:
-
-- "I hear you."
-- "That's one way to see it."
-- "I'll think about that."
-- "Interesting perspective."
-- "We see it differently."
-- "This isn't productive."
-- "I'm not going to engage with that."
-- "Not my world." (Disengages from their drama/reality without argument)
-- *Silence + unchanged expression*
-
-### The Broken Record Technique
-
-When they push back on your boundary:
-
-1. State your position once, clearly
-2. When they argue, repeat it identically
-3. Don't add new information or justification
-4. Match their escalation with calm repetition
-
-**Example:**
-- You: "I'm not discussing this tonight."
-- Them: "But we need to resolve this!"
-- You: "I'm not discussing this tonight."
-- Them: "You always run away from problems!"
-- You: "I'm not discussing this tonight."
-- Them: [Escalates]
-- You: "I'm not discussing this tonight." [Exit room if needed]
-
-The repetition signals: This isn't a negotiation. The answer won't change.
+This chapter focuses on **situation-specific scripts**—what to say in particular scenarios. Chapter 16 gives you the emergency toolkit; this chapter gives you the conversation playbook.
 
 ---
 
@@ -628,20 +594,6 @@ Instead of defending, ask:
 - "Is there something specific you'd like me to change?"
 
 This shifts the labor to them. They must articulate what they want—which often exposes that they want control, not resolution.
-
-### The Exit Ladder
-
-When a conversation is escalating, use progressive exits:
-
-**Level 1 - Topic Exit:** "I'm not discussing that. What else is on your mind?"
-
-**Level 2 - Conversation Exit:** "I'm going to stop this conversation for now."
-
-**Level 3 - Room Exit:** "I'm stepping away." [Leave]
-
-**Level 4 - Contact Exit:** "I'm ending this call/visit." [Leave/hang up]
-
-You don't have to announce which level you're moving to. Just execute.
 
 ### The Documentation Discipline
 

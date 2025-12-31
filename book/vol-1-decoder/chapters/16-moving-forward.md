@@ -248,7 +248,7 @@ This isn't failure. It's extremely common.
 
 - The neural pathways are well-worn
 - Familiar feels safe, even when it isn't
-- Love bombing feels good after the work of recovery
+- Love-bombing feels good after the work of recovery
 - Old parts of you still need healing
 
 ### What to Do

@@ -21,10 +21,10 @@
 | [Chapter 8](./chapters/08-family-breaking-free.md) | Breaking Free from Family Systems | Exit strategies and ongoing contact management |
 | [Chapter 9](./chapters/09-romantic-manipulation.md) | Romantic Manipulation | How narcissism operates in intimate relationships |
 | [Chapter 10](./chapters/10-manipulation-across-contexts.md) | Manipulation Across Contexts | Workplace, friendships, and other arenas |
-| [Chapter 11](./chapters/11-decoder-cards-core.md) | Decoder Cards — Core | 19 quick-reference cards for common patterns |
-| [Chapter 12](./chapters/12-decoder-cards-advanced.md) | Decoder Cards — Advanced | 18 cards for sophisticated and exit-related tactics |
-| [Chapter 13](./chapters/13-decoder-cards-protocol.md) | Decoder Cards — Protocol | How to use decoder cards in real-time |
-| [Chapter 14](./chapters/14-energetic-remapping.md) | Energetic Remapping | Rewiring your nervous system for freedom |
+| [Chapter 11](./chapters/11-decoder-cards-core.md) | Decoder Cards — Core Patterns | 19 quick-reference cards for common patterns |
+| [Chapter 12](./chapters/12-decoder-cards-advanced.md) | Decoder Cards — Advanced Patterns | 18 cards for sophisticated and exit-related tactics |
+| [Chapter 13](./chapters/13-decoder-cards-protocol.md) | Decoder Cards — Emergency Protocol | How to use decoder cards in real-time |
+| [Chapter 14](./chapters/14-energetic-remapping.md) | Energetic Remapping — Recovery Tools | Rewiring your nervous system for freedom |
 | [Chapter 15](./chapters/15-practical-responses.md) | Practical Responses & Scripts | What to actually say and do |
 | [Chapter 16](./chapters/16-moving-forward.md) | Moving Forward | Closing chapters and beginning new ones |
 | [Chapter 17](./chapters/17-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |

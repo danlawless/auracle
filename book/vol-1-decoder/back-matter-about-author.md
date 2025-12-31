@@ -66,7 +66,7 @@ In 2025, this journey crystallized into the founding of the International School
 
 ## Living in Community
 
-Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (their tech wizard).
+Today, Jennifer lives her dream in Costa Rica, on a hill surrounded by lemon trees. She shares this sacred space with her partner **Daniel** (her tech wizard).
 
 Living in community starts with an open heart, and Jennifer is grateful every day for the soul family that surrounds her—including the howler monkeys.
 

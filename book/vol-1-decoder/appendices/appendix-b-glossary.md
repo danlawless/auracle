@@ -278,7 +278,7 @@ Deliberately spreading negative information (often false or exaggerated) about s
 ### Splitting
 Viewing people or situations as all good or all bad with no middle ground. Also called black-and-white thinking. Common in personality disorders.
 
-### Stone Wall
+### Stonewalling
 Refusing to communicate or cooperate. Withdrawing and being unresponsive as a way to punish or control.
 
 ### Supply

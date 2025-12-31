@@ -383,8 +383,6 @@ You don't need anyone's permission to:
 - Set boundaries without explanation
 - Walk away from relationships that harm you
 - Prioritize your wellbeing over someone else's comfort
-- Feel angry about what was done to you
-- Take as long as you need to heal
 - Never speak to someone again
 - Change your mind about forgiveness
 - Protect yourself in ways that feel "selfish" to others

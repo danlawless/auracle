@@ -140,7 +140,7 @@ If you can only feel close after conflict, you're in a relief cycle, not a love 
 
 Here's an even deeper truth that can be hard to accept:
 
-**What feels like attraction is often repulsion mixed with sexual energy mixed with relief from dopamine and the feeling of safety that comes after someone yells—then makes you feel better again.**
+**What feels like attraction is often a cocktail: repulsion, sexual energy, dopamine relief, and the false safety that floods in after someone yells—then soothes you again.**
 
 Read that again.
 

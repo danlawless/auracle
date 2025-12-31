@@ -36,7 +36,7 @@ You don't need to have a clinical diagnosis for someone in your life. You don't 
 ## How to Use This Book
 
 ### If You're in Crisis
-Start with **Chapter 9: Energetic Remapping** for immediate grounding tools, then read **Chapter 11: Practical Responses** for scripts you can use right now.
+Start with **Chapter 14: Energetic Remapping** for immediate grounding tools, then read **Chapter 15: Practical Responses** for scripts you can use right now.
 
 **Immediate Safety Resources:**
 - **National Domestic Violence Hotline:** 1-800-799-7233 (24/7)
@@ -48,10 +48,10 @@ Start with **Chapter 9: Energetic Remapping** for immediate grounding tools, the
 Read the book in order. The chapters build on each other, taking you from recognition through understanding to recovery.
 
 ### If You're Healing
-Spend time with **Chapter 4: Trauma Bonds** and **Appendix B: Understanding Your Childhood Patterns**. Understanding the biology of what happened helps release the shame. For deeper grief work, see **[Volume 2: The Bridge](../vol-2-bridge/README.md)**.
+Spend time with **Chapter 4: Trauma Bonds** and **Chapter 18: Understanding Your Childhood Patterns**. Understanding the biology of what happened helps release the shame. For deeper grief work, see **[Volume 2: The Bridge](../vol-2-bridge/README.md)**.
 
 ### If You're Helping Others
-The **Decoder Cards** in Chapter 8 are designed to be shared. Use them as conversation starters or teaching tools.
+The **Decoder Cards** in Chapters 11, 12, and 13 are designed to be shared. Use them as conversation starters or teaching tools.
 
 ### If You're Creating Content
 **Appendix A** provides a structure for turning this material into videos, posts, and educational content.

@@ -126,9 +126,9 @@ Understanding how shame works helps you release it.
 **Guilt** says: "I did something bad."
 **Shame** says: "I am bad."
 
-Guilt can be useful—it alerts us when we've violated our own values and motivates repair.
+Guilt can be useful—it alerts you when you've violated your own values and motivates repair.
 
-Shame is rarely useful. It collapses our identity into our worst moment. It paralyzes rather than motivates.
+Shame is rarely useful. It collapses your identity into your worst moment. It paralyzes rather than motivates.
 
 Narcissists trade in shame. They deposit it, invoke it, and use your fear of it against you.
 
@@ -141,7 +141,7 @@ Narcissists trade in shame. They deposit it, invoke it, and use your fear of it 
 - Mockery of your sincere expression
 - Comparison to others who are "better"
 
-You may have absorbed shame as a child and continue absorbing it as an adult. At some point, you began carrying shame that was never yours to carry.
+You might have absorbed shame as a child and continue absorbing it as an adult. At some point, you began carrying shame that was never yours to carry.
 
 ### Releasing Shame
 

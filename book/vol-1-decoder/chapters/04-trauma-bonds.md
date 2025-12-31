@@ -65,13 +65,13 @@ Things are good again. The person you love is back. You question whether the bad
 
 ## The Neuroscience of Intermittent Reinforcement
 
-Here's where it gets biological.
+Now we enter the biological realm.
 
 Your brain has a reward system that evolved to help you survive. When you get something you need (food, safety, connection), dopamine is released, which feels good and motivates you to repeat the behavior that got you the reward.
 
 But here's the catch: **intermittent, unpredictable rewards create stronger dopamine responses than consistent, predictable ones.**
 
-This is why slot machines are addictive while vending machines aren't. The slot machine might pay off—you don't know when. That uncertainty creates a neurological hook that reliable outcomes can't match.
+Slot machines prove addictive while vending machines don't. The slot machine might pay off—you don't know when. That uncertainty creates a neurological hook that reliable outcomes can't match.
 
 In an abusive relationship:
 - Love is the reward
@@ -106,13 +106,13 @@ This cognitive work keeps you attached because *leaving would mean admitting the
 
 ## The Attachment System Under Siege
 
-Humans are wired for attachment. We literally need connection to survive, especially as children but also as adults. Our attachment system evolved to keep us close to caregivers who could protect us.
+Humans are wired for attachment. You literally need connection to survive, especially as children but also as adults. Your attachment system evolved to keep you close to caregivers who could protect you.
 
 In an abusive relationship, something paradoxical happens: **the source of fear becomes the source of comfort.**
 
 When the person who hurt you is also the person you run to for comfort after being hurt, your attachment system gets scrambled. You become more attached, not less, because the cycle of fear → relief → bonding → fear repeats over and over.
 
-This is the same mechanism behind why kidnapping victims sometimes bond with their captors (Stockholm Syndrome) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds—it just bonds.
+The same mechanism explains why kidnapping victims sometimes bond with their captors (Stockholm Syndrome) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds—it just bonds.
 
 **Physical intimidation intensifies this bonding even further.** When someone demonstrates your physical vulnerability—placing their hand on your throat, making a fist near you, standing over you—your body registers existential threat. Your survival brain activates. When that same person then becomes "safe" again (doesn't follow through, becomes calm, shows affection), the relief is overwhelming. The drop from mortal fear to safety creates an especially powerful neurochemical response. This is why relationships with physical intimidation can create some of the strongest trauma bonds—your body confuses the relief from their restraint with love, when really it's just relief that they chose not to hurt you this time. (See Chapter 3, Tactic 4; Chapter 9, Exit Phase Escalation)
 
@@ -138,7 +138,7 @@ If you can only feel close after conflict, you're in a relief cycle, not a love 
 
 ### The Repulsion-Attraction Confusion
 
-Here's an even deeper truth that can be hard to accept:
+An even deeper truth emerges, one that can be hard to accept:
 
 **What feels like attraction is often a cocktail: repulsion, sexual energy, dopamine relief, and the false safety that floods in after someone yells—then soothes you again.**
 
@@ -205,7 +205,7 @@ As you heal, sexuality may feel confusing:
 - Arousal may not spike without intensity
 - You may miss the "passion" without understanding what it actually was
 
-This is normal. Your nervous system learned to pair arousal with activation.
+Your nervous system learned to pair arousal with activation—a completely normal response.
 
 In Volume 4, we'll explore how sexuality reorganizes after sovereignty installs—how desire returns without needing threat to feel alive.
 
@@ -296,7 +296,7 @@ These are nervous system responses, not character flaws. Your body is still runn
 
 You can know intellectually that the relationship was harmful. You can know the tactics. You can read this book and nod along to every chapter. And still find yourself missing them, wanting to go back, believing it could be different.
 
-This is because **trauma bonds operate below the level of rational thought.** They're stored in the brainstem and limbic system, which don't speak the language of logic.
+The reason: **trauma bonds operate below the level of rational thought.** They're stored in the brainstem and limbic system, which don't speak the language of logic.
 
 You can't think your way out of a trauma bond. You have to *work* your way out—through body-based practices, consistent safety, new neural pathways, and time.
 

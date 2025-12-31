@@ -74,7 +74,7 @@ The worst part: you might not even realize you're suffering. Everyone tells you 
 
 You carry the family's shadow. Their dysfunction, their shame, their failures—all projected onto you. You're the reason things are hard. You're too sensitive, too angry, too difficult, too much.
 
-You may have internalized it. Believed you really were the problem. Spent years trying to be "better," to finally earn the love that flowed so easily to the golden child. Or you stopped trying and became what they said you were—because at least that was something.
+Perhaps you internalized it. Believed you really were the problem. Spent years trying to be "better," to finally earn the love that flowed so easily to the golden child. Or you stopped trying and became what they said you were—because at least that was something.
 
 The crazy-making part: when you point out what's wrong, you become proof of what's wrong. Your accurate perception becomes your pathology.
 

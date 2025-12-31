@@ -235,7 +235,7 @@ Healing involves connecting with that part and offering what was missing:
 - "You are worthy of love just as you are."
 - "I'm here for you now."
 
-This isn't pretending to be two people. It's recognizing that earlier versions of you internalized messages that still run today, and consciously updating them.
+Not pretending to be two people—rather, recognizing that earlier versions of you internalized messages that still run today, and consciously updating them.
 
 ---
 
@@ -285,44 +285,44 @@ This section names these patterns briefly. Deeper exploration and healing practi
 
 ### Field Note: The Trampoline
 
-She is young. A boy wants something she doesn't.
+You are young. Someone wants something you don't.
 
-She feels the moment stretch—the risk of disappointing him heavier than her own discomfort.
+You feel the moment stretch—the risk of disappointing them heavier than your own discomfort.
 
-She agrees without wanting to.
+You agree without wanting to.
 
-Later, she can't explain why she didn't leave.
+Later, you can't explain why you didn't leave.
 
-She learns something silently:
-*My body is negotiable if it keeps the peace.*
+You learn something silently:
+*Your body is negotiable if it keeps the peace.*
 
 ---
 
-### Field Note: The Story That Wasn't Hers
+### Field Note: The Story That Wasn't Yours
 
-They don't have sex.
+You don't have sex.
 
-Still, he tells people her most private truth—a story she shared because she trusted him.
+Still, they tell people your most private truth—a story you shared because you trusted them.
 
-Her body learns another lesson:
+Your body learns another lesson:
 *Vulnerability can be weaponized.*
 
 Desire becomes guarded. Silence feels safer than truth.
 
 ---
 
-### Field Note: The Moment She Gave Up
+### Field Note: The Moment You Gave Up
 
-She has been drinking. He says it's already happening.
+You have been drinking. They say it's already happening.
 
-She freezes—not from desire, but from resignation.
+You freeze—not from desire, but from resignation.
 
-She says "okay" without meaning yes.
+You say "okay" without meaning yes.
 
 Something quiet breaks.
 
-Later she thinks:
-*I lost something—and I don't know how to name it.*
+Later you think:
+*You lost something—and you don't know how to name it.*
 
 ---
 

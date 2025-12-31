@@ -19,7 +19,7 @@ The narcissist may:
 
 **What this does to siblings:**
 
-You may have grown up believing your sibling was the enemy. That they got what you needed. That they were favored (or unfairly blamed). You competed for scraps of approval that never filled either of you.
+Perhaps you grew up believing your sibling was the enemy. That they got what you needed. That they were favored (or unfairly blamed). You competed for scraps of approval that never filled either of you.
 
 The tragedy is that you both were wounded. The golden child was performing for conditional love. The scapegoat was carrying projected shame. Neither of you got what you needed. You were both victims—and you were set against each other.
 
@@ -199,7 +199,7 @@ The moment you catch yourself doing something your parent did is jarring. The sa
 
 3. **Repair when you slip.** The difference between you and them is repair. They never acknowledged harm. You can.
 
-4. **Understand the mechanism.** Under stress, we regress to what was modeled. This doesn't mean you're destined to repeat—it means you have more healing to do.
+4. **Understand the mechanism.** Under stress, you regress to what was modeled. This doesn't mean you're destined to repeat—it means you have more healing to do.
 
 5. **Build new defaults.** The more you practice different responses in calm moments, the more available they become in triggered moments.
 

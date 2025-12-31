@@ -144,7 +144,7 @@ Don't elaborate. "I was clear. Let me know when you're ready to engage with what
 - "You seem so independent—do you need anyone?"
 
 **What's Really Happening:**
-This isn't curiosity—it's data collection. They're scanning for weakness, isolation, or vulnerability. Information about your support system tells them how much leverage they have.
+What appears as curiosity is actually data collection. They're scanning for weakness, isolation, or vulnerability. Information about your support system tells them how much leverage they have.
 
 **How It Hooks You:**
 It feels like normal getting-to-know-you conversation. You share openly. They file away what they learn for potential future use.

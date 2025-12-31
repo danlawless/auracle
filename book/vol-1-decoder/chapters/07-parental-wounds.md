@@ -8,11 +8,11 @@
 
 When the narcissist is your mother, the wound runs particularly deep.
 
-Mothers are our first attachment. Biologically, psychologically, we're wired to bond with the maternal figure. When that bond is contaminated by narcissism, it affects our most foundational understanding of:
-- Whether we're worthy of love
-- Whether our needs matter
-- Whether we can trust those closest to us
-- Whether we deserve to exist
+Mothers are your first attachment. Biologically, psychologically, you're wired to bond with the maternal figure. When that bond is contaminated by narcissism, it affects your most foundational understanding of:
+- Whether you're worthy of love
+- Whether your needs matter
+- Whether you can trust those closest to you
+- Whether you deserve to exist
 
 ### The Narcissistic Mother May:
 
@@ -22,7 +22,7 @@ Mothers are our first attachment. Biologically, psychologically, we're wired to 
 - Use children as extensions of herself rather than seeing them as separate people
 - Intrude on privacy, boundaries, and autonomy
 - Switch between smothering and neglecting
-- Be enraged by children's independence or success
+- Rage at children's independence or success
 - Play victim when children set boundaries
 - Betray confidences (the "Mother Betrayal Pattern")
 
@@ -30,9 +30,9 @@ Mothers are our first attachment. Biologically, psychologically, we're wired to 
 
 There's a particular loneliness in this wound. Everyone expects mothers to be nurturing. The cultural narrative says mothers love unconditionally. So when yours didn't—when yours competed, criticized, neglected, or used you—you may have concluded the problem was you.
 
-You may have spent years trying to earn what should have been freely given. Performing. Achieving. Being good enough. Only to realize that "enough" didn't exist.
+You might have spent years trying to earn what should have been freely given. Performing. Achieving. Being good enough. Only to realize that "enough" didn't exist.
 
-You may have learned to:
+Perhaps you learned to:
 - Caretake before being cared for
 - Read her moods before your own
 - Make yourself small so she could be big

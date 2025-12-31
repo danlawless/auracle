@@ -136,37 +136,37 @@ Grounded compassion supports your growth. False compassion keeps you entangled.
 
 You've been through a lot. You've survived patterns that were designed to diminish you. And you're still here.
 
-Here's a statement to claim as your own—modify it to fit your truth:
+What's true about you now:
 
 ---
 
-*I am surrounded by authentic people.*
+*You are surrounded by authentic people.*
 
 *Truth tellers.*
 
-*I am loved by many for how amazing I am.*
+*You are loved by many for how amazing you are.*
 
-*I get honored for who I am and the gifts I have.*
+*You get honored for who you are and the gifts you have.*
 
-*I choose to cultivate peace and love in my life.*
+*You choose to cultivate peace and love in your life.*
 
-*I know what real love feels like.*
+*You know what real love feels like.*
 
 *It doesn't have conditions or strings.*
 
-*I choose to be with people who show up fully.*
+*You choose to be with people who show up fully.*
 
-*I trust my perception.*
+*You trust your perception.*
 
-*I honor my boundaries.*
+*You honor your boundaries.*
 
-*I am worthy of respect simply because I exist.*
+*You are worthy of respect simply because you exist.*
 
-*I am coming home to myself.*
+*You are coming home to yourself.*
 
 ---
 
-Write your own version. Read it when you forget. Let it become part of your internal landscape.
+Read this when you forget. Let it become part of your internal landscape.
 
 ---
 
@@ -311,7 +311,7 @@ You are not broken by what happened. You are **informed** by what happened. Ther
 
 ## The Final Word
 
-Here's what I want you to take from this book:
+What I want you to take from this book:
 
 **You can trust yourself.**
 

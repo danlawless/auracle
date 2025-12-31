@@ -37,7 +37,7 @@ Narcissistic family dynamics involve:
 
 ## Friendships
 
-Narcissism in friendships is often overlooked because we expect less from friends than from partners or family. But the pattern can be just as damaging.
+Narcissism in friendships is often overlooked because you expect less from friends than from partners or family. But the pattern can be just as damaging.
 
 ### Signs of a Narcissistic Friendship
 
@@ -77,7 +77,7 @@ A flinch when sharing good news. The impulse to minimize your accomplishments so
 
 Suffocated. Obligated. A sense of owing them attention you don't want to give.
 
-### Why We Stay in Bad Friendships
+### Why You Stay in Bad Friendships
 
 - History ("We've known each other forever")
 - Sunk cost ("We've been through so much")
@@ -164,7 +164,7 @@ A split. Part of you feels expanded by the practices. Part of you is contracting
 
 ### Healing from Spiritual Abuse
 
-This is particularly disorienting because:
+Particularly disorienting because:
 - Your meaning-making system was hijacked
 - You may not trust your own spiritual experiences anymore
 - You may feel foolish for believing

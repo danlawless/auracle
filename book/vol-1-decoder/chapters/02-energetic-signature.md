@@ -25,7 +25,7 @@ This chapter is about learning to trust that signal.
 
 ## The Body as Early Warning System
 
-Humans are wired for survival. Long before we developed language, our ancestors survived by reading subtle cues in their environment and in each other. We still have this capacity—we've just been trained to ignore it.
+Humans are wired for survival. Long before you developed language, your ancestors survived by reading subtle cues in their environment and in each other. You still have this capacity—you've just been trained to ignore it.
 
 The body processes information much faster than the conscious mind. While your brain is still thinking, "They seem nice, they're saying caring things," your nervous system is registering:
 
@@ -39,7 +39,7 @@ The body processes information much faster than the conscious mind. While your b
 
 This isn't mystical. It's biology. Your autonomic nervous system is constantly scanning for threat, and it has access to information your conscious awareness doesn't.
 
-The problem is: we've been taught to override it.
+The problem is: you've been taught to override it.
 
 "Don't be rude."
 "Give them the benefit of the doubt."
@@ -52,12 +52,12 @@ Every time someone dismissed your perception, they trained you to distrust your 
 
 ### The Neuroception of Safety and Danger
 
-Dr. Stephen Porges, the neuroscientist who developed Polyvagal Theory, coined the term "neuroception" to describe the process by which our nervous system evaluates risk without our conscious awareness. Your body is constantly asking: "Am I safe? Am I in danger? Do I need to fight, flee, freeze, or fawn?"
+Dr. Stephen Porges, the neuroscientist who developed Polyvagal Theory, coined the term "neuroception" to describe the process by which your nervous system evaluates risk without your conscious awareness. Your body is constantly asking: "Am I safe? Am I in danger? Do I need to fight, flee, freeze, or fawn?"
 
 This evaluation happens below the level of thought. Before you've decided what you think about someone, your nervous system has already made an assessment.
 
 When neuroception detects danger, it triggers a cascade of physiological responses:
-- Heart rate changes
+- Heart rate increases
 - Breathing becomes shallow
 - Muscles tense
 - Attention narrows
@@ -90,17 +90,17 @@ The heart space knows the difference between being loved and being wanted.
 
 ### Constant Alertness and Vigilance
 
-This is the "scanning" sensation—when part of your attention is always monitoring their mood, their tone, their face. You're watching for the shift. You're trying to predict what's coming.
+The "scanning" sensation emerges—when part of your attention is always monitoring their mood, their tone, their face. You're watching for the shift. You're trying to predict what's coming.
 
 This hypervigilance is exhausting, but when you're in it, it feels necessary. You've learned (often through painful experience) that the mood can change without warning, and you need to be ready.
 
 Signs of hypervigilance include:
-- Difficulty relaxing in their presence
-- Part of your attention always on them, even in conversation with others
+- Struggling to relax in their presence
+- Keeping part of your attention always on them, even in conversation with others
 - Monitoring their facial expressions and tone constantly
 - Rehearsing what you'll say based on their predicted responses
 - Feeling like you're "on stage" or performing
-- Relief when they leave the room, even temporarily
+- Experiencing relief when they leave the room, even temporarily
 
 This vigilance drains your life force. Energy that should go toward your own life is instead consumed by surveillance of theirs.
 
@@ -122,7 +122,7 @@ Important: This is not your shame. It's theirs, and they've made you the contain
 
 ### Scanning for Which Version Is Coming
 
-This is one of the most distinctive signatures: the sense that there are multiple versions of this person, and you never know which one you'll get. The charming one? The cold one? The angry one? The wounded one? The dismissive one? The adoring one?
+One of the most distinctive signatures: the sense that there are multiple versions of this person, and you never know which one you'll get. The charming one? The cold one? The angry one? The wounded one? The dismissive one? The adoring one?
 
 This uncertainty keeps you perpetually off-balance. It's not a bug—it's a feature. Your instability serves their control.
 
@@ -160,12 +160,12 @@ Your body is telling the truth about this relationship. Listen to it.
 ### The Foggy Mind
 
 After interactions with controlling people, you may notice:
-- Difficulty thinking clearly
+- Struggling to think clearly
 - Forgetting what you were going to say
 - Losing track of your own position in a discussion
 - Feeling confused about what just happened
 - Needing time alone to "come back to yourself"
-- Memory gaps about the interaction
+- Experiencing memory gaps about the interaction
 
 This mental fog is a nervous system response. When your system detects threat, it can shift resources away from higher cognitive functions toward survival responses. You're not stupid or losing your mind—you're in a physiological state that impairs clear thinking.
 
@@ -236,7 +236,7 @@ To recognize the energetic signature of control, you need to know what healthy c
 
 Your nervous system has been mis-calibrated by experience. If you grew up with control disguised as care, you may not recognize healthy connection when you encounter it—it might even feel boring, suspicious, or "too easy."
 
-Here's a practice to recalibrate:
+Consider this calibration practice:
 
 ### Step 1: Name What You Feel, Not What You Think
 
@@ -596,7 +596,7 @@ Both are intense, but one nourishes and one drains. Trust the impact, not the in
 
 ### "What if I'm projecting my past onto them?"
 
-This is possible and worth examining. But consider: even if you're sensitive due to past experiences, your sensitivity is still detecting something. Maybe you're detecting a pattern that isn't present in this person—but maybe you're detecting a pattern they're very good at hiding.
+Worth examining, certainly. But consider: even if you're sensitive due to past experiences, your sensitivity is still detecting something. Maybe you're detecting a pattern that isn't present in this person—but maybe you're detecting a pattern they're very good at hiding.
 
 The question isn't "Am I being fair to them?" The question is "Is my nervous system safe?"
 
@@ -608,7 +608,7 @@ If you can't tell the difference, that's valuable information. Healthy relations
 
 ## When Your Body Says "No" but Your Mind Says "Yes"
 
-This is one of the most common and difficult experiences. Your body is signaling danger, but your mind is full of:
+One of the most common and difficult experiences: your body is signaling danger, but your mind is full of:
 - "But they're so nice"
 - "But everyone likes them"
 - "But they've been through so much"

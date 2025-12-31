@@ -84,7 +84,7 @@ They're confused because you didn't play. Their "Huh?" is frustration that you'r
 
 Stay calm. Stay light. Stay slightly amused if you can manage it. You're not fighting—you're redirecting. You're not at their level—you're above it.
 
-This isn't spiritual bypassing (which would mean suppressing real feelings). This is conscious choice about what frequency to respond from.
+To be clear: spiritual bypassing would mean suppressing real feelings. What we're talking about is conscious choice about what frequency to respond from.
 
 ---
 

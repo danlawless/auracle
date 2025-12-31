@@ -58,7 +58,7 @@ That's the only test you need.
 
 ### The Wolf in Sheep's Clothing
 
-There's an ancient fable you already know. A wolf, hungry and clever, realizes it cannot get close to the sheep by being what it is. So it wraps itself in wool. It walks among the flock. It gains trust. And only when it's close enough to consume does it reveal its teeth.
+There's an old fable you already know—dating at least to medieval times, though the precise origins are uncertain. A wolf, hungry and clever, realizes it cannot get close to the sheep by being what it is. So it wraps itself in wool. It walks among the flock. It gains trust. And only when it's close enough to consume does it reveal its teeth.
 
 This isn't just a children's story. It's a survival manual.
 
@@ -104,17 +104,19 @@ Before making any major decision about someone—whether to commit deeper, share
 
 **Why 72 hours?**
 
-- It takes this long for love-bombing neurochemistry to settle
+Many trauma recovery practitioners recommend a minimum of 72 hours, though this is a practical guideline rather than a scientifically validated timeframe. The specific number matters less than the principle: giving yourself enough time to step back from intensity before making significant decisions.
+
+- It gives time for the initial neurochemistry of excitement to settle
 - Patterns that were invisible in excitement become visible in calm
 - You can observe whether their behavior is consistent or performative
 - Your body's signals become clearer when not flooded with dopamine
 - The "spell" of their presence begins to fade, revealing what's underneath
 
-**The Science Behind It:**
+**The Principle Behind It:**
 
 When you're in the presence of someone charming or intense, your brain releases a cocktail of neurochemicals—dopamine (pleasure and reward), oxytocin (bonding), and sometimes adrenaline (excitement/anxiety). This cocktail literally impairs your judgment. You're not seeing the person; you're seeing the person through a chemical filter.
 
-Seventy-two hours allows these chemicals to metabolize. Your prefrontal cortex—the part of your brain responsible for judgment and decision-making—comes back online. You can think clearly again.
+Time allows these chemicals to metabolize. Your prefrontal cortex—the part of your brain responsible for judgment and decision-making—comes back online. You can think clearly again.
 
 **How to use it:**
 
@@ -137,7 +139,7 @@ This test alone would have saved most of us years.
 
 ## The Gradual Boil
 
-There's an old metaphor about a frog in boiling water. If you drop a frog into hot water, it jumps out immediately. But if you place it in cool water and slowly raise the temperature, it stays until it boils.
+There's a well-known metaphor—even though the biology isn't accurate—about a frog in boiling water. If you drop a frog into hot water, it jumps out immediately. But if you place it in cool water and slowly raise the temperature (the metaphor goes), it stays until it boils. In reality, frogs do attempt to escape as water heats. But the metaphor persists because it captures something true about human psychology.
 
 This is how control works.
 
@@ -442,5 +444,5 @@ Let's begin.
 ---
 
 *"The truth will set you free, but first it will piss you off."*
-— Gloria Steinem
+— commonly attributed to Gloria Steinem
 

@@ -1,4 +1,4 @@
-# Chapter 18: Understanding Your Childhood Patterns
+# Chapter 10: Understanding Your Childhood Patterns
 
 ## How Early Experiences Shape Adult Vulnerability
 

@@ -1,4 +1,4 @@
-# Chapter 8: Breaking Free from Family Systems
+# Chapter 9: Breaking Free from Family Systems
 
 ## Siblings, Shame, and Sovereignty
 
@@ -349,6 +349,12 @@ When you must attend family events where the narcissist will be present:
 ### The Tactical Mantra
 
 "I am visiting. I do not live here. I will leave."
+
+---
+
+## What's Next
+
+You've now seen how narcissistic family systems operate—the roles, the wounds, the patterns. But there's a deeper question: Why were you vulnerable in the first place? Before you can fully break free, it helps to understand what was programmed before you could choose. Let's explore your earliest conditioning.
 
 ---
 

@@ -692,5 +692,11 @@ This review process builds your pattern-recognition speed. Eventually, you'll sp
 
 ---
 
+## What Comes Next
+
+You can now name 38 tactics. But naming alone doesn't explain why these hooks work so powerfully—why it's so hard to leave even when you can see what's happening. That's where we go next: the neuroscience of trauma bonds.
+
+---
+
 *"When you can name what's happening, it stops happening to you and starts happening in front of you."*
 

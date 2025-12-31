@@ -267,6 +267,14 @@ That matters.
 
 ---
 
+---
+
+> **⚠️ CONTENT WARNING**
+>
+> The following section contains descriptions of childhood sexual experiences, boundary violations, and sexual trauma. These descriptions are included to help readers recognize patterns in their own histories, but may be activating for some readers. Please pace yourself and skip this section if needed. The chapter summary that follows provides key insights without the detailed descriptions.
+
+---
+
 ## When Sexuality Learns Survival Early
 
 For many people, sexuality was never just about pleasure or connection. It became wired to survival long before conscious choice was possible.
@@ -283,9 +291,9 @@ This section names these patterns briefly. Deeper exploration and healing practi
 
 ---
 
-### Field Note: The Trampoline
+### Field Note: The Moment You Prioritized Their Comfort Over Yours
 
-You are young. Someone wants something you don't.
+You're young. Someone wants something you don't want to give.
 
 You feel the moment stretch—the risk of disappointing them heavier than your own discomfort.
 
@@ -313,7 +321,7 @@ Desire becomes guarded. Silence feels safer than truth.
 
 ### Field Note: The Moment You Gave Up
 
-You have been drinking. They say it's already happening.
+You've been drinking. They say it's already happening.
 
 You freeze—not from desire, but from resignation.
 
@@ -336,7 +344,7 @@ These early experiences wire sexuality to:
 
 Sexuality here is not pleasure—it is survival.
 
-**One-Line Decoder:** *Sexuality learned under threat organizes around survival, not pleasure.*
+*When sexuality is learned under threat, it organizes around survival, not pleasure.*
 
 ---
 

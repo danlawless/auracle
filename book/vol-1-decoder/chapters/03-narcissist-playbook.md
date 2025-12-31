@@ -4,6 +4,14 @@
 
 ---
 
+> **⚠️ CONTENT WARNING**
+>
+> This chapter contains descriptions of controlling and abusive behaviors including: physical intimidation and threats of violence, emotional manipulation, sexual coercion, suicide threats, and detailed accounts of psychological abuse tactics. These descriptions are provided to help readers recognize and name harmful patterns. If you're currently in an unsafe situation, please prioritize your physical safety and consider contacting: National Domestic Violence Hotline: 1-800-799-7233.
+>
+> Take breaks as needed. Your wellbeing matters more than finishing the chapter.
+
+---
+
 This chapter is the heart of the decoder. Each tactic is presented with:
 - **What it looks like** on the surface
 - **What's really happening** beneath the surface
@@ -74,7 +82,9 @@ These tactics are about establishing dominance: who has power, who sets the agen
 
 ### Tactic 4: Physical Intimidation
 
-**What it looks like:** They get physically close when angry, invading your space with their body. They might make a fist near you, stand over you, block doorways, or touch you in ways that demonstrate power rather than affection. "I could snap your neck with one hand." "You're so small/weak/fragile." They might grab their own hand around your throat, not squeezing, just showing you how easily they could. Physical proximity becomes a threat even without actual violence.
+**What it looks like:** They get physically close when angry, invading your space. They stand over you, block doorways, make a fist near you. They might grab their own hand around your throat—not squeezing, just showing you how easily they could. "I could snap your neck with one hand." "You're so small. So weak. So fragile."
+
+Physical proximity becomes a threat even without actual violence.
 
 **What's really happening:** They're using the implicit threat of physical harm to establish dominance. You don't have to be hit to be controlled by the possibility of being hit. The fear is the point. By demonstrating your physical vulnerability, they remind you who has power. Your safety depends on their restraint.
 
@@ -144,7 +154,7 @@ These tactics keep you seeking their approval, raising you up just enough to dro
 
 ### Tactic 9: The Aesthetic Seesaw
 
-**What it looks like:** One day: "You're so beautiful." Next day: "I mean, looks aren't that important to me." Or: "You looked great before you gained weight." "I prefer women who are [something you're not], but you're fine."
+**What it looks like:** One day: "You're so beautiful." Next day: "I mean, looks aren't that important to me." Or: "You looked great before you gained weight." "I prefer women who are naturally thin, but you're fine."
 
 Beyond general comments, this extends to controlling your actual appearance: dictating your hair color, nail style, clothing choices, or makeup. "You need to have neutral hair when we see my friends." "No sparkles on your nails." "That color is too loud." They critique your appearance in public (at the salon, in front of others), establishing that how you look is their domain, not yours.
 
@@ -597,7 +607,7 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 **Your power move:** Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification. No second letter. An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
 
-*Note: See also Decoder Card 24 (Chapter 12) for quick reference on this pattern.*
+*Note: See also Decoder Card 23 (Chapter 12) for quick reference on this pattern.*
 
 ---
 

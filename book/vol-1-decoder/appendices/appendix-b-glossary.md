@@ -4,14 +4,14 @@
 
 ---
 
-This glossary defines the key terms used throughout this book. Understanding this vocabulary helps you name what you've experienced and communicate about it with others. Language is power—when you can name something, it loses some of its hold over you.
+These are the terms you'll find throughout this book. When you can name what you've experienced, you reclaim power. Understanding this vocabulary helps you communicate about it with others.
 
 ---
 
 ## A
 
 ### Abuse Amnesia
-The phenomenon where you as a victim forget or minimize past abusive incidents, often remembering only the "good times." This partly comes from trauma's effect on memory and partly from cognitive dissonance. Abusers often exploit this by referencing a rosy shared past that minimizes the harm.
+When you forget or minimize past abusive incidents, remembering only the "good times." Trauma affects memory. So does cognitive dissonance. Abusers exploit this by referencing a rosy shared past that minimizes the harm.
 
 ### Ambient Abuse
 Subtle, hard-to-identify abuse that creates a constant atmosphere of anxiety without specific incidents to point to. Examples include sighing, eye-rolling, "forgetting" important things, chronic lateness, and other behaviors that individually seem minor but collectively create an oppressive environment.
@@ -251,7 +251,7 @@ Enlisting others to do your work of manipulation, abuse, or control. The people 
 ## R
 
 ### Reactive Abuse
-When you as a victim of sustained abuse finally react with anger, tears, or behavior that the abuser can then use against you. The abuser provokes your reaction and then points to it as evidence that you're the problem.
+When you finally react to sustained abuse—with anger, tears, or behavior they can use against you. They provoke the reaction, then point to it as proof that you're the problem.
 
 ### Reality Testing
 When you check your perceptions against outside sources to counter gaslighting effects. This may include journaling, consulting trusted friends, or reviewing documentation.

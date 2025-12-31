@@ -1,4 +1,4 @@
-# Chapter 13: Decoder Cards — Emergency Protocol
+# Chapter 13: Decoder Cards—Emergency Protocol
 
 ## When You Need Clarity Now
 
@@ -31,7 +31,7 @@ Three slow breaths. Exhale longer than you inhale.
 
 Feel your feet on the floor. Your body in the chair. The temperature of the room.
 
-You are here. You are safe. You can think.
+You are here. You can find ground. You can think.
 
 ### Step 4: Remember
 

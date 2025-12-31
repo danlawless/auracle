@@ -114,7 +114,7 @@ Suffocated. Obligated. A sense of owing them attention you don't want to give.
 
 ## Spiritual Communities
 
-Spiritual communities can be beautiful. They can also be breeding grounds for narcissistic abuse, often with devastating impact because the manipulation is wrapped in sacred language.
+Spiritual communities can be beautiful. They can also become systems that enable narcissistic abuse, often with devastating impact because the manipulation is wrapped in sacred language.
 
 ### Why Spiritual Communities Are Vulnerable
 

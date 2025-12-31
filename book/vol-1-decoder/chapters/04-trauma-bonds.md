@@ -21,7 +21,7 @@ This chapter explains the biological mechanisms that create trauma bonds—why y
 
 ## What Is a Trauma Bond?
 
-A trauma bond is a powerful emotional attachment formed between an abused person and their abuser. It develops as a result of a cyclical pattern of intermittent abuse mixed with positive reinforcement.
+A trauma bond forms when abuse and affection alternate unpredictably, creating powerful emotional attachment between the abused person and their abuser. It develops as a result of a cyclical pattern of intermittent abuse mixed with positive reinforcement.
 
 Key word: **intermittent**.
 
@@ -84,9 +84,11 @@ You're not weak for being hooked. You're experiencing a neurological response th
 
 ---
 
-## Why Confusion Creates Dependence
+## Why Confusion Creates Dependence: The Role of Cognitive Dissonance
 
-Beyond intermittent reinforcement, there's another factor: cognitive dissonance.
+Beyond intermittent reinforcement, there's another factor that deepens the trauma bond: cognitive dissonance.
+
+Cognitive dissonance is the mental discomfort you experience when holding contradictory beliefs or information. It's distinct from trauma bonding itself—trauma bonding is the overall attachment pattern created by cycles of abuse and affection, while cognitive dissonance is one of several psychological mechanisms that contribute to and maintain that bond.
 
 When someone alternates between:
 - Charm and cruelty
@@ -124,13 +126,13 @@ This is one of the hardest truths to accept:
 
 **Much of what you experienced as love was actually relief.**
 
-- Relief that they're not angry anymore
-- Relief that they're being kind
-- Relief that you haven't lost them
-- Relief that the tension is over
-- Relief that you're safe (for now)
+Relief that they're not angry anymore.
+Relief that they're being kind.
+Relief that you haven't lost them.
+Relief that the tension is over.
+Relief that you're safe—for now.
 
-Relief feels like love because it floods your system with feel-good neurochemicals after a period of stress. It's the contrast that makes it feel so good—the depth of the bad makes the good feel deeper.
+This is why relief feels like love: your system floods with neurochemicals after stress. The contrast makes ordinary kindness feel extraordinary. The deeper the fear, the sweeter the relief.
 
 In healthy relationships, love doesn't require pain as its predecessor. Connection doesn't depend on recovery from disconnection. Warmth isn't notable because it follows coldness.
 
@@ -140,7 +142,10 @@ If you can only feel close after conflict, you're in a relief cycle, not a love 
 
 An even deeper truth emerges, one that can be hard to accept:
 
-**What feels like attraction is often a cocktail: repulsion, sexual energy, dopamine relief, and the false safety that floods in after someone yells—then soothes you again.**
+What feels like attraction is often a cocktail of conflicting elements:
+- Repulsion mixing with sexual energy
+- Dopamine flooding your system with relief
+- False safety that comes after someone yells, then soothes you again
 
 Read that again.
 
@@ -217,7 +222,7 @@ For now, just know: if you're confused about why the sex was so good in a relati
 
 ## Codependency and the Trauma Bond
 
-Trauma bonds often coexist with codependency—a pattern where your sense of self becomes organized around another person's needs.
+Trauma bonds often coexist with what's traditionally been called "codependency"—a pattern where your sense of self becomes organized around another person's needs. (Note: The term "codependency" has been criticized by some clinicians for pathologizing what are often adaptive trauma responses. We use it here because it remains widely recognized, while acknowledging that these patterns often developed as survival strategies in unsafe environments.)
 
 ### How They Intertwine
 
@@ -306,9 +311,9 @@ This isn't failure. It's biology. And it's workable.
 
 ## The Timeline You Need to Know
 
-Understanding how long things take helps manage expectations:
+Understanding how long things take helps manage expectations. These are general patterns drawn from clinical experience—your individual timeline may vary significantly based on relationship length, trauma history, support systems, and other factors. Some people move faster; others need more time. There's no "right" pace for healing.
 
-**Weeks 1–2 after no contact:** The worst. Withdrawal symptoms peak. You'll think you made a mistake. This is normal—ride it.
+**Weeks 1–2 after no contact:** Often the most difficult. Withdrawal symptoms tend to peak. You may think you made a mistake. This is normal—ride it.
 
 **Weeks 3–6:** Waves of clarity alternating with intense urges to reconnect. Keep riding.
 
@@ -320,7 +325,7 @@ Understanding how long things take helps manage expectations:
 
 **12+ months:** Integration. You carry the lessons without the wounds controlling you.
 
-This timeline assumes consistent no contact. Every reconnection resets the clock.
+This timeline assumes consistent no contact. Every reconnection tends to extend the process.
 
 ---
 

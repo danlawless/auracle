@@ -135,9 +135,11 @@ This test alone would have saved most of us years.
 
 ---
 
-## The Gradual Boil
+## The Gradual Dimming
 
-There's an old metaphor about a frog in boiling water. If you drop a frog into hot water, it jumps out immediately. But if you place it in cool water and slowly raise the temperature, it stays until it boils.
+Imagine walking into a bright room. If someone suddenly turned off all the lights, you'd notice immediately—you'd stumble, reach for a switch, call out. The sudden darkness would be impossible to ignore.
+
+But what if the lights dimmed so slowly you couldn't perceive the change? One percent dimmer every hour. Your eyes would adjust. You'd start to think this was normal light. By the time you were in near-darkness, you might not even remember what bright felt like.
 
 This is how control works.
 
@@ -165,9 +167,9 @@ It happens like this:
 
 **Year 2:** You genuinely believe you can't survive without them. And you can't remember when that belief started.
 
-The temperature rose so slowly you never noticed you were being boiled.
+The light dimmed so slowly you forgot what brightness felt like.
 
-This book is about learning to notice the heat at one degree, not one hundred.
+This book is about learning to notice when the room gets one percent darker—before you find yourself in the dark.
 
 ---
 

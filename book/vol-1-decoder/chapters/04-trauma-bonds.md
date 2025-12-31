@@ -112,7 +112,7 @@ In an abusive relationship, something paradoxical happens: **the source of fear 
 
 When the person who hurt you is also the person you run to for comfort after being hurt, your attachment system gets scrambled. You become more attached, not less, because the cycle of fear → relief → bonding → fear repeats over and over.
 
-This is the same mechanism behind why kidnapping victims sometimes bond with their captors (Stockholm Syndrome) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds—it just bonds.
+This is the same mechanism behind why kidnapping victims sometimes bond with their captors (a pattern sometimes called "Stockholm Syndrome," though many experts now prefer the term "traumatic bonding" as it more accurately describes the neurobiological process) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds—it just bonds.
 
 **Physical intimidation intensifies this bonding even further.** When someone demonstrates your physical vulnerability—placing their hand on your throat, making a fist near you, standing over you—your body registers existential threat. Your survival brain activates. When that same person then becomes "safe" again (doesn't follow through, becomes calm, shows affection), the relief is overwhelming. The drop from mortal fear to safety creates an especially powerful neurochemical response. This is why relationships with physical intimidation can create some of the strongest trauma bonds—your body confuses the relief from their restraint with love, when really it's just relief that they chose not to hurt you this time. (See Chapter 3, Tactic 4; Chapter 9, Exit Phase Escalation)
 
@@ -217,7 +217,7 @@ For now, just know: if you're confused about why the sex was so good in a relati
 
 ## Codependency and the Trauma Bond
 
-Trauma bonds often coexist with codependency—a pattern where your sense of self becomes organized around another person's needs.
+Trauma bonds often coexist with what's traditionally been called "codependency"—a pattern where your sense of self becomes organized around another person's needs. (Note: The term "codependency" has been criticized by some clinicians for pathologizing what are often adaptive trauma responses. We use it here because it remains widely recognized, while acknowledging that these patterns often developed as survival strategies in unsafe environments.)
 
 ### How They Intertwine
 

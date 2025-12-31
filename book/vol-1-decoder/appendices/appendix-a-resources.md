@@ -22,13 +22,26 @@ This appendix consolidates resources for anyone experiencing or recovering from 
 | **RAINN (Sexual Assault)** | 1-800-656-4673 | 24/7 support for sexual assault survivors |
 | **National Child Abuse Hotline** | 1-800-422-4453 | 24/7 support for child abuse |
 
+### LGBTQ+-Specific Resources (24/7)
+
+| Resource | Contact | Description |
+|----------|---------|-------------|
+| **The Network/La Red** | 617-742-4911 | Partner abuse in LGBTQ+, SM, and polyamorous communities |
+| **FORGE** | 414-559-2123 | Transgender-specific anti-violence support |
+| **GLBT National Hotline** | 1-888-843-4564 | Support and local resources |
+| **LGBT National Help Center** | lgbthotline.org | Online chat and phone support |
+| **Trevor Project** | 1-866-488-7386 | LGBTQ+ youth crisis support |
+
 ### International Resources
 
 | Country | Resource | Contact |
 |---------|----------|---------|
 | **UK** | National Domestic Abuse Helpline | 0808 2000 247 |
+| **UK** | Galop (LGBTQ+) | 0800 999 5428 |
 | **Canada** | Assaulted Women's Helpline | 1-866-863-0511 |
+| **Canada** | Trans Lifeline | 1-877-330-6366 |
 | **Australia** | 1800 RESPECT | 1800 737 732 |
+| **Australia** | QLife (LGBTQ+) | 1800 184 527 |
 | **New Zealand** | Women's Refuge | 0800 733 843 |
 | **Ireland** | Women's Aid | 1800 341 900 |
 
@@ -119,12 +132,21 @@ This appendix consolidates resources for anyone experiencing or recovering from 
 - *The Verbally Abusive Relationship* by Patricia Evans — Recognizing verbal abuse patterns
 - *Psychopath Free* by Jackson MacKenzie — Recovery after toxic relationships
 - *Becoming the Narcissist's Nightmare* by Shahida Arabi — Understanding and escaping
+- *See What You Made Me Do* by Jess Hill — Australian perspective on coercive control (inclusive of diverse experiences)
+- *No Visible Bruises* by Rachel Louise Snyder — Investigative look at domestic violence across communities
 
 **Healing and Recovery:**
 - *Complex PTSD: From Surviving to Thriving* by Pete Walker — Essential for trauma recovery
 - *The Body Keeps the Score* by Bessel van der Kolk — Understanding trauma in the body
 - *Adult Children of Emotionally Immature Parents* by Lindsay C. Gibson — Family-of-origin healing
 - *Healing the Shame That Binds You* by John Bradshaw — Addressing toxic shame
+- *My Grandmother's Hands* by Resmaa Menakem — Trauma, race, and embodied healing
+- *It Didn't Start with You* by Mark Wolynn — Inherited family trauma
+
+**LGBTQ+-Specific Resources:**
+- *In the Dream House* by Carmen Maria Machado — Memoir of abuse in a same-sex relationship
+- *A Queer History of the United States* by Michael Bronski — Context for LGBTQ+ relationship dynamics
+- Resources at lgbtqiapv.org — Research and support for LGBTQ+ intimate partner violence
 
 **Boundaries and Self-Protection:**
 - *Boundaries* by Henry Cloud and John Townsend — Setting healthy limits

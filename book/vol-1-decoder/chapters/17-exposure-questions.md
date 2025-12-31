@@ -17,6 +17,18 @@ Narcissists operate from a fundamentally different internal architecture. Where 
 
 These questions are designed to reveal what's underneath the mask—not through confrontation, but through simple inquiries that healthy people answer easily and narcissists cannot.
 
+---
+
+> **⚠️ SAFETY WARNING**
+>
+> **Before using any questions in this chapter, assess your safety situation.** These questions can trigger narcissistic rage if the person feels exposed. If you are in a relationship with potential for violence, physical intimidation, or where leaving might be dangerous, prioritize your physical safety over gaining clarity. Use these questions only when you are in a safe environment and have a safety plan in place.
+>
+> **If you are in immediate danger:** Call 911 or the National Domestic Violence Hotline: 1-800-799-7233
+>
+> These questions are for your own clarity, not as weapons. You don't need them to see themselves for you to see them clearly.
+
+---
+
 **How to use these questions:**
 
 1. **Ask casually**—Don't telegraph that you're testing them
@@ -891,12 +903,6 @@ A healthy person can produce a recent, specific example with evident reflection.
 A narcissist will struggle, deflect, reverse, or produce an example that reveals they were actually right all along.
 
 ---
-
-## The Warning
-
-These questions can trigger narcissistic rage if the person feels exposed. Use them for your own clarity, not as weapons. If you're in a relationship with potential for violence, prioritize safety over exposure.
-
-You don't need them to see themselves for you to see them clearly.
 
 ---
 

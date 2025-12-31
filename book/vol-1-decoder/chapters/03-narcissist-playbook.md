@@ -597,7 +597,7 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 **Your power move:** Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification. No second letter. An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
 
-*Note: See also Decoder Card 24 (Chapter 12) for quick reference on this pattern.*
+*Note: See also Decoder Card 23 (Chapter 12) for quick reference on this pattern.*
 
 ---
 

@@ -231,7 +231,7 @@ Don't just recover—build structures that support your new life:
 - Group therapy or support groups (in person or online)
 
 **Self-Support Systems:**
-- Regular practices (from Chapter 9)
+- Regular practices (from Chapter 14)
 - Documentation and journaling
 - Physical health basics
 - Financial independence (or path toward it)

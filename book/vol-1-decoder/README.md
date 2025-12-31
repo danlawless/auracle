@@ -223,4 +223,4 @@ The complete series:
 **[Begin Reading →](./00-front-matter.md)**
 
 *"The truth will set you free, but first it will piss you off."*
-— Gloria Steinem
+— commonly attributed to Gloria Steinem

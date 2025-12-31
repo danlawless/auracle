@@ -1,4 +1,4 @@
-# Chapter 11: Decoder Cards — Core Patterns
+# Chapter 14: Decoder Cards — Core Patterns
 
 ## Quick-Reference Guides for Real-Time Recognition
 

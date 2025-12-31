@@ -140,6 +140,28 @@ Here's a statement to claim as your own—modify it to fit your truth:
 
 ---
 
+> *I am sovereign.*
+>
+> *I belong to myself. My body, my energy, my choices, my life—they are mine.*
+>
+> *I am not responsible for anyone else's emotions, choices, or healing. I am responsible for my own.*
+>
+> *I release the roles I was assigned. I release the shame that was deposited in me. I release the need for their understanding, approval, or acknowledgment.*
+>
+> *I trust my perception. My reality is valid. My feelings are data. My boundaries are necessary.*
+>
+> *I choose who has access to me. I choose what I give. I choose where I place my attention, my love, my energy.*
+>
+> *I am allowed to take up space. I am allowed to have needs. I am allowed to change. I am allowed to leave.*
+>
+> *What was done to me does not define me. How I move forward does.*
+>
+> *I reclaim myself. I reclaim my story. I reclaim my future.*
+>
+> *I am sovereign.*
+
+---
+
 ## The Sovereignty You're Building Toward
 
 As you heal, you're creating space for what you deserve. This might look like:

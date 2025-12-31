@@ -245,3 +245,53 @@ After time with them, you feel depleted. Empty. Like you've been performing in s
 
 **Why they're dangerous:** They drain group energy. Their constant need for attention leaves no room for others. Relationships with them feel exhausting because you're always audience to their performance.
 
+**The specific wound they create:**
+
+You learn to make yourself smaller. You stop sharing news because it gets overshadowed. You mute your own emotions because theirs fill all available space. You become the audience, never the one seen. Your life becomes background music to their main event.
+
+Healing requires reclaiming your own stage. Learning that your stories matter. That your emotions deserve space. That you're allowed to be witnessed, not just witness.
+
+---
+
+## Key Patterns Across All Types
+
+While each type presents differently, they share common underlying dynamics:
+
+1. **Lack of genuine empathy.** They may understand what others feel (cognitive empathy), but they don't feel with others (affective empathy). Your pain doesn't register as real to them unless it affects them.
+
+2. **Need for supply.** All types need something from you—admiration, caretaking, an audience, validation. The form varies; the hunger doesn't.
+
+3. **Inability to tolerate criticism.** However it shows up—rage, victimhood, dismissal—they cannot hold feedback about themselves without defense.
+
+4. **Relationships as utility.** You exist to meet their needs. When you stop meeting them, you become irrelevant or an enemy.
+
+5. **The cycle.** Idealization → Devaluation → Discard (or return to idealization). The pace varies, but the pattern repeats.
+
+---
+
+## Why This Knowledge Matters
+
+You're not reading this chapter to diagnose people. You're reading it to understand your experience.
+
+When you can name what happened:
+- The confusion lifts
+- The self-blame loosens
+- You stop asking "What's wrong with me?"
+- You start seeing "This is what was done to me"
+
+This shift—from self-questioning to pattern recognition—is where healing begins.
+
+---
+
+## Preparing for Part II
+
+In Part I, you've learned to recognize narcissism: the energetic signature, the playbook, the trauma bonds, and the types. You can now name what you experienced.
+
+Part II takes you deeper into the relational contexts where narcissism operates—family systems, romantic relationships, and the manipulation tactics specific to each. You'll learn how narcissism shapes your closest bonds and what it takes to break free.
+
+The decoder is built. Now we use it.
+
+---
+
+*You've seen the masks. You've named the types. Now you understand why that relationship felt the way it did—not because something was wrong with you, but because something was wrong with the pattern.*
+

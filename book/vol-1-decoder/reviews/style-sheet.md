@@ -258,10 +258,46 @@ This style sheet documents all editorial decisions for consistency throughout th
 | Serial comma | Always use | Clarity, consistency | 2025-12-31 |
 | Pronoun convention | He/him in examples | Per author's stated choice | 2025-12-31 |
 | Archetype capitalization | Capitalize role names | Treats as proper nouns | 2025-12-31 |
+| Gray Rock capitalization | Capitalize as "Gray Rock" when referring to method | Proper noun treatment for named technique | 2025-12-31 |
+| Section label numbers | Numerals acceptable (Phase 1, Role 1) | Navigational clarity; different from narrative text | 2025-12-31 |
+| Em dash in titles | No spaces around em dash | Consistent with body text standard | 2025-12-31 |
+| Gender-neutral pronouns | Use they/them in examples and pullquotes | Inclusive language, consistency with main text | 2025-12-31 |
+
+---
+
+## 9. Round 2 Additions
+
+### Em Dash Spacing Clarification
+- **TOC entries:** Use em dash without spaces between title and subtitle
+  - Correct: `Chapter 1: The Opening Manifesto—What This Book Is Really About`
+  - Incorrect: `Chapter 1: The Opening Manifesto — What This Book Is Really About`
+- **Definition lists:** Use em dash without spaces after bold term
+  - Correct: `**The confused**—Anyone who has left...`
+  - Incorrect: `**The confused** — Anyone who has left...`
+
+### Index Cross-Reference Format
+- Use em dash without spaces before "See" references
+  - Correct: `**Father Wound**—See Chapter 8`
+  - Incorrect: `**Father Wound** — See Chapter 8`
+
+### Chapter Numbering Verification
+- Chapter headers must match file numbering
+- Verified chapter structure (19 chapters total):
+  - Chapters 1-4: Part I (Recognition)
+  - Chapters 5-12: Part II (Understanding Origins)
+  - Chapters 13-16: Part III (Tools)
+  - Chapters 17-19: Part IV (Response)
+
+### Framework Terms - Updated
+| Term | Status | Notes |
+|------|--------|-------|
+| The 3-3-3 Rule | VERIFIED | Present and consistent |
+| The 72-Hour Test | QUERY | Listed in style sheet but not found in manuscript—verify with author |
+| Gray Rock Method | VERIFIED | Standardize to capitalized form |
 
 ---
 
 *Style sheet created: December 31, 2025*
-*Last updated: December 31, 2025*
+*Last updated: December 31, 2025 (Round 2)*
 *Editor: Clara (AI Copy Editor)*
-*Reference: Issue #98*
+*Reference: Issue #98, Issue #116*

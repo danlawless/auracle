@@ -4,7 +4,7 @@
 
 ---
 
-Understanding narcissism is necessary but not sufficient. Your mind can know the patterns perfectly while your body still reacts as if you're in danger.
+Understanding narcissism is necessary. But it's not enough. Your mind can know the patterns perfectly while your body still reacts as if you're in danger.
 
 This is because manipulation doesn't just happen to your thoughts—it happens to your nervous system. The patterns get stored in your body. Recovery, therefore, must include the body.
 
@@ -275,7 +275,7 @@ For moments when you need immediate regulation:
 - Sigh loudly
 - Hum
 - Even a sustained "voo" sound
-- Vocalization engages the vagus nerve and calms activation
+- Vocalization engages the vagus nerve and calms you
 
 ---
 

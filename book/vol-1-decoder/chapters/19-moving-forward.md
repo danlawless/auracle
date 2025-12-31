@@ -140,33 +140,18 @@ Here's a statement to claim as your own—modify it to fit your truth:
 
 ---
 
-*I am surrounded by authentic people.*
+## The Sovereignty You're Building Toward
 
-*Truth tellers.*
+As you heal, you're creating space for what you deserve. This might look like:
 
-*I am loved by many for how amazing I am.*
+- Surrounding yourself with authentic people and truth-tellers
+- Being loved by people who see how amazing you are
+- Getting honored for who you are and the gifts you have
+- Cultivating peace and love in your life
 
-*I get honored for who I am and the gifts I have.*
+You may not have all of this yet. But you're moving toward it. Each boundary held, each pattern recognized, each moment of choosing yourself—you're building this reality.
 
-*I choose to cultivate peace and love in my life.*
-
-*I know what real love feels like.*
-
-*It doesn't have conditions or strings.*
-
-*I choose to be with people who show up fully.*
-
-*I trust my perception.*
-
-*I honor my boundaries.*
-
-*I am worthy of respect simply because I exist.*
-
-*I am coming home to myself.*
-
----
-
-Write your own version. Read it when you forget. Let it become part of your internal landscape.
+*Write your own version. Read it when you forget where you're headed.*
 
 ---
 

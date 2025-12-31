@@ -155,7 +155,7 @@ This accomplishes three things instantly:
 2. **Reverses roles**—Suddenly you feel bad for them
 3. **Re-opens emotional access**—Now you're managing their feelings instead of addressing their behavior
 
-This is trauma-bond gold.
+This creates powerful trauma bonds instantly.
 
 **How It Hooks You:**
 

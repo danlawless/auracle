@@ -181,6 +181,39 @@ Personal account combined with practical guidance from a survivor's perspective.
 **Glass, Lorna. *The Narcissism Recovery Journal* (2020)**
 Guided journal format for working through recovery, combining education with reflective exercises.
 
+**Machado, Carmen Maria. *In the Dream House* (2019)**
+Groundbreaking memoir of abuse in a same-sex relationship. Uses experimental form to explore how abuse narratives are shaped by heteronormative assumptions. Essential reading for LGBTQ+ survivors and anyone supporting them.
+
+---
+
+## Culturally Diverse Perspectives and Embodied Healing
+
+**Menakem, Resmaa. *My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies* (2017)**
+Examines how trauma lives in the body across generations and communities, with particular attention to racialized trauma. Offers somatic practices for healing. Essential for understanding how individual trauma connects to collective experience.
+
+**Wolynn, Mark. *It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle* (2016)**
+Explores how trauma passes through generations and how to identify and break these cycles. Useful for understanding family systems beyond individual pathology.
+
+**Hill, Jess. *See What You Made Me Do: Power, Control and Domestic Violence* (2019)**
+Investigative journalism on domestic abuse that includes diverse perspectives and challenges simplistic narratives. Winner of the Stella Prize.
+
+**Snyder, Rachel Louise. *No Visible Bruises: What We Don't Know About Domestic Violence Can Kill Us* (2019)**
+Comprehensive examination of domestic violence across communities and systems. Challenges assumptions about who experiences abuse and why.
+
+**hooks, bell. *All About Love: New Visions* (2000)**
+Philosophical exploration of love, connection, and what healthy relationships require. Useful counterpoint to abuse dynamics.
+
+---
+
+## LGBTQ+-Specific Research and Resources
+
+**NCAVP (National Coalition of Anti-Violence Programs).** Annual reports on LGBTQ+ and HIV-affected intimate partner violence.
+
+**Ristock, Janice L. *No More Secrets: Violence in Lesbian Relationships* (2002)**
+Academic examination of intimate partner violence in lesbian relationships, challenging the myth that women don't abuse.
+
+**The Network/La Red.** Resources and research on abuse in LGBTQ+, SM, and polyamorous communities. https://tnlr.org
+
 ---
 
 ## Online Resources and Communities

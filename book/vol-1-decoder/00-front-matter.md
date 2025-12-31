@@ -163,11 +163,23 @@ Please translate any gendered language to fit your situation. The patterns are u
 
 ---
 
+## A Note on Diversity and Access
+
+While examples in this book often center heterosexual dynamics, these patterns appear in all relationship types and affect people of all genders, sexual orientations, races, abilities, and backgrounds. LGBTQ+ survivors, BIPOC survivors, disabled survivors, and others face unique barriers and dynamics not always explicitly addressed here.
+
+Some readers may not have access to resources this book assumes: the ability to leave immediately, financial independence, safe housing, or affordable therapy. If you are currently unable to leave due to finances, disability, immigration status, custody concerns, or other constraints, please know: **survival strategies while remaining in an unsafe situation are valid.** This book is not about judging your timeline—it's about giving you tools for whatever phase you're in.
+
+This book primarily draws from Western, individualistic psychological frameworks. Other cultural frameworks for understanding family, healing, and relationships exist and may be more relevant to your experience. Collectivist cultures where family estrangement carries severe social consequences, religious communities where divorce is stigmatized, and communities where cultural communication norms differ all deserve acknowledgment. Adapt these concepts to fit your cultural context.
+
+What remains universal: your right to safety, your right to be treated with respect, and your right to trust your own perception.
+
+---
+
 ## A Note on Diagnosis
 
 This book does not diagnose anyone with Narcissistic Personality Disorder (NPD). That's a clinical diagnosis that requires professional evaluation.
 
-What this book *does* do is describe behavioral patterns—patterns that cause real harm regardless of their clinical origin. You don't need a diagnosis to protect yourself from behavior that hurts you. You don't need permission to set boundaries. You don't need a therapist to validate what your body already knows.
+What this book *does* do is describe behavioral patterns—patterns that cause real harm regardless of their clinical origin. You don't need a diagnosis to protect yourself from behavior that hurts you. You don't need permission to set boundaries. You have the right to trust what your body knows, even while seeking professional support.
 
 If behavior causes harm, you have the right to name it, address it, and remove yourself from it.
 

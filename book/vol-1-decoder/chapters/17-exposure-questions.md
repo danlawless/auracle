@@ -27,11 +27,11 @@ These questions are designed to reveal what's underneath the mask—not through 
 
 **What you're listening for:**
 
-- **Deflection:** Turning the question back on you or others
-- **Projection:** Accusing you of what they do
-- **Rage/Contempt:** Disproportionate emotional reaction to simple questions
-- **Word salad:** Confusing non-answers that sound like answers
-- **Victimhood pivot:** Making themselves the injured party
+- **Deflection:**—Turning the question back on you or others
+- **Projection:**—Accusing you of what they do
+- **Rage/Contempt:**—Disproportionate emotional reaction to simple questions
+- **Word salad:**—Confusing non-answers that sound like answers
+- **Victimhood pivot:**—Making themselves the injured party
 - **Grandiosity leak:** Revealing special-treatment beliefs
 - **Absence of genuine reflection:** Surface answers with no depth
 
@@ -846,11 +846,11 @@ These questions aren't about winning arguments or trapping someone. They're abou
 
 ### How to Use Them
 
-**Sprinkle, don't interrogate.** One or two questions over time, casually inserted into conversation.
+**Sprinkle, don't interrogate.**—One or two questions over time, casually inserted into conversation.
 
-**Listen to the structure.** The specific words matter less than the pattern: deflection, projection, rage, victimhood, grandiosity.
+**Listen to the structure.**—The specific words matter less than the pattern: deflection, projection, rage, victimhood, grandiosity.
 
-**Trust your body.** After asking, notice: Do you feel met or manipulated? Heard or dismissed? Connected or confused?
+**Trust your body.**—After asking, notice: Do you feel met or manipulated? Heard or dismissed? Connected or confused?
 
 **Watch for the tell-tale signs:**
 - Questions turned back on you

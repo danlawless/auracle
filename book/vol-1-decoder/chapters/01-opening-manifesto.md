@@ -214,9 +214,9 @@ If you've been hurt by these patterns—and if you're reading this, you probably
 
 You can:
 
-- **Bury it** — pretend it didn't happen, minimize it, "move on" without processing
-- **Weaponize it** — become bitter, cynical, or vengeful
-- **Transmute it** — turn it into understanding that helps yourself and others
+- **Bury it**—pretend it didn't happen, minimize it, "move on" without processing
+- **Weaponize it**—become bitter, cynical, or vengeful
+- **Transmute it**—turn it into understanding that helps yourself and others
 
 This book is an act of transmutation.
 
@@ -271,11 +271,11 @@ The archetype doesn't care about gender, age, class, or culture. It's a pattern 
 
 By focusing on the archetype rather than the individual, you gain three things:
 
-1. **Protection** — You're not attacking or defaming anyone; you're describing behavior patterns that are well-documented and universal.
+1. **Protection**—You're not attacking or defaming anyone; you're describing behavior patterns that are well-documented and universal.
 
-2. **Universality** — Your insights help everyone who has encountered this pattern, not just people who know your specific person.
+2. **Universality**—Your insights help everyone who has encountered this pattern, not just people who know your specific person.
 
-3. **Transferability** — You'll recognize the pattern in future relationships before getting deeply entangled. The archetype might wear different faces, but the behaviors remain recognizable.
+3. **Transferability**—You'll recognize the pattern in future relationships before getting deeply entangled. The archetype might wear different faces, but the behaviors remain recognizable.
 
 ### The Spectrum of Expression
 
@@ -321,14 +321,14 @@ Their reaction tells you everything.
 
 Behind every person who picks up a book like this is a deeper longing than just "understanding narcissism." What you're really seeking is:
 
-- **Validation** — confirmation that what you experienced was real
-- **Language** — words for things you've felt but couldn't articulate
-- **Permission** — to trust your own perception again
-- **Freedom** — from the hooks still embedded in your nervous system
-- **Sovereignty** — the right to exist without managing someone else's emotions
-- **Understanding** — of how you got here and how to never be here again
-- **Healing** — not just coping, but genuine transformation
-- **Hope** — that healthy, reciprocal love is possible for you
+- **Validation**—confirmation that what you experienced was real
+- **Language**—words for things you've felt but couldn't articulate
+- **Permission**—to trust your own perception again
+- **Freedom**—from the hooks still embedded in your nervous system
+- **Sovereignty**—the right to exist without managing someone else's emotions
+- **Understanding**—of how you got here and how to never be here again
+- **Healing**—not just coping, but genuine transformation
+- **Hope**—that healthy, reciprocal love is possible for you
 
 This book aims to give you all of these.
 

@@ -1,4 +1,4 @@
-# Chapter 12: Decoder Cards — Advanced Patterns
+# Chapter 15: Decoder Cards — Advanced Patterns
 
 ## Recognizing Sophisticated Control Tactics
 

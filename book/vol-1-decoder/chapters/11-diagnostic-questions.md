@@ -1,4 +1,4 @@
-# Chapter 17: The Exposure Questions
+# Chapter 11: Diagnostic Questions for Confirming Patterns
 
 ## Questions That Make Narcissists Reveal Themselves
 

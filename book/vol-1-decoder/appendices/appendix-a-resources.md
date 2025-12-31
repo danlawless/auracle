@@ -8,6 +8,62 @@ This appendix consolidates resources for anyone experiencing or recovering from 
 
 ---
 
+## Recovery Protocols
+
+### The 90-Day Forward Protocol
+
+A practical roadmap for the first three months post-recognition/exit:
+
+**Days 1-30: Stabilize**
+- Establish no contact or minimal contact protocols
+- Identify and connect with your safe person
+- Begin documentation practice
+- One grounding technique daily
+- Don't make major life decisions
+
+**Days 31-60: Understand**
+- Work through this book systematically
+- Identify which tactics were used on you
+- Understand your specific vulnerabilities
+- Begin therapy if you haven't already
+- Start identifying triggers
+
+**Days 61-90: Rebuild**
+- Reconnect with abandoned interests/relationships
+- Establish daily wellness practices
+- Create your support architecture
+- Begin setting boundaries in other areas of life
+- Start thinking about what you want next
+
+**After 90 Days:**
+- Review progress
+- Adjust protocols as needed
+- Consider longer-term changes (career, location, relationships)
+- Continue healing work at your pace
+
+### The Red-Yellow-Green System
+
+For daily check-ins:
+
+**Green:** I feel stable. Practicing my protocols. Not activated.
+- Keep doing what you're doing
+
+**Yellow:** I feel triggered or tempted. Old patterns surfacing. Considering contact.
+- Deploy emergency protocols
+- Contact safe person
+- Extra grounding today
+- Don't act on impulses
+
+**Red:** Crisis. Overwhelming activation. Relapse or near-relapse.
+- Reach out immediately (safe person, therapist, hotline)
+- Remove means of contact if possible
+- Intense self-care
+- No shame—reset and begin again
+
+Check in with yourself daily. Know your color.
+
+---
+
 ## Crisis Resources
 
 ### Immediate Help (24/7)

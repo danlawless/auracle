@@ -432,5 +432,11 @@ The goal isn't perfection. It's direction. Every time you choose yourself, the n
 
 ---
 
+## What Comes Next
+
+You now understand why leaving feels impossible—the biochemistry that kept you attached. But who are these people who create such bonds? In Part II, we explore the different types of narcissists, the roles they play, and the family systems that often create both them and their targets.
+
+---
+
 *You were hooked by biology. You can unhook through awareness, time, and consistent safety.*
 

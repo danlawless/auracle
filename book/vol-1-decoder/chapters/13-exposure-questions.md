@@ -1,4 +1,4 @@
-# Chapter 17: The Exposure Questions
+# Chapter 13: The Exposure Questions
 
 ## Questions That Make Narcissists Reveal Themselves
 

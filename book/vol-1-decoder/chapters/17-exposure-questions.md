@@ -17,6 +17,18 @@ Narcissists operate from a fundamentally different internal architecture. Where 
 
 These questions are designed to reveal what's underneath the mask—not through confrontation, but through simple inquiries that healthy people answer easily and narcissists cannot.
 
+---
+
+> **⚠️ SAFETY WARNING**
+>
+> **Before using any questions in this chapter, assess your safety situation.** These questions can trigger narcissistic rage if the person feels exposed. If you are in a relationship with potential for violence, physical intimidation, or where leaving might be dangerous, prioritize your physical safety over gaining clarity. Use these questions only when you are in a safe environment and have a safety plan in place.
+>
+> **If you are in immediate danger:** Call 911 or the National Domestic Violence Hotline: 1-800-799-7233
+>
+> These questions are for your own clarity, not as weapons. You don't need them to see themselves for you to see them clearly.
+
+---
+
 **How to use these questions:**
 
 1. **Ask casually**—Don't telegraph that you're testing them
@@ -27,11 +39,11 @@ These questions are designed to reveal what's underneath the mask—not through 
 
 **What you're listening for:**
 
-- **Deflection:** Turning the question back on you or others
-- **Projection:** Accusing you of what they do
-- **Rage/Contempt:** Disproportionate emotional reaction to simple questions
-- **Word salad:** Confusing non-answers that sound like answers
-- **Victimhood pivot:** Making themselves the injured party
+- **Deflection:**—Turning the question back on you or others
+- **Projection:**—Accusing you of what they do
+- **Rage/Contempt:**—Disproportionate emotional reaction to simple questions
+- **Word salad:**—Confusing non-answers that sound like answers
+- **Victimhood pivot:**—Making themselves the injured party
 - **Grandiosity leak:** Revealing special-treatment beliefs
 - **Absence of genuine reflection:** Surface answers with no depth
 
@@ -846,11 +858,11 @@ These questions aren't about winning arguments or trapping someone. They're abou
 
 ### How to Use Them
 
-**Sprinkle, don't interrogate.** One or two questions over time, casually inserted into conversation.
+**Sprinkle, don't interrogate.**—One or two questions over time, casually inserted into conversation.
 
-**Listen to the structure.** The specific words matter less than the pattern: deflection, projection, rage, victimhood, grandiosity.
+**Listen to the structure.**—The specific words matter less than the pattern: deflection, projection, rage, victimhood, grandiosity.
 
-**Trust your body.** After asking, notice: Do you feel met or manipulated? Heard or dismissed? Connected or confused?
+**Trust your body.**—After asking, notice: Do you feel met or manipulated? Heard or dismissed? Connected or confused?
 
 **Watch for the tell-tale signs:**
 - Questions turned back on you
@@ -944,7 +956,6 @@ You don't need their agreement to trust your experience.
 You don't need to prove anything to anyone.
 
 The questions exist to help YOU understand what you're dealing with—so you can make informed choices about YOUR life.
-
 ---
 
 *"The question isn't whether they'll answer honestly. It's whether their answer—honest or not—reveals what you need to know."*

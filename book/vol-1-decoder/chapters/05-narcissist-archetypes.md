@@ -241,7 +241,7 @@ Exhausting. The energy in any room flows to them and stays there. You can't fini
 
 After time with them, you feel depleted. Empty. Like you've been performing in someone else's show instead of living your own life.
 
-**The tell:** If someone seems to need ALL the attention ALL the time, and their emotional expressions feel theatrical rather than genuine, you may be encountering this pattern. The shock tactics—whether sexual, emotional, or dramatic—are supply-gathering mechanisms.
+**The tell:** If someone seems to need ALL the attention ALL the time, and their emotional expressions feel theatrical rather than genuine, you may be encountering this pattern. The shock tactics—whether sexual, emotional, or dramatic—secure attention and emotional reactions they feed on.
 
 **Why they're dangerous:** They drain group energy. Their constant need for attention leaves no room for others. Relationships with them feel exhausting because you're always audience to their performance.
 
@@ -357,7 +357,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it looks like:** Intense attention, flattery, charm. You feel seen, special, chosen. They mirror your interests. They move fast toward intimacy.
 
-**What's really happening:** Love bombing. The seducer role creates rapid bonding before you can assess who they really are. The intensity feels like depth, but it's actually acquisition.
+**What's really happening:** Love-bombing. The seducer role creates rapid bonding before you can assess who they really are. The intensity feels like depth, but it's actually acquisition.
 
 **How it serves control:** The investment of emotional intensity creates obligation. The contrast between this and later coldness keeps you chasing the original high.
 

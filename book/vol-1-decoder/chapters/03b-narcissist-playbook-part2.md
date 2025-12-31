@@ -4,7 +4,17 @@
 
 ---
 
+> **⚠️ CONTENT WARNING**
+>
+> This chapter contains descriptions of controlling and abusive behaviors including: physical intimidation and threats of violence, emotional manipulation, sexual coercion, suicide threats, and detailed accounts of psychological abuse tactics. These descriptions are provided to help readers recognize and name harmful patterns. If you're currently in an unsafe situation, please prioritize your physical safety and consider contacting: National Domestic Violence Hotline: 1-800-799-7233.
+>
+> Take breaks as needed. Your wellbeing matters more than finishing the chapter.
+
+---
+
 **Before you begin:** This section covers tactics that often appear during intimate moments, spiritual contexts, and relationship exits. If you're currently in crisis, consider reading Chapter 14 (Energetic Remapping) first for grounding tools.
+
+**Continuing from Part 1:** Tactics 1-19 are covered in [Chapter 3A](./03a-narcissist-playbook-part1.md). This chapter continues with the more advanced and often more dangerous tactics.
 
 ---
 
@@ -95,7 +105,7 @@ These tactics target your perception, intuition, and sense of meaning.
 
 **Your power move:** "My perception is valid whether or not you share it." You don't need their agreement to trust what you feel.
 
-> *"When you said 'your energy feels bad,' you named what he was trying to hide—and that threatened him."*
+> *"When you said 'your energy feels bad,' you named what they were trying to hide—and that threatened them."*
 
 ---
 
@@ -177,7 +187,7 @@ Hold accountability steady: "Regardless of why, the action was wrong."
 
 Withdraw emotional labor. That is the REAL boundary.
 
-> *"His 'I'm broken' isn't vulnerability—it's a strategy to make you the caretaker of the person who hurt you."*
+> *"Their 'I'm broken' isn't vulnerability—it's a strategy to make you the caretaker of the person who hurt you."*
 
 ---
 
@@ -222,7 +232,7 @@ These tactics occur after conflict, after separation, or during "reconciliation.
 
 ### Tactic 30: Guilt Hook
 
-**What it looks like:** "After everything I've done for you." "Remember when I helped you with...?" "I bought you that [thing]." "I've given so much and this is how you treat me?"
+**What it looks like:** "After everything I've done for you." "Remember when I helped you with...?" "I've given so much and this is how you treat me?"
 
 **What's really happening:** Previous kindnesses are being converted into debt. Every nice thing they've ever done becomes leverage. You're meant to feel that you owe them compliance forever.
 
@@ -350,7 +360,7 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 **Your power move:** Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification. No second letter. An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
 
-*Note: See also Decoder Card 24 (Chapter 12) for quick reference on this pattern.*
+*Note: See also Decoder Card 23 (Chapter 12) for quick reference on this pattern.*
 
 ---
 
@@ -383,38 +393,20 @@ The playbook exists. Now you can read it.
 
 ## Tactical Summary: The Universal Counter-Moves
 
-**For all control tactics (1-7):**
-- State your intention once, briefly
-- Do not explain or justify
-- Follow through regardless of their reaction
-- Leave the room if they escalate
-
-**For all validation/devaluation tactics (8-12):**
-- Remember: their opinion doesn't define your reality
-- Don't compete for approval you shouldn't need to earn
-- Name the pattern internally: "This is the seesaw. I'm not getting on."
-
-**For all psychological manipulation tactics (13-18):**
-- Trust your perception even when they attack it
-- Don't over-explain—you understood each other fine
-- Document for your own reality-checking, not to prove anything to them
-
-**For all sexual/emotional control tactics (19-22):**
+**For all sexual/emotional control tactics (20-23):**
 - Your body is yours. Full stop.
 - Real intimacy doesn't feel like performance or punishment
 - Withholding warmth to control you is not love
 
-**For all energetic/spiritual tactics (23-27):**
+**For all energetic/spiritual tactics (24-29):**
 - Your intuition doesn't require their validation
 - Pain explains behavior; it doesn't excuse it
 - Protect your rest—exhaustion is a control tool
 
-**For all post-encounter tactics (28-34):**
+**For all post-encounter tactics (30-38):**
 - Past kindness isn't a loan requiring repayment
 - Your belongings aren't worth ongoing engagement
 - Silence is a complete sentence
-
-**For all relational manipulation tactics (35-38):**
 - Concern can be control—trust your discomfort
 - Confusion as a tactic deserves no explanation
 - Minimal contact after repair reveals capacity, not worth
@@ -436,4 +428,3 @@ This review process builds your pattern-recognition speed. Eventually, you'll sp
 ---
 
 *"When you can name what's happening, it stops happening to you and starts happening in front of you."*
-

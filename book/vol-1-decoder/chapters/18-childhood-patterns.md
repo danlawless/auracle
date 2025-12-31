@@ -271,6 +271,14 @@ That matters.
 
 ---
 
+---
+
+> **⚠️ CONTENT WARNING**
+>
+> The following section contains descriptions of childhood sexual experiences, boundary violations, and sexual trauma. These descriptions are included to help readers recognize patterns in their own histories, but may be activating for some readers. Please pace yourself and skip this section if needed. The chapter summary that follows provides key insights without the detailed descriptions.
+
+---
+
 ## When Sexuality Learns Survival Early
 
 For many people, sexuality was never just about pleasure or connection. It became wired to survival long before conscious choice was possible.
@@ -287,45 +295,45 @@ This section names these patterns briefly. Deeper exploration and healing practi
 
 ---
 
-### Field Note: The Trampoline
+### Field Note: The Moment You Prioritized Their Comfort Over Yours
 
-She is young. A boy wants something she doesn't.
+You're young. Someone wants something you don't want to give.
 
-She feels the moment stretch—the risk of disappointing him heavier than her own discomfort.
+You feel the moment stretch—the risk of disappointing them heavier than your own discomfort.
 
-She agrees without wanting to.
+You agree without wanting to.
 
-Later, she can't explain why she didn't leave.
+Later, you can't explain why you didn't leave.
 
-She learns something silently:
+You learn something silently:
 *My body is negotiable if it keeps the peace.*
 
 ---
 
-### Field Note: The Story That Wasn't Hers
+### Field Note: The Story That Wasn't Yours
 
-They don't have sex.
+You don't have sex.
 
-Still, he tells people her most private truth—a story she shared because she trusted him.
+Still, he tells people your most private truth—a story you shared because you trusted him.
 
-Her body learns another lesson:
+Your body learns another lesson:
 *Vulnerability can be weaponized.*
 
 Desire becomes guarded. Silence feels safer than truth.
 
 ---
 
-### Field Note: The Moment She Gave Up
+### Field Note: The Moment You Gave Up
 
-She has been drinking. He says it's already happening.
+You've been drinking. He says it's already happening.
 
-She freezes—not from desire, but from resignation.
+You freeze—not from desire, but from resignation.
 
-She says "okay" without meaning yes.
+You say "okay" without meaning yes.
 
 Something quiet breaks.
 
-Later she thinks:
+Later you think:
 *I lost something—and I don't know how to name it.*
 
 ---
@@ -340,7 +348,7 @@ These early experiences wire sexuality to:
 
 Sexuality here is not pleasure—it is survival.
 
-**One-Line Decoder:** *Sexuality learned under threat organizes around survival, not pleasure.*
+*When sexuality is learned under threat, it organizes around survival, not pleasure.*
 
 ---
 

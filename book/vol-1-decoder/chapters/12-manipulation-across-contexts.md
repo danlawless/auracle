@@ -4,7 +4,7 @@
 
 ---
 
-Narcissistic patterns don't stay contained in romantic relationships. They appear in friendships, spiritual communities, professional settings, workplaces, and online spaces. Once you can see the pattern in one arena, you'll start seeing it everywhere—which is both overwhelming and liberating.
+Narcissistic patterns don't stay contained in romantic relationships. They appear in friendships, spiritual communities, professional settings, workplaces, and online spaces. Once you can see the pattern in one arena, you'll start seeing it everywhere, which is both overwhelming and liberating.
 
 ---
 
@@ -119,7 +119,7 @@ Spiritual communities can be beautiful. They can also become systems that enable
 ### Why Spiritual Communities Are Vulnerable
 
 - **Built-in authority structures:** Teachers, gurus, ministers, priests are positioned as guides to higher truth
-- **Vulnerability of seekers:** People come seeking, often from pain—they're already open
+- **Vulnerability of seekers:** People come seeking, often from pain. They're already open
 - **Sacred framing:** Abuse gets reframed as "spiritual lesson" or "karma"
 - **Closed systems:** The community may discourage outside perspectives
 - **Hierarchy of awakening:** Those higher up are "more evolved" and shouldn't be questioned
@@ -142,13 +142,13 @@ Spiritual communities can be beautiful. They can also become systems that enable
 - Criticism reframed as "projection" or "shadow work"
 - Students who leave are "not ready" or "choosing fear"
 - Their harmful actions are "beyond ordinary understanding"
-- "Everything is perfect as it is"—including their abuse
+- "Everything is perfect as it is," including their abuse
 
 ### What It Feels Like to Be in a Narcissistic Spiritual Community
 
 At first: found. Like you've finally discovered your people, your path, your purpose. The leader seems to see something special in you. The practices feel meaningful.
 
-Then slowly: confused. Something is off but you can't name it. When you try, the community—or your own mind—tells you you're "resisting" or "in ego." The doubts you have are framed as spiritual inadequacy.
+Then slowly: confused. Something is off but you can't name it. When you try, the community (or your own mind) tells you you're "resisting" or "in ego." The doubts you have are framed as spiritual inadequacy.
 
 **In your body:**
 
@@ -156,7 +156,7 @@ A split. Part of you feels expanded by the practices. Part of you is contracting
 
 ### Protecting Yourself in Spiritual Settings
 
-- **Trust your body over their words.** If something feels wrong, it is wrong—regardless of how it's framed.
+- **Trust your body over their words.** If something feels wrong, it is wrong, regardless of how it's framed.
 - **Maintain outside relationships.** Isolation is a red flag.
 - **Watch for special treatment.** If you're being singled out for extra attention from the leader, be cautious.
 - **Test the boundaries.** What happens when you say no, question something, or take a break?
@@ -171,16 +171,16 @@ This is particularly disorienting because:
 - You may have lost community, identity, and practice all at once
 
 **What helps:**
-- Separate the spiritual from the abuser—the practices may still be valid even if the leader wasn't
+- Separate the spiritual from the abuser: the practices may still be valid even if the leader wasn't
 - Find therapists who understand spiritual abuse
-- Reconnect with your own inner knowing—it was right all along
+- Reconnect with your own inner knowing: it was right all along
 - Take time before joining any new spiritual community
 
 ---
 
 ## Professional Relationships
 
-Narcissism in professional contexts—therapists, coaches, healers, doctors—is particularly harmful because you came seeking help.
+Narcissism in professional contexts (therapists, coaches, healers, doctors) is particularly harmful because you came seeking help.
 
 ### Warning Signs in Helping Professionals
 
@@ -207,9 +207,9 @@ Narcissism in professional contexts—therapists, coaches, healers, doctors—is
 
 ### What It Feels Like
 
-Confusion. You came for help and you're getting worse—but are you? Maybe you're just "in the hard part." They keep telling you this is normal. But your gut says something is wrong.
+Confusion. You came for help and you're getting worse. But are you? Maybe you're just "in the hard part." They keep telling you this is normal. But your gut says something is wrong.
 
-You feel dependent on them. Seeing them is the only time you feel okay. In between sessions, you spiral. This isn't healing—this is the creation of need.
+You feel dependent on them. Seeing them is the only time you feel okay. In between sessions, you spiral. This isn't healing; this is the creation of need.
 
 ### What to Do
 
@@ -222,7 +222,7 @@ You feel dependent on them. Seeing them is the only time you feel okay. In betwe
 
 ## Group Settings and Community
 
-Narcissists often thrive in groups—spiritual communities, workplaces, social clubs—where they can establish influence and gather supply from multiple sources.
+Narcissists often thrive in groups (spiritual communities, workplaces, social clubs) where they can establish influence and gather supply from multiple sources.
 
 ### Tactics in Group Dynamics
 
@@ -268,7 +268,7 @@ Narcissists often thrive in groups—spiritual communities, workplaces, social c
 
 ### When Group Leaders Are Narcissistic
 
-Particular danger arises when the narcissist is a group leader—a teacher, minister, coach, or boss. They have structural power plus narcissistic motivation.
+Particular danger arises when the narcissist is a group leader (a teacher, minister, coach, or boss). They have structural power plus narcissistic motivation.
 
 **Warning signs:**
 - Special relationships with certain members
@@ -326,7 +326,7 @@ Dread on Sunday nights. Anxiety before meetings. Second-guessing yourself consta
 
 ### Protecting Yourself at Work
 
-- Document everything—emails, agreements, your contributions
+- Document everything: emails, agreements, your contributions
 - Communicate in writing when possible
 - Build relationships with others who see clearly
 - Keep expectations realistic (they won't change)
@@ -427,7 +427,7 @@ Across all these contexts, the fundamental pattern is the same:
 
 **Their needs consistently eclipse yours.**
 
-The flavor changes. The specific tactics adapt. But the core dynamic—where your wellbeing, needs, and reality are subordinate to theirs—remains constant.
+The flavor changes. The specific tactics adapt. But the core dynamic (where your wellbeing, needs, and reality are subordinate to theirs) remains constant.
 
 Recognition works the same way everywhere:
 1. Notice how your body feels
@@ -435,7 +435,7 @@ Recognition works the same way everywhere:
 3. Observe the pattern over time
 4. Trust the exhaustion, confusion, or contraction you feel
 
-Once you can see the pattern in one arena, you'll start seeing it everywhere—which is both overwhelming and liberating.
+Once you can see the pattern in one arena, you'll start seeing it everywhere, which is both overwhelming and liberating.
 
 ---
 
@@ -467,7 +467,7 @@ Once you can see the pattern in one arena, you'll start seeing it everywhere—w
 
 ### Spiritual Communities
 
-1. Don't announce your doubts to the community—they may close ranks
+1. Don't announce your doubts to the community; they may close ranks
 2. Quietly rebuild outside connections
 3. Leave without seeking understanding from the leader
 4. Find support from others who've left similar situations

@@ -6,7 +6,7 @@
 
 This is the hardest chapter.
 
-If you grew up in a family with narcissistic dynamics, manipulation isn't something that happened to you—it's the water you swam in. You may not have known there was any other way to relate.
+If you grew up in a family with narcissistic dynamics, manipulation isn't something that happened to you; it's the water you swam in. You may not have known there was any other way to relate.
 
 The patterns in this chapter might feel like home. That's both the problem and the key to freedom.
 
@@ -21,26 +21,26 @@ Family narcissism operates at a deeper level:
 1. **You had no choice.** You couldn't leave. You were dependent on them for survival.
 2. **You had no comparison.** Your family's patterns were your only model for how relationships work.
 3. **It shaped your development.** Your brain literally formed in response to their behavior.
-4. **The bond is primal.** Parent-child attachment isn't just emotional—it's biological.
+4. **The bond is primal.** Parent-child attachment isn't just emotional; it's biological.
 
 This is why family work often feels more destabilizing than work on other relationships. You're not just healing from harm; you're questioning the foundation of your understanding of love, family, and self.
 
 **What this feels like in your body:**
 
 When you start to see your family clearly, you may feel:
-- Groundlessness—like the floor is disappearing
+- Groundlessness, like the floor is disappearing
 - Grief that seems endless
 - Guilt that makes you want to stop looking
 - Relief mixed with rage
 - Disorientation about who you are if not who they said you were
 
-All of this is normal. You're not falling apart—you're rearranging. The foundation was always unstable; now you're feeling it.
+All of this is normal. You're not falling apart; you're rearranging. The foundation was always unstable; now you're feeling it.
 
 ---
 
 ## Assigned Roles in the Narcissistic Family
 
-Narcissistic family systems assign roles. These roles serve the narcissist's needs and maintain the family's dysfunctional balance. They're not chosen; they're imposed—often in childhood before you could understand what was happening.
+Narcissistic family systems assign roles. These roles serve the narcissist's needs and maintain the family's dysfunctional balance. They're not chosen; they're imposed, often in childhood before you could understand what was happening.
 
 The roles are not about who you are. They're about what the system needed you to be.
 
@@ -52,15 +52,15 @@ The roles are not about who you are. They're about what the system needed you to
 
 **What it feels like to be the golden child:**
 
-On the surface, you have everything. Approval. Attention. The parent's warmth—when you perform. But underneath, you feel the precariousness. You know the love can be withdrawn. You've seen what happens to the scapegoat when they displease.
+On the surface, you have everything. Approval. Attention. The parent's warmth, when you perform. But underneath, you feel the precariousness. You know the love can be withdrawn. You've seen what happens to the scapegoat when they displease.
 
 So you perform. Perfectly. Exhaustingly. You become who they need you to be. And somewhere in there, you lose track of who you actually are.
 
 The worst part: you might not even realize you're suffering. Everyone tells you how lucky you are. The scapegoat resents you. You're supposed to be grateful. But the cage is still a cage, even when it's gold.
 
-**Adult patterns:** May struggle with perfectionism, fear of failure, difficulty with authentic relationships (accustomed to performing rather than being), or may become narcissistic themselves. Often has imposter syndrome—the praise never felt deserved because it was for the performance, not the person.
+**Adult patterns:** May struggle with perfectionism, fear of failure, difficulty with authentic relationships (accustomed to performing rather than being), or may become narcissistic themselves. Often has imposter syndrome; the praise never felt deserved because it was for the performance, not the person.
 
-**The liberation:** You are allowed to be imperfect. You are allowed to disappoint them. Your worth was never contingent on being their trophy. The fall from the pedestal is terrifying—and also freedom.
+**The liberation:** You are allowed to be imperfect. You are allowed to disappoint them. Your worth was never contingent on being their trophy. The fall from the pedestal is terrifying, and also freedom.
 
 ---
 
@@ -72,9 +72,9 @@ The worst part: you might not even realize you're suffering. Everyone tells you 
 
 **What it feels like to be the scapegoat:**
 
-You carry the family's shadow. Their dysfunction, their shame, their failures—all projected onto you. You're the reason things are hard. You're too sensitive, too angry, too difficult, too much.
+You carry the family's shadow. Their dysfunction, their shame, their failures, all projected onto you. You're the reason things are hard. You're too sensitive, too angry, too difficult, too much.
 
-You may have internalized it. Believed you really were the problem. Spent years trying to be "better," to finally earn the love that flowed so easily to the golden child. Or you stopped trying and became what they said you were—because at least that was something.
+You may have internalized it. Believed you really were the problem. Spent years trying to be "better," to finally earn the love that flowed so easily to the golden child. Or you stopped trying and became what they said you were, because at least that was something.
 
 The crazy-making part: when you point out what's wrong, you become proof of what's wrong. Your accurate perception becomes your pathology.
 
@@ -86,7 +86,7 @@ The crazy-making part: when you point out what's wrong, you become proof of what
 
 ### The Lost Child
 
-**What it looks like:** Invisible. The quiet one who doesn't make waves. Withdraws to avoid conflict. Neither praised nor blamed—just overlooked.
+**What it looks like:** Invisible. The quiet one who doesn't make waves. Withdraws to avoid conflict. Neither praised nor blamed, just overlooked.
 
 **The hidden cost:** Learning that you don't matter. That your needs aren't important. That the safest position is to disappear.
 
@@ -96,7 +96,7 @@ Silence is your survival strategy. You learned early that taking up space draws 
 
 You became easy. Low-maintenance. Self-sufficient before you were developmentally ready. You handled your own feelings because no one was coming. You made yourself small so you wouldn't be a target.
 
-And it worked—you weren't attacked. But you also weren't seen. The neglect was gentler than abuse, but it was still abandonment. You raised yourself while living in a house full of people.
+And it worked; you weren't attacked. But you also weren't seen. The neglect was gentler than abuse, but it was still abandonment. You raised yourself while living in a house full of people.
 
 **Adult patterns:** Difficulty asserting needs, feeling invisible in groups and relationships, isolation, depression. May recreate the invisibility in adult life. Relationships where you're taken for granted. Struggle to believe you matter.
 
@@ -108,7 +108,7 @@ And it worked—you weren't attacked. But you also weren't seen. The neglect was
 
 **What it looks like:** The entertainer. Uses humor, charm, or performance to deflect family tension. The comic relief. Smooths things over with lightness.
 
-**The hidden cost:** Feelings are never taken seriously—including your own. You learn to perform rather than feel. Your pain gets buried under jokes.
+**The hidden cost:** Feelings are never taken seriously, including your own. You learn to perform rather than feel. Your pain gets buried under jokes.
 
 **What it feels like to be the mascot:**
 
@@ -133,11 +133,11 @@ The same person might be:
 - Golden child as a kid, scapegoat after setting boundaries as an adult
 - Different roles at different ages based on the narcissist's needs
 
-Roles can also shift when family composition changes—when one child leaves, another may be reassigned their role. When the scapegoat goes no-contact, watch the golden child suddenly start being criticized.
+Roles can also shift when family composition changes. When one child leaves, another may be reassigned their role. When the scapegoat goes no-contact, watch the golden child suddenly start being criticized.
 
 **The moment the role shifts:**
 
-It's disorienting when you've been golden and suddenly you're scapegoated. The parent you thought loved you turns cold. You realize the love was never for you—it was for your compliance.
+It's disorienting when you've been golden and suddenly you're scapegoated. The parent you thought loved you turns cold. You realize the love was never for you; it was for your compliance.
 
 This is painful but clarifying. Now you know what you're dealing with.
 
@@ -182,7 +182,7 @@ In a triangulated family, you may find yourself:
 
 ### Breaking Triangulation
 
-- **Go direct.** If you hear that someone has a problem with you, talk to them directly—not through the intermediary.
+- **Go direct.** If you hear that someone has a problem with you, talk to them directly, not through the intermediary.
 - **Refuse the relay.** "I appreciate you sharing, but I'd prefer if [person] told me directly."
 - **Hold boundaries on gossip.** Don't participate in discussions about family members who aren't present.
 - **Verify before reacting.** What you heard secondhand may be distorted.

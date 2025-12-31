@@ -4,7 +4,7 @@
 
 ---
 
-Many people who find themselves in narcissistic relationships as adults grew up in environments where similar dynamics were present. This isn't coincidence—it's conditioning.
+Many people who find themselves in narcissistic relationships as adults grew up in environments where similar dynamics were present. This isn't coincidence; it's conditioning.
 
 Understanding how your childhood shaped your patterns isn't about blame. It's about freedom. When you see the roots of your vulnerabilities, you can finally address them.
 
@@ -20,7 +20,7 @@ If affection was given as reward and withdrawn as punishment, you learned that l
 
 ### That Your Needs Are Shameful
 
-If expressing needs was met with irritation, dismissal, or rage, you learned that having needs is a burden. You become the person who never asks for anything—and therefore attracts people who take without giving.
+If expressing needs was met with irritation, dismissal, or rage, you learned that having needs is a burden. You become the person who never asks for anything, and therefore attracts people who take without giving.
 
 ### That Your Perception Is Unreliable
 
@@ -28,11 +28,11 @@ If your reality was regularly denied ("That didn't happen." "You're making thing
 
 ### That Hypervigilance Is Survival
 
-If your parent's mood was unpredictable, you learned to scan constantly—watching faces, monitoring tone, anticipating explosions. This hypervigilance becomes familiar, almost comfortable. You may not recognize when you're in a calm, safe environment because calm feels... boring? Suspicious?
+If your parent's mood was unpredictable, you learned to scan constantly: watching faces, monitoring tone, anticipating explosions. This hypervigilance becomes familiar, almost comfortable. You may not recognize when you're in a calm, safe environment because calm feels... boring? Suspicious?
 
 ### That Your Job Is to Manage Others' Emotions
 
-If you were parentified—made responsible for a parent's emotional wellbeing—you learned that love means caretaking. This makes you a magnet for people who want emotional labor without reciprocity.
+If you were parentified, made responsible for a parent's emotional wellbeing, you learned that love means caretaking. This makes you a magnet for people who want emotional labor without reciprocity.
 
 ### That Chaos Is Home
 
@@ -48,15 +48,15 @@ Childhood patterns don't just live in your mind. They live in your body, your re
 
 **What it looks like:** You have trouble remembering childhood. Years are fuzzy. Specific incidents are vague. You know "something" was wrong but can't quite access it.
 
-**What it means:** Memory loss is often protective—your brain didn't want to store (or give you access to) experiences it couldn't process at the time. This is dissociation serving as a survival mechanism.
+**What it means:** Memory loss is often protective: your brain didn't want to store (or give you access to) experiences it couldn't process at the time. This is dissociation serving as a survival mechanism.
 
-**Moving forward:** Memory may return as you heal and feel safe enough to access it. Therapy can help. Also, you don't need complete memory to heal—you can work with what your body remembers even when your mind doesn't.
+**Moving forward:** Memory may return as you heal and feel safe enough to access it. Therapy can help. Also, you don't need complete memory to heal; you can work with what your body remembers even when your mind doesn't.
 
 ### Being Called "Too Sensitive"
 
 **What it looks like:** Parents, siblings, or other adults told you that your reactions were disproportionate, that you were too emotional, that you needed to toughen up.
 
-**What it means:** Your sensitivity was accurate—it was detecting real dysfunction. Calling you "too sensitive" was a way to invalidate your perception and make the family's problems yours to adjust to.
+**What it means:** Your sensitivity was accurate. It was detecting real dysfunction. Calling you "too sensitive" was a way to invalidate your perception and make the family's problems yours to adjust to.
 
 **Moving forward:** Recognize that "too sensitive" was a dismissal, not a diagnosis. Your sensitivity is a gift. It needs protection, not suppression.
 
@@ -84,7 +84,7 @@ Parental gaslighting teaches you that your reality cannot be trusted. Common for
 
 ### "Kids Make Things Up"
 
-When you reported something accurately—what you saw, what you heard, what happened—and were told you were inventing or exaggerating.
+When you reported something accurately (what you saw, what you heard, what happened) and were told you were inventing or exaggerating.
 
 **Impact:** You learn that adult interpretation overrides your direct experience. You start checking whether your perceptions are valid rather than trusting them.
 
@@ -108,7 +108,7 @@ Denial of statements, promises, or commitments.
 
 ### The Long-Term Effect
 
-Being gaslit as a child creates a vulnerability to gaslighting as an adult. The familiar feeling of "maybe I'm the crazy one" was installed early. When a partner creates that feeling, it matches something you know—and you've been trained to accept it.
+Being gaslit as a child creates a vulnerability to gaslighting as an adult. The familiar feeling of "maybe I'm the crazy one" was installed early. When a partner creates that feeling, it matches something you know, and you've been trained to accept it.
 
 ### The Correction
 
@@ -146,7 +146,7 @@ This might have looked like:
 This pattern follows you into adult relationships:
 
 - **Over-sharing to create connection:** You learned that revealing yourself creates emotional bonds, so you share more than is warranted early on.
-- **Being overly available:** You respond immediately, adjust your schedule, make yourself endlessly accessible—because availability was how you maintained safety.
+- **Being overly available:** You respond immediately, adjust your schedule, make yourself endlessly accessible, because availability was how you maintained safety.
 - **Putting others' emotional needs first:** You automatically prioritize their feelings over yours. Your needs don't even register until theirs are met.
 - **Missing red flags:** Because "helping" feels like home, you don't recognize when someone is taking advantage of your caretaking.
 - **Attracting people who need caretaking:** Your skills are exactly what takers are looking for. They can sense your training.
@@ -196,7 +196,7 @@ Your sensitivity was right.
 
 You felt what was there to be felt. You perceived what was there to be perceived. The intensity of your response was proportionate to the dysfunction you were living in.
 
-Sensitivity isn't a disorder—it's a capacity. In healthy environments, it's a gift. It only became a problem because your environment wasn't healthy.
+Sensitivity isn't a disorder; it's a capacity. In healthy environments, it's a gift. It only became a problem because your environment wasn't healthy.
 
 Now, as an adult, you can:
 - Stop apologizing for feeling deeply
@@ -215,9 +215,9 @@ The care you didn't receive as a child, you can now give yourself.
 
 **Speaking kindly to yourself:** The voice in your head can become the supportive parent you needed. "It's okay to feel this." "You're doing your best." "I'm proud of you."
 
-**Meeting your own needs:** Feeding yourself well, sleeping enough, resting when tired, seeking joy—these are parenting functions you now provide.
+**Meeting your own needs:** Feeding yourself well, sleeping enough, resting when tired, seeking joy. These are parenting functions you now provide.
 
-**Setting boundaries:** Protecting yourself from harm, saying no, limiting contact with toxic people—this is the protection your parents should have offered.
+**Setting boundaries:** Protecting yourself from harm, saying no, limiting contact with toxic people. This is the protection your parents should have offered.
 
 **Validating your experience:** "What happened to you was real. It was hard. Your feelings about it are valid."
 
@@ -245,7 +245,7 @@ Perhaps your greatest fear is becoming like them. Or passing these patterns to y
 
 ### Know This
 
-Awareness breaks cycles. The fact that you're reading this, doing this work, understanding these patterns—that's already different from what was done to you.
+Awareness breaks cycles. The fact that you're reading this, doing this work, understanding these patterns: that's already different from what was done to you.
 
 People who were harmed and don't examine it often repeat it unconsciously. People who were harmed and do examine it have the opportunity to choose differently.
 
@@ -295,7 +295,7 @@ This section names these patterns briefly. Deeper exploration and healing practi
 
 You're young. Someone wants something you don't want to give.
 
-You feel the moment stretch—the risk of disappointing them heavier than your own discomfort.
+You feel the moment stretch: the risk of disappointing them heavier than your own discomfort.
 
 You agree without wanting to.
 
@@ -310,7 +310,7 @@ You learn something silently:
 
 You don't have sex.
 
-Still, he tells people your most private truth—a story you shared because you trusted him.
+Still, he tells people your most private truth: a story you shared because you trusted him.
 
 Your body learns another lesson:
 *Vulnerability can be weaponized.*
@@ -323,14 +323,14 @@ Desire becomes guarded. Silence feels safer than truth.
 
 You've been drinking. He says it's already happening.
 
-You freeze—not from desire, but from resignation.
+You freeze, not from desire, but from resignation.
 
 You say "okay" without meaning yes.
 
 Something quiet breaks.
 
 Later you think:
-*I lost something—and I don't know how to name it.*
+*I lost something, and I don't know how to name it.*
 
 ---
 
@@ -342,7 +342,7 @@ These early experiences wire sexuality to:
 - Freeze and fawn responses mistaken for choice
 - Dissociation during intimacy
 
-Sexuality here is not pleasure—it is survival.
+Sexuality here is not pleasure; it is survival.
 
 *When sexuality is learned under threat, it organizes around survival, not pleasure.*
 
@@ -352,7 +352,7 @@ Sexuality here is not pleasure—it is survival.
 
 If these patterns feel familiar, know this: your body was adapting, not broken.
 
-What was learned in chaos can be unlearned in safety—slowly, gently, and without force.
+What was learned in chaos can be unlearned in safety: slowly, gently, and without force.
 
 For deeper exploration of how sexuality heals and reorganizes, see **[Volume 4: Embodied Leadership](../../vol-4-embodied-leadership/README.md)**, particularly Part III: Erotic Coherence.
 
@@ -396,7 +396,7 @@ When you notice shame, fear, or old patterns activating:
 3. **Speak to it:** "I see you. You learned this to survive. You're safe now."
 4. **Reassure it:** "I'm the adult now. I'll handle this. You can rest."
 
-This isn't metaphor—these are real neural networks formed in childhood, still running. You're updating them.
+This isn't metaphor. These are real neural networks formed in childhood, still running. You're updating them.
 
 ### The Corrective Experience Practice
 
@@ -410,7 +410,7 @@ Identify what you needed but didn't get:
 
 Now, consciously give yourself these things:
 - Accept yourself without conditions today
-- Be present with yourself—put down the phone, sit with your feelings
+- Be present with yourself: put down the phone, sit with your feelings
 - Say "I trust what I saw. I trust what I felt."
 - Remove yourself from harmful situations without guilt
 - Ask for what you need without apology
@@ -427,7 +427,7 @@ For each pattern you want to change:
 | My perception was denied | I doubt myself constantly | I trust my experience |
 | I managed others' emotions | I over-give to everyone | Their feelings are theirs |
 
-Create your own map. The pattern isn't the problem—unconsciousness is. Once you see it, you can choose differently.
+Create your own map. The pattern isn't the problem; unconsciousness is. Once you see it, you can choose differently.
 
 ### The Weekly Reparenting Review
 

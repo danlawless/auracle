@@ -8,7 +8,7 @@
 
 Manipulation tactics are universal, but they adapt to context. The same underlying pattern of control looks different in a romantic relationship than in a friendship, differently in a family than at work.
 
-This chapter helps you recognize narcissistic dynamics in romantic relationships—because freedom requires clear sight, especially in the relationships where you've already been hurt.
+This chapter helps you recognize narcissistic dynamics in romantic relationships, because freedom requires clear sight, especially in the relationships where you've already been hurt.
 
 ---
 
@@ -24,7 +24,7 @@ The beginning feels magical. You've never been seen like this. Never pursued lik
 
 **What it feels like in your body:**
 
-A rush. Electricity. Your heart races when you see their name on your phone. You can't stop thinking about them. You feel high—because you are. The neurochemistry of love-bombing is similar to addiction. Dopamine floods your system.
+A rush. Electricity. Your heart races when you see their name on your phone. You can't stop thinking about them. You feel high. Because you are. The neurochemistry of love-bombing is similar to addiction. Dopamine floods your system.
 
 This intensity feels like proof of connection. It's actually proof of speed.
 
@@ -42,7 +42,7 @@ The shift happens. Sometimes suddenly, sometimes gradually. The person who adore
 
 **What it feels like in your body:**
 
-Confusion that lives in your chest. Anxiety that never quite resolves. You're walking on eggshells—your stomach tight, your senses hypervigilant. You don't know which version of them you'll get.
+Confusion that lives in your chest. Anxiety that never quite resolves. You're walking on eggshells: your stomach tight, your senses hypervigilant. You don't know which version of them you'll get.
 
 You start managing yourself to manage them. Your needs shrink. Your voice gets smaller. You're trying so hard, but nothing works.
 
@@ -56,11 +56,11 @@ You start managing yourself to manage them. Your needs shrink. Your voice gets s
 
 **Phase 3: Discard (or Intermittent Cycling)**
 
-They leave. Or they create conditions so intolerable that you leave. Or the cycle continues indefinitely—idealization, devaluation, near-breakup, reconciliation, repeat.
+They leave. Or they create conditions so intolerable that you leave. Or the cycle continues indefinitely: idealization, devaluation, near-breakup, reconciliation, repeat.
 
 **What it feels like in your body:**
 
-If they discard: devastation that feels disproportionate. You may have wanted to leave, and yet their leaving breaks you. This is trauma bond withdrawal—your nervous system was hooked.
+If they discard: devastation that feels disproportionate. You may have wanted to leave, and yet their leaving breaks you. This is trauma bond withdrawal; your nervous system was hooked.
 
 If they cycle: exhaustion mixed with hope. Each return brings relief that feels like love. You're addicted to the repair. You mistake the highs that follow lows for intimacy.
 
@@ -77,11 +77,11 @@ This isn't weakness. It's neurochemistry.
 
 Trauma bonds form through:
 - **Intermittent reinforcement:** Unpredictable kindness is more bonding than consistent kindness. Your brain keeps seeking the reward.
-- **Hormonal hijack:** The stress-relief cycle creates oxytocin surges during reconciliation. Your body associates them with safety—exactly backwards.
+- **Hormonal hijack:** The stress-relief cycle creates oxytocin surges during reconciliation. Your body associates them with safety, exactly backwards.
 - **Identity erosion:** The longer you stay, the less you remember who you were before. Leaving feels like losing yourself.
 - **Fear activation:** When leaving feels dangerous (and it often is), staying feels like survival.
 
-Breaking a trauma bond requires understanding it's not about love. It's about your nervous system being hijacked. You're not choosing this—you're stuck in it.
+Breaking a trauma bond requires understanding it's not about love. It's about your nervous system being hijacked. You're not choosing this; you're stuck in it.
 
 ### Sexualized Control Dynamics
 
@@ -121,20 +121,20 @@ Sexual dynamics in narcissistic relationships are rarely just about sex. They're
 
 **What it feels like in your body:**
 
-Confusion. Your body may respond to stimulation even when you're afraid or uncomfortable. This doesn't mean you wanted it—it means bodies respond to touch. This is one of the most painful parts to untangle: the physical response that felt like consent but wasn't.
+Confusion. Your body may respond to stimulation even when you're afraid or uncomfortable. This doesn't mean you wanted it: it means bodies respond to touch. This is one of the most painful parts to untangle: the physical response that felt like consent but wasn't.
 
-You may feel disconnected from your sexuality. Hypervigilant during intimacy. Unable to relax. Or numbed out entirely—going through motions without presence.
+You may feel disconnected from your sexuality. Hypervigilant during intimacy. Unable to relax. Or numbed out entirely, going through motions without presence.
 
 **The confusion this creates:**
 
 Many people struggle to name what happened because:
 - The sex felt good (bodies respond to stimulation regardless of consent)
 - They didn't say no clearly enough (they froze, fawned, or were confused)
-- The pleasure felt real (and it was—neurochemically)
+- The pleasure felt real (and it was, neurochemically)
 - The relationship "wasn't about sex" (so they dismiss the sexual dynamics)
 
 **The truth:**
-Sexuality in a narcissistic relationship is rarely clean. It carries the same patterns as everything else—control disguised as connection, pressure disguised as passion, and relief mistaken for intimacy.
+Sexuality in a narcissistic relationship is rarely clean. It carries the same patterns as everything else: control disguised as connection, pressure disguised as passion, and relief mistaken for intimacy.
 
 ### Red Flags to Trust
 
@@ -204,9 +204,9 @@ While many examples in this chapter use heterosexual relationship dynamics, narc
 - Loss of chosen family who may side with the abuser
 
 **LGBTQ+-Specific Resources:**
-- **The Network/La Red:** 617-742-4911 — Partner abuse services for LGBTQ+, SM, and polyamorous communities
-- **FORGE:** 414-559-2123 — Transgender-specific anti-violence support
-- **GLBT National Hotline:** 1-888-843-4564 — Support and local resources
+- **The Network/La Red:** 617-742-4911. Partner abuse services for LGBTQ+, SM, and polyamorous communities
+- **FORGE:** 414-559-2123. Transgender-specific anti-violence support
+- **GLBT National Hotline:** 1-888-843-4564. Support and local resources
 - **LGBT National Help Center:** lgbthotline.org
 
 If the dynamics in this chapter resonate but the specific examples don't match your experience, trust your perception. Abuse is abuse regardless of the genders involved.
@@ -247,7 +247,7 @@ In healthy romantic relationships, the patterns are reversed. Instead of escalat
 
 **What healthy love feels like in your body:**
 
-Calm. Not the boring kind of calm—the kind where your nervous system can actually rest. You don't monitor their mood when they walk in the room. You don't brace for impact when you hear their footsteps. Your shoulders can drop. Your jaw can unclench.
+Calm. Not the boring kind of calm, the kind where your nervous system can actually rest. You don't monitor their mood when they walk in the room. You don't brace for impact when you hear their footsteps. Your shoulders can drop. Your jaw can unclench.
 
 You might feel butterflies, but you also feel safe. The excitement doesn't come with dread underneath it. When you think about them, your chest opens rather than tightens.
 
@@ -324,7 +324,7 @@ These are the relationships where:
 - They're "not good at emotions" so you stop having them around them
 - Your needs for connection are "clingy" or "needy"
 - They withdraw when you're upset rather than moving closer
-- Intimacy feels one-directional—you give, they receive
+- Intimacy feels one-directional: you give, they receive
 - You feel lonely in the relationship but can't pinpoint why
 
 **Financial control without obvious abuse:**
@@ -343,7 +343,7 @@ These are the relationships where:
 
 ### What It Feels Like in Your Body
 
-Tired. You're so tired. Not the kind that sleep fixes—the kind that comes from constant emotional labor. You manage them, manage yourself around them, manage everything to keep the peace.
+Tired. You're so tired. Not the kind that sleep fixes, the kind that comes from constant emotional labor. You manage them, manage yourself around them, manage everything to keep the peace.
 
 Your chest might feel tight more often than open. You might notice you hold your breath in conversations. There's a low-level anxiety you've gotten so used to you barely notice it anymore.
 
@@ -375,7 +375,7 @@ This makes it harder. If they were terrible 100% of the time, leaving would be o
 
 Check how many of these resonate:
 - You can't remember the last time you felt fully relaxed around them
-- You edit yourself constantly—what you say, how you say it, what you share
+- You edit yourself constantly: what you say, how you say it, what you share
 - You're exhausted from emotional labor that goes unrecognized
 - You feel like you're failing at the relationship but can't identify what you're doing wrong
 - Your needs have become negotiable while theirs are non-negotiable
@@ -417,27 +417,27 @@ You don't need their behavior to escalate for your unhappiness to be valid. Mid-
 
 ## The Exit Phase Escalation
 
-When a narcissist senses they're losing control—when you're pulling away, setting boundaries, or planning to leave—they often escalate dramatically. This is sometimes called the "extinction burst": a final, desperate attempt to reassert dominance before losing access to their supply.
+When a narcissist senses they're losing control, when you're pulling away, setting boundaries, or planning to leave, they often escalate dramatically. This is sometimes called the "extinction burst": a final, desperate attempt to reassert dominance before losing access to their supply.
 
-This phase is the most dangerous time in the relationship. The tactics combine and intensify. What was psychological becomes physical. What was private becomes public. The stakes feel life-or-death because, to them, they are—losing control feels like annihilation.
+This phase is the most dangerous time in the relationship. The tactics combine and intensify. What was psychological becomes physical. What was private becomes public. The stakes feel life-or-death because, to them, they are: losing control feels like annihilation.
 
 ### Case Study: When Leaving Triggers Everything at Once
 
 **The Context:**
 
-A partner has decided internally that they need to leave the relationship. They haven't announced it yet, but the narcissist senses the shift—the emotional withdrawal, the lack of engagement, the quiet preparation. The narcissist knows their grip is loosening.
+A partner has decided internally that they need to leave the relationship. They haven't announced it yet, but the narcissist senses the shift: the emotional withdrawal, the lack of engagement, the quiet preparation. The narcissist knows their grip is loosening.
 
 **What Happened:**
 
-The escalation began with **suicide threats** (Tactic 29): "If you leave, I'll kill myself. I'll jump off this balcony right now." The threat hangs in the air, creating an impossible choice—stay and endure abuse, or leave and risk their death being "your fault."
+The escalation began with **suicide threats** (Tactic 29): "If you leave, I'll kill myself. I'll jump off this balcony right now." The threat hangs in the air, creating an impossible choice: stay and endure abuse, or leave and risk their death being "your fault."
 
-This was followed by **physical intimidation** (Tactic 4): Taking their own hand and placing it around their partner's throat, not squeezing but demonstrating—"It's so delicate. I could snap it with one hand." Getting physically close with a closed fist while yelling. The message was clear: your safety depends on my restraint.
+This was followed by **physical intimidation** (Tactic 4): Taking their own hand and placing it around their partner's throat, not squeezing but demonstrating: "It's so delicate. I could snap it with one hand." Getting physically close with a closed fist while yelling. The message was clear: your safety depends on my restraint.
 
-Then came the **trivial demands as compliance tests**: "Get me another popsicle." Not because they wanted it, but to test dominance. When their partner didn't immediately comply, the response was explosive—screaming, making a scene in front of a visiting friend. This was **public humiliation** (combined tactics) designed to punish non-compliance and demonstrate power.
+Then came the **trivial demands as compliance tests**: "Get me another popsicle." Not because they wanted it, but to test dominance. When their partner didn't immediately comply, the response was explosive: screaming, making a scene in front of a visiting friend. This was **public humiliation** (combined tactics) designed to punish non-compliance and demonstrate power.
 
 The aftermath involved **reversal of blame** (Tactic 18): "If you had just done what I wanted in the first place, none of this would have happened. This is your fault." The explosion was reframed as a reasonable response to non-compliance.
 
-Throughout the relationship, there had been ongoing **appearance control** (Tactic 9): Critiquing hair color in public at the salon. Demanding "neutral" hair and nails—no red hair, no sparkles—especially when seeing his friends. Dictating how she presented herself to ensure she reflected well on him and remained "appropriate."
+Throughout the relationship, there had been ongoing **appearance control** (Tactic 9): Critiquing hair color in public at the salon. Demanding "neutral" hair and nails: no red hair, no sparkles, especially when seeing his friends. Dictating how she presented herself to ensure she reflected well on him and remained "appropriate."
 
 **Tactics in Play:**
 
@@ -452,7 +452,7 @@ This situation demonstrates how multiple tactics interlock during high-stakes mo
 
 **The Pattern: The Extinction Burst**
 
-When narcissists feel control slipping, they don't de-escalate—they escalate. This is the extinction burst, the final desperate attempt to reassert dominance. Think of it like a drowning person: they grab harder, pull you under, thrash more violently precisely because they're losing their grip.
+When narcissists feel control slipping, they don't de-escalate; they escalate. This is the extinction burst, the final desperate attempt to reassert dominance. Think of it like a drowning person: they grab harder, pull you under, thrash more violently precisely because they're losing their grip.
 
 The pattern includes:
 - **Threats of self-harm** to make you responsible for their life
@@ -464,7 +464,7 @@ The pattern includes:
 
 **Why It Works (And Why It's So Paralyzing):**
 
-Multiple tactics working together create what's called "tactical overwhelm." Each tactic alone is manageable if you're prepared. But when they combine—suicide threat + physical intimidation + blame-shifting + appearance control—your nervous system gets flooded.
+Multiple tactics working together create what's called "tactical overwhelm." Each tactic alone is manageable if you're prepared. But when they combine (suicide threat + physical intimidation + blame-shifting + appearance control), your nervous system gets flooded.
 
 You can't think clearly. You freeze. Each tactic makes you vulnerable to the next:
 - The suicide threat activates your guilt and responsibility
@@ -473,7 +473,7 @@ You can't think clearly. You freeze. Each tactic makes you vulnerable to the nex
 - Blame-shifting makes you doubt your reality
 - Appearance control makes you feel owned, not autonomous
 
-The trivial demands are particularly insidious. "Get me a popsicle" seems small—why not just do it to keep the peace? But that's exactly the point. The demand tests whether you're still compliant. Your refusal to perform small acts of submission signals that their control is slipping, which triggers escalation.
+The trivial demands are particularly insidious. "Get me a popsicle" seems small, why not just do it to keep the peace? But that's exactly the point. The demand tests whether you're still compliant. Your refusal to perform small acts of submission signals that their control is slipping, which triggers escalation.
 
 ### How to Recognize You're in Exit Phase Escalation
 

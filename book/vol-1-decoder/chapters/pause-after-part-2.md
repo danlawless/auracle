@@ -8,7 +8,7 @@ Before continuing, take a moment:
 
 ## Notice Your Body
 
-You've just traveled through territory that may have been familiar—painfully familiar. Family wounds, childhood patterns, manipulation across every context of life.
+You've just traveled through territory that may have been familiar, painfully familiar. Family wounds, childhood patterns, manipulation across every context of life.
 
 Where is this living in your body right now? Shoulders? Chest? Stomach? Jaw?
 
@@ -40,7 +40,7 @@ You are not in that family system anymore. You are here, now, an adult who gets 
 
 ## When You're Ready
 
-Part III awaits: **Tools**—where we move from understanding to practical action. Decoder cards, diagnostic questions, and concrete resources for recognition and response.
+Part III awaits: **Tools**, where we move from understanding to practical action. Decoder cards, diagnostic questions, and concrete resources for recognition and response.
 
 You've done the deep excavation. Now comes the equipment for building something new.
 

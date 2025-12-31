@@ -1,14 +1,14 @@
-# Chapter 11: Decoder Cards — Core Patterns
+# Chapter 11: Decoder Cards: Core Patterns
 
 ## Quick-Reference Guides for Real-Time Recognition
 
 ---
 
-This chapter contains decoder cards—compressed, practical guides for recognizing and responding to specific manipulation patterns in real time.
+This chapter contains decoder cards: compressed, practical guides for recognizing and responding to specific manipulation patterns in real time.
 
 **Why these exist:**
 
-When you're in the middle of manipulation, your thinking brain goes offline. You freeze. You doubt. You can't access what you know. These cards are designed for that moment—when you need clarity fast.
+When you're in the middle of manipulation, your thinking brain goes offline. You freeze. You doubt. You can't access what you know. These cards are designed for that moment: when you need clarity fast.
 
 **Use these as:**
 - **Quick reference** when you're confused about what just happened
@@ -18,9 +18,9 @@ When you're in the middle of manipulation, your thinking brain goes offline. You
 
 **How to use them in the moment:**
 
-1. Notice your body first—confusion, tightness, exhaustion, or the urge to over-explain are signals
+1. Notice your body first: confusion, tightness, exhaustion, or the urge to over-explain are signals
 2. Find the card that matches what just happened
-3. Read "What's Really Happening"—let it land
+3. Read "What's Really Happening." Let it land
 4. Choose your power move or simply walk away
 
 **Each card follows the same format:**
@@ -41,7 +41,7 @@ Keep your most-triggered cards accessible. Screenshot them. Write them on an ind
 Before we decode specific tactics, understand the meta-pattern that makes all of them work. Every card that follows is a variation of this ancient dynamic.
 
 **The Fable:**
-A wolf cannot approach the flock as a wolf—the sheep would flee. So it wraps itself in wool. It walks among them. It gains trust. And only when close enough to consume does it reveal its teeth.
+A wolf cannot approach the flock as a wolf; the sheep would flee. So it wraps itself in wool. It walks among them. It gains trust. And only when close enough to consume does it reveal its teeth.
 
 **What They Say/Do:**
 - "I'm only saying this because I care."
@@ -52,7 +52,7 @@ A wolf cannot approach the flock as a wolf—the sheep would flee. So it wraps i
 - "I know what's best for you."
 
 **What's Really Happening:**
-Control cannot approach you as control—you would reject it. So it wraps itself in virtuous clothing: care, concern, protection, honesty, help, wisdom. Every tactic in this book is a wolf wearing sheep's clothing. The "clothing" changes; the wolf never does.
+Control cannot approach you as control; you would reject it. So it wraps itself in virtuous clothing: care, concern, protection, honesty, help, wisdom. Every tactic in this book is a wolf wearing sheep's clothing. The "clothing" changes; the wolf never does.
 
 **The Disguises (Sheep's Clothing):**
 | What It Looks Like | What It Actually Is |
@@ -69,7 +69,7 @@ Control cannot approach you as control—you would reject it. So it wraps itself
 | Vulnerability | Manipulation |
 
 **How It Hooks You:**
-The clothing works because it activates your values against you. You value care—so you accept surveillance. You value honesty—so you accept cruelty. You value protection—so you accept possession. The wolf studies what you value and wears it.
+The clothing works because it activates your values against you. You value care, so you accept surveillance. You value honesty, so you accept cruelty. You value protection, so you accept possession. The wolf studies what you value and wears it.
 
 **Your Power Move:**
 Stop looking at the clothing. Start noticing the impact.
@@ -84,7 +84,7 @@ That's the only test you need. Trust what your body knows before your mind has c
 **Why This Card Comes First:**
 Every card that follows is a specific disguise. Gaslighting is a wolf. Love-bombing is a wolf. Triangulation is a wolf. They wear different clothing, but they share one purpose: to get close enough to consume.
 
-Once you see this meta-pattern, you'll recognize new wolves you've never encountered before—because you'll stop being distracted by the clothing.
+Once you see this meta-pattern, you'll recognize new wolves you've never encountered before. You'll stop being distracted by the clothing.
 
 ---
 
@@ -106,7 +106,7 @@ Surveillance disguised as concern. This implies you might not be okay without th
 You feel touched that someone cares. Questioning feels ungrateful. You start reporting your whereabouts to avoid their "worry." Your independence becomes negotiable.
 
 **Your Power Move:**
-"I'm fine—I'll reach out if I need anything." Don't explain, justify, or provide details. Caring people trust your ability to manage yourself.
+"I'm fine. I'll reach out if I need anything." Don't explain, justify, or provide details. Caring people trust your ability to manage yourself.
 
 ---
 
@@ -141,10 +141,10 @@ Don't elaborate. "I was clear. Let me know when you're ready to engage with what
 - "Are your parents still together?"
 - "Do you have close friends here?"
 - "What did your therapist say about this?"
-- "You seem so independent—do you need anyone?"
+- "You seem so independent. Do you need anyone?"
 
 **What's Really Happening:**
-This isn't curiosity—it's data collection. They're scanning for weakness, isolation, or vulnerability. Information about your support system tells them how much leverage they have.
+This isn't curiosity; it's data collection. They're scanning for weakness, isolation, or vulnerability. Information about your support system tells them how much leverage they have.
 
 **How It Hooks You:**
 It feels like normal getting-to-know-you conversation. You share openly. They file away what they learn for potential future use.
@@ -202,7 +202,7 @@ Internal: "I return this shame to its source." External: "I don't experience mys
 **The Pattern:** You start questioning if everything is your fault
 
 **What They Say/Do:**
-This one is internal—it's what YOU do:
+This one is internal: it's what YOU do:
 - "Maybe I'm being too sensitive"
 - "What did I do to cause this?"
 - "If I were better, they'd treat me better"
@@ -232,7 +232,7 @@ Ask yourself: "Would I feel this way if they hadn't trained me to?" Check with a
 - "I'm fine" (clearly not fine)
 
 **What's Really Happening:**
-Normal warmth is being withdrawn as punishment. You're supposed to feel the cold and work to restore warmth—usually by abandoning whatever position triggered the withdrawal.
+Normal warmth is being withdrawn as punishment. You're supposed to feel the cold and work to restore warmth, usually by abandoning whatever position triggered the withdrawal.
 
 **How It Hooks You:**
 You feel desperate to reconnect. You chase. You apologize for things you didn't do wrong. You drop your boundaries to end the discomfort.
@@ -254,7 +254,7 @@ Don't chase. "I notice you're withdrawn. I'm here when you're ready to talk dire
 - [Addressing Complaint A leads to Complaint B]
 
 **What's Really Happening:**
-You're chasing a target that moves every time you approach it. Your perpetual inadequacy is the point—if you ever succeeded, they'd lose leverage.
+You're chasing a target that moves every time you approach it. Your perpetual inadequacy is the point; if you ever succeeded, they'd lose leverage.
 
 **How It Hooks You:**
 You keep trying, believing success is possible. You exhaust yourself meeting demands that shape-shift. You feel like you're always almost there but never arriving.
@@ -282,7 +282,7 @@ Cruelty is dressed as virtue. They position themselves as brave truth-tellers wh
 You feel ungrateful for rejecting "help." You question whether your hurt means you "can't handle truth." You start believing that pain equals growth.
 
 **Your Power Move:**
-Real feedback is given with care, at appropriate times, for your benefit. If it feels like an attack, it is—regardless of what it's called.
+Real feedback is given with care, at appropriate times, for your benefit. If it feels like an attack, it is, regardless of what it's called.
 
 ---
 
@@ -298,7 +298,7 @@ Real feedback is given with care, at appropriate times, for your benefit. If it 
 - "I could find someone who..."
 
 **What's Really Happening:**
-Competition is being imported into partnership. You're being reminded that you're replaceable, measured against phantoms—real or invented—who are somehow better.
+Competition is being imported into partnership. You're being reminded that you're replaceable, measured against phantoms, real or invented, who are somehow better.
 
 **How It Hooks You:**
 You feel like you're auditioning, not belonging. You try to be more like the referenced ideal. You forget that comparison is the tool, not the truth.
@@ -314,7 +314,7 @@ You feel like you're auditioning, not belonging. You try to be more like the ref
 
 **What They Say/Do:**
 - "You don't understand what I've been through"
-- "My parents were terrible—that's why I'm like this"
+- "My parents were terrible; that's why I'm like this"
 - "I've been hurt so much"
 - "Everyone leaves me"
 - "I'm just damaged"
@@ -342,7 +342,7 @@ Pain explains; it doesn't excuse. "I'm sorry you went through that. And I still 
 - "How could you do this after all I've sacrificed?"
 
 **What's Really Happening:**
-Previous kindnesses are being converted into debt. Every nice thing becomes a claim on your future compliance. Generosity wasn't free—it was investment.
+Previous kindnesses are being converted into debt. Every nice thing becomes a claim on your future compliance. Generosity wasn't free; it was investment.
 
 **How It Hooks You:**
 You feel indebted. You minimize current harm because of past help. Leaving feels ungrateful. You stay to repay a debt that keeps growing.
@@ -427,13 +427,13 @@ Trust your perception. "I know what I experienced." You don't need their agreeme
 - Minimizing your pain ("You're making too much of this")
 - Siding with those who hurt you
 - Using your vulnerabilities against you
-- "I'm your mother—I know what's best"
+- "I'm your mother; I know what's best"
 
 **What's Really Happening:**
 The person who should be your first protector has become a source of harm. Trust is violated at the most primal level.
 
 **How It Hooks You:**
-You keep trying to make her safe because the alternative—that mother isn't safe—is almost unbearable. You override evidence to preserve the bond.
+You keep trying to make her safe because the alternative, that mother isn't safe, is almost unbearable. You override evidence to preserve the bond.
 
 **Your Power Move:**
 Accept that her limitations are not your fault and not yours to fix. Seek safety elsewhere. Mother her yourself.
@@ -474,7 +474,7 @@ You soften your position. You apologize for how you said something instead of st
 - Compliments followed by requests
 
 **What's Really Happening:**
-This isn't appreciation—it's transaction. They're creating a sense of obligation through flattery. Or they're mirroring to create false intimacy. The compliments often feel hollow because they're not really about you—they're about them getting something.
+This isn't appreciation; it's transaction. They're creating a sense of obligation through flattery. Or they're mirroring to create false intimacy. The compliments often feel hollow because they're not really about you; they're about them getting something.
 
 **How It Hooks You:**
 You feel seen at first. Then indebted. Then drained. It's hard to name why compliments feel bad, so you doubt yourself.
@@ -492,7 +492,7 @@ Trust the drain. Genuine appreciation energizes; manipulation depletes. "Thank y
 - "Things will be different after [event]"
 - "I'm working on myself"
 - "When we have more money/move/get married, everything will change"
-- "Just wait—you'll see the real me"
+- "Just wait; you'll see the real me"
 - Promises that never materialize
 
 **What's Really Happening:**
@@ -529,13 +529,13 @@ Each card can become a post, video, or conversation starter. One pattern per pie
 
 You may encounter patterns not covered here. Create cards for them:
 
-1. **Name the pattern** — Give it a memorable title
-2. **Describe the surface** — What does it look like?
-3. **Reveal the beneath** — What's really happening?
-4. **Explain the hook** — Why does it work?
-5. **Offer the power move** — What can you do?
+1. **Name the pattern**: Give it a memorable title
+2. **Describe the surface**: What does it look like?
+3. **Reveal the beneath**: What's really happening?
+4. **Explain the hook**: Why does it work?
+5. **Offer the power move**: What can you do?
 
-The act of creating a decoder card is itself empowering—you're transforming confusing experience into clear insight.
+The act of creating a decoder card is itself empowering: you're transforming confusing experience into clear insight.
 
 ---
 

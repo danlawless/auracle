@@ -68,17 +68,17 @@ These tactics are about establishing dominance: who has power, who sets the agen
 
 **Your power move:** Lower your voice instead of raising it. Or simply say: "I'm going to pause this conversation until we can both speak at normal volume." Then leave the room if needed.
 
-> *"He doesn't shout because he's angry—he shouts to rewrite the room's frequency."*
+> *"He doesn't shout because he's angry; he shouts to rewrite the room's frequency."*
 
 ---
 
 ### Tactic 4: Physical Intimidation
 
-**What it looks like:** They get physically close when angry—invading your space with their body. They might make a fist near you, stand over you, block doorways, or touch you in ways that demonstrate power rather than affection. "I could snap your neck with one hand." "You're so small/weak/fragile." They might grab their own hand around your throat, not squeezing, just showing you how easily they could. Physical proximity becomes a threat even without actual violence.
+**What it looks like:** They get physically close when angry, invading your space with their body. They might make a fist near you, stand over you, block doorways, or touch you in ways that demonstrate power rather than affection. "I could snap your neck with one hand." "You're so small/weak/fragile." They might grab their own hand around your throat, not squeezing, just showing you how easily they could. Physical proximity becomes a threat even without actual violence.
 
 **What's really happening:** They're using the implicit threat of physical harm to establish dominance. You don't have to be hit to be controlled by the possibility of being hit. The fear is the point. By demonstrating your physical vulnerability, they remind you who has power. Your safety depends on their restraint.
 
-**How it hooks you:** Your nervous system goes into freeze or fawn mode. You become very, very careful. You monitor their physical state constantly: where they are, how close, what their body language signals. You stop saying or doing things that might trigger their proximity. You feel trapped even in open spaces.
+**How it hooks you:** Your nervous system goes into freeze or fawn mode. You become very, very careful. You monitor their physical state constantly (where they are, how close, what their body language signals). You stop saying or doing things that might trigger their proximity. You feel trapped even in open spaces.
 
 **Your power move:** This is abuse. Physical intimidation is domestic violence even if they never make contact. Document everything: write down dates, what happened, what was said. Tell someone you trust. Create a safety plan. Know your exit routes. Contact domestic violence resources (National Domestic Violence Hotline: 1-800-799-7233). This is not something you manage. This is something you get safe from.
 
@@ -160,15 +160,15 @@ These tactics keep you seeking their approval, raising you up just enough to dro
 
 **What it looks like:** One day: "You're so beautiful." Next day: "I mean, looks aren't that important to me." Or: "You looked great before you gained weight." "I prefer women who are [something you're not], but you're fine."
 
-Beyond general comments, this extends to controlling your actual appearance: dictating your hair color, nail style, clothing choices, or makeup. "You need to have neutral hair when we see my friends." "No sparkles on your nails." "That color is too loud." They critique your appearance in public—at the salon, in front of others—establishing that how you look is their domain, not yours.
+Beyond general comments, this extends to controlling your actual appearance: dictating your hair color, nail style, clothing choices, or makeup. "You need to have neutral hair when we see my friends." "No sparkles on your nails." "That color is too loud." They critique your appearance in public, at the salon, in front of others, establishing that how you look is their domain, not yours.
 
 **What's really happening:** They're destabilizing your self-image AND erasing your identity. By controlling when you feel attractive and when you don't, they make you dependent on their assessment. When they control how you're allowed to look, they're claiming ownership over your body and expression. Your relationship with your own body goes through them. Your appearance becomes a reflection of their preferences, not your authentic self.
 
-**How it hooks you:** You dress for their approval. You monitor your weight because of their comments. You change your hair, your nails, your style to avoid criticism or conflict. You feel less attractive when they're unhappy. You start to forget what you actually like—your self-image and self-expression become their tool.
+**How it hooks you:** You dress for their approval. You monitor your weight because of their comments. You change your hair, your nails, your style to avoid criticism or conflict. You feel less attractive when they're unhappy. You start to forget what you actually like; your self-image and self-expression become their tool.
 
 **Your power move:** "My relationship with my body doesn't involve your opinion." Your appearance is yours. Their preferences about your hair, nails, or style are irrelevant. Internal practice: regularly affirm your own worth and your own aesthetic preferences without external validation.
 
-> *"A hallmark of the Dominant Narcissist is the aesthetic seesaw: they'll praise your beauty, then downplay it, then compare you to others. The goal isn't truth; it's control of your self-image."*
+> *"A hallmark of the Dominant Narcissist is the aesthetic seesaw: they'll praise your beauty, then downplay it, then compare you to others. The goal isn't truth, it's control of your self-image."*
 
 ---
 
@@ -176,7 +176,7 @@ Beyond general comments, this extends to controlling your actual appearance: dic
 
 **What it looks like:** "You're not like other women." "Finally, someone who understands me." "You're the only one I can talk to." "Everyone else is so [negative trait], but you're different."
 
-**What's really happening:** They're separating you from your natural allies by making you "special." This idealization feels wonderful—intoxicating, even—but it comes with an implicit threat: if you stop being special, you become like "everyone else" (who they clearly despise).
+**What's really happening:** They're separating you from your natural allies by making you "special." This idealization feels wonderful (intoxicating, even) but it comes with an implicit threat: if you stop being special, you become like "everyone else" (who they clearly despise).
 
 **How it hooks you:** You work to maintain your special status. You distance yourself from friends they've criticized. You compete for a position that requires constant performance.
 
@@ -202,7 +202,7 @@ Beyond general comments, this extends to controlling your actual appearance: dic
 
 **What's really happening:** They're importing competition into a space that should be collaborative. By reminding you that you're replaceable, they keep you insecure and compliant.
 
-**How it hooks you:** You feel like you're auditioning for a role, not inhabiting a partnership. You measure yourself against phantoms—past relationships, hypothetical alternatives. You try harder to be worthy of being chosen.
+**How it hooks you:** You feel like you're auditioning for a role, not inhabiting a partnership. You measure yourself against phantoms: past relationships, hypothetical alternatives. You try harder to be worthy of being chosen.
 
 **Your power move:** "I'm not in competition with anyone for this relationship. If you'd prefer to be with someone else, that's a choice you can make."
 
@@ -210,11 +210,11 @@ Beyond general comments, this extends to controlling your actual appearance: dic
 
 ### Tactic 13: Conditional Affection
 
-**What it looks like:** Warmth and affection appear—but only after you apologize, comply, perform, or submit. The good version of them is available only when you've earned it. Love is a reward, not a baseline.
+**What it looks like:** Warmth and affection appear, but only after you apologize, comply, perform, or submit. The good version of them is available only when you've earned it. Love is a reward, not a baseline.
 
-**What's really happening:** Affection is being used as operant conditioning. You're trained, like a lab animal, to associate compliance with reward. Over time, you stop expecting unconditional warmth—conditional feels normal.
+**What's really happening:** Affection is being used as operant conditioning. You're trained, like a lab animal, to associate compliance with reward. Over time, you stop expecting unconditional warmth. Conditional feels normal.
 
-**How it hooks you:** You work for love instead of resting in it. You lose sense of what baseline affection looks like. The intermittent reward—the occasional warmth—becomes addictive precisely because it's unpredictable.
+**How it hooks you:** You work for love instead of resting in it. You lose sense of what baseline affection looks like. The intermittent reward, the occasional warmth, becomes addictive precisely because it's unpredictable.
 
 **Your power move:** Notice when affection is conditional versus unconditional. Real love shows up even in conflict, even in disagreement. It doesn't have to be earned.
 
@@ -222,7 +222,7 @@ Beyond general comments, this extends to controlling your actual appearance: dic
 
 ## Category C: Psychological Manipulation
 
-These tactics target your mind—making you doubt your own perception and reality.
+These tactics target your mind, making you doubt your own perception and reality.
 
 ---
 
@@ -270,7 +270,7 @@ These tactics target your mind—making you doubt your own perception and realit
 
 **How it hooks you:** You feel like you should be grateful for their "honesty." You question whether your hurt feelings mean you "can't handle the truth." You internalize criticism as help.
 
-**Your power move:** Real feedback is offered with care, at appropriate times, for the benefit of the receiver. If it feels like an attack, it probably is—regardless of what it's called.
+**Your power move:** Real feedback is offered with care, at appropriate times, for the benefit of the receiver. If it feels like an attack, it probably is, regardless of what it's called.
 
 ---
 
@@ -278,13 +278,13 @@ These tactics target your mind—making you doubt your own perception and realit
 
 **What it looks like:** "Look what you made me do." "If you hadn't [action], I wouldn't have [reaction]." "You pushed me to this." "Your reaction is the problem, not what I did."
 
-This often appears with trivial demands that become tests of compliance. They demand something small—"Get me another popsicle." When you don't immediately comply, they escalate dramatically—yelling, making a scene, perhaps in front of others. Afterward: "If you had just done what I wanted in the first place, none of this would have happened."
+This often appears with trivial demands that become tests of compliance. They demand something small ("Get me another popsicle"). When you don't immediately comply, they escalate dramatically: yelling, making a scene, perhaps in front of others. Afterward: "If you had just done what I wanted in the first place, none of this would have happened."
 
-**What's really happening:** Your response to harm is being reframed as the cause of harm. This flips accountability: instead of them owning their behavior, you're made responsible for their behavior AND your reaction to it. The "trivial" request was never really about the popsicle—it was a test of dominance. Your non-compliance threatened their control, and the explosion was punishment designed to ensure future compliance.
+**What's really happening:** Your response to harm is being reframed as the cause of harm. This flips accountability: instead of them owning their behavior, you're made responsible for their behavior AND your reaction to it. The "trivial" request was never really about the popsicle. It was a test of dominance. Your non-compliance threatened their control, and the explosion was punishment designed to ensure future compliance.
 
-**How it hooks you:** You become afraid to react. You suppress hurt, anger, and disappointment because expressing them "causes" more problems. You walk on eggshells, managing your emotions to manage theirs. You start complying with small requests immediately because you've learned that resistance—even to unreasonable demands—results in disproportionate consequences that will somehow be your fault.
+**How it hooks you:** You become afraid to react. You suppress hurt, anger, and disappointment because expressing them "causes" more problems. You walk on eggshells, managing your emotions to manage theirs. You start complying with small requests immediately because you've learned that resistance, even to unreasonable demands, results in disproportionate consequences that will somehow be your fault.
 
-**Your power move:** "My reaction didn't cause your action. You're responsible for what you do regardless of what I do." Recognize that trivial demands are power plays. Your refusal to fetch something on command isn't what caused their explosion—their need for control caused their explosion.
+**Your power move:** "My reaction didn't cause your action. You're responsible for what you do regardless of what I do." Recognize that trivial demands are power plays. Your refusal to fetch something on command isn't what caused their explosion. Their need for control caused their explosion.
 
 ---
 
@@ -307,7 +307,7 @@ You've now learned 19 tactics across three categories: Control, Validation, and 
 **Grounding exercise:**
 
 1. **Feel your feet on the floor.** Press down. Notice the support beneath you.
-2. **Name 5 things you can see.** (Colors, shapes, objects—anything in your environment.)
+2. **Name 5 things you can see.** (Colors, shapes, objects, anything in your environment.)
 3. **Take 3 slow breaths.** Inhale for 4 counts, exhale for 6.
 
 **Reflection:**

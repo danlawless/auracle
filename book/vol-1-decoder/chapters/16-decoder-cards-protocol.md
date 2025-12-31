@@ -66,13 +66,13 @@ This builds your reality anchor. When they gaslight you later, you'll have evide
 
 Before you can name the pattern, your body knows something is wrong:
 
-- **Chest tightness**—You're being pressured
-- **Confusion that won't resolve**—Reality is being distorted
-- **Exhaustion after contact**—You've been drained
-- **Urge to over-explain**—You're being misunderstood on purpose
-- **Guilt that appeared suddenly**—Shame was deposited in you
-- **Walking on eggshells feeling**—You're managing someone else's emotions
-- **Shrinking sensation**—You're making yourself small for their comfort
+- **Chest tightness:** You're being pressured
+- **Confusion that won't resolve:** Reality is being distorted
+- **Exhaustion after contact:** You've been drained
+- **Urge to over-explain:** You're being misunderstood on purpose
+- **Guilt that appeared suddenly:** Shame was deposited in you
+- **Walking on eggshells feeling:** You're managing someone else's emotions
+- **Shrinking sensation:** You're making yourself small for their comfort
 
 These signals arrive before conscious understanding. Trust them. Your body learned to read danger long before your mind caught up.
 
@@ -89,7 +89,7 @@ When you're confused about any interaction, ask:
 5. **Am I explaining myself more than once?**
 6. **Do I feel smaller after this interaction?**
 
-If the answers consistently point away from your wellbeing, you're dealing with a pattern—whether or not you can name the specific card.
+If the answers consistently point away from your wellbeing, you're dealing with a pattern, whether or not you can name the specific card.
 
 ---
 

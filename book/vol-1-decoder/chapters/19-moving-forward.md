@@ -8,7 +8,7 @@ You've done the work. You've recognized the patterns, understood the psychology,
 
 Now comes the question: How do you actually move forward?
 
-This final chapter is about endings and beginnings—how to close the chapter of narcissistic entanglement and step into what comes next.
+This final chapter is about endings and beginnings: how to close the chapter of narcissistic entanglement and step into what comes next.
 
 ---
 
@@ -34,7 +34,7 @@ Not every relationship needs a dramatic confrontation. Not every departure requi
 - Making sure they feel the consequences of losing you
 - Dramatic declarations designed to hurt them back
 
-None of these are clean. They keep you attached—to their understanding, their response, their pain.
+None of these are clean. They keep you attached: to their understanding, their response, their pain.
 
 ### The Permission
 
@@ -44,7 +44,7 @@ You're allowed to just stop. You don't owe anyone a conversation they'll weaponi
 
 ## The Complexity of Your Feelings
 
-After ending a narcissistic relationship—or transforming your relationship with a narcissistic family member—you'll feel many things. Sometimes simultaneously. Sometimes in rapid succession.
+After ending a narcissistic relationship (or transforming your relationship with a narcissistic family member) you'll feel many things. Sometimes simultaneously. Sometimes in rapid succession.
 
 ### Relief
 
@@ -106,13 +106,13 @@ As you move forward, you may feel pulled back toward the narcissist through comp
 
 ### False Compassion
 
-**Reaching out because you feel guilty.** You've set a boundary and it hurts them. The guilt makes you want to fix their pain. This isn't compassion—it's guilt management.
+**Reaching out because you feel guilty.** You've set a boundary and it hurts them. The guilt makes you want to fix their pain. This isn't compassion; it's guilt management.
 
-**Wanting to fix them.** If you just explain it right, if you just love them enough, they'll change. This isn't compassion—it's rescue fantasy.
+**Wanting to fix them.** If you just explain it right, if you just love them enough, they'll change. This isn't compassion; it's rescue fantasy.
 
-**Being afraid they're suffering.** They seem so hurt, so alone. What if they need you? This often isn't compassion—it's the trauma bond activating.
+**Being afraid they're suffering.** They seem so hurt, so alone. What if they need you? This often isn't compassion; it's the trauma bond activating.
 
-**Feeling like the bad guy.** They (or the flying monkeys around them) have convinced you that protecting yourself is cruel. You want to prove you're not mean. This isn't compassion—it's manipulation working.
+**Feeling like the bad guy.** They (or the flying monkeys around them) have convinced you that protecting yourself is cruel. You want to prove you're not mean. This isn't compassion; it's manipulation working.
 
 ### Grounded Compassion
 
@@ -122,7 +122,7 @@ As you move forward, you may feel pulled back toward the narcissist through comp
 
 **Releasing the need for them to receive your compassion.** You don't have to communicate it. You don't need them to feel it. It exists in you, independent of them.
 
-**Prioritizing your own wellbeing.** Real compassion includes self-compassion. Protecting yourself is not cruelty—it's basic self-care.
+**Prioritizing your own wellbeing.** Real compassion includes self-compassion. Protecting yourself is not cruelty; it's basic self-care.
 
 ### The Test
 
@@ -136,7 +136,7 @@ Grounded compassion supports your growth. False compassion keeps you entangled.
 
 You've been through a lot. You've survived patterns that were designed to diminish you. And you're still here.
 
-Here's a statement to claim as your own—modify it to fit your truth:
+Here's a statement to claim as your own (modify it to fit your truth):
 
 ---
 
@@ -149,7 +149,7 @@ As you heal, you're creating space for what you deserve. This might look like:
 - Getting honored for who you are and the gifts you have
 - Cultivating peace and love in your life
 
-You may not have all of this yet. But you're moving toward it. Each boundary held, each pattern recognized, each moment of choosing yourself—you're building this reality.
+You may not have all of this yet. But you're moving toward it. Each boundary held, each pattern recognized, each moment of choosing yourself: you're building this reality.
 
 *Write your own version. Read it when you forget where you're headed.*
 
@@ -196,7 +196,7 @@ Your wound becomes medicine for others when you're ready. No pressure on timing.
 
 ### Create Your Support Architecture
 
-Don't just recover—build structures that support your new life:
+Don't just recover; build structures that support your new life:
 
 **Inner Circle (2-3 people):**
 - Know your full story
@@ -225,7 +225,7 @@ Don't just recover—build structures that support your new life:
 
 ## A Word on Relapse
 
-You may find yourself sliding back into old patterns—with the same person or with someone new who carries the same energy.
+You may find yourself sliding back into old patterns, with the same person or with someone new who carries the same energy.
 
 This isn't failure. It's extremely common.
 
@@ -256,7 +256,7 @@ You may worry: "Will I ever trust again? Can I have a healthy relationship? Am I
 
 ### The Honest Answer
 
-Yes, you can. It takes time, work, and discernment—but healthy relationships are possible.
+Yes, you can. It takes time, work, and discernment, but healthy relationships are possible.
 
 What's different now:
 - You know the red flags

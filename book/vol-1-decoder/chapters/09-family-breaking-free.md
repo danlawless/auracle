@@ -21,7 +21,7 @@ The narcissist may:
 
 You may have grown up believing your sibling was the enemy. That they got what you needed. That they were favored (or unfairly blamed). You competed for scraps of approval that never filled either of you.
 
-The tragedy is that you both were wounded. The golden child was performing for conditional love. The scapegoat was carrying projected shame. Neither of you got what you needed. You were both victims—and you were set against each other.
+The tragedy is that you both were wounded. The golden child was performing for conditional love. The scapegoat was carrying projected shame. Neither of you got what you needed. You were both victims, and you were set against each other.
 
 ### Adult Sibling Relationships
 
@@ -44,13 +44,13 @@ If your sibling hasn't seen the patterns yet:
 
 This is painful. You want them to see what you see. You want validation from someone who was there.
 
-But their timeline isn't yours. Their awakening—if it comes—will happen when it happens. You can't wake someone up by shaking them harder.
+But their timeline isn't yours. Their awakening, if it comes, will happen when it happens. You can't wake someone up by shaking them harder.
 
 ### Healing Sibling Relationships
 
 If healing is possible:
 - Recognize you were all harmed by the system
-- Stop competing—there's enough love in the world for everyone
+- Stop competing; there's enough love in the world for everyone
 - Have direct conversations about your different experiences
 - Accept that siblings may be at different stages of awareness
 - Release the need for them to validate your experience
@@ -139,14 +139,14 @@ Narcissism doesn't appear from nowhere. There's almost always a story before the
 
 Your narcissistic parent likely had a narcissistic parent. Or an absent one. Or an abusive one. The wounds travel down through generations until someone stops the transmission.
 
-**This doesn't excuse the behavior.** Understanding origin doesn't mean accepting impact. They were wounded—and they still caused harm.
+**This doesn't excuse the behavior.** Understanding origin doesn't mean accepting impact. They were wounded, and they still caused harm.
 
 **Why this matters for your healing:**
 
 When you understand the intergenerational pattern:
 - You stop expecting them to suddenly become capable
 - You see the system rather than just your family
-- You understand why "they should know better" doesn't apply—they often don't
+- You understand why "they should know better" doesn't apply; they often don't
 - You can have compassion without excusing
 - You can see what you're breaking by healing
 
@@ -163,7 +163,7 @@ This is not easy. Pattern-breaking means:
 
 **What you're actually doing:**
 
-You're stopping a pattern that may have run for generations. You're protecting future children—yours or others'—from what was done to you. You're saying "it ends here."
+You're stopping a pattern that may have run for generations. You're protecting future children, yours or others', from what was done to you. You're saying "it ends here."
 
 This is not betrayal. This is liberation.
 
@@ -171,13 +171,13 @@ This is not betrayal. This is liberation.
 
 ## Breaking the Cycle
 
-Perhaps you fear that you'll repeat the patterns. Or perhaps you've noticed yourself doing things your parents did—and hated in them.
+Perhaps you fear that you'll repeat the patterns. Or perhaps you've noticed yourself doing things your parents did, and hated in them.
 
 This fear is common. And awareness is the antidote.
 
 ### You Are Not Destined to Repeat
 
-Growing up in a narcissistic system doesn't mean you'll be narcissistic. Many children of narcissists develop hyperempathy—becoming exquisitely attuned to others' needs (sometimes at the expense of their own).
+Growing up in a narcissistic system doesn't mean you'll be narcissistic. Many children of narcissists develop hyperempathy, becoming exquisitely attuned to others' needs (sometimes at the expense of their own).
 
 What you may have learned that needs unlearning:
 - Control equals safety
@@ -199,7 +199,7 @@ The moment you catch yourself doing something your parent did is jarring. The sa
 
 3. **Repair when you slip.** The difference between you and them is repair. They never acknowledged harm. You can.
 
-4. **Understand the mechanism.** Under stress, we regress to what was modeled. This doesn't mean you're destined to repeat—it means you have more healing to do.
+4. **Understand the mechanism.** Under stress, we regress to what was modeled. This doesn't mean you're destined to repeat; it means you have more healing to do.
 
 5. **Build new defaults.** The more you practice different responses in calm moments, the more available they become in triggered moments.
 
@@ -289,9 +289,9 @@ This guilt isn't evidence that you're doing something wrong. It's evidence that 
 Guilt lives in the body. To release it:
 
 1. **Notice where you hold it.** Chest? Stomach? Throat?
-2. **Breathe into that space.** Not to fix it—just to acknowledge it.
+2. **Breathe into that space.** Not to fix it, just to acknowledge it.
 3. **Name what's real:** "This guilt is conditioning. My choice to protect myself is valid."
-4. **Move the energy.** Shake, dance, walk, cry—let the guilt move through instead of staying stuck.
+4. **Move the energy.** Shake, dance, walk, cry. Let the guilt move through instead of staying stuck.
 5. **Replace the script.** When guilt says "you're bad," respond: "I'm healing."
 
 ---
@@ -312,7 +312,7 @@ Guilt lives in the body. To release it:
 - Break triangulation by communicating directly
 - Grieve the parents you needed but didn't have
 - You are not destined to repeat the pattern
-- Contact decisions are personal—there's no universal right answer
+- Contact decisions are personal; there's no universal right answer
 - Guilt is a control mechanism, not evidence of wrongdoing
 - You can be the pattern-breaker
 
@@ -354,9 +354,9 @@ When you must attend family events where the narcissist will be present:
 
 ## What's Next
 
-You've now seen how narcissistic family systems operate—the roles, the wounds, the patterns. But there's a deeper question: Why were you vulnerable in the first place? Before you can fully break free, it helps to understand what was programmed before you could choose. Let's explore your earliest conditioning.
+You've now seen how narcissistic family systems operate: the roles, the wounds, the patterns. But there's a deeper question: Why were you vulnerable in the first place? Before you can fully break free, it helps to understand what was programmed before you could choose. Let's explore your earliest conditioning.
 
 ---
 
-*You didn't choose your family of origin. But you can choose your family of creation—including the family you become to yourself.*
+*You didn't choose your family of origin. But you can choose your family of creation, including the family you become to yourself.*
 

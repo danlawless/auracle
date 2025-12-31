@@ -1,18 +1,18 @@
-# Chapter 6: The Masks They Wear — 12 Identity Roles
+# Chapter 6: The Masks They Wear: 12 Identity Roles
 
 ## Understanding the Different Masks Narcissists Wear
 
 ---
 
-In the previous chapter, you learned to recognize different narcissist types—the grandiose, the covert, the communal, the malignant. But narcissists don't just have types. They wear roles—identity masks that serve their needs in specific situations. Understanding these roles reveals how the same person can present so differently depending on context.
+In the previous chapter, you learned to recognize different narcissist types: the grandiose, the covert, the communal, the malignant. But narcissists don't just have types. They wear roles: identity masks that serve their needs in specific situations. Understanding these roles reveals how the same person can present so differently depending on context.
 
 ---
 
 ## The 12 Narcissist Roles: Identity Masks for Control
 
-Beyond types, narcissists adopt **roles**—specific personas that serve their needs in particular situations. These are identity masks designed to avoid accountability, secure supply, control perception, and maintain emotional dominance. Each role is a **survival strategy, not a personality.**
+Beyond types, narcissists adopt **roles**: specific personas that serve their needs in particular situations. These are identity masks designed to avoid accountability, secure supply, control perception, and maintain emotional dominance. Each role is a **survival strategy, not a personality.**
 
-Understanding these roles helps you recognize manipulation across contexts—in romantic relationships, family, work, spiritual communities, and friendships.
+Understanding these roles helps you recognize manipulation across contexts: in romantic relationships, family, work, spiritual communities, and friendships.
 
 The key insight: **The role serves them, not you.** It's never about who they authentically are. It's about what they need from you in this moment.
 
@@ -22,7 +22,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it looks like:** They've been wronged. Everyone has hurt them. Their past was terrible. They can't catch a break. You feel bad for them.
 
-**What's really happening:** The victim role generates sympathy, deflects accountability, and gives permission for bad behavior. "You can't blame me—look at what I've been through."
+**What's really happening:** The victim role generates sympathy, deflects accountability, and gives permission for bad behavior. "You can't blame me; look at what I've been through."
 
 **How it serves control:** Pity disarms anger. Your compassion replaces confrontation. They become the person needing care rather than the person causing harm.
 
@@ -54,15 +54,15 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it looks like:** "Look how much I sacrifice for you." "I give up everything and get nothing in return." "No one appreciates what I do." They frame themselves as endlessly selfless and underappreciated.
 
-**What's really happening:** The martyr role is the victim role with a moral superiority upgrade. They're not just hurt—they're noble in their suffering. Every act of "giving" becomes a future guilt weapon.
+**What's really happening:** The martyr role is the victim role with a moral superiority upgrade. They're not just hurt; they're noble in their suffering. Every act of "giving" becomes a future guilt weapon.
 
 **How it serves control:** You can't criticize someone who sacrifices so much. You feel guilty for having needs. Their "selflessness" makes your boundaries seem selfish.
 
 **The trap:** You minimize your own needs to avoid adding to their burden. You feel perpetually indebted. Your legitimate complaints are silenced by their sacrifice narrative.
 
-**What it feels like in your body:** Constriction in your throat when you want to ask for something. Guilt that lives in your stomach. A sense that you're always taking and never giving enough—even when you're exhausted from giving.
+**What it feels like in your body:** Constriction in your throat when you want to ask for something. Guilt that lives in your stomach. A sense that you're always taking and never giving enough, even when you're exhausted from giving.
 
-**The liberation:** Sacrifice given freely doesn't keep score. If they're tracking their giving, it was never generosity—it was investment.
+**The liberation:** Sacrifice given freely doesn't keep score. If they're tracking their giving, it was never generosity; it was investment.
 
 ---
 
@@ -94,7 +94,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Exhaustion that never lifts. Resentment that you feel guilty about. The weight of carrying two lives on shoulders that were only built for one.
 
-**The liberation:** They're not actually helpless—they're unwilling. There's a difference. You can stop compensating for someone who's capable but choosing not to try.
+**The liberation:** They're not actually helpless; they're unwilling. There's a difference. You can stop compensating for someone who's capable but choosing not to try.
 
 ---
 
@@ -124,7 +124,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **The trap:** You compare all other connections to this intensity and find them lacking. You keep trying to get back to the beginning. You've bonded before you have real information.
 
-**What it feels like in your body:** A drug-like rush. Addictive excitement. Later, withdrawal symptoms when the intensity fades—anxiety, craving, desperation to get the feeling back.
+**What it feels like in your body:** A drug-like rush. Addictive excitement. Later, withdrawal symptoms when the intensity fades: anxiety, craving, desperation to get the feeling back.
 
 **The liberation:** Intensity is not intimacy. Real connection builds slowly. The rush you felt was manufactured, not matched.
 
@@ -140,7 +140,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **The trap:** You learn that emotional access is conditional. You modify behavior to avoid the withdrawal. You're hypervigilant about what might trigger their disappearance.
 
-**What it feels like in your body:** Anxiety that won't resolve. A hole in your chest. Compulsive checking—for texts, for signs of warmth, for any indication you're back in favor. Your nervous system on high alert.
+**What it feels like in your body:** Anxiety that won't resolve. A hole in your chest. Compulsive checking: for texts, for signs of warmth, for any indication you're back in favor. Your nervous system on high alert.
 
 **The liberation:** Their withdrawal is manipulation, not mystery. You don't have to solve for their silence. Let them sit in it while you go live your life.
 
@@ -158,7 +158,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Invalidation that settles in your stomach. Frustration that can't find its target because everything gets smoothed over. A sense that your reality keeps getting erased.
 
-**The liberation:** Peace without truth isn't peace—it's suppression. You don't have to accept false equivalence. You're allowed to name what happened.
+**The liberation:** Peace without truth isn't peace; it's suppression. You don't have to accept false equivalence. You're allowed to name what happened.
 
 ---
 
@@ -166,7 +166,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it looks like:** "I'm just checking on you." "I worry about you." "I'm only saying this because I care." They frame surveillance as concern, control as care.
 
-**What's really happening:** Protection that requires constant monitoring isn't protection—it's possession. Their "concern" keeps tabs on you, questions your choices, and implies you're not capable of managing your own life.
+**What's really happening:** Protection that requires constant monitoring isn't protection; it's possession. Their "concern" keeps tabs on you, questions your choices, and implies you're not capable of managing your own life.
 
 **How it serves control:** Your independence threatens their role. Questioning their concern feels ungrateful. Your autonomy gets traded for their "care."
 
@@ -174,7 +174,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Claustrophobia even in open spaces. The sense that you're being watched. Second-guessing your own decisions because they seem to always know better.
 
-**The liberation:** Care that requires your compliance isn't care—it's control. Real love gives space. Real protection doesn't need to track you.
+**The liberation:** Care that requires your compliance isn't care; it's control. Real love gives space. Real protection doesn't need to track you.
 
 ---
 
@@ -188,7 +188,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **The trap:** You end up consoling the person who hurt you. Accountability disappears. The pattern repeats because self-pity worked to avoid consequences.
 
-**What it feels like in your body:** Whiplash—you were angry, now you're comforting. Confusion about who the victim is. A vague sense of having been robbed of something you can't name.
+**What it feels like in your body:** Whiplash: you were angry, now you're comforting. Confusion about who the victim is. A vague sense of having been robbed of something you can't name.
 
 **The liberation:** Self-criticism is not the same as accountability. They can feel bad and still be responsible for repair. Don't let their feelings about their behavior replace addressing the behavior itself.
 
@@ -206,7 +206,7 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Stinging that goes deep. Shame that lingers. A protective flinch when they start sentences with "Can I be honest with you?"
 
-**The liberation:** Honesty delivered with care feels different than honesty wielded as a weapon. If their "truth" consistently wounds you, it's not truth-telling—it's target practice.
+**The liberation:** Honesty delivered with care feels different than honesty wielded as a weapon. If their "truth" consistently wounds you, it's not truth-telling; it's target practice.
 
 ---
 
@@ -223,7 +223,7 @@ These shifts serve to:
 
 Confusion. Vertigo. You think you finally understand them, and then they become someone else. You adjust to one pattern, and it changes. You're always catching up, never finding solid ground.
 
-Watch for the pattern across roles rather than getting lost in any single one. The common thread is that **every role serves their need for control, validation, or supply**—never your genuine wellbeing.
+Watch for the pattern across roles rather than getting lost in any single one. The common thread is that **every role serves their need for control, validation, or supply**, never your genuine wellbeing.
 
 ---
 
@@ -252,15 +252,15 @@ This isn't your problem to solve. You can't love someone into having solid self-
 
 ### Need for External Regulation
 
-Healthy adults can regulate their own emotions and sense of worth. Narcissists need others to do this for them—through admiration, submission, or suffering.
+Healthy adults can regulate their own emotions and sense of worth. Narcissists need others to do this for them: through admiration, submission, or suffering.
 
 You may have become their regulation system without realizing it. Your moods track theirs. Your stability depends on keeping them stable. This is exhausting because you're doing emotional work for two.
 
 ### Empathy Deficits
 
-Whether from inability or unwillingness, narcissists don't accurately perceive or prioritize others' experiences. Other people are objects—sources of supply—rather than subjects with equal validity.
+Whether from inability or unwillingness, narcissists don't accurately perceive or prioritize others' experiences. Other people are objects, sources of supply, rather than subjects with equal validity.
 
-This is why explaining your pain doesn't work. They're not failing to understand—they're unable or unwilling to center your experience.
+This is why explaining your pain doesn't work. They're not failing to understand; they're unable or unwilling to center your experience.
 
 ### Black-and-White Thinking
 
@@ -280,9 +280,9 @@ While core strategies apply to all types, nuanced responses can be more effectiv
 
 **Don't do:** Challenge them publicly (triggers rage), compete for dominance, or try to humble them.
 
-**Do instead:** Gray rock—be boring. They'll seek supply elsewhere. Acknowledge their statements flatly without feeding the ego: "That's interesting." Then redirect to your needs.
+**Do instead:** Gray rock: be boring. They'll seek supply elsewhere. Acknowledge their statements flatly without feeding the ego: "That's interesting." Then redirect to your needs.
 
-**The body practice:** When you feel yourself shrinking around them, plant your feet. Take up space. You don't have to compete with them—just refuse to disappear.
+**The body practice:** When you feel yourself shrinking around them, plant your feet. Take up space. You don't have to compete with them; just refuse to disappear.
 
 **Exit line:** "I can see you're passionate about this. I need to go."
 
@@ -292,7 +292,7 @@ While core strategies apply to all types, nuanced responses can be more effectiv
 
 **Don't do:** Try to prove they're manipulating, rescue them, or feel responsible for their pain.
 
-**Do instead:** Name impact without accusation: "When this happens, I feel drained." Hold boundaries gently but firmly. Don't over-explain—they'll use your words against you.
+**Do instead:** Name impact without accusation: "When this happens, I feel drained." Hold boundaries gently but firmly. Don't over-explain; they'll use your words against you.
 
 **The body practice:** Notice when you start caretaking. Feel your own tiredness. Your depletion is information. You're allowed to stop pouring from an empty cup.
 
@@ -320,7 +320,7 @@ While core strategies apply to all types, nuanced responses can be more effectiv
 
 **The body practice:** Trust your fear. Your body is giving you accurate information about danger. Don't override it with rationalizations.
 
-**Exit line:** None verbal—plan your exit silently and execute it.
+**Exit line:** None verbal. Plan your exit silently and execute it.
 
 ---
 
@@ -354,7 +354,7 @@ Each type creates specific wounds. Here's where to focus your healing:
 
 **After Somatic:** Rebuild a loving relationship with your body. Your worth isn't tied to appearance. Your body is your home, not your product.
 
-**After Malignant:** Safety first, always. Trauma processing with professional support. Learning to trust again—slowly, with evidence.
+**After Malignant:** Safety first, always. Trauma processing with professional support. Learning to trust again, slowly, with evidence.
 
 ---
 
@@ -362,7 +362,7 @@ Each type creates specific wounds. Here's where to focus your healing:
 
 **Key Insights:**
 - Narcissism exists on a spectrum from healthy self-esteem to malignant pathology
-- The three primary types are Grandiose, Covert, and Communal—each presents differently but shares core features
+- The three primary types are Grandiose, Covert, and Communal; each presents differently but shares core features
 - Narcissists play roles (Victim, Hero, Protector, Expert) that shift to serve their needs
 - Underneath all presentations is fragile self-worth, need for external regulation, and empathy deficits
 - Each type creates specific wounds that require specific healing approaches

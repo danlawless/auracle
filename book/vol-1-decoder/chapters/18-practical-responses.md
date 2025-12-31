@@ -4,7 +4,7 @@
 
 ---
 
-Theory is helpful. But when you're in the moment—heart racing, mind scrambling, old patterns activating—you need something concrete.
+Theory is helpful. But when you're in the moment (heart racing, mind scrambling, old patterns activating) you need something concrete.
 
 This chapter provides scripts, strategies, and specific responses for common situations. Not to make you perfect at handling narcissists (no one is), but to give you options when you need them most.
 
@@ -16,13 +16,13 @@ Before the scripts, understand the principles behind them:
 
 ### Principle 1: You Can't Win the Argument
 
-Narcissists aren't arguing to reach truth—they're arguing to dominate. If you "win" logically, they'll shift tactics. If you prove your point, they'll move the goalposts.
+Narcissists aren't arguing to reach truth; they're arguing to dominate. If you "win" logically, they'll shift tactics. If you prove your point, they'll move the goalposts.
 
-**Implication:** Stop trying to convince them. Your goal isn't to make them understand—it's to maintain your position and exit the conversation with your energy intact.
+**Implication:** Stop trying to convince them. Your goal isn't to make them understand; it's to maintain your position and exit the conversation with your energy intact.
 
 ### Principle 2: Reaction Is Supply
 
-They feed on your emotional response—positive or negative. Outrage, tears, desperate explanation—all of it confirms their importance and gives them material to use.
+They feed on your emotional response, positive or negative. Outrage, tears, desperate explanation: all of it confirms their importance and gives them material to use.
 
 **Implication:** The less you react, the less they get. Flat, brief, uninteresting responses starve the dynamic.
 
@@ -34,9 +34,9 @@ You've been trained to explain, justify, and defend. This keeps you in the conve
 
 ### Principle 4: Exits Are Power
 
-The ability to leave a conversation—physically or emotionally—is your greatest leverage. Narcissists count on your need to resolve, to connect, to not leave things unfinished.
+The ability to leave a conversation (physically or emotionally) is your greatest leverage. Narcissists count on your need to resolve, to connect, to not leave things unfinished.
 
-**Implication:** Leave. End the call. Stop responding. Walk away. This isn't failure—it's strategy.
+**Implication:** Leave. End the call. Stop responding. Walk away. This isn't failure; it's strategy.
 
 ---
 
@@ -82,7 +82,7 @@ They're confused because you didn't play. Their "Huh?" is frustration that you'r
 
 ### The Energy
 
-Stay calm. Stay light. Stay slightly amused if you can manage it. You're not fighting—you're redirecting. You're not at their level—you're above it.
+Stay calm. Stay light. Stay slightly amused if you can manage it. You're not fighting; you're redirecting. You're not at their level; you're above it.
 
 This isn't spiritual bypassing (which would mean suppressing real feelings). This is conscious choice about what frequency to respond from.
 
@@ -152,7 +152,7 @@ Not arguing. Not conceding. Simply stating that two perspectives exist. Then end
 **Options:**
 
 - "I'm grateful for what you've done. And I still need [boundary]."
-- "Both things can be true—I appreciate the past and I need something different now."
+- "Both things can be true: I appreciate the past and I need something different now."
 - "I'm not saying past kindness doesn't matter. I'm saying current treatment also matters."
 
 **Don't do:** List everything you've done for them. Get into who's done more. Apologize for having needs.
@@ -292,7 +292,7 @@ When confronted about lying, cheating, or boundary violations, they pivot to sel
 - Don't stay to "keep them alive." You can't. And you'll destroy yourself trying.
 - Don't negotiate ("I'll stay if you get help"). Suicide threats are abuse. There's no deal to be made.
 - Don't keep it secret. Tell people. This is too big to carry alone.
-- Don't become their suicide prevention plan. That's not love—that's hostage-taking.
+- Don't become their suicide prevention plan. That's not love; that's hostage-taking.
 
 *Resources: National Suicide Prevention Lifeline: 988 | Crisis Text Line: Text HOME to 741741*
 
@@ -324,7 +324,7 @@ Sometimes you'll be tempted to give them a taste of their own medicine. Say "Huh
 - You want them to understand how it feels
 
 **Why it usually backfires:**
-- They're better at this game than you—they've been playing it longer
+- They're better at this game than you; they've been playing it longer
 - It lowers you to their level and makes you feel worse about yourself
 - It gives them ammunition ("See? You're just as bad as me")
 - It extends the engagement rather than ending it
@@ -332,7 +332,7 @@ Sometimes you'll be tempted to give them a taste of their own medicine. Say "Huh
 
 **The exception:** Brief, strategic gray rock responses that deflect without engaging. Saying "Huh?" once to refuse elaboration is different from entering a "Huh?" war.
 
-**Your actual power move:** You win by not playing. Confusion tactics work on people who try to make sense of them. If you simply don't engage—don't explain, don't mirror, don't react—there's nothing for them to work with.
+**Your actual power move:** You win by not playing. Confusion tactics work on people who try to make sense of them. If you simply don't engage (don't explain, don't mirror, don't react) there's nothing for them to work with.
 
 The most disorienting thing you can do to a narcissist isn't to beat them at their game. It's to leave the game entirely.
 
@@ -388,7 +388,7 @@ The repetition signals: This isn't a negotiation. The answer won't change.
 
 ## When You Must Coexist
 
-Sometimes you can't escape—co-parenting, work, family events, shared communities. Here's how to protect yourself:
+Sometimes you can't escape: co-parenting, work, family events, shared communities. Here's how to protect yourself:
 
 ### The Neutral Presence Protocol
 
@@ -520,7 +520,7 @@ After setting boundaries or ending relationships, they may send minimal, symboli
 
 **Your response:**
 
-"I'm good—I'll reach out if I need anything."
+"I'm good; I'll reach out if I need anything."
 
 **Don't:** Provide details. Justify your independence. Agree to check-ins that undermine your boundaries.
 
@@ -589,10 +589,10 @@ Often the need is to express, not to be received by them. You can meet that need
 ## Chapter Summary
 
 **Core Principles:**
-1. You can't win the argument—stop trying
-2. Reaction is supply—starve the dynamic
-3. You don't owe explanation—brief is better
-4. Exits are power—leaving is strategy
+1. You can't win the argument: stop trying
+2. Reaction is supply: starve the dynamic
+3. You don't owe explanation: brief is better
+4. Exits are power: leaving is strategy
 
 **Key Strategies:**
 - Spiritual aikido: redirect, don't combat
@@ -602,7 +602,7 @@ Often the need is to express, not to be received by them. You can meet that need
 - Describe behavior to authorities, not labels
 
 **Remember:**
-These scripts aren't magic. They won't transform the narcissist. They won't guarantee good outcomes. What they do is give you options—ways to respond that don't drain you, don't feed them, and don't abandon yourself.
+These scripts aren't magic. They won't transform the narcissist. They won't guarantee good outcomes. What they do is give you options: ways to respond that don't drain you, don't feed them, and don't abandon yourself.
 
 ---
 
@@ -627,7 +627,7 @@ Instead of defending, ask:
 - "Help me understand what you need right now."
 - "Is there something specific you'd like me to change?"
 
-This shifts the labor to them. They must articulate what they want—which often exposes that they want control, not resolution.
+This shifts the labor to them. They must articulate what they want, which often exposes that they want control, not resolution.
 
 ### The Exit Ladder
 

@@ -1,4 +1,4 @@
-# Chapter 12: Decoder Cards—Advanced Patterns
+# Chapter 12: Decoder Cards: Advanced Patterns
 
 > **Content Warning:** This chapter contains detailed discussions of physical intimidation, suicide threats, sexual control, and high-risk abuse tactics. Many of these patterns represent dangerous escalation. If you recognize these patterns in your current situation, please prioritize your safety and consult the crisis resources in Appendix A, including the National Domestic Violence Hotline: 1-800-799-7233 and National Suicide Prevention Lifeline: 988.
 
@@ -6,7 +6,7 @@
 
 ---
 
-These cards cover more complex manipulation patterns—tactics that are harder to name, often more dangerous, and frequently appear during high-stakes moments like relationship exits.
+These cards cover more complex manipulation patterns: tactics that are harder to name, often more dangerous, and frequently appear during high-stakes moments like relationship exits.
 
 ---
 
@@ -22,7 +22,7 @@ These cards cover more complex manipulation patterns—tactics that are harder t
 - Emergencies that appear whenever you have plans
 
 **What's Really Happening:**
-Your time isn't yours—it's theirs to claim. By creating urgency, they test your compliance and train you to prioritize their timeline over your own.
+Your time isn't yours: it's theirs to claim. By creating urgency, they test your compliance and train you to prioritize their timeline over your own.
 
 **How It Hooks You:**
 You feel cruel ignoring emergencies. You drop your plans because what if this time it's real?
@@ -66,7 +66,7 @@ Trust what you observe. Name it directly: "When you do [specific action], it fee
 - Nervous energy behind requests for connection
 
 **What's Really Happening:**
-Your boundary has threatened their sense of control. The pressure to "keep in contact" isn't about genuine connection—it's about maintaining access. The anxiety you sense is their fear of losing the ability to influence or monitor you.
+Your boundary has threatened their sense of control. The pressure to "keep in contact" isn't about genuine connection: it's about maintaining access. The anxiety you sense is their fear of losing the ability to influence or monitor you.
 
 **How It Hooks You:**
 The request sounds reasonable. You feel guilty for wanting distance. You mistake their anxiety for love. You agree to terms of contact that undermine your boundaries just to relieve the tension in the moment.
@@ -95,7 +95,7 @@ Your apology removed their leverage. They can no longer:
 - Extract repair from you
 - Maintain a grievance-based identity
 
-So they withdraw instead of reconnect. This is not reconciliation avoidance—it's control through absence.
+So they withdraw instead of reconnect. This is not reconciliation avoidance: it's control through absence.
 
 Instead of mutual repair, they:
 - Avoid vulnerability
@@ -107,7 +107,7 @@ Distance becomes the message.
 
 **Why it feels worse than silence:**
 
-Because it says: "I'll acknowledge you just enough to stay relevant—but not enough to be relational." It keeps you emotionally activated without offering connection. It's presence without presence.
+Because it says: "I'll acknowledge you just enough to stay relevant, but not enough to be relational." It keeps you emotionally activated without offering connection. It's presence without presence.
 
 **How It Hooks You:**
 
@@ -131,7 +131,7 @@ The correct internal reframe: "Repair is mutual or it's not repair. I completed 
 
 *See also: Chapter 3, Tactic 37*
 
-> *"When I owned my part and silence followed, I realized the apology wasn't the bridge—it was the boundary."*
+> *"When I owned my part and silence followed, I realized the apology wasn't the bridge: it was the boundary."*
 
 ---
 
@@ -148,18 +148,18 @@ The correct internal reframe: "Repair is mutual or it's not repair. I completed 
 
 **What's Really Happening:**
 
-This is not confession—it's deflection. The emotional burden shifts from them being harmful to them being hurt. They'd rather be the victim, the tragic antihero, than the person who caused harm.
+This is not confession: it's deflection. The emotional burden shifts from them being harmful to them being hurt. They'd rather be the victim, the tragic antihero, than the person who caused harm.
 
 This accomplishes three things instantly:
-1. **Stops accountability**—You can't stay angry at a "wounded soul"
-2. **Reverses roles**—Suddenly you feel bad for them
-3. **Re-opens emotional access**—Now you're managing their feelings instead of addressing their behavior
+1. **Stops accountability**: You can't stay angry at a "wounded soul"
+2. **Reverses roles**: Suddenly you feel bad for them
+3. **Re-opens emotional access**: Now you're managing their feelings instead of addressing their behavior
 
 This creates powerful trauma bonds instantly.
 
 **How It Hooks You:**
 
-Compassionate people see their "pain" and think: "They're hurting—this isn't about me." You shift from confronting to caretaking—comforting the person who hurt you.
+Compassionate people see their "pain" and think: "They're hurting; this isn't about me." You shift from confronting to caretaking, comforting the person who hurt you.
 
 You feel sympathy instead of anger. Your guard lowers. You feel guilty for being upset. You justify the original betrayal because you're now emotionally managing their feelings.
 
@@ -250,7 +250,7 @@ Anxiety spikes immediately. You drop everything. You start rehearsing what you m
 
 **What's Really Happening:**
 
-They're using the implicit threat of physical harm to establish dominance. You don't have to be hit to be controlled by the possibility of being hit. The fear is the point. By demonstrating your physical vulnerability, they remind you who has power—and that your safety depends on their restraint.
+They're using the implicit threat of physical harm to establish dominance. You don't have to be hit to be controlled by the possibility of being hit. The fear is the point. By demonstrating your physical vulnerability, they remind you who has power, and that your safety depends on their restraint.
 
 **How It Hooks You:**
 
@@ -262,7 +262,7 @@ Your nervous system goes into freeze or fawn mode. You become very, very careful
 
 **National Domestic Violence Hotline: 1-800-799-7233**
 
-This is not something you manage—this is something you get safe from.
+This is not something you manage: this is something you get safe from.
 
 *See also: Chapter 3, Tactic 4*
 
@@ -291,7 +291,7 @@ You become the one who manages, cleans, fixes, soothes. Your energy goes toward 
 
 **Your Power Move:**
 
-Stop trying to organize their chaos. Create clear, protected space for yourself—even if it's just one room, one corner, one hour. Chaos is their problem, not yours to solve.
+Stop trying to organize their chaos. Create clear, protected space for yourself, even if it's just one room, one corner, one hour. Chaos is their problem, not yours to solve.
 
 *See also: Chapter 3, Tactic 5*
 
@@ -413,7 +413,7 @@ You spend all your energy defending against accusations that aren't even true. Y
 
 When an accusation comes out of nowhere, ask yourself: "Is this actually true of me, or is this true of them?"
 
-Often, projection is a confession. What they accuse you of is what they're doing or feeling. Don't defend—observe.
+Often, projection is a confession. What they accuse you of is what they're doing or feeling. Don't defend; observe.
 
 *See also: Chapter 3, Tactic 15*
 
@@ -497,7 +497,7 @@ Exhaustion is a control tool. When you're depleted, you're more compliant. You d
 
 **How It Hooks You:**
 
-You're too tired to trust your own judgment. You agree to things you wouldn't normally accept. You can't imagine having the energy to leave. You just want the argument to end—so you capitulate.
+You're too tired to trust your own judgment. You agree to things you wouldn't normally accept. You can't imagine having the energy to leave. You just want the argument to end, so you capitulate.
 
 **Your Power Move:**
 
@@ -603,16 +603,16 @@ A relational manipulation pattern in which intimacy or commitment is staged as a
 
 The Six Magician Tactics:
 
-1. **Misdirection**—While you're focused on the gesture, the real action (lack of consent, lack of mutual pacing) happens offstage
-2. **Forced Framing**—They tell you what just happened before you can interpret it ("We're friends," "This is romantic")
-3. **Time Compression**—Things happen faster than you can process; objection feels "too late"
-4. **Audience Recruitment**—Witnesses lock in the illusion; saying no feels disruptive
-5. **Object Insertion**—Gifts that are symbolic claims, not attunements
-6. **Reveal Without Humility**—No kneeling, no slowing, no checking your response
+1. **Misdirection**: While you're focused on the gesture, the real action (lack of consent, lack of mutual pacing) happens offstage
+2. **Forced Framing**: They tell you what just happened before you can interpret it ("We're friends," "This is romantic")
+3. **Time Compression**: Things happen faster than you can process; objection feels "too late"
+4. **Audience Recruitment**: Witnesses lock in the illusion; saying no feels disruptive
+5. **Object Insertion**: Gifts that are symbolic claims, not attunements
+6. **Reveal Without Humility**: No kneeling, no slowing, no checking your response
 
 **How It Hooks You:**
 
-Your confusion, inability to eat, disorientation—those weren't weakness. They were your system saying: *"This is a trick, not a meeting."*
+Your confusion, inability to eat, disorientation: those weren't weakness. They were your system saying: *"This is a trick, not a meeting."*
 
 Romance expands choice. Magician tactics constrict it.
 
@@ -629,7 +629,7 @@ Romance expands choice. Magician tactics constrict it.
 
 **Key Distinction:** A magician wants your reaction. Integrity wants your yes.
 
-> *"You weren't fooled because you were naïve—you were targeted because you were perceptive, open, and slow enough to notice the dissonance."*
+> *"You weren't fooled because you were naïve; you were targeted because you were perceptive, open, and slow enough to notice the dissonance."*
 
 ---
 
@@ -639,24 +639,24 @@ Romance expands choice. Magician tactics constrict it.
 If 3 or more patterns appear early (within weeks) or cluster together, pause. If your body reacts before your mind does, trust that signal.
 
 **Entry Patterns (How They Arrive):**
-- **Accelerated Intimacy**—Immediate closeness, rapid physical/emotional access
-- **Unasked Assistance**—Fixing, organizing without being asked
-- **Fast Social Integration**—Early introductions creating social cost for withdrawal
+- **Accelerated Intimacy**: Immediate closeness, rapid physical/emotional access
+- **Unasked Assistance**: Fixing, organizing without being asked
+- **Fast Social Integration**: Early introductions creating social cost for withdrawal
 
 **Control Mechanisms (How It Operates):**
-- **Micro-Critique of Identity**—Comments on clothing, tone, choices; framed as "helpful"
-- **Narrative Reframing**—"We were friends," retroactive redefinition of events
-- **Boundary Ambiguity**—Assumptions instead of questions, offense when boundaries appear
+- **Micro-Critique of Identity**: Comments on clothing, tone, choices; framed as "helpful"
+- **Narrative Reframing**: "We were friends," retroactive redefinition of events
+- **Boundary Ambiguity**: Assumptions instead of questions, offense when boundaries appear
 
 **Psychological Hooks (Why It Works):**
-- **Conditional Safety**—Warmth when compliant, withdrawal when independent
-- **Moral Positioning**—"I'm just trying to protect you"
-- **Speed Over Choice**—Things happen faster than you can process
+- **Conditional Safety**: Warmth when compliant, withdrawal when independent
+- **Moral Positioning**: "I'm just trying to protect you"
+- **Speed Over Choice**: Things happen faster than you can process
 
 **Impact Indicators (How You Know):**
-- **Somatic Discrepancy**—Your body tightens while your mind explains
-- **Self-Minimization**—"It's not that bad," "Maybe I'm overreacting"
-- **Identity Compression**—Less spontaneity, more monitoring
+- **Somatic Discrepancy**: Your body tightens while your mind explains
+- **Self-Minimization**: "It's not that bad," "Maybe I'm overreacting"
+- **Identity Compression**: Less spontaneity, more monitoring
 
 **Differentiation Matrix:**
 

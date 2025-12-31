@@ -210,6 +210,117 @@ You can grieve. You can release. You can become sovereign. All without their inv
 
 ---
 
+## The Grief Beneath the Wish
+
+The wish itself makes sense.
+
+Wanting someone—especially family—to see your perspective is a relational instinct, not a flaw.
+
+It means:
+- You value mutuality
+- You expect curiosity to go both ways
+- You believe relationships can adjust
+
+That's healthy.
+
+But here's the grounded truth:
+
+**Understanding requires willingness, not evidence.**
+
+If someone wanted to see your point of view, they would ask questions like:
+- "What's that like for you?"
+- "What do you need right now?"
+- "Did that land wrong?"
+
+When those questions never come, that's information.
+
+---
+
+## Why It's Limitation, Not Cruelty
+
+Some people have **low capacity for perspective-taking when it threatens their access or comfort.**
+
+This shows up as:
+- They don't ask about you
+- They redirect conversations back to themselves
+- They respond to boundaries with withdrawal, guilt, or deflection
+- They frame closeness as access to you, not interest in you
+- They position themselves as the one being deprived
+
+This isn't cruelty. It's limitation.
+
+And limitations don't soften because we explain better.
+
+---
+
+## Where the Grief Actually Lives
+
+The ache isn't: *"They don't get it."*
+
+It's: *"I wish I mattered enough to be gotten."*
+
+That's a real loss.
+
+Not a problem to solve. Not a case to argue. A loss to feel.
+
+Let yourself name it—quietly, kindly.
+
+---
+
+## Field Note: The Reframe That Released Her
+
+She'd spent years trying to explain.
+
+Different words. Different tones. Written letters. Careful conversations. Each time hoping: *Maybe this time they'll understand.*
+
+Each time: the same non-response. The subject change. The guilt trip. The silence.
+
+One day, she stopped mid-sentence.
+
+Not because she gave up. Because something clicked.
+
+*If they could meet me there, they already would have.*
+
+No blame. No judgment. Just clarity.
+
+She didn't need them to understand anymore. She needed to stop abandoning herself in the pursuit of being understood.
+
+---
+
+## The Self-Abandonment Loop
+
+There's a pattern many people get stuck in:
+
+1. You over-explain
+2. They don't receive
+3. You feel guilty
+4. Nothing changes
+5. You try again
+
+This loop collapses when you stop feeding it.
+
+Not by shutting them out. Not by becoming cold.
+
+By stopping the self-abandonment that happens when you chase understanding from someone who isn't offering it.
+
+---
+
+## A Regulating Mantra
+
+When guilt spikes after holding a boundary:
+
+*"I can want connection without chasing understanding."*
+
+Let that settle in your chest.
+
+You're not withdrawing love. You're withdrawing the endless explanation that was never going to land.
+
+That's not cold.
+
+That's self-respect.
+
+---
+
 ## Strategies for Family Visits
 
 ### Before the Visit

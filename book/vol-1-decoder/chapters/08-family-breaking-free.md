@@ -4,6 +4,10 @@
 
 ---
 
+> **Note:** This chapter builds on Chapter 7's exploration of parental wounds. While Chapter 7 focused on the specific injuries from narcissistic mothers and fathers, this chapter expands to the entire family system—siblings, extended family, shame dynamics, and practical strategies for moving forward. If you haven't read Chapter 7 yet, consider starting there.
+
+---
+
 ## Sibling Dynamics in Narcissistic Families
 
 Siblings who should be natural allies often become adversaries in narcissistic systems.

@@ -208,5 +208,54 @@ In a triangulated family, you may find yourself:
 
 ---
 
-*The roles were assigned. The triangles were constructed. None of it was about who you actually are.*
+## Healing & Closure: From Role to Reality
+
+The patterns in this chapter may have stirred deep grief—the grief of seeing your family clearly, perhaps for the first time. That clarity is painful and necessary. Before you move forward, take a moment to land what you've learned.
+
+### What You May Be Feeling
+
+**Grief** — for the family you deserved but didn't get.
+
+**Anger** — at the system that used you, at the people who should have protected you.
+
+**Relief** — that there's finally a name for what happened.
+
+**Guilt** — for seeing clearly when others can't or won't.
+
+**Loneliness** — because this work often happens alone.
+
+All of these feelings are valid. They can coexist. They don't need to be resolved today.
+
+### A Grounding Practice
+
+Before continuing to the next chapter, try this:
+
+1. **Place both feet flat on the floor.** Feel the ground beneath you.
+2. **Put one hand on your heart, one on your belly.** Breathe slowly.
+3. **Say to yourself:** "I am not my role. I was never my role."
+4. **Breathe again.** Let that truth settle.
+
+### The Roles Were Never You
+
+The golden child, the scapegoat, the lost child, the mascot—these were survival costumes, not identities. You wore what the system demanded. But underneath the costume, you existed. You exist still.
+
+**The roles were assigned, not chosen.**
+
+**The triangles were constructed, not natural.**
+
+**The hurt was real, but so is your capacity to heal.**
+
+### What Comes Next
+
+In the following chapters, we'll explore:
+- **Chapter 7:** The specific wounds of maternal and paternal narcissism
+- **Chapter 8:** Breaking free—contact decisions, boundaries, and creating new family
+
+But first, honor what you've just seen. Write it down if you need to. Call a trusted friend. Rest.
+
+You've done important work here. The clarity you're gaining is the foundation of your freedom.
+
+---
+
+*The roles were assigned. The triangles were constructed. None of it was about who you actually are. And now—you get to decide who you become.*
 

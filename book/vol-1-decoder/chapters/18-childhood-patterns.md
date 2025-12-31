@@ -4,6 +4,10 @@
 
 ---
 
+> **Note:** This is an advanced chapter that explores deep material about childhood experiences. It may activate significant emotions. Consider reading this chapter when you feel resourced and stable—perhaps after working through the grounding tools in Chapter 14. There's no rush. This material will be here when you're ready.
+
+---
+
 Many people who find themselves in narcissistic relationships as adults grew up in environments where similar dynamics were present. This isn't coincidence—it's conditioning.
 
 Understanding how your childhood shaped your patterns isn't about blame. It's about freedom. When you see the roots of your vulnerabilities, you can finally address them.

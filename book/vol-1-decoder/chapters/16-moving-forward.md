@@ -293,6 +293,99 @@ A relationship entered from wholeness is different from a relationship entered f
 
 ---
 
+## Life After: What Recovery Readers Want to Know
+
+You may be asking: *"But what does healthy actually look like?"* This section offers glimpses of the other side—not prescriptions, but possibilities.
+
+### Dating After Narcissistic Abuse
+
+**When are you ready?**
+Not when you've "forgotten" about the past, but when you can spot patterns while they're happening rather than months later. When you can hold boundaries without crippling guilt. When you'd rather be alone than compromise your peace.
+
+**What's different now:**
+- You date from curiosity, not desperation
+- Slow is sexy—instant intensity is a red flag
+- You watch actions, not words
+- You keep your life full; dating adds to it, doesn't become it
+- You notice how you feel AFTER interactions, not just during
+- You trust yourself to leave if needed
+
+**Green flags to look for:**
+- Consistency over time (not just when convenient)
+- Genuine interest in your life without surveillance
+- Graceful handling of disappointment
+- Accountability when they make mistakes
+- Respect for your boundaries without pouting
+- Your nervous system calms around them
+- You feel MORE yourself, not less
+
+**A practice for new connections:**
+After every date, ask: *"Do I feel more spacious or more constricted?"* Trust that data.
+
+### Parenting Differently
+
+If you're a parent—or thinking about becoming one—you may fear repeating what was done to you.
+
+**The good news:** Awareness breaks cycles. The fact that you're worried about this means you're already doing something your parent couldn't do: self-reflection.
+
+**What healing looks like as a parent:**
+- Validating your child's feelings even when inconvenient
+- Apologizing genuinely when you mess up
+- Not making your child responsible for your emotions
+- Allowing them to have boundaries—including with you
+- Seeing them as separate people, not extensions of yourself
+- Creating safety they can trust, not conditional love they must earn
+
+**The gift you give:**
+Your children will have a model of someone who broke the pattern. They'll see repair, self-awareness, and healthy boundaries. Even your imperfect attempts teach them something important: growth is possible.
+
+For deeper exploration of conscious parenting after trauma, see **[Volume 5: The Lineage](../vol-5-lineage/README.md)**.
+
+### Building Healthy Relationships
+
+Beyond romance, you're learning what healthy connection feels like—with friends, colleagues, and community.
+
+**Signs of healthy relationships:**
+- Mutual investment (not just you giving)
+- Safety to be honest without fear of retaliation
+- Conflict that leads to understanding, not destruction
+- Space for individual growth
+- Reciprocal curiosity and care
+- You can say no without the relationship ending
+- Trust that builds through experience, not demands
+
+**What to release:**
+- The belief that you need to earn love
+- The habit of monitoring others' moods
+- The pattern of abandoning yourself to keep connection
+- The assumption that intensity means depth
+- The fear that healthy feels boring (it doesn't—it feels calm)
+
+**What to cultivate:**
+- People who celebrate your wins without competition
+- Friends who tell you the truth lovingly
+- Community that sees the real you
+- Connections that regulate rather than activate you
+- Relationships where you can rest
+
+### A Vision for the Other Side
+
+Recovery isn't about getting "back to normal." It's about discovering a new normal—one that was never available to you before.
+
+On the other side:
+- Your body is calm around safe people
+- You trust your instincts without second-guessing
+- Boundaries feel natural, not exhausting
+- You give from overflow, not depletion
+- Love doesn't feel like a hostage situation
+- You know what you deserve—and you choose it
+
+This isn't fantasy. This is what healing makes possible. It takes time. It takes work. It takes patience with yourself.
+
+But it's real. And it's waiting for you.
+
+---
+
 ## Closing Reflection
 
 You picked up this book because something was wrong and you wanted to understand it.

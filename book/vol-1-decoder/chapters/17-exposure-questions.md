@@ -894,9 +894,56 @@ A narcissist will struggle, deflect, reverse, or produce an example that reveals
 
 ## The Warning
 
+**This section contains important safety information. Please read carefully.**
+
 These questions can trigger narcissistic rage if the person feels exposed. Use them for your own clarity, not as weapons. If you're in a relationship with potential for violence, prioritize safety over exposure.
 
+### Critical Safety Considerations
+
+**Before using these questions, assess your situation:**
+
+1. **Physical Safety:** If there is any history of violence, physical intimidation, property destruction, or threats, DO NOT use these questions in confrontational ways. Your safety is more important than their exposure.
+
+2. **Private vs. Public:** Never use these questions to publicly expose or humiliate someone. That can escalate to dangerous situations and shifts the dynamic from protection to aggression.
+
+3. **Custody and Legal Situations:** If you're in a custody dispute, divorce proceedings, or legal situation, document patterns through proper channels. Using these questions as a "gotcha" can backfire legally and emotionally.
+
+4. **Therapeutic Contexts:** These questions are not a substitute for professional assessment. If you need formal documentation of someone's patterns, work with a therapist or attorney.
+
+### What These Questions Are For
+
+**Use them to:**
+- Clarify YOUR perception of the relationship
+- Gather information for YOUR decision-making
+- Validate what you're already sensing
+- Build internal clarity when you're doubting yourself
+
+**Do NOT use them to:**
+- Prove to the narcissist that they're a narcissist (they won't believe you)
+- Win arguments or gain leverage
+- Confront someone you're afraid of
+- "Fix" or change someone
+- Test people in new relationships before trust is established
+
+### The Misuse Danger
+
+These questions could be misused to:
+- Manipulate or corner someone
+- Build a case for emotional abuse in the other direction
+- Justify pre-existing conclusions without genuine inquiry
+- Create confrontations that escalate to violence
+
+**If you find yourself wanting to use these as weapons rather than as clarity tools, pause.** Speak with a therapist. The goal is your freedom, not their exposure.
+
+### Remember
+
 You don't need them to see themselves for you to see them clearly.
+
+You don't need their agreement to trust your experience.
+
+You don't need to prove anything to anyone.
+
+The questions exist to help YOU understand what you're dealing with—so you can make informed choices about YOUR life.
 
 ---
 

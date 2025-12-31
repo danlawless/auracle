@@ -33,16 +33,35 @@ You don't need to have a clinical diagnosis for someone in your life. You don't 
 
 ---
 
+## 🚨 If You're in Danger Right Now
+
+**STOP HERE FIRST if you are in immediate crisis.**
+
+### Step 1: Emergency Resources (Save These NOW)
+- **National Domestic Violence Hotline:** 1-800-799-7233 (24/7, confidential)
+- **Crisis Text Line:** Text **HOME** to **741741**
+- **National Suicide Prevention Lifeline:** **988**
+- **Emergency Services:** **911**
+
+Save these numbers before you need them. Create a safety plan with a trusted friend.
+
+### Step 2: Crisis Reading Path
+If you're in danger, don't start at the beginning. Start here:
+1. **[Chapter 15: Practical Responses](./chapters/15-practical-responses.md)** — Scripts for immediate use
+2. **[Chapter 2: Energetic Signature](./chapters/02-energetic-signature.md)** — Body-based recognition
+3. **[Chapter 14: Energetic Remapping](./chapters/14-energetic-remapping.md)** — Nervous system grounding
+4. **[Chapter 9: Romantic Manipulation—Exit Phase](./chapters/09-romantic-manipulation.md)** — If you're planning to leave
+
+### Step 3: Quick Reference
+- **Decoder Cards 27 & 36** (Chapters 11-12) — Real-time pattern recognition
+- **The 3-3-3 Rule** (below) — Buy time in confrontations
+
+---
+
 ## How to Use This Book
 
 ### If You're in Crisis
-Start with **Chapter 14: Energetic Remapping** for immediate grounding tools, then read **Chapter 15: Practical Responses** for scripts you can use right now.
-
-**Immediate Safety Resources:**
-- **National Domestic Violence Hotline:** 1-800-799-7233 (24/7)
-- **Crisis Text Line:** Text HOME to 741741
-- **National Suicide Prevention Lifeline:** 988
-- Save these numbers *before* you need them. Create a safety plan with a trusted friend who knows your situation.
+See the emergency resources above. Start with **Chapter 15: Practical Responses** for scripts you can use immediately, then **Chapter 14: Energetic Remapping** for grounding tools.
 
 ### If You're Trying to Understand
 Read the book in order. The chapters build on each other, taking you from recognition through understanding to recovery.

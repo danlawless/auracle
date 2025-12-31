@@ -368,5 +368,21 @@ You'll know it's working when:
 
 ---
 
+## What Comes Next
+
+This chapter focused on the wounds created by narcissistic mothers and fathers specifically—the primary attachment injuries. But narcissistic family systems affect more than just your relationship with parents.
+
+**In Chapter 8, we'll explore:**
+- How these dynamics poisoned sibling relationships
+- Shame programming installed by the family system
+- The intergenerational transmission of narcissism
+- Practical decisions about contact (low contact, no contact)
+- Breaking free from the roles you were assigned
+- Family event survival strategies
+
+If you're feeling activated after this chapter, that's normal. The parental material runs deep. Take a break if you need one. The next chapter will help you move from understanding to action.
+
+---
+
 *The parent you needed isn't the parent you got. The grief is real. And so is your capacity to become what they couldn't be—for yourself.*
 

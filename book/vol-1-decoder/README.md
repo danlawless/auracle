@@ -13,7 +13,8 @@
 | [Front Matter](./00-front-matter.md) | *About This Book* | Who this book is for, how to use it, and what you'll gain |
 | [Chapter 1](./chapters/01-opening-manifesto.md) | The Opening Manifesto | What this book is really about—the invisible architecture of control |
 | [Chapter 2](./chapters/02-energetic-signature.md) | The Energetic Signature | How to recognize control in your body before your mind catches up |
-| [Chapter 3](./chapters/03-narcissist-playbook.md) | The Narcissist Playbook | 38 tactics of control, named and decoded |
+| [Chapter 3A](./chapters/03a-narcissist-playbook-part1.md) | The Narcissist Playbook — Part 1 | Tactics 1-19: Control, Validation & Psychological Manipulation |
+| [Chapter 3B](./chapters/03b-narcissist-playbook-part2.md) | The Narcissist Playbook — Part 2 | Tactics 20-38: Sexual, Energetic & Post-Encounter Manipulation |
 | [Chapter 4](./chapters/04-trauma-bonds.md) | The Psychology of Trauma Bonds | Why you got hooked, and why leaving is so hard |
 | [Chapter 5](./chapters/05-narcissist-archetypes.md) | Narcissist Archetypes & Roles | Understanding the different faces of narcissism |
 | [Chapter 6](./chapters/06-family-roles-triangulation.md) | Family Roles & Triangulation | Scapegoats, golden children, and the games narcissists play |
@@ -28,7 +29,7 @@
 | [Chapter 15](./chapters/15-practical-responses.md) | Practical Responses & Scripts | What to actually say and do |
 | [Chapter 16](./chapters/16-moving-forward.md) | Moving Forward | Closing chapters and beginning new ones |
 | [Chapter 17](./chapters/17-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |
-| [Chapter 18](./chapters/18-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
+| [Chapter 18](./chapters/18-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability *(Advanced—read when ready)* |
 
 ### Appendices
 
@@ -40,30 +41,62 @@
 
 ---
 
+## 🚨 Crisis Triage: If You're in Danger Right Now
+
+**STOP. If you are in immediate danger, start here:**
+
+### Step 1: Emergency Resources FIRST
+- **National Domestic Violence Hotline:** 1-800-799-7233 (24/7, confidential)
+- **Crisis Text Line:** Text **HOME** to **741741**
+- **National Suicide Prevention Lifeline:** **988**
+- **Emergency Services:** 911
+
+Save these numbers now. You may need them later when you can't think clearly.
+
+### Step 2: Immediate Reading Path
+1. **[Chapter 15: Practical Responses](./chapters/15-practical-responses.md)** — Scripts for immediate use, how to respond right now
+2. **[Chapter 2: The Energetic Signature](./chapters/02-energetic-signature.md)** — Body-based recognition of what's happening
+3. **[Chapter 14: Energetic Remapping](./chapters/14-energetic-remapping.md)** — Grounding and nervous system support
+4. **[Chapter 9: Exit Phase](./chapters/09-romantic-manipulation.md)** — If you're planning to leave
+
+### Step 3: Quick Reference Tools
+- **Decoder Cards 27 & 36** (Chapters 11-12) — For real-time pattern recognition
+- **The 3-3-3 Rule** (below) — For buying time in confrontations
+
+---
+
 ## 📖 Reading Paths
 
 Choose your path based on where you are:
 
-### 🆘 If You're in Crisis
-1. **[Chapter 14: Energetic Remapping](./chapters/14-energetic-remapping.md)** — Immediate grounding tools
+### 🆘 If You're in Crisis (Expanded Path)
+If you've moved past immediate danger but still feel activated:
+
+1. **Emergency Resources** (saved above)
 2. **[Chapter 15: Practical Responses](./chapters/15-practical-responses.md)** — Scripts you can use right now
-3. **Emergency Resources:**
-   - National Domestic Violence Hotline: **1-800-799-7233** (24/7)
-   - Crisis Text Line: Text **HOME** to **741741**
-   - National Suicide Prevention Lifeline: **988**
+3. **[Chapter 2: The Energetic Signature](./chapters/02-energetic-signature.md)** — Body-based recognition
+4. **[Chapter 14: Energetic Remapping](./chapters/14-energetic-remapping.md)** — Immediate grounding tools
 
 ### 🔍 If You're Trying to Understand
 Read the book in order starting from the [Front Matter](./00-front-matter.md). The chapters build on each other, taking you from recognition through understanding to response.
 
 ### 💔 If You're Healing
-1. **[Chapter 4: Trauma Bonds](./chapters/04-trauma-bonds.md)** — Understand the biology of what happened
-2. **[Volume 2: The Bridge](../vol-2-bridge/README.md)** — Continue your healing journey with attachment repair
+**Recommended Healing Path:**
+1. **[Chapter 14: Energetic Remapping](./chapters/14-energetic-remapping.md)** — Nervous system repair and grounding
+2. **[Chapter 16: Moving Forward](./chapters/16-moving-forward.md)** — Roadmap for recovery
+3. **[Chapter 18: Understanding Your Childhood Patterns](./chapters/18-childhood-patterns.md)** — Understanding vulnerability roots *(advanced—read when ready)*
+4. **[Chapter 4: Trauma Bonds](./chapters/04-trauma-bonds.md)** — The biology of what happened
+5. **[Volume 2: The Bridge](../vol-2-bridge/README.md)** — Continue your healing journey with attachment repair
 
 ### 🎯 If You Need to Confirm What You're Seeing
 **[Chapter 17: The Exposure Questions](./chapters/17-exposure-questions.md)** — Questions designed to reveal narcissistic patterns. Healthy people answer these easily; narcissists cannot.
 
 ### 🤝 If You're Helping Others
 The **Decoder Cards** in Chapters [11](./chapters/11-decoder-cards-core.md), [12](./chapters/12-decoder-cards-advanced.md), and [13](./chapters/13-decoder-cards-protocol.md) are designed to be shared—use them as conversation starters or teaching tools.
+
+**Understanding the Decoder Cards:**
+- **Core Cards (Chapter 11):** 19 foundational patterns you'll encounter most often—gaslighting, triangulation, shame-dumping, and other common tactics. Start here for pattern recognition basics.
+- **Advanced Cards (Chapter 12):** 18 sophisticated tactics that are harder to identify, often more dangerous, and frequently appear during high-stakes moments like relationship exits, custody battles, or when you're threatening to leave. Read these after you've internalized the core patterns.
 
 ---
 
@@ -112,7 +145,8 @@ PART I: RECOGNITION
 ├── Front Matter .......... Introduction & how to use this book
 ├── Chapter 1 ............. The Opening Manifesto
 ├── Chapter 2 ............. The Energetic Signature (body awareness)
-└── Chapter 3 ............. The Narcissist Playbook (38 tactics)
+├── Chapter 3A ............ The Narcissist Playbook Part 1 (Tactics 1-19)
+└── Chapter 3B ............ The Narcissist Playbook Part 2 (Tactics 20-38)
 
 PART II: UNDERSTANDING
 ├── Chapter 4 ............. Trauma Bonds (neuroscience)
@@ -133,7 +167,7 @@ PART IV: RESPONSE & RECOVERY
 ├── Chapter 14 ............ Energetic Remapping (nervous system tools)
 ├── Chapter 15 ............ Practical Responses & Scripts
 ├── Chapter 16 ............ Moving Forward
-└── Chapter 18 ............ Understanding Your Childhood Patterns
+└── Chapter 18 ............ Understanding Your Childhood Patterns (Advanced)
 
 APPENDICES
 ├── Appendix A ............ Resources

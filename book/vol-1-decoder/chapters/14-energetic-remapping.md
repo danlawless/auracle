@@ -403,7 +403,7 @@ Consider including:
 - Affirming core qualities ("I am...")
 - Setting intention for how you want to show up
 
-**Throughout Day:**
+**Throughout the Day:**
 - Noticing when activation arises
 - Using 4-step process as needed
 - Brief grounding between activities

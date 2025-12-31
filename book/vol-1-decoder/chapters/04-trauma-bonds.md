@@ -219,7 +219,7 @@ For now, just know: if you're confused about why the sex was so good in a relati
 
 ## Codependency and the Trauma Bond
 
-Trauma bonds often coexist with codependency—a pattern where your sense of self becomes organized around another person's needs.
+Trauma bonds often coexist with what's traditionally been called "codependency"—a pattern where your sense of self becomes organized around another person's needs. (Note: The term "codependency" has been criticized by some clinicians for pathologizing what are often adaptive trauma responses. We use it here because it remains widely recognized, while acknowledging that these patterns often developed as survival strategies in unsafe environments.)
 
 ### How They Intertwine
 

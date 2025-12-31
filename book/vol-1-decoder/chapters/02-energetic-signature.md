@@ -644,5 +644,5 @@ The ability to pause, scan your body, and name what you're feeling—before your
 
 ---
 
-*Your body never lies. It just waits for you to listen.*
+*Your body tells its truth. Sometimes that's about now; sometimes it's about then. But it's always worth listening.*
 

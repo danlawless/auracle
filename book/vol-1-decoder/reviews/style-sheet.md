@@ -264,3 +264,4 @@ This style sheet documents all editorial decisions for consistency throughout th
 *Style sheet created: December 31, 2025*
 *Last updated: December 31, 2025*
 *Editor: Clara (AI Copy Editor)*
+*Reference: Issue #98*

@@ -84,9 +84,11 @@ You're not weak for being hooked. You're experiencing a neurological response th
 
 ---
 
-## Why Confusion Creates Dependence
+## Why Confusion Creates Dependence: The Role of Cognitive Dissonance
 
-Beyond intermittent reinforcement, there's another factor: cognitive dissonance.
+Beyond intermittent reinforcement, there's another factor that deepens the trauma bond: cognitive dissonance.
+
+Cognitive dissonance is the mental discomfort you experience when holding contradictory beliefs or information. It's distinct from trauma bonding itself—trauma bonding is the overall attachment pattern created by cycles of abuse and affection, while cognitive dissonance is one of several psychological mechanisms that contribute to and maintain that bond.
 
 When someone alternates between:
 - Charm and cruelty
@@ -112,7 +114,7 @@ In an abusive relationship, something paradoxical happens: **the source of fear 
 
 When the person who hurt you is also the person you run to for comfort after being hurt, your attachment system gets scrambled. You become more attached, not less, because the cycle of fear → relief → bonding → fear repeats over and over.
 
-This is the same mechanism behind why kidnapping victims sometimes bond with their captors (a pattern sometimes called "Stockholm Syndrome," though many experts now prefer the term "traumatic bonding" as it more accurately describes the neurobiological process) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds—it just bonds.
+This is the same mechanism behind why kidnapping victims sometimes bond with their captors (Stockholm Syndrome—a specific term for hostage situations, while "trauma bonding" is the broader, more widely accepted term in psychology for attachment formed through abuse cycles) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds—it just bonds.
 
 **Physical intimidation intensifies this bonding even further.** When someone demonstrates your physical vulnerability—placing their hand on your throat, making a fist near you, standing over you—your body registers existential threat. Your survival brain activates. When that same person then becomes "safe" again (doesn't follow through, becomes calm, shows affection), the relief is overwhelming. The drop from mortal fear to safety creates an especially powerful neurochemical response. This is why relationships with physical intimidation can create some of the strongest trauma bonds—your body confuses the relief from their restraint with love, when really it's just relief that they chose not to hurt you this time. (See Chapter 3, Tactic 4; Chapter 9, Exit Phase Escalation)
 
@@ -306,9 +308,9 @@ This isn't failure. It's biology. And it's workable.
 
 ## The Timeline You Need to Know
 
-Understanding how long things take helps manage expectations:
+Understanding how long things take helps manage expectations. These are general patterns drawn from clinical experience—your individual timeline may vary significantly based on relationship length, trauma history, support systems, and other factors. Some people move faster; others need more time. There's no "right" pace for healing.
 
-**Weeks 1–2 after no contact:** The worst. Withdrawal symptoms peak. You'll think you made a mistake. This is normal—ride it.
+**Weeks 1–2 after no contact:** Often the most difficult. Withdrawal symptoms tend to peak. You may think you made a mistake. This is normal—ride it.
 
 **Weeks 3–6:** Waves of clarity alternating with intense urges to reconnect. Keep riding.
 
@@ -320,7 +322,7 @@ Understanding how long things take helps manage expectations:
 
 **12+ months:** Integration. You carry the lessons without the wounds controlling you.
 
-This timeline assumes consistent no contact. Every reconnection resets the clock.
+This timeline assumes consistent no contact. Every reconnection tends to extend the process.
 
 ---
 

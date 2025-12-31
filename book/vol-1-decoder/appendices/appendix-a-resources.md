@@ -51,6 +51,36 @@ This appendix consolidates resources for anyone experiencing or recovering from 
 - **7 Cups:** 7cups.com — Free emotional support chat
 - **BetterHelp Crisis Resources:** betterhelp.com/crisis
 
+### LGBTQ+ Specific Crisis Resources
+
+| Resource | Contact | Description |
+|----------|---------|-------------|
+| **The Trevor Project** | 1-866-488-7386 or Text START to 678-678 | 24/7 crisis support for LGBTQ+ youth |
+| **Trans Lifeline** | US: 1-877-565-8860, Canada: 1-877-330-6366 | Peer support hotline run by and for trans people |
+| **LGBT National Hotline** | 1-888-843-4564 | Support, information, and local resources |
+| **GLBT National Youth Talkline** | 1-800-246-7743 | Support for LGBTQ+ youth under 25 |
+
+**LGBTQ+ Domestic Violence Resources:**
+- **The Network/La Red:** tnlr.org — 617-742-4911 — Serving LGBTQ+ and polyamorous survivors of partner abuse in Boston and beyond
+- **Northwest Network:** nwnetwork.org — 206-568-7777 — Supporting LGBTQ+ survivors in the Pacific Northwest
+- **FORGE:** forge-forward.org — Resources for transgender and gender non-conforming survivors
+- **LGBTQ+ Partner Abuse and Sexual Assault Helpline:** 1-866-356-6998 — National support line
+
+### Male Survivor Resources
+
+**Specific Support for Men:**
+- **1in6:** 1in6.org — Online support for men who experienced sexual abuse or assault
+- **MaleSurvivor:** malesurvivor.org — Resources, weekends of recovery, online support
+- **ManKind Initiative (UK):** 01823 334244 — Support for male victims of domestic abuse
+- **Men's Advice Line (UK):** 0808 8010327 — Confidential helpline for male domestic abuse victims
+- **National Domestic Violence Hotline:** 1-800-799-7233 — Serves survivors of all genders, including men
+
+**Why Male-Specific Resources Matter:**
+- Social stigma around male vulnerability can prevent help-seeking
+- Traditional domestic violence frameworks may not address men's experiences
+- Peer support with others who share similar barriers can be healing
+- Many men face unique challenges in being believed or taken seriously
+
 ---
 
 ## Finding Professional Help

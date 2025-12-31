@@ -572,6 +572,58 @@ When this happens, notice how your body feels—flattened? Interrupted? Unnamed?
 
 ---
 
+## Card 23b: Resonance → Re-centering
+
+**The signal:** Someone responds to something you shared with appreciation and self-disclosure—but the center of gravity shifts from your offering to their inner journey. Your content becomes a prompt for their identity story. You feel a faint flattening. Contact was made, but not met.
+
+**Pattern:** This is not the same as hijacking or domination. It's a self-referential closure. The response says: *"I agree—because it confirms something about me."*
+
+This is common among:
+- Spiritually identified people
+- Those who process connection through autobiography
+- People who bond via shared meaning rather than curiosity
+
+It does not automatically equal narcissism.
+
+**What's happening:**
+- Your offering wasn't witnessed—it was absorbed
+- Their response closes a loop around themselves
+- What's missing: a question back, curiosity about why you sent it, space held for your experience
+- Your nervous system registers: "Contact was made, but not met."
+
+**The distinction:**
+
+This is NOT:
+- Domination
+- Hijacking
+- Devaluation
+
+This IS:
+- Low relational reciprocity
+- Meaning-sharing instead of meaning-exchange
+- Style mismatch, not moral failure
+
+Some people relate *through* content. Others relate *around* content. If you're the latter, and they're the former, you'll feel the gap—even when nothing "wrong" happened.
+
+**The reframe:**
+*"They're connecting through recognition, not inquiry."*
+
+No need to correct it. No need to pursue depth there. Just note the bandwidth.
+
+**Practice:**
+When this happens, notice: flattened? Interrupted? Unnamed? That's data about the relational field—specifically about *capacity*, not character.
+
+If you want to keep the thread open without feeding the loop:
+- Minimal mirror: *"Glad it resonated."*
+- Neutral close: *"Yeah, it landed for me too."*
+- Boundary-by-simplicity: ❤️ or 🙏 and no words
+
+All of these end the thread without rupture.
+
+**Integration line:** *"Contact was made, but not met. Note the bandwidth—don't pathologize the person."*
+
+---
+
 ## Card 24: Access Drift
 
 **The signal:** Looking back, you realize boundaries that once existed have slowly disappeared. You're not sure when it happened. Small asks became assumptions. Pauses became expectations. Space you once had quietly eroded.

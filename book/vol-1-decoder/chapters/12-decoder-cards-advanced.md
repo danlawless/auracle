@@ -1,5 +1,7 @@
 # Chapter 12: Decoder Cards — Advanced Patterns
 
+> **Content Warning:** This chapter contains detailed discussions of physical intimidation, suicide threats, sexual control, and high-risk abuse tactics. Many of these patterns represent dangerous escalation. If you recognize these patterns in your current situation, please prioritize your safety and consult the crisis resources in Appendix A, including the National Domestic Violence Hotline: 1-800-799-7233 and National Suicide Prevention Lifeline: 988.
+
 ## Recognizing Sophisticated Control Tactics
 
 ---

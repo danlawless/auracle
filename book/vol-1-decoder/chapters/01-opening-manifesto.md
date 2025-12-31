@@ -349,27 +349,36 @@ Your pain was real. Your confusion was induced. Your healing will take time. And
 
 ## The Road Ahead
 
-In the chapters that follow, we'll cover:
+This book contains 18 chapters organized into these key areas:
 
-1. **The Energetic Signature**—How to recognize control in your body before your mind catches up
+**Part I: Recognition**
+- **The Energetic Signature** (Ch 2)—How to recognize control in your body before your mind catches up
+- **The Narcissist Playbook** (Ch 3)—38 specific tactics, named and decoded, with your power moves for each
 
-2. **The Narcissist Playbook**—38 specific tactics, named and decoded, with your power moves for each
+**Part II: Understanding**
+- **Trauma Bonds** (Ch 4)—The neuroscience of why you got hooked and why leaving is so hard
+- **Archetypes & Roles** (Ch 5)—The different types of narcissism and the masks they wear
 
-3. **Trauma Bonds**—The neuroscience of why you got hooked and why leaving is so hard
+**Part III: Family Systems**
+- **Family Roles & Triangulation** (Ch 6)—When manipulation is your origin story
+- **Parental Wounds** (Ch 7)—The mother wound and father wound
+- **Breaking Free from Family Systems** (Ch 8)—Siblings, shame, and sovereignty
+- **Understanding Your Childhood Patterns** (Ch 18)—How early experiences shape adult vulnerability
 
-4. **Archetypes & Roles**—The different types of narcissism and the masks they wear
+**Part IV: Patterns in Context**
+- **Romantic Manipulation** (Ch 9)—How control adapts to intimacy
+- **Manipulation Across Contexts** (Ch 10)—Recognizing patterns in work, friendships, and other arenas
 
-5. **Family Systems**—How these patterns operate in families across generations
+**Part V: Decoder Tools**
+- **Decoder Cards — Core Patterns** (Ch 11)—Quick-reference guides for real-time recognition
+- **Decoder Cards — Advanced Patterns** (Ch 12)—Recognizing sophisticated control tactics
+- **Decoder Cards — Emergency Protocol** (Ch 13)—When you need clarity now
 
-6. **Relationship Contexts**—Recognizing manipulation in romantic, family, friendship, and work relationships
-
-7. **Decoder Cards**—Quick-reference guides for specific patterns
-
-8. **Energetic Remapping**—Practical tools for rewiring your nervous system
-
-9. **Practical Responses**—Scripts and strategies for real-life situations
-
-10. **Moving Forward**—How to close chapters and begin new ones
+**Part VI: Recovery & Response**
+- **Energetic Remapping** (Ch 14)—Practical tools for rewiring your nervous system
+- **Practical Responses** (Ch 15)—Scripts and strategies for real-life situations
+- **Moving Forward** (Ch 16)—How to close chapters and begin new ones
+- **The Exposure Questions** (Ch 17)—Questions that make narcissists reveal themselves
 
 Each chapter builds on the last. Each insight prepares you for the next. By the end, you won't just understand what happened to you—you'll understand **why** it happened, **how** it worked, and **what** to do differently.
 

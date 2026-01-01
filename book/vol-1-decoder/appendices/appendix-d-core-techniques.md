@@ -83,7 +83,7 @@ Sound and breath together create powerful nervous system regulation.
 Press your feet into the ground. Feel the solid surface. You are here, in this moment, in this body.
 
 **5-4-3-2-1:**
-Name five things you see, four you hear, three you feel (touch), two you smell, one you taste. This engages all senses to bring you fully present.
+Name five things you see, four you hear, three you feel (touch), two you smell, and one you taste. This engages all senses to bring you fully present.
 
 **Long Exhale:**
 Breathe in for 4 counts, out for 8 counts. The extended exhale activates the parasympathetic nervous system—your "rest and digest" mode.
@@ -103,7 +103,7 @@ When you're activated and need immediate regulation (memorize this):
 
 **STOP - BREATHE - GROUND - NAME - CHOOSE**
 
-1. **STOP:** Pause all action. Do not respond, send, decide.
+1. **STOP:** Pause all action. Do not respond, send, or decide.
 2. **BREATHE:** 4 counts in, 6 counts out, three times minimum.
 3. **GROUND:** Feet on floor. Hand on heart. Where are you right now?
 4. **NAME:** "This is activation. My nervous system is responding to old threat."
@@ -371,13 +371,13 @@ This builds your reality anchor. When they gaslight you later, you'll have evide
 
 Before you can name the pattern, your body knows something is wrong:
 
-- **Chest tightness** — You're being pressured
-- **Confusion that won't resolve** — Reality is being distorted
-- **Exhaustion after contact** — You've been drained
-- **Urge to over-explain** — You're being misunderstood on purpose
-- **Guilt that appeared suddenly** — Shame was deposited in you
-- **Walking on eggshells feeling** — You're managing someone else's emotions
-- **Shrinking sensation** — You're making yourself small for their comfort
+- **Chest tightness**—You're being pressured
+- **Confusion that won't resolve**—Reality is being distorted
+- **Exhaustion after contact**—You've been drained
+- **Urge to over-explain**—You're being misunderstood on purpose
+- **Guilt that appeared suddenly**—Shame was deposited in you
+- **Walking on eggshells feeling**—You're managing someone else's emotions
+- **Shrinking sensation**—You're making yourself small for their comfort
 
 These signals arrive before conscious understanding. Trust them. Your body learned to read danger long before your mind caught up.
 

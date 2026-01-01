@@ -220,23 +220,23 @@ Academic examination of intimate partner violence in lesbian relationships, chal
 
 ### Websites
 
-- **Out of the FOG** (outofthefog.net) — Comprehensive resource for those affected by personality disorders
-- **Psychology Today** (psychologytoday.com) — Articles and therapist directory
-- **PsychCentral** (psychcentral.com) — Mental health information and community
-- **The Hotline** (thehotline.org) — National domestic violence resources
+- **Out of the FOG** (outofthefog.net)—Comprehensive resource for those affected by personality disorders
+- **Psychology Today** (psychologytoday.com)—Articles and therapist directory
+- **PsychCentral** (psychcentral.com)—Mental health information and community
+- **The Hotline** (thehotline.org)—National domestic violence resources
 
 ### YouTube Educators
 
-- **Dr. Ramani Durvasula** — Clinical psychologist specializing in narcissism
-- **Dr. Les Carter** (Surviving Narcissism) — Psychologist with decades of experience
-- **Meredith Miller** (Inner Integration) — Recovery coach and educator
-- **Stephanie Lyn Coaching** — Practical recovery strategies
+- **Dr. Ramani Durvasula**—Clinical psychologist specializing in narcissism
+- **Dr. Les Carter** (Surviving Narcissism)—Psychologist with decades of experience
+- **Meredith Miller** (Inner Integration)—Recovery coach and educator
+- **Stephanie Lyn Coaching**—Practical recovery strategies
 
 ### Podcasts
 
-- **Navigating Narcissism** — Dr. Ramani Durvasula
-- **Understanding Today's Narcissist** — Christine Hammond
-- **The Healing Journey** — Stephanie Lyn
+- **Navigating Narcissism**—Dr. Ramani Durvasula
+- **Understanding Today's Narcissist**—Christine Hammond
+- **The Healing Journey**—Stephanie Lyn
 
 ---
 
@@ -244,11 +244,11 @@ Academic examination of intimate partner violence in lesbian relationships, chal
 
 The understanding of narcissistic abuse and its patterns draws from multiple disciplines:
 
-- **Clinical psychology** — Research on personality disorders, trauma, and attachment
-- **Neuroscience** — How the brain and nervous system respond to relational trauma
-- **Sociology** — Research on coercive control and domestic abuse dynamics
-- **Survivor communities** — Collective wisdom from those who have lived these experiences
-- **Therapeutic practice** — Insights from therapists who specialize in this work
+- **Clinical psychology**—Research on personality disorders, trauma, and attachment
+- **Neuroscience**—How the brain and nervous system respond to relational trauma
+- **Sociology**—Research on coercive control and domestic abuse dynamics
+- **Survivor communities**—Collective wisdom from those who have lived these experiences
+- **Therapeutic practice**—Insights from therapists who specialize in this work
 
 This book synthesizes these sources with lived experience and the stories shared by countless individuals who trusted me with their healing journeys.
 
@@ -270,9 +270,9 @@ Follow your curiosity. Trust your instincts about what helps. Your healing journ
 
 If you read nothing else from this list, read these three:
 
-1. **For understanding** — *Why Does He Do That?* by Lundy Bancroft
-2. **For body-level healing** — *The Body Keeps the Score* by Bessel van der Kolk
-3. **For ongoing recovery** — *Complex PTSD: From Surviving to Thriving* by Pete Walker
+1. **For understanding**—*Why Does He Do That?* by Lundy Bancroft
+2. **For body-level healing**—*The Body Keeps the Score* by Bessel van der Kolk
+3. **For ongoing recovery**—*Complex PTSD: From Surviving to Thriving* by Pete Walker
 
 These three books alone provide a foundation for understanding what happened, why it affected you the way it did, and how to heal.
 

@@ -86,16 +86,16 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 
 **International Directories:**
 
-- **HotPeachPages:** hotpeachpages.net — Global directory of domestic violence resources in 110+ languages
+- **HotPeachPages:** hotpeachpages.net—Global directory of domestic violence resources in 110+ languages
 - **International Directory of Domestic Violence Agencies:** Includes resources for every continent
-- **WAVE Network (Europe):** wave-network.org — Women Against Violence Europe
+- **WAVE Network (Europe):** wave-network.org—Women Against Violence Europe
 
 **Note on International Resources:** Laws, available services, and cultural contexts vary significantly by country. What's available in your region may differ from these listings. If you cannot find resources for your country, HotPeachPages.net maintains the most comprehensive international directory.
 
 ### Online Crisis Support
 
-- **IMAlive:** imAlive.org — Online crisis chat
-- **7 Cups:** 7cups.com — Free emotional support chat
+- **IMAlive:** imAlive.org—Online crisis chat
+- **7 Cups:** 7cups.com—Free emotional support chat
 - **BetterHelp Crisis Resources:** betterhelp.com/crisis
 
 ### LGBTQ+ Specific Crisis Resources
@@ -108,19 +108,19 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 | **GLBT National Youth Talkline** | 1-800-246-7743 | Support for LGBTQ+ youth under 25 |
 
 **LGBTQ+ Domestic Violence Resources:**
-- **The Network/La Red:** tnlr.org — 617-742-4911 — Serving LGBTQ+ and polyamorous survivors of partner abuse in Boston and beyond
-- **Northwest Network:** nwnetwork.org — 206-568-7777 — Supporting LGBTQ+ survivors in the Pacific Northwest
-- **FORGE:** forge-forward.org — Resources for transgender and gender non-conforming survivors
-- **LGBTQ+ Partner Abuse and Sexual Assault Helpline:** 1-866-356-6998 — National support line
+- **The Network/La Red:** tnlr.org—617-742-4911—Serving LGBTQ+ and polyamorous survivors of partner abuse in Boston and beyond
+- **Northwest Network:** nwnetwork.org—206-568-7777—Supporting LGBTQ+ survivors in the Pacific Northwest
+- **FORGE:** forge-forward.org—Resources for transgender and gender non-conforming survivors
+- **LGBTQ+ Partner Abuse and Sexual Assault Helpline:** 1-866-356-6998—National support line
 
 ### Male Survivor Resources
 
 **Specific Support for Men:**
-- **1in6:** 1in6.org — Online support for men who experienced sexual abuse or assault
-- **MaleSurvivor:** malesurvivor.org — Resources, weekends of recovery, online support
-- **ManKind Initiative (UK):** 01823 334244 — Support for male victims of domestic abuse
-- **Men's Advice Line (UK):** 0808 8010327 — Confidential helpline for male domestic abuse victims
-- **National Domestic Violence Hotline:** 1-800-799-7233 — Serves survivors of all genders, including men
+- **1in6:** 1in6.org—Online support for men who experienced sexual abuse or assault
+- **MaleSurvivor:** malesurvivor.org—Resources, weekends of recovery, online support
+- **ManKind Initiative (UK):** 01823 334244—Support for male victims of domestic abuse
+- **Men's Advice Line (UK):** 0808 8010327—Confidential helpline for male domestic abuse victims
+- **National Domestic Violence Hotline:** 1-800-799-7233—Serves survivors of all genders, including men
 
 **Why Male-Specific Resources Matter:**
 - Social stigma around male vulnerability can prevent help-seeking
@@ -135,10 +135,10 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 Disabled individuals experience abuse at significantly higher rates and face unique barriers to accessing support. These resources provide specialized assistance:
 
 **Disability-Specific Hotlines and Services:**
-- **Abused Deaf Women's Advocacy Services (ADWAS):** adwas.org — 206-922-7088 (VP) — Serving Deaf, DeafBlind, and Deaf-Disabled survivors
-- **Disability Rights Education & Defense Fund:** dredf.org — 510-644-2555 (Voice/TTY)
-- **National Center on Disability and Access to Education:** ncdae.org — Accessibility resources
-- **Spectrum Institute:** spectruminstitute.org — Disability rights and domestic violence resources
+- **Abused Deaf Women's Advocacy Services (ADWAS):** adwas.org—206-922-7088 (VP)—Serving Deaf, DeafBlind, and Deaf-Disabled survivors
+- **Disability Rights Education & Defense Fund:** dredf.org—510-644-2555 (Voice/TTY)
+- **National Center on Disability and Access to Education:** ncdae.org—Accessibility resources
+- **Spectrum Institute:** spectruminstitute.org—Disability rights and domestic violence resources
 
 **Accessibility Considerations:**
 - Many national hotlines offer TTY, relay services, and video phone options (see Crisis Resources above)
@@ -170,12 +170,12 @@ Regardless of documentation status, you have rights and deserve safety:
 - **USCIS VAWA Self-Petition:** Allows abuse survivors to petition for immigration status independently of abuser
 - **U-Visa:** Available for survivors of qualifying crimes who assist law enforcement
 - **T-Visa:** Available for trafficking survivors
-- **National Immigrant Women's Advocacy Project:** niwap.org — Legal resources and training
+- **National Immigrant Women's Advocacy Project:** niwap.org—Legal resources and training
 
 **Hotlines with Language Access:**
-- **National Domestic Violence Hotline:** 1-800-799-7233 — Assistance in over 200 languages
-- **RAINN:** 1-800-656-4673 — Spanish language line: 1-800-656-4673 (press 2)
-- **Asian Pacific Institute on Gender-Based Violence:** api-gbv.org — 415-954-9988
+- **National Domestic Violence Hotline:** 1-800-799-7233—Assistance in over 200 languages
+- **RAINN:** 1-800-656-4673—Spanish language line: 1-800-656-4673 (press 2)
+- **Asian Pacific Institute on Gender-Based Violence:** api-gbv.org—415-954-9988
 
 **Key Information for Immigrant Survivors:**
 - You can access domestic violence shelters regardless of immigration status
@@ -221,12 +221,12 @@ Regardless of documentation status, you have rights and deserve safety:
 
 ### Finding Affordable Therapy
 
-- **Open Path Collective:** openpathcollective.org — Reduced-fee therapy ($30-$80/session)
-- **Psychology Today Directory:** psychologytoday.com — Filter by specialty and insurance
-- **SAMHSA Treatment Locator:** findtreatment.samhsa.gov — Free/low-cost options
-- **Community mental health centers** — Often offer sliding scale fees
-- **University training clinics** — Supervised therapy at reduced rates
-- **Employee Assistance Programs (EAP)** — Check if your employer offers free sessions
+- **Open Path Collective:** openpathcollective.org—Reduced-fee therapy ($30-$80/session)
+- **Psychology Today Directory:** psychologytoday.com—Filter by specialty and insurance
+- **SAMHSA Treatment Locator:** findtreatment.samhsa.gov—Free/low-cost options
+- **Community mental health centers**—Often offer sliding scale fees
+- **University training clinics**—Supervised therapy at reduced rates
+- **Employee Assistance Programs (EAP)**—Check if your employer offers free sessions
 
 ---
 
@@ -235,10 +235,10 @@ Regardless of documentation status, you have rights and deserve safety:
 ### Online Support Communities
 
 **Reddit Communities:**
-- r/NarcissisticAbuse — Active community for survivors
-- r/raisedbynarcissists — For those raised by narcissistic parents
-- r/NarcAbuseAndDivorce — For those divorcing/co-parenting with narcissists
-- r/LifeAfterNarcissism — Focus on recovery and moving forward
+- r/NarcissisticAbuse—Active community for survivors
+- r/raisedbynarcissists—For those raised by narcissistic parents
+- r/NarcAbuseAndDivorce—For those divorcing/co-parenting with narcissists
+- r/LifeAfterNarcissism—Focus on recovery and moving forward
 
 **Facebook Groups:**
 - Search "narcissistic abuse support" and read group rules before joining
@@ -246,15 +246,15 @@ Regardless of documentation status, you have rights and deserve safety:
 - Be cautious about sharing identifying information
 
 **Forums:**
-- Out of the FOG (outofthefog.net) — Forum for those dealing with personality-disordered individuals
+- Out of the FOG (outofthefog.net)—Forum for those dealing with personality-disordered individuals
 - Psychopath Free community
 
 ### In-Person Support
 
-- **Co-Dependents Anonymous (CoDA):** coda.org — 12-step program for relationship patterns
-- **Adult Children of Alcoholics/Dysfunctional Families (ACA):** adultchildren.org — Addresses family-of-origin issues
-- **Local domestic violence organizations** — Often offer support groups
-- **Meetup.com** — Search for local recovery or healing groups
+- **Co-Dependents Anonymous (CoDA):** coda.org—12-step program for relationship patterns
+- **Adult Children of Alcoholics/Dysfunctional Families (ACA):** adultchildren.org—Addresses family-of-origin issues
+- **Local domestic violence organizations**—Often offer support groups
+- **Meetup.com**—Search for local recovery or healing groups
 
 ---
 
@@ -263,30 +263,30 @@ Regardless of documentation status, you have rights and deserve safety:
 ### Books
 
 **Understanding Narcissistic Abuse:**
-- *Why Does He Do That?* by Lundy Bancroft — Essential reading on abusive relationships
-- *The Verbally Abusive Relationship* by Patricia Evans — Recognizing verbal abuse patterns
-- *Psychopath Free* by Jackson MacKenzie — Recovery after toxic relationships
-- *Becoming the Narcissist's Nightmare* by Shahida Arabi — Understanding and escaping
-- *See What You Made Me Do* by Jess Hill — Australian perspective on coercive control (inclusive of diverse experiences)
-- *No Visible Bruises* by Rachel Louise Snyder — Investigative look at domestic violence across communities
+- *Why Does He Do That?* by Lundy Bancroft—Essential reading on abusive relationships
+- *The Verbally Abusive Relationship* by Patricia Evans—Recognizing verbal abuse patterns
+- *Psychopath Free* by Jackson MacKenzie—Recovery after toxic relationships
+- *Becoming the Narcissist's Nightmare* by Shahida Arabi—Understanding and escaping
+- *See What You Made Me Do* by Jess Hill—Australian perspective on coercive control (inclusive of diverse experiences)
+- *No Visible Bruises* by Rachel Louise Snyder—Investigative look at domestic violence across communities
 
 **Healing and Recovery:**
-- *Complex PTSD: From Surviving to Thriving* by Pete Walker — Essential for trauma recovery
-- *The Body Keeps the Score* by Bessel van der Kolk — Understanding trauma in the body
-- *Adult Children of Emotionally Immature Parents* by Lindsay C. Gibson — Family-of-origin healing
-- *Healing the Shame That Binds You* by John Bradshaw — Addressing toxic shame
-- *My Grandmother's Hands* by Resmaa Menakem — Trauma, race, and embodied healing
-- *It Didn't Start with You* by Mark Wolynn — Inherited family trauma
+- *Complex PTSD: From Surviving to Thriving* by Pete Walker—Essential for trauma recovery
+- *The Body Keeps the Score* by Bessel van der Kolk—Understanding trauma in the body
+- *Adult Children of Emotionally Immature Parents* by Lindsay C. Gibson—Family-of-origin healing
+- *Healing the Shame That Binds You* by John Bradshaw—Addressing toxic shame
+- *My Grandmother's Hands* by Resmaa Menakem—Trauma, race, and embodied healing
+- *It Didn't Start with You* by Mark Wolynn—Inherited family trauma
 
 **LGBTQ+-Specific Resources:**
-- *In the Dream House* by Carmen Maria Machado — Memoir of abuse in a same-sex relationship
-- *A Queer History of the United States* by Michael Bronski — Context for LGBTQ+ relationship dynamics
-- Resources at lgbtqiapv.org — Research and support for LGBTQ+ intimate partner violence
+- *In the Dream House* by Carmen Maria Machado—Memoir of abuse in a same-sex relationship
+- *A Queer History of the United States* by Michael Bronski—Context for LGBTQ+ relationship dynamics
+- Resources at lgbtqiapv.org—Research and support for LGBTQ+ intimate partner violence
 
 **Boundaries and Self-Protection:**
-- *Boundaries* by Henry Cloud and John Townsend — Setting healthy limits
-- *Stop Walking on Eggshells* by Paul T. Mason — When someone you love has BPD
-- *Will I Ever Be Good Enough?* by Karyl McBride — Daughters of narcissistic mothers
+- *Boundaries* by Henry Cloud and John Townsend—Setting healthy limits
+- *Stop Walking on Eggshells* by Paul T. Mason—When someone you love has BPD
+- *Will I Ever Be Good Enough?* by Karyl McBride—Daughters of narcissistic mothers
 
 **Understanding the Narcissist:**
 - *The Wizard of Oz and Other Narcissists* by Eleanor D. Payson
@@ -295,26 +295,26 @@ Regardless of documentation status, you have rights and deserve safety:
 
 ### Podcasts
 
-- **Navigating Narcissism** — Dr. Ramani Durvasula
-- **Understanding Today's Narcissist** — Christine Hammond
-- **The Healing Journey** — Stephanie Lyn
-- **Mental Healness** — Narcissistic abuse recovery focus
-- **Narcissist Apocalypse** — Support and validation
+- **Navigating Narcissism**—Dr. Ramani Durvasula
+- **Understanding Today's Narcissist**—Christine Hammond
+- **The Healing Journey**—Stephanie Lyn
+- **Mental Healness**—Narcissistic abuse recovery focus
+- **Narcissist Apocalypse**—Support and validation
 
 ### YouTube Channels
 
-- **Dr. Ramani** — Clinical psychologist specializing in narcissism
-- **Surviving Narcissism** — Dr. Les Carter
-- **Inner Integration** — Meredith Miller (recovery coaching)
-- **Stephanie Lyn Coaching** — Practical recovery strategies
-- **The Little Shaman** — Understanding narcissistic behavior
+- **Dr. Ramani**—Clinical psychologist specializing in narcissism
+- **Surviving Narcissism**—Dr. Les Carter
+- **Inner Integration**—Meredith Miller (recovery coaching)
+- **Stephanie Lyn Coaching**—Practical recovery strategies
+- **The Little Shaman**—Understanding narcissistic behavior
 
 ### Websites and Blogs
 
-- **PsychCentral:** psychcentral.com — Mental health information
-- **Out of the FOG:** outofthefog.net — Resources for those affected by personality disorders
+- **PsychCentral:** psychcentral.com—Mental health information
+- **Out of the FOG:** outofthefog.net—Resources for those affected by personality disorders
 - **Narcissist Abuse Support:** narcissistabusesupport.com
-- **The Hotline:** thehotline.org — National domestic violence resources
+- **The Hotline:** thehotline.org—National domestic violence resources
 
 ---
 
@@ -334,17 +334,17 @@ Regardless of documentation status, you have rights and deserve safety:
 - Note witnesses to incidents
 
 **Legal Aid:**
-- **LawHelp.org** — Find free legal help in your state
-- **Legal Aid Society** — Free legal services for those who qualify
-- **Local bar association** — Many offer pro bono or reduced-fee referrals
-- **Law school clinics** — Supervised legal help at reduced cost
+- **LawHelp.org**—Find free legal help in your state
+- **Legal Aid Society**—Free legal services for those who qualify
+- **Local bar association**—Many offer pro bono or reduced-fee referrals
+- **Law school clinics**—Supervised legal help at reduced cost
 
 ### Divorce and Custody Resources
 
-- **WomensLaw.org** — Legal information for survivors
-- **Custody X Change** — App for documenting custody issues
-- **Our Family Wizard** — Court-approved communication app for high-conflict co-parenting
-- **Talking Parents** — Another documented communication platform
+- **WomensLaw.org**—Legal information for survivors
+- **Custody X Change**—App for documenting custody issues
+- **Our Family Wizard**—Court-approved communication app for high-conflict co-parenting
+- **Talking Parents**—Another documented communication platform
 
 ---
 
@@ -368,9 +368,9 @@ Your caution is not overreaction. It's intelligence.
 
 If you are still in contact with an abusive person, create a safety plan:
 
-1. **Identify safe people** — Who can you call in crisis? Give them context in advance.
+1. **Identify safe people**—Who can you call in crisis? Give them context in advance.
 
-2. **Prepare an emergency bag** — Include:
+2. **Prepare an emergency bag**—Include:
    - Important documents (ID, passport, birth certificates)
    - Medications
    - Cash
@@ -378,13 +378,13 @@ If you are still in contact with an abusive person, create a safety plan:
    - Change of clothes
    - Keys
 
-3. **Know your exits** — At home, at work, in common locations
+3. **Know your exits**—At home, at work, in common locations
 
-4. **Document everything** — Save evidence in a place they can't access
+4. **Document everything**—Save evidence in a place they can't access
 
-5. **Code words** — Establish with trusted people for when you need help
+5. **Code words**—Establish with trusted people for when you need help
 
-6. **Financial preparation** — Open a separate bank account if possible, know your financial situation
+6. **Financial preparation**—Open a separate bank account if possible, know your financial situation
 
 7. **Technology safety:**
    - Check for tracking apps on your phone
@@ -403,17 +403,17 @@ If you are still in contact with an abusive person, create a safety plan:
 You don't need money to begin healing. While some resources in this book mention therapists, retreats, or training programs, healing is available to everyone regardless of economic circumstances.
 
 **Free Healing Resources:**
-- **This book** — Use it as a workbook. Re-read chapters. Do the exercises.
-- **Library access** — Most books mentioned are available at public libraries
-- **Free online communities** — Reddit communities (r/NarcissisticAbuse, r/raisedbynarcissists), forums, and support groups
-- **YouTube** — Dr. Ramani, Surviving Narcissism, and other free channels provide extensive education
-- **Free meditation apps** — Insight Timer is completely free
-- **Walking and nature** — Grounding and somatic healing don't require memberships
-- **Journaling** — Paper and pen cost very little
-- **Peer support** — Sharing with safe friends costs nothing
-- **12-step programs** — CoDA, ACA, and similar programs are free
-- **Community mental health centers** — Offer sliding scale or free services
-- **University training clinics** — Supervised therapy at very low cost
+- **This book**—Use it as a workbook. Re-read chapters. Do the exercises.
+- **Library access**—Most books mentioned are available at public libraries
+- **Free online communities**—Reddit communities (r/NarcissisticAbuse, r/raisedbynarcissists), forums, and support groups
+- **YouTube**—Dr. Ramani, Surviving Narcissism, and other free channels provide extensive education
+- **Free meditation apps**—Insight Timer is completely free
+- **Walking and nature**—Grounding and somatic healing don't require memberships
+- **Journaling**—Paper and pen cost very little
+- **Peer support**—Sharing with safe friends costs nothing
+- **12-step programs**—CoDA, ACA, and similar programs are free
+- **Community mental health centers**—Offer sliding scale or free services
+- **University training clinics**—Supervised therapy at very low cost
 
 **Free Crisis Support:**
 - All hotlines listed in this appendix are free
@@ -431,19 +431,19 @@ Your nervous system can heal through free practices: grounding exercises, journa
 
 **Emergency Assistance:**
 - **211:** Call or text 211 for local emergency assistance
-- **Local churches and community organizations** — Often offer emergency funds
-- **TANF (Temporary Assistance for Needy Families)** — Government assistance
-- **SNAP (Food Stamps)** — Nutrition assistance
+- **Local churches and community organizations**—Often offer emergency funds
+- **TANF (Temporary Assistance for Needy Families)**—Government assistance
+- **SNAP (Food Stamps)**—Nutrition assistance
 
 **Building Financial Independence:**
-- **Local workforce development centers** — Job training and placement
-- **Dress for Success:** dressforsuccess.org — Professional clothing and career support
-- **Grameen America:** grameenamerica.org — Microloans for women entrepreneurs
+- **Local workforce development centers**—Job training and placement
+- **Dress for Success:** dressforsuccess.org—Professional clothing and career support
+- **Grameen America:** grameenamerica.org—Microloans for women entrepreneurs
 
 **Financial Education:**
-- **Financial Peace University** — Budgeting and financial literacy
-- **Local credit unions** — Often offer free financial counseling
-- **MyMoney.gov** — Government financial education resources
+- **Financial Peace University**—Budgeting and financial literacy
+- **Local credit unions**—Often offer free financial counseling
+- **MyMoney.gov**—Government financial education resources
 
 ---
 
@@ -463,8 +463,8 @@ Your nervous system can heal through free practices: grounding exercises, journa
 - eMoods
 
 **Safety and Documentation:**
-- DocuSAFE — Secure documentation for abuse
-- Aspire News — Disguised safety app
+- DocuSAFE—Secure documentation for abuse
+- Aspire News—Disguised safety app
 
 **Journaling:**
 - Day One
@@ -562,7 +562,7 @@ Check in with yourself daily. Know your color.
 - Share information without their permission
 
 **Resources for Supporters:**
-- *Helping Her Get Free* by Susan Brewster — Guide for friends and family
+- *Helping Her Get Free* by Susan Brewster—Guide for friends and family
 - National Domestic Violence Hotline has resources for friends and family
 
 ---

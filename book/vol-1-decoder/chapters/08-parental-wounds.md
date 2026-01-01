@@ -6,23 +6,23 @@
 
 > **A Note on Terminology**
 >
-> This chapter uses "Mother Wound" and "Father Wound" as recognizable terms, but these patterns aren't limited to biological parents of specific genders. The **Primary Caregiver Wound** (often called Mother Wound) can be created by any primary attachment figure—a father, grandmother, two mothers, a non-binary parent, or any other primary caregiver. The **Secondary Caregiver Wound** (often called Father Wound) can similarly be created by any secondary attachment figure regardless of gender.
+> This chapter uses "Mother Wound" and "Father Wound" as recognizable terms, but these patterns aren't limited to biological parents of specific genders. These **Caregiver Wounds** can be created by any attachment figure—a father, grandmother, two mothers, a non-binary parent, or any other caregiver regardless of gender.
 >
 > If you were raised by same-sex parents, grandparents, single parents, or in non-traditional family structures, translate these patterns to fit your experience. The wound patterns are about the *role* and *attachment dynamics*, not the gender or biological relationship of the caregiver. Narcissistic patterns can emerge in any caregiver of any gender.
 
 ---
 
-## The Mother Wound: Primary Caregiver Narcissism
+## The Mother Wound: Caregiver Narcissism
 
-When the narcissist is your primary caregiver, the wound runs particularly deep.
+When the narcissist is your caregiver, the wound runs particularly deep.
 
-Our primary caregivers are our first attachment—whether biological mothers, fathers, adoptive parents, grandparents, or other figures who raised us. Psychologically, you're wired to bond with whoever fills that caregiving role. When that bond is contaminated by narcissism, it affects your most foundational understanding of:
+Our caregivers are our first attachment—whether biological mothers, fathers, adoptive parents, grandparents, or other figures who raised us. Psychologically, you're wired to bond with whoever fills that caregiving role. When that bond is contaminated by narcissism, it affects your most foundational understanding of:
 - Whether you're worthy of love
 - Whether your needs matter
 - Whether you can trust those closest to you
 - Whether you deserve to exist
 
-### The Narcissistic Primary Caregiver May:
+### The Narcissistic Caregiver May:
 
 - Compete with their child rather than nurture them
 - Depend on their children for emotional regulation ("parentification")
@@ -34,9 +34,9 @@ Our primary caregivers are our first attachment—whether biological mothers, fa
 - Play victim when children set boundaries
 - Betray confidences (the "Mother Betrayal Pattern")
 
-### What It Feels Like to Have a Narcissistic Primary Caregiver
+### What It Feels Like to Have a Narcissistic Caregiver
 
-There's a particular loneliness in this wound. Society expects primary caregivers to be nurturing. The cultural narrative says they love unconditionally. So when yours didn't—when yours competed, criticized, neglected, or used you—you may have concluded the problem was you.
+There's a particular loneliness in this wound. Society expects caregivers to be nurturing. The cultural narrative says they love unconditionally. So when yours didn't—when yours competed, criticized, neglected, or used you—you may have concluded the problem was you.
 
 You may have spent years trying to earn what should have been freely given. Performing. Achieving. Being good enough. Only to realize that "enough" didn't exist.
 
@@ -258,13 +258,13 @@ You'll know it's working when:
 
 ---
 
-## The Father Wound: Secondary Caregiver Narcissism
+## The Father Wound: Caregiver Narcissism
 
-Narcissistic secondary caregivers impact differently but no less deeply.
+Narcissistic caregivers can impact differently but no less deeply.
 
-The secondary caregiver wound is often the wound of absence. Even when they were physically present, they may have been emotionally unavailable, critical without being nurturing, demanding without being supportive.
+This type of caregiver wound is often the wound of absence. Even when they were physically present, they may have been emotionally unavailable, critical without being nurturing, demanding without being supportive.
 
-### The Narcissistic Secondary Caregiver May:
+### The Narcissistic Caregiver May:
 
 - Be emotionally absent while physically present
 - Demand respect without earning it
@@ -278,9 +278,9 @@ The secondary caregiver wound is often the wound of absence. Even when they were
 - Create fear rather than safety
 - Withhold approval to maintain control
 
-### What It Feels Like to Have a Narcissistic Secondary Caregiver
+### What It Feels Like to Have a Narcissistic Caregiver (Father Wound Pattern)
 
-For many, this creates a desperate seeking. A secondary caregiver is supposed to show you that you're valuable, worthy of protection, deserving of love. When instead they were absent, critical, or controlling, it creates a void that you may have spent years trying to fill.
+For many, this creates a desperate seeking. A caregiver is supposed to show you that you're valuable, worthy of protection, deserving of love. When instead they were absent, critical, or controlling, it creates a void that you may have spent years trying to fill.
 
 For others, there's a different wound—the pressure to perform, to be tough, to never be vulnerable. Their approval was contingent on achievement. Emotions were weakness. You learned to shut down parts of yourself to survive.
 

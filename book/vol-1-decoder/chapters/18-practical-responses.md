@@ -12,6 +12,25 @@
 
 ---
 
+## Quick Reference: Find What You Need
+
+This is a comprehensive chapter. Use this guide to jump to what's most relevant:
+
+| If you need... | Go to... |
+|----------------|----------|
+| Core principles for any response | **Core Principles** (below) |
+| Scripts for specific situations | **Scripts for Specific Situations** |
+| Handling suicide threats | **When They Make Threats** |
+| Family boundary scripts | **Holding Boundaries with Family** |
+| Responding to hoovering/return attempts | **When They Hoover** |
+| Navigating events where they'll be present | **When You Must Coexist** |
+| Ending conversations on your terms | **Closing Conversations with Power** |
+| Advanced strategies (silence, documentation) | **Advanced Tactics** |
+
+*For emergency protocols, grounding techniques, and real-time pattern recognition, see Chapter 16.*
+
+---
+
 Theory is helpful. But when you're preparing for a known interaction—a family dinner, a co-parenting exchange, a conversation you know is coming—you need specific scripts.
 
 This chapter provides prepared responses for common situations. Not to make you perfect at handling narcissists (no one is), but to give you options you can rehearse and internalize before you need them.

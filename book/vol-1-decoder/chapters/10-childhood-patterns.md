@@ -267,11 +267,22 @@ That matters.
 
 ---
 
+## Part II: Sexuality and Early Survival Patterns
+
+The patterns we've explored so far—conditional love, needs as shameful, unreliable perception—shape how we relate to others. But childhood experiences also shape our relationship with our own bodies, desire, and intimacy.
+
+This section is optional but may offer important recognition for some readers. If you choose to skip it, the chapter summary below provides key insights.
+
 ---
 
 > **⚠️ CONTENT WARNING**
 >
-> The following section contains descriptions of childhood sexual experiences, boundary violations, and sexual trauma. These descriptions are included to help readers recognize patterns in their own histories, but may be activating for some readers. Please pace yourself and skip this section if needed. The chapter summary that follows provides key insights without the detailed descriptions.
+> The following section contains descriptions of childhood sexual experiences, boundary violations, and sexual trauma. These descriptions are included to help readers recognize patterns in their own histories, but may be activating for some readers. Please pace yourself and skip this section if needed.
+>
+> **If this section feels like too much right now:**
+> - Skip directly to the Chapter Summary
+> - Return when you feel ready, or not at all
+> - Your healing doesn't require reading every word
 
 ---
 

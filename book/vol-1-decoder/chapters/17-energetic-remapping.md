@@ -230,13 +230,13 @@ Your nervous system constantly scans for threat. When activated, this scanning b
 
 This teaches your nervous system that the environment is safe.
 
-### Pendulation
+### Pendulation (Swinging Between Calm and Activation)
 
-Trauma often creates stuck energy. Pendulation helps discharge it.
+Trauma often creates stuck energy. Pendulation—gently swinging your attention between activated and calm places in your body—helps discharge it.
 
 **Practice:** Notice where you feel activation in your body. Place your attention there. Then shift attention to a place in your body that feels neutral or calm. Slowly pendulate attention between the two—activated, calm, activated, calm.
 
-This teaches your nervous system that activation can move through and complete.
+This teaches your nervous system that activation can move through and complete. Think of it like slowly warming up a cold muscle—you don't force it, you let it thaw naturally.
 
 ### Resourcing
 
@@ -252,45 +252,29 @@ Examples:
 - A pet's presence
 - A favorite song
 
-### Titration
+### Titration (Small Doses, Not Floods)
 
-Healing doesn't require reliving trauma at full intensity. Titration means approaching difficult material in small doses.
+Healing doesn't require reliving trauma at full intensity. Titration—a term borrowed from chemistry—means approaching difficult material in small, measured doses rather than all at once.
 
 **Practice:** Rather than diving into the worst memories, approach them gradually. Touch the edge of the experience, then return to resource. A little at a time. Let your nervous system build capacity.
+
+Think of it like adjusting to cold water: you wade in slowly rather than jumping into the deep end. Your nervous system can process more when it isn't overwhelmed.
 
 ---
 
 ## Quick Grounding When Activated
 
-For moments when you need immediate regulation:
+For moments when you need immediate regulation, use the grounding techniques from Chapter 16: Decoder Cards—Emergency Protocol. The key techniques include:
 
-**The 3-3-3 Rule:**
-- Name three things you see
-- Name three sounds you hear
-- Move three parts of your body
+- **The 3-3-3 Rule** — Name three things you see, hear, and move three body parts
+- **The Squeeze-Release** — Clench all muscles tight, then release completely
+- **The Butterfly Hug** — Cross arms over chest, hands on shoulders, tap alternating sides
+- **The Cold Reset** — Hold ice cubes to interrupt the activation loop
+- **The Vocal Release** — Sigh, hum, or vocalize to engage the vagus nerve
 
-**The Squeeze-Release:**
-- Clench all muscles tight for five seconds
-- Release completely
-- Notice the difference
-- Repeat three times
+*For detailed instructions on each technique, see Chapter 16's Quick Grounding Techniques section.*
 
-**The Butterfly Hug:**
-- Cross arms over chest
-- Hands on shoulders
-- Tap alternating sides slowly
-- Bilateral stimulation calms the nervous system
-
-**The Cold Reset:**
-- Hold ice cubes in your hands
-- The sensation interrupts the loop
-- Stay with it until the ice feels less shocking
-
-**The Vocal Release:**
-- Sigh loudly
-- Hum
-- Even a sustained "voo" sound
-- Vocalization engages the vagus nerve and calms you
+These same techniques work both in crisis moments (Chapter 16) and as part of your ongoing recovery practice (this chapter). The difference is context: Chapter 16 is for when you're caught off guard in the moment; here, you're building a daily practice of nervous system regulation.
 
 ---
 

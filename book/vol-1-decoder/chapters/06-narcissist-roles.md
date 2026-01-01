@@ -412,5 +412,33 @@ When trying to understand what you're dealing with, ask:
 
 ---
 
+## Integration: What Do You Do With This Knowledge?
+
+You've now learned to recognize twelve distinct roles narcissists play. This can feel overwhelming—how do you hold all of this? Here's what matters:
+
+**You don't need to identify every role in real time.** What you need is the meta-recognition: *When someone's way of relating consistently puts their needs above yours, when every role they play serves them at your expense, you're dealing with a pattern—not a person having a bad day.*
+
+The roles are costumes. The pattern underneath is always the same: control disguised as connection, taking disguised as giving, performance disguised as authenticity.
+
+### The Healing Perspective
+
+Understanding these roles isn't about becoming hypervigilant or suspicious of everyone. It's about reclaiming your perception.
+
+For too long, you may have blamed yourself when their behavior didn't match their words. You questioned your worth when their attention shifted. You tried harder when nothing you did was enough.
+
+Now you know: *the role was never about you.* The Victim needed someone to rescue them. The Hero needed someone to save. The Martyr needed someone to guilt. You weren't chosen for who you are—you were cast in a role that served their production.
+
+This is painful to realize. It's also liberating. You can stop auditioning for their approval. The show was rigged from the beginning.
+
+### What's Next
+
+The roles we've explored in this chapter—the masks narcissists wear in any context—take on particular significance in family systems. In the next chapter, we'll examine how these patterns crystallize into assigned roles within families: the Golden Child, the Scapegoat, the Lost Child, the Mascot. We'll explore how triangulation divides family members, and why manipulation that begins in childhood cuts deeper than any other kind.
+
+The tactics are the same. The stakes are higher. Understanding family roles is often where the deepest healing begins.
+
+When you're ready, turn the page.
+
+---
+
 *The costume changes; the show stays the same. Learn to see the production underneath the performance.*
 

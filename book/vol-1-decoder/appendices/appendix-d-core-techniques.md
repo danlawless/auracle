@@ -14,13 +14,17 @@ These techniques are referenced in multiple chapters because they are fundamenta
 
 When you need immediate nervous system regulation:
 
+> **Accessibility Note:** All physical techniques in this section include seated, lying down, or adapted alternatives. If any technique doesn't work for your body, skip to the alternative or modify as needed. Healing practices should meet you where you are—there is no "wrong" way to ground yourself.
+
 ### The 3-3-3 Rule
 
 - Name three things you see
 - Name three sounds you hear
-- Move three parts of your body
+- Move three parts of your body (this can be as subtle as wiggling fingers or toes)
 
 This brings you into present-moment awareness and interrupts activation loops.
+
+**Seated/Limited Mobility Alternative:** If movement is difficult, focus on sensory awareness only—what you see, hear, and feel against your skin.
 
 ---
 
@@ -33,6 +37,8 @@ This brings you into present-moment awareness and interrupts activation loops.
 
 Progressive muscle relaxation helps discharge stored tension.
 
+**Limited Mobility Alternative:** Focus on muscles you can control. Clench hands, face muscles, or just your toes. Even tensing and releasing one muscle group provides benefit.
+
 ---
 
 ### The Butterfly Hug
@@ -43,6 +49,10 @@ Progressive muscle relaxation helps discharge stored tension.
 - Bilateral stimulation calms the nervous system
 
 This self-soothing technique provides the comfort of being held while regulating your nervous system.
+
+**Alternative for Limited Arm Mobility:** Tap alternating knees with your hands, or alternately press each foot into the floor. Any rhythmic bilateral movement provides similar benefit.
+
+**Touch-Averse Alternative:** If touching your body feels uncomfortable, try alternately tapping your fingers on a surface in front of you, or use eye movements—slowly look left, then right—for bilateral stimulation.
 
 ---
 
@@ -79,7 +89,11 @@ Name five things you see, four you hear, three you feel (touch), two you smell, 
 Breathe in for 4 counts, out for 8 counts. The extended exhale activates the parasympathetic nervous system—your "rest and digest" mode.
 
 **Physical Movement:**
-Shake your hands, bounce on your feet, do jumping jacks. Movement helps discharge activation stored in the body.
+Shake your hands, bounce on your feet, or engage in any movement that feels accessible to you. Movement helps discharge activation stored in the body.
+
+**Seated Alternatives:** Roll your shoulders, shake your hands vigorously, rotate your ankles, or rock gently side to side. Any movement that shakes or releases tension works.
+
+**Limited Mobility Alternatives:** Facial movements (scrunching and releasing your face), deep breathing with audible exhales, or simply imagining movement can also help discharge activation.
 
 ---
 

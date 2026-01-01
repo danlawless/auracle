@@ -16,11 +16,17 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 
 | Resource | Contact | Description |
 |----------|---------|-------------|
-| **National Domestic Violence Hotline** | 1-800-799-7233 | 24/7 support, safety planning, resources |
+| **National Domestic Violence Hotline** | 1-800-799-7233 (TTY: 1-800-787-3224) | 24/7 support, safety planning, resources |
 | **Crisis Text Line** | Text HOME to 741741 | 24/7 text-based crisis support |
-| **National Suicide Prevention Lifeline** | 988 | 24/7 suicide prevention support |
-| **RAINN (Sexual Assault)** | 1-800-656-4673 | 24/7 support for sexual assault survivors |
-| **National Child Abuse Hotline** | 1-800-422-4453 | 24/7 support for child abuse |
+| **National Suicide Prevention Lifeline** | 988 (TTY: Use relay service) | 24/7 suicide prevention support |
+| **RAINN (Sexual Assault)** | 1-800-656-4673 (TTY: 1-800-344-8398) | 24/7 support for sexual assault survivors |
+| **National Child Abuse Hotline** | 1-800-422-4453 (TTY: 1-800-422-4453) | 24/7 support for child abuse |
+
+**For Deaf and Hard of Hearing Individuals:**
+- **National Domestic Violence Hotline TTY:** 1-800-787-3224
+- **Relay Services:** Dial 711 for telecommunications relay services
+- **Video Phone (ASL):** 1-855-812-1001 (DV Hotline)
+- **Online Chat:** Available at thehotline.org and most crisis services listed above
 
 ### LGBTQ+-Specific Resources (24/7)
 
@@ -34,6 +40,8 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 
 ### International Resources
 
+**English-Speaking Countries:**
+
 | Country | Resource | Contact |
 |---------|----------|---------|
 | **UK** | National Domestic Abuse Helpline | 0808 2000 247 |
@@ -44,6 +52,45 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 | **Australia** | QLife (LGBTQ+) | 1800 184 527 |
 | **New Zealand** | Women's Refuge | 0800 733 843 |
 | **Ireland** | Women's Aid | 1800 341 900 |
+| **South Africa** | People Opposing Women Abuse (POWA) | 011 642 4345 |
+| **South Africa** | Lifeline | 0861 322 322 |
+
+**Latin America:**
+
+| Country | Resource | Contact |
+|---------|----------|---------|
+| **Mexico** | Línea de la Vida | 800 911 2000 |
+| **Mexico** | INMUJERES | 800 911 2511 |
+| **Argentina** | Línea 144 (Violencia de Género) | 144 |
+| **Brazil** | Ligue 180 (Central de Atendimento à Mulher) | 180 |
+| **Colombia** | Línea 155 (Orientación a Mujeres) | 155 |
+| **Chile** | Fono Familia de Carabineros | 149 |
+
+**Asia & Pacific:**
+
+| Country | Resource | Contact |
+|---------|----------|---------|
+| **India** | Women Helpline (All India) | 181 |
+| **India** | National Commission for Women | 7827-170-170 |
+| **Philippines** | Women's Crisis Center | (02) 8922-7112 |
+| **Japan** | DV Consultation Support Center | 0120-279-889 |
+| **Singapore** | AWARE Helpline | 1800-777-5555 |
+
+**Africa & Middle East:**
+
+| Country | Resource | Contact |
+|---------|----------|---------|
+| **Kenya** | Gender Violence Recovery Centre | +254 719 638 006 |
+| **Nigeria** | Women's Aid Collective | +234 803 227 2011 |
+| **Egypt** | National Council for Women | 15115 |
+
+**International Directories:**
+
+- **HotPeachPages:** hotpeachpages.net — Global directory of domestic violence resources in 110+ languages
+- **International Directory of Domestic Violence Agencies:** Includes resources for every continent
+- **WAVE Network (Europe):** wave-network.org — Women Against Violence Europe
+
+**Note on International Resources:** Laws, available services, and cultural contexts vary significantly by country. What's available in your region may differ from these listings. If you cannot find resources for your country, HotPeachPages.net maintains the most comprehensive international directory.
 
 ### Online Crisis Support
 
@@ -80,6 +127,64 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 - Traditional domestic violence frameworks may not address men's experiences
 - Peer support with others who share similar barriers can be healing
 - Many men face unique challenges in being believed or taken seriously
+
+---
+
+### Resources for Disabled Survivors
+
+Disabled individuals experience abuse at significantly higher rates and face unique barriers to accessing support. These resources provide specialized assistance:
+
+**Disability-Specific Hotlines and Services:**
+- **Abused Deaf Women's Advocacy Services (ADWAS):** adwas.org — 206-922-7088 (VP) — Serving Deaf, DeafBlind, and Deaf-Disabled survivors
+- **Disability Rights Education & Defense Fund:** dredf.org — 510-644-2555 (Voice/TTY)
+- **National Center on Disability and Access to Education:** ncdae.org — Accessibility resources
+- **Spectrum Institute:** spectruminstitute.org — Disability rights and domestic violence resources
+
+**Accessibility Considerations:**
+- Many national hotlines offer TTY, relay services, and video phone options (see Crisis Resources above)
+- Online chat options available for those who cannot use phone services
+- Request accessibility accommodations when contacting any service
+- Peer support from other disabled survivors can be especially validating
+
+**Specific Considerations for Disabled Survivors:**
+- Caregivers can be abusers—this doesn't make leaving less valid, but may require different safety planning
+- Financial abuse may involve control over disability benefits
+- Isolation tactics may exploit accessibility needs
+- Medical abuse and withholding of medication or assistive devices are forms of abuse
+- You deserve accessible support regardless of your disability type or accommodation needs
+
+**Neurodivergent Survivors:**
+- Sensory needs, communication differences, and executive function challenges may affect how you process this material
+- Take breaks as needed; honor your processing style
+- Consider trauma-informed therapists with neurodivergent experience
+- Online communities may feel safer than in-person groups
+- The Autistic Self Advocacy Network (ASAN): autisticadvocacy.org
+
+---
+
+### Resources for Immigrant Survivors
+
+Regardless of documentation status, you have rights and deserve safety:
+
+**Immigration-Specific Support:**
+- **USCIS VAWA Self-Petition:** Allows abuse survivors to petition for immigration status independently of abuser
+- **U-Visa:** Available for survivors of qualifying crimes who assist law enforcement
+- **T-Visa:** Available for trafficking survivors
+- **National Immigrant Women's Advocacy Project:** niwap.org — Legal resources and training
+
+**Hotlines with Language Access:**
+- **National Domestic Violence Hotline:** 1-800-799-7233 — Assistance in over 200 languages
+- **RAINN:** 1-800-656-4673 — Spanish language line: 1-800-656-4673 (press 2)
+- **Asian Pacific Institute on Gender-Based Violence:** api-gbv.org — 415-954-9988
+
+**Key Information for Immigrant Survivors:**
+- You can access domestic violence shelters regardless of immigration status
+- Most DV services do not report to immigration authorities
+- Abusers often threaten deportation as a control tactic—there are legal protections
+- Many organizations offer assistance navigating VAWA and visa protections
+- Children born in the US have citizenship regardless of parents' status
+
+**Note:** Immigration law is complex. Seek specialized legal assistance from organizations familiar with both immigration and domestic violence.
 
 ---
 
@@ -292,6 +397,35 @@ If you are still in contact with an abusive person, create a safety plan:
 ---
 
 ## Financial Resources
+
+### Healing Without Financial Resources
+
+You don't need money to begin healing. While some resources in this book mention therapists, retreats, or training programs, healing is available to everyone regardless of economic circumstances.
+
+**Free Healing Resources:**
+- **This book** — Use it as a workbook. Re-read chapters. Do the exercises.
+- **Library access** — Most books mentioned are available at public libraries
+- **Free online communities** — Reddit communities (r/NarcissisticAbuse, r/raisedbynarcissists), forums, and support groups
+- **YouTube** — Dr. Ramani, Surviving Narcissism, and other free channels provide extensive education
+- **Free meditation apps** — Insight Timer is completely free
+- **Walking and nature** — Grounding and somatic healing don't require memberships
+- **Journaling** — Paper and pen cost very little
+- **Peer support** — Sharing with safe friends costs nothing
+- **12-step programs** — CoDA, ACA, and similar programs are free
+- **Community mental health centers** — Offer sliding scale or free services
+- **University training clinics** — Supervised therapy at very low cost
+
+**Free Crisis Support:**
+- All hotlines listed in this appendix are free
+- Crisis Text Line (text HOME to 741741) requires only a phone with texting
+- Online chat options require only internet access (available at libraries)
+
+**The Truth About Healing:**
+Healing doesn't require expensive retreats, international travel, or prestigious training programs. Those resources can accelerate healing for those who have access, but the core work happens inside you—and that work is free.
+
+Your nervous system can heal through free practices: grounding exercises, journaling, movement, nature, safe connection with others, and simply giving yourself permission to feel what you feel.
+
+---
 
 ### If You're Financially Dependent
 

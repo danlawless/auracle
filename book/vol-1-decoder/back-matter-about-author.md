@@ -50,6 +50,16 @@ In that moment, Jennifer's path became crystal clear. She had found the modality
 
 ---
 
+## A Note on Privilege
+
+Jennifer acknowledges that her healing journey required resources not everyone has access to: the ability to travel internationally, time away from traditional employment, funds for spiritual training and certifications, and a support network that made extended healing work possible.
+
+This path is not the only path. Healing doesn't require expensive retreats, international travel, or prestigious certifications. The core work—naming patterns, regulating your nervous system, reclaiming your worth—can happen with a library book, a journal, free online resources, and one safe person who believes you.
+
+If you're healing without those resources, your journey is no less valid. The practices in this book are designed to be accessible regardless of economic circumstances. Your healing matters whether you do it in Costa Rica or in your living room.
+
+---
+
 ## The Training
 
 Jennifer's journey with Escola da Aura has taken her deep into the practice of aura therapy—a unique modality utilizing clairvoyance to read the auric field and receive messages directly from Source.

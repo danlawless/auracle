@@ -323,7 +323,7 @@ When confronted about lying, cheating, or boundary violations, they pivot to sel
 
 *Resources: National Suicide Prevention Lifeline: 988 | Crisis Text Line: Text HOME to 741741*
 
-(See Chapter 3, Tactic 29; Chapter 9, Exit Phase Escalation for more context)
+(See Chapter 3, Tactic 29; Chapter 11, Exit Phase Escalation for more context)
 
 ---
 

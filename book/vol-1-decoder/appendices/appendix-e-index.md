@@ -10,7 +10,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
 
 ## A
 
-**38 Tactics of Control** — See Chapter 3 .................... [pg. XX]
+**38 Tactics of Control**—See Chapter 3 .................... [pg. XX]
 
 **Abuse Amnesia** .................... [pg. XX]
   - Definition .................... [pg. XX]
@@ -123,11 +123,11 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - In family systems .................... [pg. XX]
   - Recognition .................... [pg. XX]
 
-**Energetic Remapping** — See Chapter 17 .................... [pg. XX]
+**Energetic Remapping**—See Chapter 17 .................... [pg. XX]
   - Exercises .................... [pg. XX]
   - Nervous system tools .................... [pg. XX]
 
-**Energetic Signature** — See Chapter 2 .................... [pg. XX]
+**Energetic Signature**—See Chapter 2 .................... [pg. XX]
   - Body awareness .................... [pg. XX]
   - Recognition before thought .................... [pg. XX]
 
@@ -135,7 +135,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - In family systems .................... [pg. XX]
   - Recovery from .................... [pg. XX]
 
-**Exposure Questions** — See Chapter 13 .................... [pg. XX]
+**Exposure Questions**—See Chapter 13 .................... [pg. XX]
 
 ---
 
@@ -147,7 +147,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Breaking free (Chapter 9) .................... [pg. XX]
   - Roles and triangulation (Chapter 7) .................... [pg. XX]
 
-**Father Wound** — See Chapter 8 .................... [pg. XX]
+**Father Wound**—See Chapter 8 .................... [pg. XX]
 
 **FLEAS** (maladaptive behaviors) .................... [pg. XX]
 
@@ -253,7 +253,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - During love-bombing .................... [pg. XX]
   - Recognition .................... [pg. XX]
 
-**Mother Wound** — See Chapter 8 .................... [pg. XX]
+**Mother Wound**—See Chapter 8 .................... [pg. XX]
 
 **Moving Goalposts** .................... [pg. XX]
 
@@ -261,7 +261,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
 
 ## N
 
-**Narcissistic Archetypes** — See Chapter 5 .................... [pg. XX]
+**Narcissistic Archetypes**—See Chapter 5 .................... [pg. XX]
   - Communal narcissist .................... [pg. XX]
   - Covert narcissist .................... [pg. XX]
   - Grandiose narcissist .................... [pg. XX]
@@ -312,7 +312,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Effects .................... [pg. XX]
   - In childhood .................... [pg. XX]
 
-**Parental Wounds** — See Chapter 8 .................... [pg. XX]
+**Parental Wounds**—See Chapter 8 .................... [pg. XX]
 
 **Projection** .................... [pg. XX]
   - Examples .................... [pg. XX]
@@ -335,11 +335,11 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - After gaslighting .................... [pg. XX]
   - Methods .................... [pg. XX]
 
-**Recovery Tools** — See Chapter 17 .................... [pg. XX]
+**Recovery Tools**—See Chapter 17 .................... [pg. XX]
 
 **Reparenting** .................... [pg. XX]
 
-**Responses, Practical** — See Chapter 18 .................... [pg. XX]
+**Responses, Practical**—See Chapter 18 .................... [pg. XX]
   - Scripts .................... [pg. XX]
   - Strategies .................... [pg. XX]
 
@@ -356,7 +356,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Long-term effects .................... [pg. XX]
   - Recovery .................... [pg. XX]
 
-**Scripts** — See Chapter 18 .................... [pg. XX]
+**Scripts**—See Chapter 18 .................... [pg. XX]
 
 **Silent Treatment** .................... [pg. XX]
   - Responses .................... [pg. XX]
@@ -382,7 +382,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Healing from .................... [pg. XX]
   - Versus healthy shame .................... [pg. XX]
 
-**Trauma Bonds** — See Chapter 4 .................... [pg. XX]
+**Trauma Bonds**—See Chapter 4 .................... [pg. XX]
   - Breaking .................... [pg. XX]
   - Formation .................... [pg. XX]
   - Psychology of .................... [pg. XX]

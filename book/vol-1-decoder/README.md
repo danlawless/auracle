@@ -24,7 +24,7 @@
 | [Chapter 10](./chapters/10-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability *(Advanced—read when ready)* |
 | [Chapter 11](./chapters/11-romantic-manipulation.md) | Romantic Manipulation | How narcissism operates in intimate relationships |
 | [Chapter 12](./chapters/12-manipulation-across-contexts.md) | Manipulation Across Contexts | Workplace, friendships, and other arenas |
-| [Chapter 13](./chapters/13-exposure-questions.md) | Diagnostic Questions for Confirming Patterns | Questions that make narcissists reveal themselves |
+| [Chapter 13](./chapters/13-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |
 | [Chapter 14](./chapters/14-decoder-cards-core.md) | Decoder Cards — Core Patterns | 19 quick-reference cards for common patterns |
 | [Chapter 15](./chapters/15-decoder-cards-advanced.md) | Decoder Cards — Advanced Patterns | 18 cards for sophisticated and exit-related tactics |
 | [Chapter 16](./chapters/16-decoder-cards-protocol.md) | Decoder Cards — Emergency Protocol | How to use decoder cards in real-time |
@@ -222,5 +222,5 @@ The complete series:
 
 **[Begin Reading →](./00-front-matter.md)**
 
-*"The truth will set you free, but first it will piss you off."*
-— commonly attributed to Gloria Steinem
+> "The truth will set you free, but first it will piss you off."
+> — commonly attributed to Gloria Steinem

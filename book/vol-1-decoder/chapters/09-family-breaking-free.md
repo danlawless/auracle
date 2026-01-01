@@ -21,7 +21,7 @@ The narcissist may:
 
 You may have grown up believing your sibling was the enemy. That they got what you needed. That they were favored (or unfairly blamed). You competed for scraps of approval that never filled either of you.
 
-The tragedy is that you both were wounded. The golden child was performing for conditional love. The scapegoat was carrying projected shame. Neither of you got what you needed. You were both victims—and you were set against each other.
+The tragedy is that you both were wounded. The Golden Child was performing for conditional love. The Scapegoat was carrying projected shame. Neither of you got what you needed. You were both victims—and you were set against each other.
 
 ### Adult Sibling Relationships
 

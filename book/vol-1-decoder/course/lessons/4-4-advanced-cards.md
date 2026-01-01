@@ -57,7 +57,7 @@ Maintain no contact. Don't respond. If you must respond: "I wish you well. My de
 Pre-damages your credibility. Isolates you. Creates the narrative.
 
 **Your response:**
-Don't engage with flying monkeys. Those who believe without asking you aren't safe. Focus on trustworthy people who know your truth.
+Don't engage with Flying Monkeys. Those who believe without asking you aren't safe. Focus on trustworthy people who know your truth.
 
 ---
 

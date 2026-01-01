@@ -20,7 +20,7 @@ Not every relationship needs a dramatic confrontation. Not every departure requi
 
 **Sometimes it's no contact.** You stop responding. You block. You disappear from their world and remove them from yours. No explanation. No closure conversation. Just done.
 
-**Sometimes it's gradual fade.** You become less available. You respond less. You gray rock into obscurity. The relationship dies not with a bang but a whimper.
+**Sometimes it's gradual fade.** You become less available. You respond less. You Gray Rock into obscurity. The relationship dies not with a bang but a whimper.
 
 **Sometimes it's a clear statement.** "I'm ending this relationship. Please don't contact me." Then follow-through.
 
@@ -112,7 +112,7 @@ As you move forward, you may feel pulled back toward the narcissist through comp
 
 **Being afraid they're suffering.** They seem so hurt, so alone. What if they need you? This often isn't compassion—it's the trauma bond activating.
 
-**Feeling like the bad guy.** They (or the flying monkeys around them) have convinced you that protecting yourself is cruel. You want to prove you're not mean. This isn't compassion—it's manipulation working.
+**Feeling like the bad guy.** They (or the Flying Monkeys around them) have convinced you that protecting yourself is cruel. You want to prove you're not mean. This isn't compassion—it's manipulation working.
 
 ### Grounded Compassion
 

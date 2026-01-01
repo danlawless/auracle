@@ -50,13 +50,13 @@ The roles are not about who you are. They're about what the system needed you to
 
 **The hidden cost:** Being loved conditionally, for performance and compliance rather than for self. Carrying the weight of the narcissist's projected perfection. Never being seen as a real person with flaws. Fear of falling from grace.
 
-**What it feels like to be the golden child:**
+**What it feels like to be the Golden Child:**
 
-On the surface, you have everything. Approval. Attention. The parent's warmth—when you perform. But underneath, you feel the precariousness. You know the love can be withdrawn. You've seen what happens to the scapegoat when they displease.
+On the surface, you have everything. Approval. Attention. The parent's warmth—when you perform. But underneath, you feel the precariousness. You know the love can be withdrawn. You've seen what happens to the Scapegoat when they displease.
 
 So you perform. Perfectly. Exhaustingly. You become who they need you to be. And somewhere in there, you lose track of who you actually are.
 
-The worst part: you might not even realize you're suffering. Everyone tells you how lucky you are. The scapegoat resents you. You're supposed to be grateful. But the cage is still a cage, even when it's gold.
+The worst part: you might not even realize you're suffering. Everyone tells you how lucky you are. The Scapegoat resents you. You're supposed to be grateful. But the cage is still a cage, even when it's gold.
 
 **Adult patterns:** May struggle with perfectionism, fear of failure, difficulty with authentic relationships (accustomed to performing rather than being), or may become narcissistic themselves. Often has imposter syndrome—the praise never felt deserved because it was for the performance, not the person.
 
@@ -70,11 +70,11 @@ The worst part: you might not even realize you're suffering. Everyone tells you 
 
 **The hidden gift:** Scapegoats often see the truth that others deny. Their "problematic" behavior may be healthy rebellion against a sick system. They're often the first to break free.
 
-**What it feels like to be the scapegoat:**
+**What it feels like to be the Scapegoat:**
 
 You carry the family's shadow. Their dysfunction, their shame, their failures—all projected onto you. You're the reason things are hard. You're too sensitive, too angry, too difficult, too much.
 
-You may have internalized it. Believed you really were the problem. Spent years trying to be "better," to finally earn the love that flowed so easily to the golden child. Or you stopped trying and became what they said you were—because at least that was something.
+You may have internalized it. Believed you really were the problem. Spent years trying to be "better," to finally earn the love that flowed so easily to the Golden Child. Or you stopped trying and became what they said you were—because at least that was something.
 
 The crazy-making part: when you point out what's wrong, you become proof of what's wrong. Your accurate perception becomes your pathology.
 
@@ -129,11 +129,11 @@ And when you try to be serious, to share something real, it feels wrong. They ex
 Important: these roles aren't fixed identities. They're positions in a system.
 
 The same person might be:
-- Golden child with one parent, scapegoat with the other
-- Golden child as a kid, scapegoat after setting boundaries as an adult
+- Golden Child with one parent, Scapegoat with the other
+- Golden Child as a kid, Scapegoat after setting boundaries as an adult
 - Different roles at different ages based on the narcissist's needs
 
-Roles can also shift when family composition changes—when one child leaves, another may be reassigned their role. When the scapegoat goes no-contact, watch the golden child suddenly start being criticized.
+Roles can also shift when family composition changes—when one child leaves, another may be reassigned their role. When the Scapegoat goes no-contact, watch the Golden Child suddenly start being criticized.
 
 **The moment the role shifts:**
 

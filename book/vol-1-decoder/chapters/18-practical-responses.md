@@ -338,7 +338,7 @@ Sometimes you'll be tempted to give them a taste of their own medicine. Say "Huh
 - It extends the engagement rather than ending it
 - It feeds the dynamic rather than starving it
 
-**The exception:** Brief, strategic gray rock responses that deflect without engaging. Saying "Huh?" once to refuse elaboration is different from entering a "Huh?" war.
+**The exception:** Brief, strategic Gray Rock responses that deflect without engaging. Saying "Huh?" once to refuse elaboration is different from entering a "Huh?" war.
 
 **Your actual power move:** You win by not playing. Confusion tactics work on people who try to make sense of them. If you simply don't engage—don't explain, don't mirror, don't react—there's nothing for them to work with.
 
@@ -357,7 +357,7 @@ At events where they'll be present:
 **Before:**
 - Set your intention (e.g., "I will stay grounded regardless of what happens")
 - Visualize a boundary or shield of golden white or luminescent energy around you
-- Plan your gray rock responses for likely provocations
+- Plan your Gray Rock responses for likely provocations
 - Identify your escape route if needed
 
 **During:**
@@ -557,7 +557,7 @@ Often the need is to express, not to be received by them. You can meet that need
 **Key Strategies:**
 - Spiritual aikido: redirect, don't combat
 - Close conversations on your terms
-- Gray rock when you must interact
+- Gray Rock when you must interact
 - Somatic and social cues for protection
 - Describe behavior to authorities, not labels
 

@@ -39,11 +39,11 @@ These questions are designed to reveal what's underneath the mask—not through 
 
 **What you're listening for:**
 
-- **Deflection:**—Turning the question back on you or others
-- **Projection:**—Accusing you of what they do
-- **Rage/Contempt:**—Disproportionate emotional reaction to simple questions
-- **Word salad:**—Confusing non-answers that sound like answers
-- **Victimhood pivot:**—Making themselves the injured party
+- **Deflection:** Turning the question back on you or others
+- **Projection:** Accusing you of what they do
+- **Rage/Contempt:** Disproportionate emotional reaction to simple questions
+- **Word salad:** Confusing non-answers that sound like answers
+- **Victimhood pivot:** Making themselves the injured party
 - **Grandiosity leak:** Revealing special-treatment beliefs
 - **Absence of genuine reflection:** Surface answers with no depth
 

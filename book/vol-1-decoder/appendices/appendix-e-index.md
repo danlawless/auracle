@@ -84,9 +84,9 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Responses .................... [pg. XX]
 
 **Decoder Cards** .................... [pg. XX]
-  - Advanced patterns (Chapter 12) .................... [pg. XX]
-  - Core patterns (Chapter 11) .................... [pg. XX]
-  - Emergency protocol (Chapter 13) .................... [pg. XX]
+  - Advanced patterns (Chapter 15) .................... [pg. XX]
+  - Core patterns (Chapter 14) .................... [pg. XX]
+  - Emergency protocol (Chapter 16) .................... [pg. XX]
   - How to use .................... [pg. XX]
 
 **Devalue** (phase) .................... [pg. XX]
@@ -123,7 +123,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - In family systems .................... [pg. XX]
   - Recognition .................... [pg. XX]
 
-**Energetic Remapping** — See Chapter 14 .................... [pg. XX]
+**Energetic Remapping** — See Chapter 17 .................... [pg. XX]
   - Exercises .................... [pg. XX]
   - Nervous system tools .................... [pg. XX]
 
@@ -135,7 +135,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - In family systems .................... [pg. XX]
   - Recovery from .................... [pg. XX]
 
-**Exposure Questions** — See Chapter 17 .................... [pg. XX]
+**Exposure Questions** — See Chapter 13 .................... [pg. XX]
 
 ---
 
@@ -144,10 +144,10 @@ This index provides quick access to the major concepts, tactics, and tools discu
 **False Self** .................... [pg. XX]
 
 **Family Systems** .................... [pg. XX]
-  - Breaking free (Chapter 8) .................... [pg. XX]
-  - Roles and triangulation (Chapter 6) .................... [pg. XX]
+  - Breaking free (Chapter 9) .................... [pg. XX]
+  - Roles and triangulation (Chapter 7) .................... [pg. XX]
 
-**Father Wound** — See Chapter 7 .................... [pg. XX]
+**Father Wound** — See Chapter 8 .................... [pg. XX]
 
 **FLEAS** (maladaptive behaviors) .................... [pg. XX]
 
@@ -243,8 +243,8 @@ This index provides quick access to the major concepts, tactics, and tools discu
 ## M
 
 **Manipulation** .................... [pg. XX]
-  - Across contexts (Chapter 10) .................... [pg. XX]
-  - In romantic relationships (Chapter 9) .................... [pg. XX]
+  - Across contexts (Chapter 12) .................... [pg. XX]
+  - In romantic relationships (Chapter 11) .................... [pg. XX]
   - Tactics (Chapter 3) .................... [pg. XX]
 
 **Masking** .................... [pg. XX]
@@ -253,7 +253,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - During love-bombing .................... [pg. XX]
   - Recognition .................... [pg. XX]
 
-**Mother Wound** — See Chapter 7 .................... [pg. XX]
+**Mother Wound** — See Chapter 8 .................... [pg. XX]
 
 **Moving Goalposts** .................... [pg. XX]
 
@@ -312,7 +312,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Effects .................... [pg. XX]
   - In childhood .................... [pg. XX]
 
-**Parental Wounds** — See Chapter 7 .................... [pg. XX]
+**Parental Wounds** — See Chapter 8 .................... [pg. XX]
 
 **Projection** .................... [pg. XX]
   - Examples .................... [pg. XX]
@@ -335,11 +335,11 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - After gaslighting .................... [pg. XX]
   - Methods .................... [pg. XX]
 
-**Recovery Tools** — See Chapter 14 .................... [pg. XX]
+**Recovery Tools** — See Chapter 17 .................... [pg. XX]
 
 **Reparenting** .................... [pg. XX]
 
-**Responses, Practical** — See Chapter 15 .................... [pg. XX]
+**Responses, Practical** — See Chapter 18 .................... [pg. XX]
   - Scripts .................... [pg. XX]
   - Strategies .................... [pg. XX]
 
@@ -356,7 +356,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Long-term effects .................... [pg. XX]
   - Recovery .................... [pg. XX]
 
-**Scripts** — See Chapter 15 .................... [pg. XX]
+**Scripts** — See Chapter 18 .................... [pg. XX]
 
 **Silent Treatment** .................... [pg. XX]
   - Responses .................... [pg. XX]

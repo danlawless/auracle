@@ -430,6 +430,24 @@ Now you know: *the role was never about you.* The Victim needed someone to rescu
 
 This is painful to realize. It's also liberating. You can stop auditioning for their approval. The show was rigged from the beginning.
 
+### Reclaiming Your Authentic Role
+
+Now that you can recognize the roles they played, here's a practice for reclaiming your own:
+
+**The Role Release Exercise:**
+
+1. **Identify the role you were cast in.** Were you the Rescuer to their Victim? The Audience to their Hero? The Guilty One to their Martyr? Name it.
+
+2. **Feel where that role lives in your body.** The exhaustion of constant rescuing. The smallness of being audience. The weight of manufactured guilt. Let yourself feel it without fixing it.
+
+3. **Speak the release:** "I was cast in a role I didn't choose. That role served someone else's production. I am more than that casting. I release this role now."
+
+4. **Ask yourself:** "Who am I when I'm not performing for their approval?" Sit with the answer. It may feel unfamiliar at first. That unfamiliarity is freedom beginning.
+
+**The truth:** You were never the role they assigned you. You were a full person who got reduced to a function in someone else's story. Reclaiming yourself means stepping out of their narrative entirely.
+
+---
+
 ### What's Next
 
 The roles explored in this chapter—the masks narcissists wear in any context—take on particular significance in family systems. The next chapter examines how these patterns crystallize into assigned roles within families: the Golden Child, the Scapegoat, the Lost Child, the Mascot. You'll explore how triangulation divides family members, and why manipulation that begins in childhood cuts deeper than any other kind.

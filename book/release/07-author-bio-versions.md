@@ -1,6 +1,6 @@
 # Author Bio Versions
 
-## Jennifer Brooke
+## Jennifer Brooke Lawless
 
 Use these versions across platforms. Customize as needed.
 
@@ -10,7 +10,7 @@ Use these versions across platforms. Customize as needed.
 
 *For: Amazon KDP, back of book, podcast introductions*
 
-Jennifer Brooke holds a Master of Science in Mental Health Counseling and spent years in traditional talk therapy before her own healing journey led her beyond the therapy room. After surviving narcissistic relationships and navigating a profound spiritual awakening, she traveled globally—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—seeking community and transformation. She now lives in Costa Rica, where she co-hosts transformative retreats at Zunya and trains in aura therapy through Escola da Aura. She wrote *The Narcissism Decoder* and *The Bridge* because she needed these books—and couldn't find them.
+Jennifer Brooke Lawless holds a Bachelor of Science in Psychology and a Master of Science in Mental Health Counseling. Her clinical work ranged from a locked psychiatric ward in Miami to in-home family therapy, individual sessions, and couples counseling. But her own healing journey led her beyond the therapy room. After surviving narcissistic relationships and navigating a profound spiritual awakening, she traveled globally—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—seeking community and transformation. She now lives in Costa Rica, where she co-hosts transformative retreats at Zunya and trains in aura therapy through Escola da Aura. She wrote *The Narcissism Decoder* and *The Bridge* because she needed these books—and couldn't find them.
 
 ---
 
@@ -18,7 +18,7 @@ Jennifer Brooke holds a Master of Science in Mental Health Counseling and spent 
 
 *For: Gumroad, Substack About page, guest post bylines*
 
-Jennifer Brooke holds a Master of Science in Mental Health Counseling and has spent years working at the intersection of traditional psychology and spiritual healing. Her journey from feardom to freedom began when she finally named the patterns that had kept her small—narcissistic relationships, approval-seeking, chronic self-doubt, and the belief that her sensitivity was a flaw rather than a gift.
+Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work spanned from a locked psychiatric ward in Miami to in-home family systems therapy, individual sessions, and couples counseling. Now she works at the intersection of traditional psychology and spiritual healing. Her journey from feardom to freedom began when she finally named the patterns that had kept her small—narcissistic relationships, approval-seeking, chronic self-doubt, and the belief that her sensitivity was a flaw rather than a gift.
 
 After the death of her father, Jennifer experienced a powerful Kundalini awakening that opened her to new levels of consciousness. What followed was three years of global travel—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—searching for the spiritual community and healing modalities that would become her life's work.
 
@@ -34,9 +34,9 @@ She wrote *The Narcissism Decoder* and *The Bridge* because she needed them—an
 
 *For: Website, press kit, speaking engagements*
 
-Jennifer Brooke is a healer, writer, and event producer dedicated to helping emotionally sensitive adults recognize manipulation, heal attachment wounds, and build relationships that regulate rather than activate.
+Jennifer Brooke Lawless is a healer, writer, and event producer dedicated to helping emotionally sensitive adults recognize manipulation, heal attachment wounds, and build relationships that regulate rather than activate.
 
-She holds a Master of Science in Mental Health Counseling and spent years working in traditional talk therapy. But her own healing required more than insight—it required a complete rewiring of how she related to herself, others, and the world. Her journey from feardom to freedom became the foundation for everything she now teaches.
+She holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from the locked psychiatric ward in Miami to in-home family systems therapy, individual sessions, and couples counseling. But her own healing required more than insight—it required a complete rewiring of how she related to herself, others, and the world. Her journey from feardom to freedom became the foundation for everything she now teaches.
 
 ### The Turning Point
 
@@ -66,7 +66,7 @@ Jennifer believes that naming patterns breaks their power. That secure attachmen
 
 *For: Social media bios, Twitter/X*
 
-Author of The Narcissism Decoder & The Bridge | MS Mental Health Counseling | Helping you recognize control & build secure attachment | Costa Rica 🌴
+Author of The Narcissism Decoder & The Bridge | BS Psychology, MS Mental Health Counseling | Helping you recognize control & build secure attachment | Costa Rica 🌴
 
 ---
 
@@ -74,7 +74,7 @@ Author of The Narcissism Decoder & The Bridge | MS Mental Health Counseling | He
 
 *For: Quick podcast introductions*
 
-Jennifer Brooke is the author of *The Narcissism Decoder* and *The Bridge*. With a Master's in Mental Health Counseling and years of lived experience healing from narcissistic dynamics, she helps emotionally sensitive adults move from survival to sovereign connection. She lives in Costa Rica.
+Jennifer Brooke Lawless is the author of *The Narcissism Decoder* and *The Bridge*. With degrees in Psychology and Mental Health Counseling—and clinical experience from psychiatric wards to family therapy—she helps emotionally sensitive adults move from survival to sovereign connection. She lives in Costa Rica.
 
 ---
 

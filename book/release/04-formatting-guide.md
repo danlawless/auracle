@@ -142,7 +142,7 @@ pandoc \
   --toc \
   --toc-depth=2 \
   --metadata title="The Narcissism Decoder" \
-  --metadata author="Jennifer Brooke" \
+  --metadata author="Jennifer Brooke Lawless" \
   --epub-cover-image=cover.jpg
 ```
 
@@ -438,7 +438,7 @@ pandoc narcissism-decoder-complete.md \
   --toc \
   --metadata title="The Narcissism Decoder" \
   --metadata subtitle="Control Disguised as Care" \
-  --metadata author="Jennifer Brooke" \
+  --metadata author="Jennifer Brooke Lawless" \
   --epub-cover-image=cover-vol1.jpg
 
 # To PDF

@@ -10,17 +10,17 @@ Choose one and customize:
 
 ### Option 1: Author-Focused
 ```
-Jennifer Brooke
+Jennifer Brooke Lawless
 Author: The Narcissism Decoder | The Bridge
 Helping you recognize control & build secure attachment
-MS Mental Health Counseling | Costa Rica 🌴
+BS Psychology, MS Mental Health Counseling | Costa Rica 🌴
 👇 Free Decoder Cards + Newsletter
 [link]
 ```
 
 ### Option 2: Benefit-Focused
 ```
-Jennifer Brooke
+Jennifer Brooke Lawless
 You're not too sensitive. You're finally seeing clearly.
 ✦ Naming manipulation patterns
 ✦ Healing attachment wounds
@@ -31,7 +31,7 @@ You're not too sensitive. You're finally seeing clearly.
 
 ### Option 3: Direct & Clear
 ```
-Jennifer Brooke
+Jennifer Brooke Lawless
 Recognizing narcissism. Healing trauma bonds.
 Building relationships that regulate.
 Author of 2 books on the journey.
@@ -41,7 +41,7 @@ Get the free Decoder Cards 👇
 
 ### Option 4: Community-Focused
 ```
-Jennifer Brooke 🌴 Costa Rica
+Jennifer Brooke Lawless 🌴 Costa Rica
 Aura Therapist | Author | Event Host
 From feardom to freedom
 The confusion ends when you name the pattern.

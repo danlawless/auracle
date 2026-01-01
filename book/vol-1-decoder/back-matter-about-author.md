@@ -18,7 +18,7 @@
 
 Jennifer Brooke's path to helping others began with her own experience of narcissistic abuse—and the hard-won journey out of it.
 
-A creative at heart, Jennifer has worn many hats: artist, event producer, singer, personal trainer, yoga instructor, psychotherapist, and sales professional. She holds a **Master of Science in Mental Health Counseling** and spent years working in traditional talk therapy. But none of her credentials prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
+A creative at heart, Jennifer has worn many hats: artist, event producer, singer, personal trainer, yoga instructor, psychotherapist, and sales professional. She holds a **Bachelor of Science in Psychology from Boston University** and a **Master of Science in Mental Health Counseling from Nova Southeastern University**. Her clinical work spanned the full spectrum—from the locked psychiatric ward in Miami to in-home family systems therapy, individual sessions, and couples counseling. But none of her credentials or clinical hours prepared her for what she really needed to learn: how to recognize when love is actually control in disguise.
 
 For years, she allowed herself to shrink in abusive and narcissistic relationships. Depression and anxiety became constant companions. Her self-esteem, in her own words, was "mortally wounded." Like many survivors, she had learned to seek external validation instead of trusting herself—a pattern that made her vulnerable to those who would exploit her empathy.
 
@@ -159,7 +159,7 @@ Her hope is that these pages bring clarity to your confusion, language to your e
 *With love and fierce protection,*
 
 **Jae**
-*Jennifer Brooke*
+*Jennifer Brooke Lawless*
 
 ---
 

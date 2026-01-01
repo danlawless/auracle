@@ -32,3 +32,4 @@ pids
 *.seed
 *.pid.lock
 ai-coding-config/
+tsconfig.tsbuildinfo

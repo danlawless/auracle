@@ -30,7 +30,7 @@ Let me show you around.
 
 ## Who I Am
 
-I'm Jennifer Brooke. I hold a Master's in Mental Health Counseling, and I spent years in traditional therapy—both as a practitioner and as someone trying to heal.
+I'm Jennifer Brooke Lawless. I hold a Bachelor's in Psychology and a Master's in Mental Health Counseling, and I spent years in traditional therapy—both as a practitioner and as someone trying to heal.
 
 What I learned: insight alone doesn't heal. You can understand everything and still react the same way.
 

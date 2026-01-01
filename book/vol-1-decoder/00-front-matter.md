@@ -19,7 +19,7 @@ ISBN 978-X-XXXX-XXXX-X (ebook)
 
 First Edition
 
-**Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. It is sold with the understanding that the publisher and author are not engaged in rendering psychological, medical, or other professional services. If expert assistance or counseling is needed, the services of a competent professional should be sought. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
+**Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. It is sold with the understanding that the publisher and author are not engaged in rendering psychological, medical, or other professional services. If expert assistance or counseling is needed, the services of a competent professional should be sought. The author offers private counseling sessions online through Light Field Institute. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
 
 **Crisis Resources:**
 - National Domestic Violence Hotline: 1-800-799-7233 (24/7)

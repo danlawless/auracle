@@ -1,8 +1,8 @@
 # Astrological Release Strategy 2026
 
-## The Sovereignty Series: Seven Volumes Aligned with Celestial Events
+## The Sovereignty Series: Eight Volumes Aligned with Celestial Events
 
-2026 is one of the most astrologically significant years in over 2,000 years. The Saturn-Neptune conjunction at 0° Aries hasn't occurred since approximately 4361 BC. This year offers a once-in-multiple-lifetimes opportunity to align the seven-volume Sovereignty Series with celestial events that mirror each book's transformational theme.
+2026 is one of the most astrologically significant years in over 2,000 years. The Saturn-Neptune conjunction at 0° Aries hasn't occurred since approximately 4361 BC. This year offers a once-in-multiple-lifetimes opportunity to align the eight-volume Sovereignty Series with celestial events that mirror each book's transformational theme.
 
 ---
 
@@ -18,7 +18,7 @@ Eclipse   Blood    Pluto    Jupiter    Pisces   Mercury   Nodes
           Mar 3    May 6    Jun 29     Aug 28   Oct 24    Dec 5
 ```
 
-The year begins with an eclipse that illuminates what was hidden. It ends with a karmic axis shift that opens the door to prosperity. Between them, seven books guide readers through the complete journey from confusion to sovereignty to thriving.
+The year begins with an eclipse that illuminates what was hidden. It ends with a karmic axis shift that opens the door to prosperity. Between them, eight books guide readers through the complete journey from confusion to sovereignty to thriving.
 
 ---
 
@@ -501,7 +501,7 @@ Each inter-volume period has a content theme that bridges the completed volume t
 - Double eclipse energy
 
 **Holiday Complete Series (Dec 5-31)**
-- All 7 volumes at 30% off
+- All 8 volumes at 30% off
 - Gift messaging: "Give the complete journey"
 - Digital bundle includes all workbooks/guides
 

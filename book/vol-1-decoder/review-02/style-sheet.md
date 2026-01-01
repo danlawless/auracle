@@ -109,12 +109,23 @@ This style sheet documents all editorial decisions for consistency throughout th
 |------|-----------|-------|
 | narcissistic abuse | open | |
 | love-bombing | hyphenated | |
-| trauma bond | open | as noun; hyphenate as modifier |
+| trauma bond | open | as noun |
+| trauma-bonded | hyphenated | as modifier (e.g., "trauma-bonded relationship") |
 | scapegoat | one word | |
 | gaslighting | one word | |
 | breadcrumbing | one word | |
 | self-care | hyphenated | |
 | wellbeing | one word | per style decision |
+
+### Psychological Term Modifiers
+When psychological terms function as compound modifiers before a noun, hyphenate them:
+- trauma-bonded (as in "trauma-bonded relationship")
+- abuse-related (as in "abuse-related symptoms")
+- narcissism-induced (as in "narcissism-induced confusion")
+
+When these same terms function as predicate adjectives (after the noun), do not hyphenate:
+- "The relationship was trauma bonded"
+- "The symptoms were abuse related"
 
 ---
 
@@ -128,6 +139,10 @@ This style sheet documents all editorial decisions for consistency throughout th
   - Measurements: "3 feet"
   - Ages when specific: "5-year-old"
 - Spell out numbers at sentence beginnings
+- **Numbers in titles**: Spell out numbers in chapter titles and section headers
+  - Correct: "The Three Pillars of Recovery"
+  - Exception: Named frameworks retain numerals (e.g., "The 3-3-3 Rule")
+  - Exception: Volume and chapter numbers use numerals (e.g., "Chapter 4")
 
 ### Dates and Times
 - Month Day, Year: "January 15, 2024"
@@ -202,9 +217,27 @@ This style sheet documents all editorial decisions for consistency throughout th
 - Verify crisis hotline numbers are current
 
 ### Volume References
-- Volume 1: The Narcissism Decoder (current)
-- Volume 2: The Bridge
-- Verify cross-volume references are accurate
+**Standard Format:** "Volume X: [Full Title]" with capital V and numeral
+
+| Volume | Full Title | Short Reference |
+|--------|------------|-----------------|
+| Volume 1 | The Narcissism Decoder | Volume 1 |
+| Volume 2 | The Bridge | Volume 2 |
+| Volume 3 | Sovereignty | Volume 3 |
+| Volume 4 | Embodied Leadership | Volume 4 |
+| Volume 5 | Lineage | Volume 5 |
+| Volume 6 | The Guide | Volume 6 |
+| Volume 7 | The Return | Volume 7 |
+| Volume 8 | Quantum | Volume 8 |
+| Volume 9 | Insight Control | Volume 9 |
+
+**Volume Reference Guidelines:**
+- Always capitalize "Volume" when followed by a number
+- Use numerals (Volume 1), not spelled out (Volume One)
+- First mention in a chapter: use full title (e.g., "Volume 2: The Bridge")
+- Subsequent mentions in same chapter: short form acceptable (e.g., "Volume 2")
+- Cross-volume references must be verified for accuracy
+- When referencing content: "See Volume 3, Chapter 4" (comma between volume and chapter)
 
 ---
 
@@ -262,6 +295,10 @@ This style sheet documents all editorial decisions for consistency throughout th
 | Section label numbers | Numerals acceptable (Phase 1, Role 1) | Navigational clarity; different from narrative text | 2025-12-31 |
 | Em dash in titles | No spaces around em dash | Consistent with body text standard | 2025-12-31 |
 | Gender-neutral pronouns | Use they/them in examples and pullquotes | Inclusive language, consistency with main text | 2025-12-31 |
+| Trauma-bonded hyphenation | Hyphenate as modifier before noun | Per Issue #139; author approved | 2026-01-01 |
+| Volume reference format | Consistent formatting across all 9 volumes | Per Issue #139; author requested consistency | 2026-01-01 |
+| Numbers in titles | Spell out in headers; exceptions for frameworks | Per Issue #139; author approved | 2026-01-01 |
+| Additional terms | No new terms added | Per Issue #139; author declined additions | 2026-01-01 |
 
 ---
 
@@ -298,6 +335,6 @@ This style sheet documents all editorial decisions for consistency throughout th
 ---
 
 *Style sheet created: December 31, 2025*
-*Last updated: December 31, 2025 (Round 2)*
+*Last updated: January 1, 2026 (Round 2)*
 *Editor: Clara (AI Copy Editor)*
-*Reference: Issue #98, Issue #116*
+*Reference: Issue #98, Issue #116, Issue #139*

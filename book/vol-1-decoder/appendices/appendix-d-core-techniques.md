@@ -214,11 +214,11 @@ Your safety trumps their feelings. Leave first, process later.
 
 ## Gray Rock Method
 
-When you must interact with a narcissist—due to co-parenting, work, family events, or other circumstances—gray rock helps you protect yourself.
+When you must interact with a narcissist—due to co-parenting, work, family events, or other circumstances—Gray Rock helps you protect yourself.
 
 ### What It Is
 
-Gray rock means becoming as boring and unremarkable as a gray rock. You offer nothing interesting, nothing reactive, nothing that provides supply.
+Gray Rock means becoming as boring and unremarkable as a gray rock. You offer nothing interesting, nothing reactive, nothing that provides supply.
 
 ### How to Practice It
 

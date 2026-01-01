@@ -251,7 +251,7 @@ Recovery from codependency and trauma bonding requires:
 1. Recognizing that you cannot fix another person
 2. Understanding that their emotions are their responsibility
 3. Rebuilding your sense of self independent of them
-4. Breaking the neurological cycle through no contact or gray rock
+4. Breaking the neurological cycle through no contact or Gray Rock
 5. Learning to tolerate discomfort without rushing to fix it
 
 ---
@@ -337,7 +337,7 @@ Knowing what you're dealing with is the first step. Here's what helps:
 
 Every interaction restarts the cycle. Every response to their text is another pull of the slot machine lever. Your nervous system needs consistent safety to recalibrate.
 
-If you can't go fully no contact (co-parenting, work), go "gray rock"—minimal, boring, factual responses that give them nothing to hook into.
+If you can't go fully no contact (co-parenting, work), go "Gray Rock"—minimal, boring, factual responses that give them nothing to hook into.
 
 ### 2. Ride the Waves
 
@@ -390,7 +390,7 @@ Breaking free doesn't mean you were stupid to get in. It means you're wise enoug
 - Trauma bonds operate below rational thought and require body-based healing
 
 **The Way Forward:**
-- No contact or gray rock when possible
+- No contact or Gray Rock when possible
 - Ride the waves of craving without acting on them
 - Rebuild your life with support, activities, and self-reconnection
 - Pursue body-based healing alongside talk therapy

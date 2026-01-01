@@ -131,7 +131,7 @@ A manipulation tactic that makes you question your own reality, memory, and perc
 In narcissistic family systems, the child whom the narcissistic parent idealizes and favors. This child may become a narcissist themselves or struggle with perfectionism and identity issues.
 
 ### Gray Rock Method
-A technique for dealing with narcissists where you become as boring and unresponsive as a gray rock. Giving minimal emotional reactions and keeping conversations brief and dull.
+A technique for dealing with narcissists where you become as boring and unresponsive as a Gray Rock. Giving minimal emotional reactions and keeping conversations brief and dull.
 
 ### Grandiosity
 An inflated sense of self-importance that characterizes narcissism. The narcissist believes they're special, superior, or deserving of special treatment.

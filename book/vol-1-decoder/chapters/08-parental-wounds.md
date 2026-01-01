@@ -53,7 +53,7 @@ And underneath all of it, a primal grief. The mother you needed isn't the mother
 
 **This occurs when a mother:**
 - Leaks your private feelings to siblings or others
-- Triangulates you with a sibling (especially the golden child)
+- Triangulates you with a sibling (especially the Golden Child)
 - Minimizes your emotions
 - Betrays your confidence
 - Uses your vulnerability as leverage
@@ -66,7 +66,7 @@ And underneath all of it, a primal grief. The mother you needed isn't the mother
 1. This isn't a misunderstanding. It's an emotional boundary violation.
 2. She chose the system over your safety.
 3. Your shame is NOT yours. It's the byproduct of being exposed without consent.
-4. Narcissistic or emotionally immature mothers prioritize harmony over honesty, image over intimacy, the golden child over the truth, control over connection.
+4. Narcissistic or emotionally immature mothers prioritize harmony over honesty, image over intimacy, the Golden Child over the truth, control over connection.
 5. Your mother did NOT protect you because she never learned how. Not with you. Not with anyone.
 
 **What maternal betrayal does to the daughter:**
@@ -541,7 +541,7 @@ These aren't character flaws. They're the logical outcome of surviving two oppos
 
 ### The Scapegoat with No Sanctuary
 
-If you were the scapegoat in a family with two narcissistic parents, you absorbed blame from all directions with no buffer.
+If you were the Scapegoat in a family with two narcissistic parents, you absorbed blame from all directions with no buffer.
 
 **You may have been:**
 - Blamed by one parent for the other's dysfunction

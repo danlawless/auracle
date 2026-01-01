@@ -1,10 +1,10 @@
-'use client'
+'use client';
 
-import { useState, useCallback, useEffect } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
-import { 
-  CheckCircle, 
-  Circle, 
+import { useState, useCallback, useEffect } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import {
+  CheckCircle,
+  Circle,
   Play,
   Clock,
   BookOpen,
@@ -17,33 +17,33 @@ import {
   FileText,
   Brain,
   Target,
-  Lightbulb
-} from 'lucide-react'
-import { Lesson } from '../../../types/course'
-import AILessonChat from './AILessonChat'
+  Lightbulb,
+} from 'lucide-react';
+import { Lesson } from '../../../types/course';
+import AILessonChat from './AILessonChat';
 
 interface EnhancedLessonViewProps {
-  lesson: Lesson
-  onComplete: (lessonId: string, completionData: LessonCompletionData) => void
-  onNext: () => void
-  onPrevious: () => void
-  onBackToDashboard: () => void
-  hasNext: boolean
-  hasPrevious: boolean
+  lesson: Lesson;
+  onComplete: (lessonId: string, completionData: LessonCompletionData) => void;
+  onNext: () => void;
+  onPrevious: () => void;
+  onBackToDashboard: () => void;
+  hasNext: boolean;
+  hasPrevious: boolean;
   progress: {
-    current: number
-    total: number
-    percentage: number
-  }
+    current: number;
+    total: number;
+    percentage: number;
+  };
 }
 
 interface LessonCompletionData {
-  readContent: boolean
-  completedPractice: boolean
-  checkedTakeaways: string[]
-  reflectionAnswers: { [key: string]: string }
-  userNotes: string
-  timeSpent: number
+  readContent: boolean;
+  completedPractice: boolean;
+  checkedTakeaways: string[];
+  reflectionAnswers: { [key: string]: string };
+  userNotes: string;
+  timeSpent: number;
 }
 
 const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
@@ -54,7 +54,7 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
   onBackToDashboard,
   hasNext,
   hasPrevious,
-  progress
+  progress,
 }) => {
   const [completionData, setCompletionData] = useState<LessonCompletionData>({
     readContent: false,
@@ -62,107 +62,117 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
     checkedTakeaways: [],
     reflectionAnswers: {},
     userNotes: '',
-    timeSpent: 0
-  })
+    timeSpent: 0,
+  });
 
-  const [isPlaying, setIsPlaying] = useState(false)
-  const [currentSection, setCurrentSection] = useState(0)
-  const [startTime] = useState(Date.now())
-  
+  const [isPlaying, setIsPlaying] = useState(false);
+  const [currentSection, setCurrentSection] = useState(0);
+  const [startTime] = useState(Date.now());
+
   // Ensure page starts at top when lesson loads
   useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [lesson.id])
-  
+    window.scrollTo(0, 0);
+  }, [lesson.id]);
+
   // Track time spent
   useEffect(() => {
     const interval = setInterval(() => {
-      setCompletionData(prev => ({
+      setCompletionData((prev) => ({
         ...prev,
-        timeSpent: Math.floor((Date.now() - startTime) / 1000 / 60) // minutes
-      }))
-    }, 60000) // Update every minute
+        timeSpent: Math.floor((Date.now() - startTime) / 1000 / 60), // minutes
+      }));
+    }, 60000); // Update every minute
 
-    return () => clearInterval(interval)
-  }, [startTime])
+    return () => clearInterval(interval);
+  }, [startTime]);
 
   // Mark content as read when user scrolls through sections
-  const handleSectionViewed = useCallback((sectionIndex: number) => {
-    setCurrentSection(sectionIndex)
-    
-    // If user has viewed all main content sections, mark as read
-    if (sectionIndex >= lesson.content.mainContent.length - 1) {
-      setCompletionData(prev => ({ ...prev, readContent: true }))
-    }
-  }, [lesson.content.mainContent.length])
+  const handleSectionViewed = useCallback(
+    (sectionIndex: number) => {
+      setCurrentSection(sectionIndex);
+
+      // If user has viewed all main content sections, mark as read
+      if (sectionIndex >= lesson.content.mainContent.length - 1) {
+        setCompletionData((prev) => ({ ...prev, readContent: true }));
+      }
+    },
+    [lesson.content.mainContent.length]
+  );
 
   // Handle practice completion
   const handlePracticeComplete = useCallback(() => {
-    setCompletionData(prev => ({ ...prev, completedPractice: true }))
-  }, [])
+    setCompletionData((prev) => ({ ...prev, completedPractice: true }));
+  }, []);
 
   // Handle takeaway checkbox toggle
   const handleTakeawayToggle = useCallback((takeaway: string) => {
-    setCompletionData(prev => ({
+    setCompletionData((prev) => ({
       ...prev,
       checkedTakeaways: prev.checkedTakeaways.includes(takeaway)
-        ? prev.checkedTakeaways.filter(t => t !== takeaway)
-        : [...prev.checkedTakeaways, takeaway]
-    }))
-  }, [])
+        ? prev.checkedTakeaways.filter((t) => t !== takeaway)
+        : [...prev.checkedTakeaways, takeaway],
+    }));
+  }, []);
 
   // Handle reflection answer
   const handleReflectionAnswer = useCallback((promptIndex: number, answer: string) => {
-    setCompletionData(prev => ({
+    setCompletionData((prev) => ({
       ...prev,
       reflectionAnswers: {
         ...prev.reflectionAnswers,
-        [`reflection_${promptIndex}`]: answer
-      }
-    }))
-  }, [])
+        [`reflection_${promptIndex}`]: answer,
+      },
+    }));
+  }, []);
 
   // Check if lesson can be completed
   const canCompleteLesson = useCallback(() => {
-    const requiredReflections = lesson.content.reflectionPrompts?.length || 0
-    const completedReflections = Object.keys(completionData.reflectionAnswers).length
-    const requiredTakeaways = lesson.content.keyTakeaways.length
-    const checkedTakeawaysCount = completionData.checkedTakeaways.length
+    const requiredReflections = lesson.content.reflectionPrompts?.length || 0;
+    const completedReflections = Object.keys(completionData.reflectionAnswers).length;
+    const requiredTakeaways = lesson.content.keyTakeaways.length;
+    const checkedTakeawaysCount = completionData.checkedTakeaways.length;
 
     return (
       completionData.readContent &&
       completionData.completedPractice &&
       checkedTakeawaysCount >= requiredTakeaways &&
       completedReflections >= requiredReflections
-    )
-  }, [completionData, lesson.content])
+    );
+  }, [completionData, lesson.content]);
 
   // Handle lesson completion
   const handleCompleteLesson = useCallback(() => {
     if (canCompleteLesson()) {
-      onComplete(lesson.id, completionData)
+      onComplete(lesson.id, completionData);
     }
-  }, [canCompleteLesson, lesson.id, completionData, onComplete])
+  }, [canCompleteLesson, lesson.id, completionData, onComplete]);
 
   const getContentIcon = (type: string) => {
     switch (type) {
-      case 'text': return <FileText className="h-5 w-5 text-deep-rose" />
-      case 'step_by_step': return <Target className="h-5 w-5 text-golden-accent" />
-      case 'quote': return <Heart className="h-5 w-5 text-vibrant-pink" />
-      case 'tip': return <Lightbulb className="h-5 w-5 text-warm-gold" />
-      case 'visualization': return <Brain className="h-5 w-5 text-royal-purple" />
-      default: return <BookOpen className="h-5 w-5 text-gray-500" />
+      case 'text':
+        return <FileText className="h-5 w-5 text-deep-rose" />;
+      case 'step_by_step':
+        return <Target className="h-5 w-5 text-golden-accent" />;
+      case 'quote':
+        return <Heart className="h-5 w-5 text-vibrant-pink" />;
+      case 'tip':
+        return <Lightbulb className="h-5 w-5 text-warm-gold" />;
+      case 'visualization':
+        return <Brain className="h-5 w-5 text-royal-purple" />;
+      default:
+        return <BookOpen className="h-5 w-5 text-gray-500" />;
     }
-  }
+  };
 
   const completionPercentage = Math.round(
-    (
-      (completionData.readContent ? 25 : 0) +
+    (completionData.readContent ? 25 : 0) +
       (completionData.completedPractice ? 25 : 0) +
-      (completionData.checkedTakeaways.length / lesson.content.keyTakeaways.length * 25) +
-      (Object.keys(completionData.reflectionAnswers).length / (lesson.content.reflectionPrompts?.length || 1) * 25)
-    )
-  )
+      (completionData.checkedTakeaways.length / lesson.content.keyTakeaways.length) *
+        25 +
+      (Object.keys(completionData.reflectionAnswers).length /
+        (lesson.content.reflectionPrompts?.length || 1)) *
+        25
+  );
 
   return (
     <div className="min-h-screen bg-gradient-sacred pb-20">
@@ -178,7 +188,7 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
               >
                 <ArrowLeft className="h-4 w-4" />
               </button>
-              
+
               <div>
                 <div className="text-sm text-gray-600">
                   Lesson {progress.current} of {progress.total}
@@ -199,7 +209,7 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                 Completion: {completionPercentage}%
               </div>
               <div className="w-24 h-1 bg-gray-200 rounded-full mt-1">
-                <motion.div 
+                <motion.div
                   className="h-full bg-gradient-primary rounded-full"
                   initial={{ width: 0 }}
                   animate={{ width: `${completionPercentage}%` }}
@@ -228,11 +238,16 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                 preload="metadata"
                 onPlay={() => setIsPlaying(true)}
                 onPause={() => setIsPlaying(false)}
-                onEnded={() => setCompletionData(prev => ({ ...prev, readContent: true }))}
+                onEnded={() =>
+                  setCompletionData((prev) => ({ ...prev, readContent: true }))
+                }
               >
                 <p className="text-center p-4 text-gray-600">
-                  Your browser does not support the video tag. 
-                  <a href={lesson.content.videoUrl} className="text-rose-pink hover:underline ml-1">
+                  Your browser does not support the video tag.
+                  <a
+                    href={lesson.content.videoUrl}
+                    className="text-rose-pink hover:underline ml-1"
+                  >
                     Download the video instead.
                   </a>
                 </p>
@@ -272,7 +287,7 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                   whileHover={{ scale: 1.05 }}
                   whileTap={{ scale: 0.95 }}
                 >
-                  ✓ I've read the introduction
+                  ✓ I&apos;ve read the introduction
                 </motion.button>
               </div>
             </div>
@@ -298,12 +313,14 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                 </span>
               </h3>
               <p className="text-gray-600 mb-4 leading-relaxed">
-                I'm here to support you through this lesson! Feel free to ask me any questions about the {lesson.title.toLowerCase()}, 
-                share what you're experiencing, or let me know if you need clarification on any part of the teaching.
+                I&apos;m here to support you through this lesson! Feel free to ask me
+                any questions about the {lesson.title.toLowerCase()}, share what
+                you&apos;re experiencing, or let me know if you need clarification on
+                any part of the teaching.
               </p>
-              
+
               {/* Chat Interface */}
-              <AILessonChat 
+              <AILessonChat
                 aiAssistant={lesson.aiAssistant}
                 lessonTitle={lesson.title}
               />
@@ -320,8 +337,11 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
               onViewportEnter={() => handleSectionViewed(index + 1)}
-              transition={{ duration: 0.6, delay: (index * 0.1) + (lesson.content.videoUrl ? 0.3 : 0) }}
-              viewport={{ once: true, margin: "-100px" }}
+              transition={{
+                duration: 0.6,
+                delay: index * 0.1 + (lesson.content.videoUrl ? 0.3 : 0),
+              }}
+              viewport={{ once: true, margin: '-100px' }}
             >
               <div className="flex items-start space-x-4">
                 {getContentIcon(block.type)}
@@ -384,16 +404,18 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                   {lesson.content.practiceExercise.title}
                 </h3>
                 <div className="space-y-3 mb-6">
-                  {lesson.content.practiceExercise.instructions.map((instruction, index) => (
-                    <div key={index} className="flex items-start space-x-3">
-                      <div className="w-6 h-6 bg-rose-pink/20 rounded-full flex items-center justify-center text-xs font-semibold text-rose-pink flex-shrink-0 mt-0.5">
-                        {index + 1}
+                  {lesson.content.practiceExercise.instructions.map(
+                    (instruction, index) => (
+                      <div key={index} className="flex items-start space-x-3">
+                        <div className="w-6 h-6 bg-rose-pink/20 rounded-full flex items-center justify-center text-xs font-semibold text-rose-pink flex-shrink-0 mt-0.5">
+                          {index + 1}
+                        </div>
+                        <span className="text-gray-700">{instruction}</span>
                       </div>
-                      <span className="text-gray-700">{instruction}</span>
-                    </div>
-                  ))}
+                    )
+                  )}
                 </div>
-                
+
                 {/* Practice Completion Checkbox */}
                 <motion.button
                   onClick={handlePracticeComplete}
@@ -411,10 +433,9 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                     <Circle className="h-5 w-5 text-gray-400" />
                   )}
                   <span className="font-medium">
-                    {completionData.completedPractice 
-                      ? 'Practice Completed!' 
-                      : 'Mark Practice as Complete'
-                    }
+                    {completionData.completedPractice
+                      ? 'Practice Completed!'
+                      : 'Mark Practice as Complete'}
                   </span>
                   {lesson.content.practiceExercise.duration && (
                     <span className="text-sm text-gray-500">
@@ -464,11 +485,13 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                     ) : (
                       <Circle className="h-5 w-5 text-gray-400 flex-shrink-0 mt-0.5" />
                     )}
-                    <span className={`${
-                      completionData.checkedTakeaways.includes(takeaway) 
-                        ? 'text-green-800' 
-                        : 'text-gray-700'
-                    }`}>
+                    <span
+                      className={`${
+                        completionData.checkedTakeaways.includes(takeaway)
+                          ? 'text-green-800'
+                          : 'text-gray-700'
+                      }`}
+                    >
                       {takeaway}
                     </span>
                   </motion.button>
@@ -479,45 +502,52 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
         </motion.div>
 
         {/* Reflection Questions */}
-        {lesson.content.reflectionPrompts && lesson.content.reflectionPrompts.length > 0 && (
-          <motion.div
-            className="card-sacred mb-8"
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.6 }}
-            viewport={{ once: true }}
-          >
-            <div className="flex items-start space-x-4">
-              <div className="p-3 rounded-full bg-gradient-primary flex-shrink-0">
-                <Brain className="h-5 w-5 text-white" />
-              </div>
-              <div className="flex-1">
-                <h3 className="text-xl font-serif font-semibold text-gray-800 mb-4">
-                  Reflection & Integration
-                </h3>
-                <p className="text-gray-600 mb-6 text-sm">
-                  Take a moment to reflect on your experience. Your answers help deepen your understanding:
-                </p>
-                <div className="space-y-6">
-                  {lesson.content.reflectionPrompts.map((prompt, index) => (
-                    <div key={index} className="space-y-2">
-                      <label className="block text-sm font-medium text-gray-700">
-                        {prompt}
-                      </label>
-                      <textarea
-                        value={completionData.reflectionAnswers[`reflection_${index}`] || ''}
-                        onChange={(e) => handleReflectionAnswer(index, e.target.value)}
-                        className="w-full p-3 border border-soft-lavender/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-vibrant-pink/20 focus:border-vibrant-pink/40 resize-none"
-                        rows={3}
-                        placeholder="Share your thoughts and insights..."
-                      />
-                    </div>
-                  ))}
+        {lesson.content.reflectionPrompts &&
+          lesson.content.reflectionPrompts.length > 0 && (
+            <motion.div
+              className="card-sacred mb-8"
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.6 }}
+              viewport={{ once: true }}
+            >
+              <div className="flex items-start space-x-4">
+                <div className="p-3 rounded-full bg-gradient-primary flex-shrink-0">
+                  <Brain className="h-5 w-5 text-white" />
+                </div>
+                <div className="flex-1">
+                  <h3 className="text-xl font-serif font-semibold text-gray-800 mb-4">
+                    Reflection & Integration
+                  </h3>
+                  <p className="text-gray-600 mb-6 text-sm">
+                    Take a moment to reflect on your experience. Your answers help
+                    deepen your understanding:
+                  </p>
+                  <div className="space-y-6">
+                    {lesson.content.reflectionPrompts.map((prompt, index) => (
+                      <div key={index} className="space-y-2">
+                        <label className="block text-sm font-medium text-gray-700">
+                          {prompt}
+                        </label>
+                        <textarea
+                          value={
+                            completionData.reflectionAnswers[`reflection_${index}`] ||
+                            ''
+                          }
+                          onChange={(e) =>
+                            handleReflectionAnswer(index, e.target.value)
+                          }
+                          className="w-full p-3 border border-soft-lavender/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-vibrant-pink/20 focus:border-vibrant-pink/40 resize-none"
+                          rows={3}
+                          placeholder="Share your thoughts and insights..."
+                        />
+                      </div>
+                    ))}
+                  </div>
                 </div>
               </div>
-            </div>
-          </motion.div>
-        )}
+            </motion.div>
+          )}
 
         {/* Personal Notes */}
         <motion.div
@@ -537,7 +567,9 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
               </h3>
               <textarea
                 value={completionData.userNotes}
-                onChange={(e) => setCompletionData(prev => ({ ...prev, userNotes: e.target.value }))}
+                onChange={(e) =>
+                  setCompletionData((prev) => ({ ...prev, userNotes: e.target.value }))
+                }
                 className="w-full p-3 border border-soft-lavender/30 rounded-lg focus:outline-none focus:ring-2 focus:ring-vibrant-pink/20 focus:border-vibrant-pink/40 resize-none"
                 rows={4}
                 placeholder="Capture any insights, questions, or personal reflections from this lesson..."
@@ -556,7 +588,9 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
         >
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-4">
-              <div className={`p-3 rounded-full ${canCompleteLesson() ? 'bg-green-500' : 'bg-gray-400'}`}>
+              <div
+                className={`p-3 rounded-full ${canCompleteLesson() ? 'bg-green-500' : 'bg-gray-400'}`}
+              >
                 <Award className="h-6 w-6 text-white" />
               </div>
               <div>
@@ -564,17 +598,16 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
                   {canCompleteLesson() ? 'Ready to Complete!' : 'Almost There!'}
                 </h3>
                 <p className="text-gray-600 text-sm">
-                  {canCompleteLesson() 
-                    ? 'Congratulations! You\'ve completed all requirements for this lesson.'
-                    : 'Please complete all sections above to unlock the next lesson.'
-                  }
+                  {canCompleteLesson()
+                    ? "Congratulations! You've completed all requirements for this lesson."
+                    : 'Please complete all sections above to unlock the next lesson.'}
                 </p>
                 <div className="text-xs text-gray-500 mt-1">
                   Time spent: {completionData.timeSpent} minutes
                 </div>
               </div>
             </div>
-            
+
             <div className="flex items-center space-x-3">
               <motion.button
                 onClick={handleCompleteLesson}
@@ -589,7 +622,7 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
               >
                 Complete Lesson
               </motion.button>
-              
+
               {hasNext && (
                 <motion.button
                   onClick={onNext}
@@ -609,10 +642,8 @@ const EnhancedLessonView: React.FC<EnhancedLessonViewProps> = ({
           </div>
         </motion.div>
       </div>
-
-
     </div>
-  )
-}
+  );
+};
 
-export default EnhancedLessonView
+export default EnhancedLessonView;

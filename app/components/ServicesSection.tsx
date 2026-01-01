@@ -1,53 +1,77 @@
-'use client'
+'use client';
 
-import { motion } from 'framer-motion'
-import Link from 'next/link'
-import { BookOpen, Users, Calendar, Headphones } from 'lucide-react'
+import { motion } from 'framer-motion';
+import Link from 'next/link';
+import { BookOpen, Users, Calendar, Headphones } from 'lucide-react';
 
 const ServicesSection = () => {
   const services = [
     {
       icon: Calendar,
       title: 'Personal Aura Readings',
-      description: 'Connect with your divine guides and receive profound spiritual insights in one-on-one sessions with Jennifer',
-      features: ['30, 60, or 90-minute sessions', 'Spirit connection & messages', 'Past life insights', 'Energy & chakra healing'],
+      description:
+        'Connect with your divine guides and receive profound spiritual insights in one-on-one sessions with Jennifer',
+      features: [
+        '30, 60, or 90-minute sessions',
+        'Spirit connection & messages',
+        'Past life insights',
+        'Energy & chakra healing',
+      ],
       pricing: 'Starting at $150',
       cta: 'Book Your Reading',
       href: '/schedule',
       gradient: 'from-golden-light to-earth-copper',
-      highlight: 'Most Popular'
+      highlight: 'Most Popular',
     },
     {
       icon: BookOpen,
       title: 'Rose Meditation Journey',
-      description: 'Master the sacred art of Rose Meditation through our progressive 3-level course system',
-      features: ['Level 1, 2, 3 progression', 'AI-guided learning', 'Interactive lessons', 'Achievement system'],
+      description:
+        'Master the sacred art of Rose Meditation through our progressive 3-level course system',
+      features: [
+        'Level 1, 2, 3 progression',
+        'AI-guided learning',
+        'Interactive lessons',
+        'Achievement system',
+      ],
       pricing: 'Self-paced learning',
       cta: 'Start Your Journey',
       href: '/courses',
-      gradient: 'from-rose-pink to-deep-rose'
+      gradient: 'from-rose-pink to-deep-rose',
     },
     {
       icon: Headphones,
       title: 'Sacred Audio Library',
-      description: 'Immerse yourself in guided meditations, Golden Sun visualizations, and energy cleansing practices',
-      features: ['Pink Rose meditations', 'Golden Sun practices', 'Grounding cord techniques', 'Chakra balancing'],
+      description:
+        'Immerse yourself in guided meditations, Golden Sun visualizations, and energy cleansing practices',
+      features: [
+        'Pink Rose meditations',
+        'Golden Sun practices',
+        'Grounding cord techniques',
+        'Chakra balancing',
+      ],
       pricing: 'Included with courses',
       cta: 'Explore Library',
       href: '/library',
-      gradient: 'from-soft-ivory to-rose-pink'
+      gradient: 'from-soft-ivory to-rose-pink',
     },
     {
       icon: Users,
       title: 'Integration Sessions',
-      description: 'Deepen your understanding with follow-up sessions to integrate your reading insights into daily life',
-      features: ['30, 60, or 90-minute sessions', 'Personalized guidance', 'Practical application', 'Ongoing support'],
+      description:
+        'Deepen your understanding with follow-up sessions to integrate your reading insights into daily life',
+      features: [
+        '30, 60, or 90-minute sessions',
+        'Personalized guidance',
+        'Practical application',
+        'Ongoing support',
+      ],
       pricing: 'Same session rates',
       cta: 'Book Integration',
       href: '/schedule',
-      gradient: 'from-earth-copper to-golden-light'
-    }
-  ]
+      gradient: 'from-earth-copper to-golden-light',
+    },
+  ];
 
   return (
     <section className="py-20 bg-gradient-sacred">
@@ -64,8 +88,8 @@ const ServicesSection = () => {
             Sacred Offerings
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            "You are doing beautifully. Let each practice unfold in its own rhythm." 
-            Discover the perfect path for your spiritual journey.
+            &ldquo;You are doing beautifully. Let each practice unfold in its own
+            rhythm.&rdquo; Discover the perfect path for your spiritual journey.
           </p>
         </motion.div>
 
@@ -90,12 +114,16 @@ const ServicesSection = () => {
               )}
 
               {/* Background Gradient */}
-              <div className={`absolute inset-0 bg-gradient-to-br ${service.gradient} opacity-5 group-hover:opacity-10 transition-opacity duration-300`} />
-              
+              <div
+                className={`absolute inset-0 bg-gradient-to-br ${service.gradient} opacity-5 group-hover:opacity-10 transition-opacity duration-300`}
+              />
+
               {/* Content */}
               <div className="relative z-10">
                 <div className="flex items-start space-x-4 mb-6">
-                  <div className={`p-3 rounded-full bg-gradient-to-br ${service.gradient} text-white`}>
+                  <div
+                    className={`p-3 rounded-full bg-gradient-to-br ${service.gradient} text-white`}
+                  >
                     <service.icon className="h-6 w-6" />
                   </div>
                   <div className="flex-1">
@@ -119,7 +147,10 @@ const ServicesSection = () => {
                 <div className="mb-6">
                   <ul className="grid grid-cols-1 gap-2">
                     {service.features.map((feature, featureIndex) => (
-                      <li key={featureIndex} className="flex items-center text-sm text-gray-600">
+                      <li
+                        key={featureIndex}
+                        className="flex items-center text-sm text-gray-600"
+                      >
                         <span className="w-1.5 h-1.5 bg-rose-pink rounded-full mr-3 flex-shrink-0" />
                         {feature}
                       </li>
@@ -157,7 +188,10 @@ const ServicesSection = () => {
               Ready to Connect with Your Divine Guidance?
             </h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              "Visualize your grounding cord now. Feel your presence deepen." Whether you seek immediate spiritual insights through a personal aura reading or wish to master sacred practices through our Rose Meditation journey, your path to self-sovereignty begins here.
+              &ldquo;Visualize your grounding cord now. Feel your presence
+              deepen.&rdquo; Whether you seek immediate spiritual insights through a
+              personal aura reading or wish to master sacred practices through our Rose
+              Meditation journey, your path to self-sovereignty begins here.
             </p>
             <div className="grid sm:grid-cols-3 gap-4 mb-6">
               <div className="text-center p-4 bg-golden-light/5 rounded-lg">
@@ -188,7 +222,7 @@ const ServicesSection = () => {
         </motion.div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default ServicesSection
+export default ServicesSection;

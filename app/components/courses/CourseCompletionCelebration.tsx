@@ -1,25 +1,25 @@
-'use client'
+'use client';
 
-import { motion, AnimatePresence } from 'framer-motion'
-import { 
-  Award, 
-  Heart, 
-  Star, 
-  Sparkles, 
-  ArrowRight, 
+import { motion, AnimatePresence } from 'framer-motion';
+import {
+  Award,
+  Heart,
+  Star,
+  Sparkles,
+  ArrowRight,
   Trophy,
   Crown,
-  Flower2
-} from 'lucide-react'
-import { useState, useEffect } from 'react'
+  Flower2,
+} from 'lucide-react';
+import { useState, useEffect } from 'react';
 
 interface CourseCompletionCelebrationProps {
-  isOpen: boolean
-  onClose: () => void
-  courseName: string
-  completionDate: Date
-  totalTimeSpent: number
-  onContinueJourney: () => void
+  isOpen: boolean;
+  onClose: () => void;
+  courseName: string;
+  completionDate: Date;
+  totalTimeSpent: number;
+  onContinueJourney: () => void;
 }
 
 const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = ({
@@ -28,38 +28,38 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
   courseName,
   completionDate,
   totalTimeSpent,
-  onContinueJourney
+  onContinueJourney,
 }) => {
-  const [showConfetti, setShowConfetti] = useState(false)
+  const [showConfetti, setShowConfetti] = useState(false);
 
   useEffect(() => {
     if (isOpen) {
-      setShowConfetti(true)
+      setShowConfetti(true);
       // Auto-hide confetti after animation
-      const timer = setTimeout(() => setShowConfetti(false), 3000)
-      return () => clearTimeout(timer)
+      const timer = setTimeout(() => setShowConfetti(false), 3000);
+      return () => clearTimeout(timer);
     }
-  }, [isOpen])
+  }, [isOpen]);
 
-  if (!isOpen) return null
+  if (!isOpen) return null;
 
   const formatDate = (date: Date) => {
-    return date.toLocaleDateString('en-US', { 
+    return date.toLocaleDateString('en-US', {
       weekday: 'long',
-      year: 'numeric', 
-      month: 'long', 
-      day: 'numeric' 
-    })
-  }
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    });
+  };
 
   const formatTime = (minutes: number) => {
-    const hours = Math.floor(minutes / 60)
-    const mins = minutes % 60
+    const hours = Math.floor(minutes / 60);
+    const mins = minutes % 60;
     if (hours > 0) {
-      return `${hours}h ${mins}m`
+      return `${hours}h ${mins}m`;
     }
-    return `${mins} minutes`
-  }
+    return `${mins} minutes`;
+  };
 
   return (
     <AnimatePresence>
@@ -95,7 +95,7 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
                     transition={{
                       duration: 3 + Math.random() * 2,
                       delay: Math.random() * 0.5,
-                      ease: 'easeOut'
+                      ease: 'easeOut',
                     }}
                   />
                 ))}
@@ -109,36 +109,36 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
             initial={{ scale: 0.8, opacity: 0, y: 50 }}
             animate={{ scale: 1, opacity: 1, y: 0 }}
             exit={{ scale: 0.8, opacity: 0, y: 50 }}
-            transition={{ type: "spring", duration: 0.6 }}
+            transition={{ type: 'spring', duration: 0.6 }}
           >
             {/* Header with gradient */}
             <div className="relative bg-gradient-sacred p-8 text-center">
               {/* Floating elements */}
               <motion.div
                 className="absolute top-4 left-8"
-                animate={{ 
+                animate={{
                   rotate: [0, 360],
-                  scale: [1, 1.2, 1]
+                  scale: [1, 1.2, 1],
                 }}
-                transition={{ 
+                transition={{
                   duration: 4,
                   repeat: Infinity,
-                  repeatType: "reverse"
+                  repeatType: 'reverse',
                 }}
               >
                 <Sparkles className="h-6 w-6 text-golden-light" />
               </motion.div>
-              
+
               <motion.div
                 className="absolute top-6 right-8"
-                animate={{ 
+                animate={{
                   y: [0, -10, 0],
-                  rotate: [0, 15, -15, 0]
+                  rotate: [0, 15, -15, 0],
                 }}
-                transition={{ 
+                transition={{
                   duration: 3,
                   repeat: Infinity,
-                  repeatType: "reverse"
+                  repeatType: 'reverse',
                 }}
               >
                 <Star className="h-5 w-5 text-rose-pink" />
@@ -149,10 +149,10 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
                 className="inline-block mb-4"
                 initial={{ scale: 0, rotate: -180 }}
                 animate={{ scale: 1, rotate: 0 }}
-                transition={{ 
+                transition={{
                   delay: 0.3,
-                  type: "spring",
-                  duration: 0.8
+                  type: 'spring',
+                  duration: 0.8,
                 }}
               >
                 <div className="w-20 h-20 bg-gradient-gold rounded-full flex items-center justify-center shadow-lg">
@@ -204,7 +204,7 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
                     {formatDate(completionDate)}
                   </div>
                 </div>
-                
+
                 <div className="text-center p-4 bg-golden-light/10 rounded-2xl border border-golden-light/20">
                   <Heart className="h-6 w-6 text-golden-light mx-auto mb-2" />
                   <div className="text-sm text-gray-600">Sacred Time</div>
@@ -223,9 +223,10 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
               >
                 <Flower2 className="h-8 w-8 text-rose-pink mx-auto mb-3" />
                 <p className="text-lg text-gray-700 leading-relaxed italic">
-                  "You have walked the sacred path with courage and dedication. 
-                  The seeds of transformation you've planted will continue to blossom. 
-                  Your journey into deeper wisdom and spiritual mastery awaits."
+                  &ldquo;You have walked the sacred path with courage and dedication.
+                  The seeds of transformation you&apos;ve planted will continue to
+                  blossom. Your journey into deeper wisdom and spiritual mastery
+                  awaits.&rdquo;
                 </p>
                 <p className="text-sm text-gray-600 mt-3 font-medium">
                   — Jae, Master Auracle Reader
@@ -246,7 +247,7 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
                   <span>Continue Your Journey</span>
                   <ArrowRight className="h-5 w-5" />
                 </button>
-                
+
                 <button
                   onClick={onClose}
                   className="flex-1 bg-white border-2 border-rose-pink text-rose-pink px-6 py-4 rounded-full font-semibold text-lg hover:bg-rose-pink/5 transition-all duration-200"
@@ -259,7 +260,7 @@ const CourseCompletionCelebration: React.FC<CourseCompletionCelebrationProps> = 
         </div>
       )}
     </AnimatePresence>
-  )
-}
+  );
+};
 
-export default CourseCompletionCelebration
+export default CourseCompletionCelebration;

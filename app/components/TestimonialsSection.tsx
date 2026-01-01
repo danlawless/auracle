@@ -1,53 +1,53 @@
-'use client'
+'use client';
 
-import { motion } from 'framer-motion'
-import { Star, Quote } from 'lucide-react'
+import { motion } from 'framer-motion';
+import { Star, Quote } from 'lucide-react';
 
 const TestimonialsSection = () => {
   const testimonials = [
     {
       name: 'Sarah M.',
       location: 'California',
-      text: 'Jae\'s aura reading was transformative. She helped me understand my energy patterns and gave me practical tools for daily grounding. The Rose Meditation course has become an essential part of my spiritual practice.',
+      text: "Jae's aura reading was transformative. She helped me understand my energy patterns and gave me practical tools for daily grounding. The Rose Meditation course has become an essential part of my spiritual practice.",
       rating: 5,
-      image: '🌸'
+      image: '🌸',
     },
     {
       name: 'Michael R.',
       location: 'New York',
-      text: 'The depth of insight in my reading was incredible. Jae\'s gentle guidance helped me navigate a difficult transition with clarity and peace. Her courses are beautifully structured and deeply healing.',
+      text: "The depth of insight in my reading was incredible. Jae's gentle guidance helped me navigate a difficult transition with clarity and peace. Her courses are beautifully structured and deeply healing.",
       rating: 5,
-      image: '🌿'
+      image: '🌿',
     },
     {
       name: 'Elena K.',
       location: 'London',
-      text: 'I\'ve been practicing Rose Meditation for six months now, and it has completely shifted my relationship with stress and anxiety. The sacred visualizations are powerful beyond words.',
+      text: "I've been practicing Rose Meditation for six months now, and it has completely shifted my relationship with stress and anxiety. The sacred visualizations are powerful beyond words.",
       rating: 5,
-      image: '✨'
+      image: '✨',
     },
     {
       name: 'David L.',
       location: 'Toronto',
       text: 'As someone new to energy work, I was amazed by how accessible Jennifer makes these profound teachings. The Golden Sun visualization has become my daily anchor.',
       rating: 5,
-      image: '☀️'
+      image: '☀️',
     },
     {
       name: 'Maya S.',
       location: 'Sydney',
       text: 'The community aspect of The Auracle is incredible. Learning alongside others on this sacred journey has enriched my practice immeasurably. Jennifer creates such a safe, nurturing space.',
       rating: 5,
-      image: '🌹'
+      image: '🌹',
     },
     {
       name: 'James W.',
       location: 'Berlin',
-      text: 'My aura reading revealed patterns I never recognized before. Jennifer\'s compassionate approach and practical guidance have helped me cultivate deeper self-awareness and energetic boundaries.',
+      text: "My aura reading revealed patterns I never recognized before. Jennifer's compassionate approach and practical guidance have helped me cultivate deeper self-awareness and energetic boundaries.",
       rating: 5,
-      image: '🕊️'
-    }
-  ]
+      image: '🕊️',
+    },
+  ];
 
   return (
     <section className="py-20 bg-white/30 backdrop-blur-sm">
@@ -64,7 +64,8 @@ const TestimonialsSection = () => {
             Sacred Testimonials
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Hear from beloved souls who have walked this path of awakening and transformation
+            Hear from beloved souls who have walked this path of awakening and
+            transformation
           </p>
         </motion.div>
 
@@ -104,7 +105,7 @@ const TestimonialsSection = () => {
 
               {/* Testimonial Text */}
               <p className="text-gray-700 leading-relaxed italic">
-                "{testimonial.text}"
+                &ldquo;{testimonial.text}&rdquo;
               </p>
             </motion.div>
           ))}
@@ -122,21 +123,19 @@ const TestimonialsSection = () => {
             { number: '500+', label: 'Sacred Readings' },
             { number: '1200+', label: 'Course Students' },
             { number: '95%', label: 'Satisfaction Rate' },
-            { number: '50+', label: 'Countries Reached' }
+            { number: '50+', label: 'Countries Reached' },
           ].map((stat, index) => (
             <div key={index} className="text-center">
               <div className="text-3xl md:text-4xl font-serif font-bold text-gradient-gold mb-2">
                 {stat.number}
               </div>
-              <div className="text-gray-600 font-medium">
-                {stat.label}
-              </div>
+              <div className="text-gray-600 font-medium">{stat.label}</div>
             </div>
           ))}
         </motion.div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default TestimonialsSection
+export default TestimonialsSection;

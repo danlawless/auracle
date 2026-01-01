@@ -1,36 +1,36 @@
-'use client'
+'use client';
 
-import { memo } from 'react'
-import { motion } from 'framer-motion'
-import { Heart, Eye, Shield, Sparkles } from 'lucide-react'
+import { memo } from 'react';
+import { motion } from 'framer-motion';
+import { Heart, Eye, Shield, Sparkles } from 'lucide-react';
 
-const AboutSection = memo(() => {
+const AboutSection = memo(function AboutSection() {
   const values = [
     {
       icon: Heart,
       title: 'Presence',
       description: 'Rooted awareness in every moment',
-      color: 'text-deep-rose'
+      color: 'text-deep-rose',
     },
     {
       icon: Eye,
       title: 'Integrity',
       description: 'Authentic alignment in word, energy, and action',
-      color: 'text-earth-copper'
+      color: 'text-earth-copper',
     },
     {
       icon: Shield,
       title: 'Compassion',
       description: 'Holding space without judgment',
-      color: 'text-rose-pink'
+      color: 'text-rose-pink',
     },
     {
       icon: Sparkles,
       title: 'Empowerment',
       description: 'Encouraging sovereign energy and self-healing',
-      color: 'text-golden-light'
-    }
-  ]
+      color: 'text-golden-light',
+    },
+  ];
 
   return (
     <section className="py-20 bg-white/60 smooth-animation">
@@ -47,8 +47,9 @@ const AboutSection = memo(() => {
             Your Sacred Journey Begins Here
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            We provide a sanctuary of stillness, energy mastery, and spiritual empowerment 
-            through practices rooted in love, presence, and deep energetic awareness.
+            We provide a sanctuary of stillness, energy mastery, and spiritual
+            empowerment through practices rooted in love, presence, and deep energetic
+            awareness.
           </p>
         </motion.div>
 
@@ -69,8 +70,8 @@ const AboutSection = memo(() => {
             Our Sacred Mission
           </h3>
           <p className="text-lg text-gray-700 leading-relaxed">
-            To awaken divine remembrance and energetic clarity in every being, 
-            guiding them to their inner sanctuary through the sacred tools of Rose Meditation.
+            To awaken divine remembrance and energetic clarity in every being, guiding
+            them to their inner sanctuary through the sacred tools of Rose Meditation.
           </p>
         </motion.div>
 
@@ -86,16 +87,16 @@ const AboutSection = memo(() => {
               viewport={{ once: true }}
             >
               <div className="flex justify-center mb-4">
-                <div className={`p-4 rounded-full bg-gradient-to-br from-rose-pink/20 to-golden-light/20 group-hover:scale-105 transition-transform duration-200 smooth-animation`}>
+                <div
+                  className={`p-4 rounded-full bg-gradient-to-br from-rose-pink/20 to-golden-light/20 group-hover:scale-105 transition-transform duration-200 smooth-animation`}
+                >
                   <value.icon className={`h-8 w-8 ${value.color}`} />
                 </div>
               </div>
               <h4 className="text-xl font-serif font-semibold text-gray-800 mb-3">
                 {value.title}
               </h4>
-              <p className="text-gray-600 leading-relaxed">
-                {value.description}
-              </p>
+              <p className="text-gray-600 leading-relaxed">{value.description}</p>
             </motion.div>
           ))}
         </div>
@@ -143,7 +144,7 @@ const AboutSection = memo(() => {
         </motion.div>
       </div>
     </section>
-  )
-})
+  );
+});
 
-export default AboutSection
+export default AboutSection;

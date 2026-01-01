@@ -1,17 +1,17 @@
-'use client'
+'use client';
 
-import { useEffect, useState } from 'react'
-import { useRouter } from 'next/navigation'
-import { Lock, Sparkles, ArrowLeft } from 'lucide-react'
-import { useUser } from '../../contexts/UserContext'
-import CoursePurchaseButton from './CoursePurchaseButton'
+import { useEffect, useState } from 'react';
+import { useRouter } from 'next/navigation';
+import { Lock, Sparkles, ArrowLeft } from 'lucide-react';
+import { useUser } from '../../contexts/UserContext';
+import CoursePurchaseButton from './CoursePurchaseButton';
 
 interface CourseProtectionProps {
-  courseId: string
-  courseTitle: string
-  coursePrice: string
-  originalPrice?: string
-  children: React.ReactNode
+  courseId: string;
+  courseTitle: string;
+  coursePrice: string;
+  originalPrice?: string;
+  children: React.ReactNode;
 }
 
 const CourseProtection = ({
@@ -19,23 +19,23 @@ const CourseProtection = ({
   courseTitle,
   coursePrice,
   originalPrice,
-  children
+  children,
 }: CourseProtectionProps) => {
-  const { user, isLoading, hasPurchasedCourse } = useUser()
-  const [showPaywall, setShowPaywall] = useState(false)
-  const router = useRouter()
+  const { user, isLoading, hasPurchasedCourse } = useUser();
+  const [showPaywall, setShowPaywall] = useState(false);
+  const router = useRouter();
 
   useEffect(() => {
     if (!isLoading) {
       if (!user) {
-        setShowPaywall(true)
+        setShowPaywall(true);
       } else if (!hasPurchasedCourse(courseId)) {
-        setShowPaywall(true)
+        setShowPaywall(true);
       } else {
-        setShowPaywall(false)
+        setShowPaywall(false);
       }
     }
-  }, [user, isLoading, courseId, hasPurchasedCourse])
+  }, [user, isLoading, courseId, hasPurchasedCourse]);
 
   if (isLoading) {
     return (
@@ -47,14 +47,13 @@ const CourseProtection = ({
           <p className="text-gray-600">Loading course...</p>
         </div>
       </div>
-    )
+    );
   }
 
   if (showPaywall) {
     return (
       <div className="min-h-screen bg-gradient-sacred py-20">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          
           {/* Back Button */}
           <button
             onClick={() => router.back()}
@@ -75,10 +74,11 @@ const CourseProtection = ({
               <h1 className="text-3xl md:text-4xl font-serif font-bold text-gray-800 mb-6">
                 Sacred Access Required
               </h1>
-              
+
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-                {courseTitle} is a premium sacred practice that requires enrollment. 
-                Join thousands of students who have transformed their lives through this teaching.
+                {courseTitle} is a premium sacred practice that requires enrollment.
+                Join thousands of students who have transformed their lives through this
+                teaching.
               </p>
 
               {/* Course Preview */}
@@ -86,13 +86,17 @@ const CourseProtection = ({
                 <h3 className="text-xl font-serif font-semibold text-gray-800 mb-4">
                   {courseTitle}
                 </h3>
-                
+
                 {/* Pricing */}
                 <div className="flex items-center justify-center gap-3 mb-6">
-                  <span className="text-4xl font-bold text-gradient-gold">{coursePrice}</span>
+                  <span className="text-4xl font-bold text-gradient-gold">
+                    {coursePrice}
+                  </span>
                   {originalPrice && (
                     <>
-                      <span className="text-2xl text-gray-400 line-through">{originalPrice}</span>
+                      <span className="text-2xl text-gray-400 line-through">
+                        {originalPrice}
+                      </span>
                       <span className="text-sm font-bold text-rose-pink bg-rose-pink/10 px-3 py-1 rounded-full">
                         75% OFF
                       </span>
@@ -103,7 +107,7 @@ const CourseProtection = ({
                 {/* Benefits */}
                 <div className="text-left max-w-md mx-auto">
                   <h4 className="font-semibold text-gray-800 mb-3 text-center">
-                    What You'll Receive:
+                    What You&apos;ll Receive:
                   </h4>
                   <ul className="space-y-2 text-gray-600">
                     <li className="flex items-center">
@@ -137,7 +141,7 @@ const CourseProtection = ({
                 >
                   🌹 Begin Sacred Practice
                 </CoursePurchaseButton>
-                
+
                 <button
                   onClick={() => router.push(`/courses/${courseId}`)}
                   className="btn-secondary text-lg px-8 py-4"
@@ -167,11 +171,11 @@ const CourseProtection = ({
           </div>
         </div>
       </div>
-    )
+    );
   }
 
   // User has access, render the protected content
-  return <>{children}</>
-}
+  return <>{children}</>;
+};
 
-export default CourseProtection
+export default CourseProtection;

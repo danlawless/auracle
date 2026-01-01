@@ -1,62 +1,91 @@
-'use client'
+'use client';
 
-import { motion } from 'framer-motion'
-import { Calendar, CreditCard, Video, Heart, ArrowRight } from 'lucide-react'
+import { motion } from 'framer-motion';
+import { Calendar, CreditCard, Video, Heart, ArrowRight } from 'lucide-react';
 
 const BookingProcess = () => {
   const steps = [
     {
       icon: Calendar,
       title: 'Choose Your Time',
-      description: 'Select from available time slots that work with your schedule. All sessions are held via secure video call.',
-      details: ['View real-time availability', 'Multiple timezone support', 'Instant confirmation', 'Calendar integration'],
-      color: 'from-rose-pink to-deep-rose'
+      description:
+        'Select from available time slots that work with your schedule. All sessions are held via secure video call.',
+      details: [
+        'View real-time availability',
+        'Multiple timezone support',
+        'Instant confirmation',
+        'Calendar integration',
+      ],
+      color: 'from-rose-pink to-deep-rose',
     },
     {
       icon: CreditCard,
       title: 'Secure Payment',
-      description: 'Complete your booking with our secure payment system. All transactions are encrypted and protected.',
-      details: ['Multiple payment options', 'Secure SSL encryption', 'Instant receipt', 'Refund protection'],
-      color: 'from-golden-light to-earth-copper'
+      description:
+        'Complete your booking with our secure payment system. All transactions are encrypted and protected.',
+      details: [
+        'Multiple payment options',
+        'Secure SSL encryption',
+        'Instant receipt',
+        'Refund protection',
+      ],
+      color: 'from-golden-light to-earth-copper',
     },
     {
       icon: Heart,
       title: 'Preparation Guidance',
-      description: 'Receive personalized preparation materials to help you get the most from your sacred session.',
-      details: ['Pre-session meditation', 'Intention setting guide', 'Technical setup help', 'What to expect'],
-      color: 'from-earth-copper to-golden-light'
+      description:
+        'Receive personalized preparation materials to help you get the most from your sacred session.',
+      details: [
+        'Pre-session meditation',
+        'Intention setting guide',
+        'Technical setup help',
+        'What to expect',
+      ],
+      color: 'from-earth-copper to-golden-light',
     },
     {
       icon: Video,
       title: 'Your Sacred Session',
-      description: 'Connect with Jae for your transformative spiritual guidance in a safe, sacred digital space.',
-      details: ['HD video quality', 'Session recording included', 'Private & confidential', 'Follow-up notes provided'],
-      color: 'from-deep-rose to-rose-pink'
-    }
-  ]
+      description:
+        'Connect with Jae for your transformative spiritual guidance in a safe, sacred digital space.',
+      details: [
+        'HD video quality',
+        'Session recording included',
+        'Private & confidential',
+        'Follow-up notes provided',
+      ],
+      color: 'from-deep-rose to-rose-pink',
+    },
+  ];
 
   const faqs = [
     {
       question: 'How do online spiritual sessions work?',
-      answer: 'Energy has no boundaries! Jae connects with your spiritual energy through intention and sacred focus, regardless of physical distance. Many clients report that online sessions feel just as powerful and accurate as in-person sessions.'
+      answer:
+        'Energy has no boundaries! Jae connects with your spiritual energy through intention and sacred focus, regardless of physical distance. Many clients report that online sessions feel just as powerful and accurate as in-person sessions.',
     },
     {
       question: 'What do I need for my session?',
-      answer: 'Simply a quiet, private space with a stable internet connection. We recommend using a computer or tablet for the best experience. Jae will guide you through any technical setup before your session begins.'
+      answer:
+        'Simply a quiet, private space with a stable internet connection. We recommend using a computer or tablet for the best experience. Jae will guide you through any technical setup before your session begins.',
     },
     {
       question: 'Will I receive a recording of my session?',
-      answer: 'Yes! All sessions (except the free consultation) are recorded and sent to you within 24 hours. This allows you to revisit the insights and guidance whenever you need them.'
+      answer:
+        'Yes! All sessions (except the free consultation) are recorded and sent to you within 24 hours. This allows you to revisit the insights and guidance whenever you need them.',
     },
     {
       question: 'What if I need to reschedule?',
-      answer: 'Life happens! You can reschedule your session up to 24 hours in advance through your booking confirmation email. We understand that flexibility is important for your spiritual journey.'
+      answer:
+        'Life happens! You can reschedule your session up to 24 hours in advance through your booking confirmation email. We understand that flexibility is important for your spiritual journey.',
     },
     {
       question: 'Is my session confidential?',
-      answer: 'Absolutely. All sessions are completely private and confidential. Jae holds sacred space for your personal information and spiritual insights with the utmost respect and discretion.'
-    }
-  ]
+      answer:
+        'Absolutely. All sessions are completely private and confidential. Jae holds sacred space for your personal information and spiritual insights with the utmost respect and discretion.',
+    },
+  ];
 
   return (
     <section className="py-20 bg-white/30 backdrop-blur-sm">
@@ -73,8 +102,8 @@ const BookingProcess = () => {
             Sacred Booking Process
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Your journey to spiritual clarity begins with these simple, sacred steps. 
-            We've made booking your reading as peaceful as the experience itself.
+            Your journey to spiritual clarity begins with these simple, sacred steps.
+            We&apos;ve made booking your reading as peaceful as the experience itself.
           </p>
         </motion.div>
 
@@ -98,7 +127,7 @@ const BookingProcess = () => {
                   <motion.div
                     className={`w-16 h-16 bg-gradient-to-br ${step.color} rounded-full flex items-center justify-center shadow-lg relative z-10`}
                     whileHover={{ scale: 1.1 }}
-                    transition={{ type: "spring", stiffness: 300 }}
+                    transition={{ type: 'spring', stiffness: 300 }}
                   >
                     <step.icon className="h-8 w-8 text-white" />
                   </motion.div>
@@ -107,7 +136,7 @@ const BookingProcess = () => {
                 {/* Content */}
                 <div className="card-sacred text-center group">
                   <div className="absolute inset-0 bg-gradient-to-br from-white/50 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-2xl" />
-                  
+
                   <div className="relative z-10">
                     <h3 className="text-xl font-serif font-semibold text-gray-800 mb-3">
                       {step.title}
@@ -115,11 +144,14 @@ const BookingProcess = () => {
                     <p className="text-gray-600 mb-4 leading-relaxed">
                       {step.description}
                     </p>
-                    
+
                     {/* Details */}
                     <ul className="space-y-1 text-sm text-gray-600">
                       {step.details.map((detail, detailIndex) => (
-                        <li key={detailIndex} className="flex items-center justify-center">
+                        <li
+                          key={detailIndex}
+                          className="flex items-center justify-center"
+                        >
                           <span className="w-1.5 h-1.5 bg-rose-pink rounded-full mr-2 flex-shrink-0" />
                           {detail}
                         </li>
@@ -149,7 +181,7 @@ const BookingProcess = () => {
           <h3 className="text-3xl font-serif font-bold text-gradient-gold text-center mb-12">
             Frequently Asked Questions
           </h3>
-          
+
           <div className="max-w-4xl mx-auto space-y-6">
             {faqs.map((faq, index) => (
               <motion.div
@@ -163,19 +195,14 @@ const BookingProcess = () => {
                 <h4 className="text-lg font-serif font-semibold text-gray-800 mb-3 group-hover:text-deep-rose transition-colors duration-300">
                   {faq.question}
                 </h4>
-                <p className="text-gray-700 leading-relaxed">
-                  {faq.answer}
-                </p>
+                <p className="text-gray-700 leading-relaxed">{faq.answer}</p>
               </motion.div>
             ))}
           </div>
         </motion.div>
-
-        
-      
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default BookingProcess
+export default BookingProcess;

@@ -4,11 +4,11 @@
 
 ---
 
-This chapter contains decoder cards—compressed, practical guides for recognizing and responding to specific manipulation patterns in real time.
+This chapter contains decoder cards: compressed, practical guides for recognizing and responding to specific manipulation patterns in real time.
 
 **Why these exist:**
 
-When you're in the middle of manipulation, your thinking brain goes offline. You freeze. You doubt. You can't access what you know. These cards are designed for that moment—when you need clarity fast.
+When you're in the middle of manipulation, your thinking brain goes offline. You freeze. You doubt. You can't access what you know. These cards are designed for that moment, when you need clarity fast.
 
 **Use these as:**
 - **Quick reference** when you're confused about what just happened
@@ -18,9 +18,9 @@ When you're in the middle of manipulation, your thinking brain goes offline. You
 
 **How to use them in the moment:**
 
-1. Notice your body first—confusion, tightness, exhaustion, or the urge to over-explain are signals
+1. Notice your body first: confusion, tightness, exhaustion, or the urge to over-explain are signals
 2. Find the card that matches what just happened
-3. Read "What's Really Happening"—let it land
+3. Read "What's Really Happening" and let it land
 4. Choose your power move or simply walk away
 
 **Each card follows the same format:**
@@ -41,7 +41,7 @@ Keep your most-triggered cards accessible. Screenshot them. Write them on an ind
 Before we decode specific tactics, understand the meta-pattern that makes all of them work. Every card that follows is a variation of this ancient dynamic.
 
 **The Fable:**
-A wolf cannot approach the flock as a wolf—the sheep would flee. So it wraps itself in wool. It walks among them. It gains trust. And only when close enough to consume does it reveal its teeth.
+A wolf cannot approach the flock as a wolf; the sheep would flee. So it wraps itself in wool. It walks among them. It gains trust. And only when close enough to consume does it reveal its teeth.
 
 **What They Say/Do:**
 - "I'm only saying this because I care."
@@ -52,7 +52,7 @@ A wolf cannot approach the flock as a wolf—the sheep would flee. So it wraps i
 - "I know what's best for you."
 
 **What's Really Happening:**
-Control cannot approach you as control—you would reject it. So it wraps itself in virtuous clothing: care, concern, protection, honesty, help, wisdom. Every tactic in this book is a wolf wearing sheep's clothing. The "clothing" changes; the wolf never does.
+Control cannot approach you as control; you would reject it. So it wraps itself in virtuous clothing: care, concern, protection, honesty, help, wisdom. Every tactic in this book is a wolf wearing sheep's clothing. The "clothing" changes; the wolf never does.
 
 **The Disguises (Sheep's Clothing):**
 | What It Looks Like | What It Actually Is |
@@ -69,7 +69,7 @@ Control cannot approach you as control—you would reject it. So it wraps itself
 | Vulnerability | Manipulation |
 
 **How It Hooks You:**
-The clothing works because it activates your values against you. You value care—so you accept surveillance. You value honesty—so you accept cruelty. You value protection—so you accept possession. The wolf studies what you value and wears it.
+The clothing works because it activates your values against you. You value care, so you accept surveillance. You value honesty, so you accept cruelty. You value protection, so you accept possession. The wolf studies what you value and wears it.
 
 **Your Power Move:**
 Stop looking at the clothing. Start noticing the impact.
@@ -84,7 +84,7 @@ That's the only test you need. Trust what your body knows before your mind has c
 **Why This Card Comes First:**
 Every card that follows is a specific disguise. Gaslighting is a wolf. Love-bombing is a wolf. Triangulation is a wolf. They wear different clothing, but they share one purpose: to get close enough to consume.
 
-Once you see this meta-pattern, you'll recognize new wolves you've never encountered before—because you'll stop being distracted by the clothing.
+Once you see this meta-pattern, you'll recognize new wolves you've never encountered before, because you'll stop being distracted by the clothing.
 
 ---
 
@@ -144,7 +144,7 @@ Don't elaborate. "I was clear. Let me know when you're ready to engage with what
 - "You seem so independent—do you need anyone?"
 
 **What's Really Happening:**
-This isn't curiosity—it's data collection. They're scanning for weakness, isolation, or vulnerability. Information about your support system tells them how much leverage they have.
+This isn't curiosity; it's data collection. They're scanning for weakness, isolation, or vulnerability. Information about your support system tells them how much leverage they have.
 
 **How It Hooks You:**
 It feels like normal getting-to-know-you conversation. You share openly. They file away what they learn for potential future use.
@@ -202,7 +202,7 @@ Internal: "I return this shame to its source." External: "I don't experience mys
 **The Pattern:** You start questioning if everything is your fault
 
 **What They Say/Do:**
-This one is internal—it's what YOU do:
+This one is internal; it's what YOU do:
 - "Maybe I'm being too sensitive"
 - "What did I do to cause this?"
 - "If I were better, they'd treat me better"
@@ -232,7 +232,7 @@ Ask yourself: "Would I feel this way if they hadn't trained me to?" Check with a
 - "I'm fine" (clearly not fine)
 
 **What's Really Happening:**
-Normal warmth is being withdrawn as punishment. You're supposed to feel the cold and work to restore warmth—usually by abandoning whatever position triggered the withdrawal.
+Normal warmth is being withdrawn as punishment. You're supposed to feel the cold and work to restore warmth, usually by abandoning whatever position triggered the withdrawal.
 
 **How It Hooks You:**
 You feel desperate to reconnect. You chase. You apologize for things you didn't do wrong. You drop your boundaries to end the discomfort.

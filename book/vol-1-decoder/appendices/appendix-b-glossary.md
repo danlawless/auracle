@@ -335,4 +335,4 @@ Return to this glossary as needed. Each time you name what happened, you reclaim
 
 ---
 
-*"When we can name something, we can begin to take our power back."*
+*"When you can name something, you can begin to take your power back."*

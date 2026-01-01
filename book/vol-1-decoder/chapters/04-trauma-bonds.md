@@ -15,7 +15,7 @@ You're asking the right questions. And the answer isn't weakness, stupidity, or 
 
 It's neuroscience.
 
-This chapter explains the biological mechanisms that create trauma bonds—why your nervous system gets hooked on harmful relationships and why breaking free takes more than willpower alone.
+This chapter explains the biological mechanisms that create trauma bonds: why your nervous system gets hooked on harmful relationships and why breaking free takes more than willpower alone.
 
 ---
 
@@ -25,7 +25,7 @@ A trauma bond forms when abuse and affection alternate unpredictably, creating p
 
 Key word: **intermittent**.
 
-If the relationship were bad all the time, you'd leave. If it were good all the time, there'd be no problem. It's the unpredictable alternation between the two that creates the bond—and the trap.
+If the relationship were bad all the time, you'd leave. If it were good all the time, there'd be no problem. It's the unpredictable alternation between the two that creates the bond and the trap.
 
 The trauma bond isn't love, though it feels like love. It's a survival adaptation. Your nervous system, trying to keep you safe in an unsafe situation, creates attachment to the source of both danger and relief.
 
@@ -43,7 +43,7 @@ You can feel it coming. The air changes. Their mood shifts. Small irritations ac
 
 ### Phase 2: Incident
 
-The explosion. The cruel words. The cold silence. The manipulation. Whatever form their abuse takes, it arrives. The tension that built releases—through you.
+The explosion. The cruel words. The cold silence. The manipulation. Whatever form their abuse takes, it arrives. The tension that built releases through you.
 
 **Your nervous system:** Full fight-or-flight activation. Adrenaline floods. You may freeze, fawn (appease), fight back, or flee. Your system is overwhelmed.
 
@@ -51,7 +51,7 @@ The explosion. The cruel words. The cold silence. The manipulation. Whatever for
 
 Also known as the "honeymoon phase." They apologize (maybe). They're sweet again. They show you the person you fell for. They may cry, make promises, show vulnerability. The charm returns.
 
-**Your nervous system:** Massive relief. After sustained stress, this relief triggers a dopamine surge—the reward chemical. You feel hope. You feel close. You feel like maybe, this time, it will be different.
+**Your nervous system:** Massive relief. After sustained stress, this relief triggers a dopamine surge (the reward chemical). You feel hope. You feel close. You feel like maybe, this time, it will be different.
 
 ### Phase 4: Calm
 
@@ -71,14 +71,14 @@ Your brain has a reward system that evolved to help you survive. When you get so
 
 But here's the catch: **intermittent, unpredictable rewards create stronger dopamine responses than consistent, predictable ones.**
 
-This is why slot machines are addictive while vending machines aren't. The slot machine might pay off—you don't know when. That uncertainty creates a neurological hook that reliable outcomes can't match.
+This is why slot machines are addictive while vending machines aren't. The slot machine might pay off (you don't know when). That uncertainty creates a neurological hook that reliable outcomes can't match.
 
 In an abusive relationship:
 - Love is the reward
 - The abuser is the slot machine
 - You keep pulling the lever
 
-When kindness comes—unpredictably, after pain—your brain registers it as more valuable than consistent kindness would be. The relief feels like love. The intermittent warmth feels like proof they really care.
+When kindness comes (unpredictably, after pain), your brain registers it as more valuable than consistent kindness would be. The relief feels like love. The intermittent warmth feels like proof they really care.
 
 You're not weak for being hooked. You're experiencing a neurological response that evolution designed to be powerful.
 
@@ -88,14 +88,14 @@ You're not weak for being hooked. You're experiencing a neurological response th
 
 Beyond intermittent reinforcement, there's another factor that deepens the trauma bond: cognitive dissonance.
 
-Cognitive dissonance is the mental discomfort you experience when holding contradictory beliefs or information. It's distinct from trauma bonding itself—trauma bonding is the overall attachment pattern created by cycles of abuse and affection, while cognitive dissonance is one of several psychological mechanisms that contribute to and maintain that bond.
+Cognitive dissonance is the mental discomfort you experience when holding contradictory beliefs or information. It's distinct from trauma bonding itself; trauma bonding is the overall attachment pattern created by cycles of abuse and affection, while cognitive dissonance is one of several psychological mechanisms that contribute to and maintain that bond.
 
 When someone alternates between:
 - Charm and cruelty
 - Warmth and coldness
 - "I love you" and "You're worthless"
 
-Your brain struggles to create a coherent picture. The contradiction is painful—humans prefer consistency. So your brain resolves the dissonance by:
+Your brain struggles to create a coherent picture. The contradiction is painful; humans prefer consistency. So your brain resolves the dissonance by:
 
 1. **Minimizing the bad:** "It wasn't that serious."
 2. **Maximizing the good:** "But when they're sweet, they're so sweet."
@@ -114,9 +114,9 @@ In an abusive relationship, something paradoxical happens: **the source of fear 
 
 When the person who hurt you is also the person you run to for comfort after being hurt, your attachment system gets scrambled. You become more attached, not less, because the cycle of fear → relief → bonding → fear repeats over and over.
 
-This is the same mechanism behind why kidnapping victims sometimes bond with their captors (Stockholm Syndrome—a specific term for hostage situations, while "trauma bonding" is the broader, more widely accepted term in psychology for attachment formed through abuse cycles) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds—it just bonds.
+This is the same mechanism behind why kidnapping victims sometimes bond with their captors (Stockholm Syndrome, a specific term for hostage situations, while "trauma bonding" is the broader, more widely accepted term in psychology for attachment formed through abuse cycles) and why children with abusive parents still desperately seek their approval. The attachment system doesn't distinguish between healthy and harmful bonds; it just bonds.
 
-**Physical intimidation intensifies this bonding even further.** When someone demonstrates your physical vulnerability—placing their hand on your throat, making a fist near you, standing over you—your body registers existential threat. Your survival brain activates. When that same person then becomes "safe" again (doesn't follow through, becomes calm, shows affection), the relief is overwhelming. The drop from mortal fear to safety creates an especially powerful neurochemical response. This is why relationships with physical intimidation can create some of the strongest trauma bonds—your body confuses the relief from their restraint with love, when really it's just relief that they chose not to hurt you this time. (See Chapter 3, Tactic 4; Chapter 9, Exit Phase Escalation)
+**Physical intimidation intensifies this bonding even further.** When someone demonstrates your physical vulnerability (placing their hand on your throat, making a fist near you, standing over you), your body registers existential threat. Your survival brain activates. When that same person then becomes "safe" again (doesn't follow through, becomes calm, shows affection), the relief is overwhelming. The drop from mortal fear to safety creates an especially powerful neurochemical response. This is why relationships with physical intimidation can create some of the strongest trauma bonds: your body confuses the relief from their restraint with love, when really it's just relief that they chose not to hurt you this time. (See Chapter 3, Tactic 4; Chapter 9, Exit Phase Escalation)
 
 ---
 

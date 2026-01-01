@@ -24,15 +24,15 @@ The beginning feels magical. You've never been seen like this. Never pursued lik
 
 **What it feels like in your body:**
 
-A rush. Electricity. Your heart races when you see their name on your phone. You can't stop thinking about them. You feel high—because you are. The neurochemistry of love-bombing is similar to addiction. Dopamine floods your system.
+A rush. Electricity. Your heart races when you see their name on your phone. You can't stop thinking about them. You feel high because you are. The neurochemistry of love-bombing is similar to addiction. Dopamine floods your system.
 
 This intensity feels like proof of connection. It's actually proof of speed.
 
 **Warning signs hidden in the magic:**
-- Speed (commitment talk very early)
+- Speed: commitment talk very early
 - Intensity disproportionate to time spent together
-- Future-faking ("We're going to be together forever")
-- Isolating praise ("You're not like other women/men")
+- Future-faking: "We're going to be together forever"
+- Isolating praise: "You're not like other women/men"
 - Questions that feel more like data-gathering
 - The sense that you're being studied rather than known
 
@@ -60,14 +60,14 @@ They leave. Or they create conditions so intolerable that you leave. Or the cycl
 
 **What it feels like in your body:**
 
-If they discard: devastation that feels disproportionate. You may have wanted to leave, and yet their leaving breaks you. This is trauma bond withdrawal—your nervous system was hooked.
+If they discard, devastation that feels disproportionate. You may have wanted to leave, and yet their leaving breaks you. This is trauma bond withdrawal. Your nervous system was hooked.
 
-If they cycle: exhaustion mixed with hope. Each return brings relief that feels like love. You're addicted to the repair. You mistake the highs that follow lows for intimacy.
+If they cycle, exhaustion mixed with hope. Each return brings relief that feels like love. You're addicted to the repair. You mistake the highs that follow lows for intimacy.
 
 **After discard:**
 - They may seem unbothered while you're devastated
-- They may have a new partner immediately ("supply replacement")
-- They may return ("hoovering") when you start to recover
+- They may have a new partner immediately (supply replacement)
+- They may return (hoovering) when you start to recover
 
 ### The Trauma Bond Explained
 
@@ -76,12 +76,12 @@ You may wonder why you can't just leave. Why you keep going back. Why you miss s
 This isn't weakness. It's neurochemistry.
 
 Trauma bonds form through:
-- **Intermittent reinforcement:** Unpredictable kindness is more bonding than consistent kindness. Your brain keeps seeking the reward.
-- **Hormonal hijack:** The stress-relief cycle creates oxytocin surges during reconciliation. Your body associates them with safety—exactly backwards.
-- **Identity erosion:** The longer you stay, the less you remember who you were before. Leaving feels like losing yourself.
-- **Fear activation:** When leaving feels dangerous (and it often is), staying feels like survival.
+- **Intermittent reinforcement.** Unpredictable kindness is more bonding than consistent kindness. Your brain keeps seeking the reward.
+- **Hormonal hijack.** The stress-relief cycle creates oxytocin surges during reconciliation. Your body associates them with safety, exactly backwards.
+- **Identity erosion.** The longer you stay, the less you remember who you were before. Leaving feels like losing yourself.
+- **Fear activation.** When leaving feels dangerous (and it often is), staying feels like survival.
 
-Breaking a trauma bond requires understanding it's not about love. It's about your nervous system being hijacked. You're not choosing this—you're stuck in it.
+Breaking a trauma bond requires understanding it's not about love. It's about your nervous system being hijacked. You're not choosing this. You're stuck in it.
 
 ### Sexualized Control Dynamics
 
@@ -121,7 +121,7 @@ Sexual dynamics in narcissistic relationships are rarely just about sex. They're
 
 **What it feels like in your body:**
 
-Confusion. Your body may respond to stimulation even when you're afraid or uncomfortable. This doesn't mean you wanted it—it means bodies respond to touch. This is one of the most painful parts to untangle: the physical response that felt like consent but wasn't.
+Confusion. Your body may respond to stimulation even when you're afraid or uncomfortable. This doesn't mean you wanted it. It means bodies respond to touch. This is one of the most painful parts to untangle: the physical response that felt like consent but wasn't.
 
 You may feel disconnected from your sexuality. Hypervigilant during intimacy. Unable to relax. Or numbed out entirely—going through motions without presence.
 
@@ -130,11 +130,11 @@ You may feel disconnected from your sexuality. Hypervigilant during intimacy. Un
 Many people struggle to name what happened because:
 - The sex felt good (bodies respond to stimulation regardless of consent)
 - They didn't say no clearly enough (they froze, fawned, or were confused)
-- The pleasure felt real (and it was—neurochemically)
+- The pleasure felt real (and it was, neurochemically)
 - The relationship "wasn't about sex" (so they dismiss the sexual dynamics)
 
 **The truth:**
-Sexuality in a narcissistic relationship is rarely clean. It carries the same patterns as everything else—control disguised as connection, pressure disguised as passion, and relief mistaken for intimacy.
+Sexuality in a narcissistic relationship is rarely clean. It carries the same patterns as everything else: control disguised as connection, pressure disguised as passion, and relief mistaken for intimacy.
 
 ### Red Flags to Trust
 
@@ -190,11 +190,11 @@ Use these questions to assess early:
 While many examples in this chapter use heterosexual relationship dynamics, narcissistic abuse occurs in all relationship types. LGBTQ+ survivors face unique challenges:
 
 **Additional control tactics in LGBTQ+ relationships:**
-- **Outing as threat or punishment:** Using your sexual orientation or gender identity as leverage
-- **Identity invalidation:** "You're not really [gay/trans/bi]" or weaponizing identity against you
-- **Community isolation:** Cutting you off from LGBTQ+ community and support networks
-- **Internalized shame exploitation:** Leveraging societal stigma you may have internalized
-- **Resource barriers:** Many traditional domestic violence resources were not designed with LGBTQ+ survivors in mind
+- **Outing as threat or punishment.** Using your sexual orientation or gender identity as leverage
+- **Identity invalidation.** "You're not really [gay/trans/bi]" or weaponizing identity against you
+- **Community isolation.** Cutting you off from LGBTQ+ community and support networks
+- **Internalized shame exploitation.** Leveraging societal stigma you may have internalized
+- **Resource barriers.** Many traditional domestic violence resources were not designed with LGBTQ+ survivors in mind
 
 **Additional barriers to leaving:**
 - Fear of not being believed by service providers
@@ -324,7 +324,7 @@ These are the relationships where:
 - They're "not good at emotions" so you stop having them around them
 - Your needs for connection are "clingy" or "needy"
 - They withdraw when you're upset rather than moving closer
-- Intimacy feels one-directional—you give, they receive
+- Intimacy feels one-directional: you give, they receive
 - You feel lonely in the relationship but can't pinpoint why
 
 **Financial control without obvious abuse:**
@@ -443,12 +443,12 @@ Throughout the relationship, there had been ongoing **appearance control** (Tact
 
 This situation demonstrates how multiple tactics interlock during high-stakes moments:
 
-1. **Tactic 29 - Suicide Threats**: Creating emotional hostage situation
-2. **Tactic 4 - Physical Intimidation**: Establishing physical dominance through threat
-3. **Tactic 3 - Volume Escalation**: Yelling to dominate the space
-4. **Tactic 18 - Reversal of Blame**: Making her responsible for his behavior
-5. **Tactic 9 - The Aesthetic Seesaw**: Controlling appearance as ownership
-6. **Public Humiliation**: Scene in front of friend (combination of tactics)
+1. **Tactic 29, Suicide Threats.** Creating emotional hostage situation
+2. **Tactic 4, Physical Intimidation.** Establishing physical dominance through threat
+3. **Tactic 3, Volume Escalation.** Yelling to dominate the space
+4. **Tactic 18, Reversal of Blame.** Making her responsible for his behavior
+5. **Tactic 9, The Aesthetic Seesaw.** Controlling appearance as ownership
+6. **Public Humiliation.** Scene in front of friend (combination of tactics)
 
 **The Pattern: The Extinction Burst**
 

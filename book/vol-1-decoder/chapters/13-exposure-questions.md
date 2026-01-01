@@ -6,12 +6,12 @@
 >
 > | Safety Level | Description | Can You Use These Questions? |
 > |--------------|-------------|------------------------------|
-> | **GREEN** | You're physically safe, not living with them, or have support nearby | Yes—use with awareness |
+> | **GREEN** | You're physically safe, not living with them, or have support nearby | Yes, use with awareness |
 > | **YELLOW** | Living together but no history of violence; exit plan exists | Use selectively, in calm moments only |
-> | **RED** | History of physical intimidation, threats, or violence | **NO—focus on safe exit first** |
+> | **RED** | History of physical intimidation, threats, or violence | **NO, focus on safe exit first** |
 >
 > **If you are in RED:**
-> - Do NOT use these questions—they can trigger dangerous escalation
+> - Do NOT use these questions, they can trigger dangerous escalation
 > - Prioritize Chapter 18's exit planning and safety resources
 > - Contact: National Domestic Violence Hotline: 1-800-799-7233 (24/7)
 > - Skip to Appendix A resources NOW
@@ -29,7 +29,7 @@
 
 ---
 
-This chapter contains questions designed to expose narcissistic patterns. These aren't tricks—they're mirrors. A narcissist cannot answer them authentically because their psychology prevents it.
+This chapter contains questions designed to expose narcissistic patterns. These aren't tricks; they're mirrors. A narcissist cannot answer them authentically because their psychology prevents it.
 
 **Why these work:**
 
@@ -40,17 +40,17 @@ Narcissists operate from a fundamentally different internal architecture. Where 
 - Black-and-white thinking that prevents nuanced self-reflection
 - Entitlement beliefs that leak through when tested
 
-These questions are designed to reveal what's underneath the mask—not through confrontation, but through simple inquiries that healthy people answer easily and narcissists cannot.
+These questions are designed to reveal what's underneath the mask: not through confrontation, but through simple inquiries that healthy people answer easily and narcissists cannot.
 
 ---
 
 **How to use these questions:**
 
-1. **Ask casually**—Don't telegraph that you're testing them
-2. **Listen to the structure**—The *way* they answer matters more than the content
-3. **Watch for deflection**—Pivots, counter-questions, and blame-shifts are data
-4. **Note your body**—Your nervous system often registers the truth before your mind
-5. **Pattern over incident**—One strange answer means nothing; patterns reveal everything
+1. **Ask casually:** Don't telegraph that you're testing them
+2. **Listen to the structure:** The *way* they answer matters more than the content
+3. **Watch for deflection:** Pivots, counter-questions, and blame-shifts are data
+4. **Note your body:** Your nervous system often registers the truth before your mind
+5. **Pattern over incident:** One strange answer means nothing; patterns reveal everything
 
 **What you're listening for:**
 
@@ -91,7 +91,7 @@ They can't genuinely imagine another's experience because others exist only in r
 
 ---
 
-### Question 1.2: "When was the last time you were wrong about someone—and how did you find out?"
+### Question 1.2: "When was the last time you were wrong about someone, and how did you find out?"
 
 **Why it exposes:**
 This requires admitting fallibility in judgment AND learning from it. Narcissists rarely revise their assessments because their judgments are tied to their ego.
@@ -113,13 +113,13 @@ Being wrong threatens their grandiosity. They can't access genuine examples beca
 ### Question 1.3: "What's something you admire about [person they've complained about]?"
 
 **Why it exposes:**
-This requires holding complexity—seeing good in someone they've devalued. Narcissists use black-and-white splitting: people are idealized or devalued, never both.
+This requires holding complexity: seeing good in someone they've devalued. Narcissists use black-and-white splitting; people are idealized or devalued, never both.
 
 **Healthy response:** Finds something genuine. "I mean, she drives me crazy, but honestly she's incredibly organized. I respect that."
 
 **Narcissistic tells:**
 - Cannot produce an admirable quality
-- Backhanded compliment: "Well, she's persistent, I'll give her that—like a disease"
+- Backhanded compliment: "Well, she's persistent, I'll give her that (like a disease)"
 - Deflection: "Why would I admire someone who treats me like that?"
 - Contempt: Sneering or dismissive tone
 
@@ -145,7 +145,7 @@ Real-time empathy requires attunement. Narcissists are focused on how YOU affect
 - Wrong and confident: States how you feel inaccurately with certainty
 
 **The trap mechanism:**
-They're not tracking your emotional state—they're tracking how your emotional state affects their supply. The question exposes the absence of genuine attunement.
+They're not tracking your emotional state; they're tracking how your emotional state affects their supply. The question exposes the absence of genuine attunement.
 
 ---
 
@@ -197,7 +197,7 @@ Owning fault without defensive hedging requires stable self-worth that can survi
 
 ---
 
-### Question 2.2: "Can you tell me about a time you really hurt someone—and what you learned?"
+### Question 2.2: "Can you tell me about a time you really hurt someone, and what you learned?"
 
 **Why it exposes:**
 This requires three things narcissists struggle with: admitting harm, feeling genuine remorse, and learning/changing.
@@ -219,7 +219,7 @@ Genuine harm-ownership threatens the idealized self-image. They'll either deny, 
 ### Question 2.3: "If you were completely wrong about this, how would you know?"
 
 **Why it exposes:**
-This tests epistemic humility—can they imagine being wrong and identify what evidence would prove it?
+This tests epistemic humility: can they imagine being wrong and identify what evidence would prove it?
 
 **Healthy response:** Genuine consideration. "I guess if [specific evidence] happened, I'd have to reconsider. That's a good question."
 
@@ -246,7 +246,7 @@ Healthy self-reflection includes awareness of genuine flaws. Narcissists either 
 - Humble-brag: "I care too much" / "I'm a perfectionist"
 - Reversal: "Why, what do you think it is?"
 - Defensive: "Nothing, why are you attacking me?"
-- Victim: "I'm too trusting—I let people hurt me"
+- Victim: "I'm too trusting; I let people hurt me"
 - Deflection: "What's the worst thing about YOU?"
 
 **The trap mechanism:**
@@ -257,13 +257,13 @@ Real flaws feel existentially threatening. They'll offer fake-flaws that are act
 ### Question 2.5: "What would your ex/former friend say was the reason things ended?"
 
 **Why it exposes:**
-This requires genuinely representing another person's perspective—especially one who likely saw behind the mask.
+This requires genuinely representing another person's perspective, especially one who likely saw behind the mask.
 
 **Healthy response:** Can articulate the other person's perspective even if disagreeing. "She'd probably say I wasn't emotionally available enough. I think we just wanted different things, but I can see her point."
 
 **Narcissistic tells:**
 - Pure vilification: "She'd lie and say I was abusive"
-- All exes are crazy: "Who knows what she'd say—she's unstable"
+- All exes are crazy: "Who knows what she'd say, she's unstable"
 - Complete denial: "She'd say it was her fault" (no accountability)
 - Projection: "She'd project all her issues onto me"
 - Pattern: Every past relationship ended because of the OTHER person
@@ -414,7 +414,7 @@ Their entitlement creates a double standard they can't acknowledge without expos
 **Why it exposes:**
 Direct question about their implicit belief. Most know they can't explicitly claim superiority.
 
-**Healthy response:** "I don't—you're right. I got caught up in my own stuff."
+**Healthy response:** "I don't, you're right. I got caught up in my own stuff."
 
 **Narcissistic tells:**
 - Justification: "Because I [special reason]"
@@ -430,7 +430,7 @@ The entitlement belief, when made explicit, can't be defended without revealing 
 
 ## Category 5: The Self-Reflection Exposure Questions
 
-These questions require genuine introspection—looking inward honestly. Narcissists have impoverished inner lives because looking inward threatens their constructed self.
+These questions require genuine introspection, looking inward honestly. Narcissists have impoverished inner lives because looking inward threatens their constructed self.
 
 ---
 
@@ -456,7 +456,7 @@ Genuine vulnerability requires a stable self. Sharing real fears with someone yo
 ### Question 5.2: "What do you like about yourself that has nothing to do with what you DO or what you HAVE?"
 
 **Why it exposes:**
-Narcissistic self-worth is externally anchored—achievements, possessions, admiration. Intrinsic worth is inaccessible.
+Narcissistic self-worth is externally anchored, achievements, possessions, admiration. Intrinsic worth is inaccessible.
 
 **Healthy response:** Intrinsic qualities. "I like that I'm curious. That I try to be fair. My sense of humor."
 
@@ -539,7 +539,7 @@ These questions test their capacity to receive feedback. Healthy egos can absorb
 **The question itself is the test.**
 
 **Why it exposes:**
-The response to the REQUEST for feedback—before any feedback is given—reveals ego fragility.
+The response to the REQUEST for feedback, before any feedback is given, reveals ego fragility.
 
 **Healthy response:** Open. "Sure, of course. What's up?"
 
@@ -558,7 +558,7 @@ Even the possibility of criticism triggers defensive architecture. The response 
 ### Question 6.2: "What feedback have you received that was hardest to hear but turned out to be true?"
 
 **Why it exposes:**
-This requires integrating criticism into self-concept—updating the self based on feedback. Narcissists resist all updates.
+This requires integrating criticism into self-concept, updating the self based on feedback. Narcissists resist all updates.
 
 **Healthy response:** Specific example. "Someone told me I talk over people. I was defensive at first, but they were right. I work on it now."
 
@@ -682,7 +682,7 @@ Inconvenience disrupts their comfort, which they prioritize. The question surfac
 **Why it exposes:**
 Tests if they're tracking your wellbeing proactively or only reactively when directly asked.
 
-**Healthy response:** Thoughtful. "You've seemed tired lately—maybe you need a break? Or someone to take something off your plate?"
+**Healthy response:** Thoughtful. "You've seemed tired lately, maybe you need a break? Or someone to take something off your plate?"
 
 **Narcissistic tells:**
 - No idea: Haven't been tracking
@@ -707,7 +707,7 @@ These questions help identify narcissism by mapping patterns rather than isolate
 **Why it exposes:**
 Patterns in relationship endings reveal the common denominator. If they're always the victim, they're likely the problem.
 
-**Healthy response:** Mixed narrative. "One didn't work out because we wanted different things. One I screwed up—I wasn't ready. One just faded."
+**Healthy response:** Mixed narrative. "One didn't work out because we wanted different things. One I screwed up, I wasn't ready. One just faded."
 
 **Narcissistic tells:**
 - All others' fault: Every ending attributed to the other person's issues
@@ -743,7 +743,7 @@ Needing villains reveals the splitting defense. People are either idealized or d
 ### Question 8.3: "Is there anyone who's hurt you that you've forgiven?"
 
 **Why it exposes:**
-Genuine forgiveness requires releasing grievance. Narcissists hold grudges because grievances are supply—reasons they're victims.
+Genuine forgiveness requires releasing grievance. Narcissists hold grudges because grievances are supply, reasons they're victims.
 
 **Healthy response:** Examples of genuine forgiveness. "My father and I had issues. We've worked through a lot. I've let go of most of it."
 
@@ -866,7 +866,7 @@ Unfairness without justification is pure wrongdoing. Their ego can't hold it.
 
 These questions aren't about winning arguments or trapping someone. They're about:
 
-1. **Clarity for yourself**—Understanding what you're dealing with
+1. **Clarity for yourself**, Understanding what you're dealing with
 2. **Pattern recognition**—Seeing the structure beneath the confusion
 3. **Reality testing**—Confirming your perception is accurate
 4. **Exit preparation**—Gathering evidence for your own decision-making
@@ -898,7 +898,7 @@ If someone consistently fails these questions:
 
 ### The Limitation
 
-These questions expose pattern—they don't change people. You cannot question someone into self-awareness. You can only clarify reality for yourself.
+These questions expose pattern, they don't change people. You cannot question someone into self-awareness. You can only clarify reality for yourself.
 
 ---
 
@@ -921,4 +921,4 @@ A narcissist will struggle, deflect, reverse, or produce an example that reveals
 
 ---
 
-*"The question isn't whether they'll answer honestly. It's whether their answer—honest or not—reveals what you need to know."*
+*"The question isn't whether they'll answer honestly. It's whether their answer, honest or not—reveals what you need to know."*

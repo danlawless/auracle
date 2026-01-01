@@ -123,7 +123,7 @@ For moments when you need immediate regulation:
 - Sigh loudly
 - Hum
 - Even a sustained "voo" sound
-- Vocalization engages the vagus nerve and calms activation
+- Vocalization engages the vagus nerve and calms you
 
 ---
 

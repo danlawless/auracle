@@ -6,7 +6,7 @@
 
 Your body knew before you did.
 
-Think back to an interaction that left you feeling confused, diminished, or somehow wrong. Before you could articulate what happened—before you could point to a specific word or action—your body was already responding.
+Think back to an interaction that left you feeling confused, diminished, or somehow wrong. Before you could articulate what happened, before you could point to a specific word or action, your body was already responding.
 
 Maybe it was:
 - A tightness in your chest
@@ -25,7 +25,7 @@ This chapter is about learning to trust that signal.
 
 ## The Body as Early Warning System
 
-Humans are wired for survival. Long before we developed language, our ancestors survived by reading subtle cues in their environment and in each other. We still have this capacity—we've just been trained to ignore it.
+Humans are wired for survival. Long before we developed language, our ancestors survived by reading subtle cues in their environment and in each other. We still have this capacity, we've just been trained to ignore it.
 
 The body processes information much faster than the conscious mind. While your brain is still thinking, "They seem nice, they're saying caring things," your nervous system is registering:
 
@@ -35,7 +35,7 @@ The body processes information much faster than the conscious mind. While your b
 - Timing patterns that feel controlling (when they text, how they interrupt)
 - The gap between what they say and how you feel hearing it
 - Subtle dominance signals in posture and space-taking
-- The quality of attention—whether you're being seen or scanned
+- The quality of attention, whether you're being seen or scanned
 
 This isn't mystical. It's biology. Your autonomic nervous system is constantly scanning for threat, and it has access to information your conscious awareness doesn't.
 
@@ -52,19 +52,13 @@ Every time someone dismissed your perception, they trained you to distrust your 
 
 ### The Neuroception of Safety and Danger
 
-Dr. Stephen Porges, the neuroscientist who developed Polyvagal Theory, coined the term "neuroception" to describe the process by which our nervous system evaluates risk without our conscious awareness. (Note: While Polyvagal Theory has been influential in trauma therapy, some aspects remain contested within neuroscience. The core insight about unconscious threat detection, however, is well-supported by research.) Your body is constantly asking: "Am I safe? Am I in danger? Do I need to fight, flee, freeze, or fawn?"
+Dr. Stephen Porges, the neuroscientist who developed Polyvagal Theory, coined the term "neuroception" to describe the process by which our nervous system evaluates risk without our conscious awareness. (Note: While Polyvagal Theory has been influential in trauma therapy, some aspects remain contested within neuroscience. The core insight about unconscious threat detection, however, is well-supported by research.) Your body is constantly asking: Am I safe? Am I in danger? Do I need to fight, flee, freeze, or fawn?
 
 This evaluation happens below the level of thought. Before you've decided what you think about someone, your nervous system has already made an assessment.
 
-When neuroception detects danger, it triggers a cascade of physiological responses:
-- Heart rate changes
-- Breathing becomes shallow
-- Muscles tense
-- Attention narrows
-- Digestion slows
-- Energy mobilizes for protection
+When neuroception detects danger, it triggers a cascade of physiological responses: heart rate changes, breathing becomes shallow, muscles tense, attention narrows, digestion slows, energy mobilizes for protection.
 
-These responses evolved to save your life. But in the context of psychological manipulation, they can become confusing—because the "danger" isn't physical. It's relational.
+These responses evolved to save your life. But in the context of psychological manipulation, they can become confusing because the "danger" isn't physical. It's relational.
 
 Your body recognizes psychological threat even when your mind is still deciding whether to call it that.
 
@@ -76,7 +70,7 @@ Let's get specific. When you're in the presence of control disguised as care, yo
 
 ### Tension Behind the Heart
 
-There's a physical sensation—almost like something pressing against your chest from inside—that occurs when you're in the presence of someone who wants something from you that you don't want to give. It's different from anxiety. It's more like bracing.
+There's a physical sensation, almost like something pressing against your chest from inside, that occurs when you're in the presence of someone who wants something from you that you don't want to give. It's different from anxiety. It's more like bracing.
 
 If you tune into this area during interactions, you'll start to notice it as an early warning signal. The heart knows when it's being approached with genuine care versus when it's being approached as a target.
 
@@ -90,7 +84,7 @@ The heart space knows the difference between being loved and being wanted.
 
 ### Constant Alertness and Vigilance
 
-This is the "scanning" sensation—when part of your attention is always monitoring their mood, their tone, their face. You're watching for the shift. You're trying to predict what's coming.
+This is the "scanning" sensation, when part of your attention is always monitoring their mood, their tone, their face. You're watching for the shift. You're trying to predict what's coming.
 
 This hypervigilance is exhausting, but when you're in it, it feels necessary. You've learned (often through painful experience) that the mood can change without warning, and you need to be ready.
 
@@ -106,7 +100,7 @@ This vigilance drains your life force. Energy that should go toward your own lif
 
 ### Shame Arising for No Clear Reason
 
-You haven't done anything wrong, but you feel somehow inadequate. You feel the need to justify your existence, your choices, your presence. This is shame being *deposited into you*—not arising from your own actions, but being transmitted from someone who can't hold it themselves.
+You haven't done anything wrong, but you feel somehow inadequate. You feel the need to justify your existence, your choices, your presence. This is shame being *deposited into you*, not arising from your own actions, but being transmitted from someone who can't hold it themselves.
 
 The narcissist's shame is intolerable to them. So they offload it onto others. If you suddenly feel ashamed in someone's presence without any clear cause, you may be carrying their emotional burden.
 
@@ -124,7 +118,7 @@ Important: This is not your shame. It's theirs, and they've made you the contain
 
 This is one of the most distinctive signatures: the sense that there are multiple versions of this person, and you never know which one you'll get. The charming one? The cold one? The angry one? The wounded one? The dismissive one? The adoring one?
 
-This uncertainty keeps you perpetually off-balance. It's not a bug—it's a feature. Your instability serves their control.
+This uncertainty keeps you perpetually off-balance. It's not a bug, it's a feature. Your instability serves their control.
 
 You might notice:
 - Checking their face or voice immediately upon contact to determine "which version" is present
@@ -140,9 +134,9 @@ In healthy relationships, people are generally consistent. You know who you're g
 
 Perhaps the most telling sign: you feel yourself physically and energetically contracting. Your voice gets quieter. Your opinions get less certain. Your presence feels less justified.
 
-In healthy relationships, you feel *more* yourself over time—more confident, more expansive, more free.
+In healthy relationships, you feel *more* yourself over time, more confident, more expansive, more free.
 
-In controlling relationships, you feel *less* yourself over time—smaller, quieter, more careful.
+In controlling relationships, you feel *less* yourself over time, smaller, quieter, more careful.
 
 This contraction is your body's honest signal that something is wrong.
 
@@ -167,13 +161,13 @@ After interactions with controlling people, you may notice:
 - Needing time alone to "come back to yourself"
 - Memory gaps about the interaction
 
-This mental fog is a nervous system response. When your system detects threat, it can shift resources away from higher cognitive functions toward survival responses. You're not stupid or losing your mind—you're in a physiological state that impairs clear thinking.
+This mental fog is a nervous system response. When your system detects threat, it can shift resources away from higher cognitive functions toward survival responses. You're not stupid or losing your mind, you're in a physiological state that impairs clear thinking.
 
 The fog often lifts once you're away from them. That tells you something important.
 
 ### The Exhaustion After
 
-Even short interactions might leave you disproportionately tired. This exhaustion isn't about the content of the conversation—it's about the energy expenditure required to:
+Even short interactions might leave you disproportionately tired. This exhaustion isn't about the content of the conversation, it's about the energy expenditure required to:
 - Monitor their state
 - Manage your presentation
 - Suppress your authentic responses
@@ -234,7 +228,7 @@ To recognize the energetic signature of control, you need to know what healthy c
 
 ## The Calibration Practice
 
-Experience miscalibrated your nervous system. If you grew up with control disguised as care, you may not recognize healthy connection when you encounter it—it might even feel boring, suspicious, or "too easy."
+Experience miscalibrated your nervous system. If you grew up with control disguised as care, you may not recognize healthy connection when you encounter it, it might even feel boring, suspicious, or "too easy."
 
 Here's a practice to recalibrate:
 
@@ -257,7 +251,7 @@ Write these observations down. Over time, patterns will emerge.
 
 Your mind will immediately generate a story to explain the feeling. "I feel tense because I didn't sleep well." "I feel small because I said something stupid." "I feel drained because I'm tired from work."
 
-Before accepting the story, sit with the signal. The story may be a cover—a way to avoid the more uncomfortable truth that this person's energy is not safe for you.
+Before accepting the story, sit with the signal. The story may be a cover, a way to avoid the more uncomfortable truth that this person's energy is not safe for you.
 
 Ask yourself: "Is this story true, or is it the easiest explanation that doesn't require me to change anything?"
 
@@ -275,7 +269,7 @@ This information is valuable. Your body is showing you who is safe.
 
 ### Step 4: Honor the Signal with Action
 
-The final step—and the hardest—is to act on what your body tells you. This might mean:
+The final step, and the hardest—is to act on what your body tells you. This might mean:
 - Reducing time with people who trigger contraction
 - Setting boundaries with people whose presence requires hypervigilance
 - Investing more in relationships that feel expansive
@@ -299,7 +293,7 @@ When your nervous system feels safe, you're in what's called the "ventral vagal"
 - Access creativity and play
 - Engage with curiosity rather than fear
 
-This is where you want to be—and where healthy relationships keep you.
+This is where you want to be, and where healthy relationships keep you.
 
 ### Sympathetic: Fight or Flight
 
@@ -310,7 +304,7 @@ When your nervous system detects threat, it shifts into sympathetic activation:
 - Attention narrows
 - Energy mobilizes for action
 
-In relationships with controlling people, you might notice chronic low-level sympathetic activation—a constant sense of alertness or readiness for "something."
+In relationships with controlling people, you might notice chronic low-level sympathetic activation, a constant sense of alertness or readiness for "something."
 
 ### Dorsal Vagal: Freeze, Shutdown, Collapse
 
@@ -348,7 +342,7 @@ This makes them ideal targets for narcissists because:
 
 2. **They'll doubt their own perception.** When told they're "too sensitive," they're likely to believe it and override their instincts.
 
-3. **They provide high-quality emotional supply.** Sensitive people are attuned, responsive, and emotionally available—exactly what narcissists seek.
+3. **They provide high-quality emotional supply.** Sensitive people are attuned, responsive, and emotionally available, exactly what narcissists seek.
 
 4. **They'll tolerate more before leaving.** Their empathy allows them to see the narcissist's wounds and make excuses for harmful behavior.
 
@@ -371,7 +365,7 @@ If you're an HSP:
 - You process experiences more deeply, which takes time
 - You're likely highly creative, intuitive, and empathetic
 
-Your sensitivity isn't a weakness to be overcome. It's a trait to be understood and honored. The goal isn't to become less sensitive—it's to become discerning about where you invest that sensitivity.
+Your sensitivity isn't a weakness to be overcome. It's a trait to be understood and honored. The goal isn't to become less sensitive, it's to become discerning about where you invest that sensitivity.
 
 ---
 
@@ -385,7 +379,7 @@ Your sensitivity isn't a weakness to be overcome. It's a trait to be understood 
 
 **What's really happening:** You accurately detected something they don't want you to see.
 
-Think about it: When has anyone ever said "you're too sensitive" in response to something that wasn't actually hurtful? They say it precisely *because* you felt something—and that feeling threatens their control.
+Think about it: When has anyone ever said "you're too sensitive" in response to something that wasn't actually hurtful? They say it precisely *because* you felt something, and that feeling threatens their control.
 
 The appropriate response to accidentally hurting someone is: "I'm sorry, I didn't realize that would land that way."
 
@@ -438,11 +432,11 @@ Then trust what you perceived.
 
 ## Developing Your Energetic Literacy
 
-The goal isn't to become paranoid or to see control everywhere. The goal is energetic literacy—the ability to read relational energy accurately and respond accordingly.
+The goal isn't to become paranoid or to see control everywhere. The goal is energetic literacy, the ability to read relational energy accurately and respond accordingly.
 
 Think of it like learning to read. Before you could read, text was just shapes. Once you learned, you couldn't *not* see the meaning. Words jumped out at you everywhere.
 
-Energetic literacy works the same way. Once you learn to read the signature of control, you'll see it clearly—in real-time interactions, in text messages, in group dynamics, in your own family patterns.
+Energetic literacy works the same way. Once you learn to read the signature of control, you'll see it clearly, in real-time interactions, in text messages, in group dynamics, in your own family patterns.
 
 This isn't about judgment. It's about accurate perception.
 
@@ -457,7 +451,7 @@ You can identify what happened in hindsight. After an interaction, you can name 
 You can identify what's happening during the interaction. You notice the tactic as it's being deployed and can name it to yourself: "Oh, this is minimization." This awareness creates choice.
 
 **Level 3: Recognition Before Engagement**
-You can sense the pattern before it fully activates. Something in the first few moments of an interaction signals caution. You can choose to engage differently—or not at all.
+You can sense the pattern before it fully activates. Something in the first few moments of an interaction signals caution. You can choose to engage differently, or not at all.
 
 Most people reading this book are at Level 1. The goal is to develop Level 2 and eventually Level 3.
 
@@ -478,7 +472,7 @@ When you're uncertain about someone's energy, use this 60-second body scan:
 - Are you editing yourself? Did you just suppress something?
 - Where are your shoulders? Did they creep up toward your ears?
 - Are you leaning in or pulling back?
-- Is your voice changing—getting quieter, higher, more careful?
+- Is your voice changing, getting quieter, higher, more careful?
 
 **Step 3: After Interaction**
 - Do you feel more or less yourself?
@@ -486,7 +480,7 @@ When you're uncertain about someone's energy, use this 60-second body scan:
 - Do you feel clear or confused?
 - Do you need to "recover" from what should have been a normal conversation?
 
-**The Rule:** If your body contracted during or after, pay attention—regardless of what your mind is telling you about how "nice" they were.
+**The Rule:** If your body contracted during or after, pay attention, regardless of what your mind is telling you about how "nice" they were.
 
 ---
 
@@ -516,7 +510,7 @@ You feel locked, stuck, unable to move or respond. Time seems to slow down. You'
 
 ### The Flight Impulse
 
-Part of you wants to leave—the room, the conversation, the relationship. You keep glancing at exits. Your body is ready to go even as you stay.
+Part of you wants to leave, the room, the conversation, the relationship. You keep glancing at exits. Your body is ready to go even as you stay.
 
 ### The Fawn Flood
 
@@ -542,7 +536,7 @@ When someone leaves you feeling confused or diminished:
 
 1. **Don't respond immediately** to any requests or provocations
 2. **Wait 24 hours** before making decisions about the relationship
-3. **Check your body** again after sleep—does it still feel contracted?
+3. **Check your body** again after sleep, does it still feel contracted?
 4. **Consult your safe person** before taking action
 5. **Write down what happened** while it's fresh, but don't act on it yet
 
@@ -584,7 +578,7 @@ Now you have two reference points. New relationships can be measured against the
 
 Generalized anxiety is real and valid. But notice whether your anxiety is consistent across contexts or specific to certain people. If you're generally anxious but notably MORE anxious around specific people, that's information.
 
-Also notice the quality of anxiety. Generalized anxiety often feels random and free-floating. The anxiety triggered by a controlling person often feels directed—like it has a source you're responding to, even if you can't name it.
+Also notice the quality of anxiety. Generalized anxiety often feels random and free-floating. The anxiety triggered by a controlling person often feels directed, like it has a source you're responding to, even if you can't name it.
 
 ### "What if they're just intense but not harmful?"
 
@@ -596,7 +590,7 @@ Both are intense, but one nourishes and one drains. Trust the impact, not the in
 
 ### "What if I'm projecting my past onto them?"
 
-This is possible and worth examining. But consider: even if you're sensitive due to past experiences, your sensitivity is still detecting something. Maybe you're detecting a pattern that isn't present in this person—but maybe you're detecting a pattern they're very good at hiding.
+This is possible and worth examining. But consider: even if you're sensitive due to past experiences, your sensitivity is still detecting something. Maybe you're detecting a pattern that isn't present in this person, but maybe you're detecting a pattern they're very good at hiding.
 
 The question isn't "Am I being fair to them?" The question is "Is my nervous system safe?"
 
@@ -619,7 +613,7 @@ When body and mind disagree, **default to the body**.
 
 Your body doesn't have an agenda. It's not trying to be polite, reasonable, or fair. It's not worried about what others will think. It's simply registering impact.
 
-Your mind, on the other hand, has been trained—by culture, by family, by the controlling person themselves—to override, dismiss, and explain away your direct experience.
+Your mind, on the other hand, has been trained, by culture, by family, by the controlling person themselves, to override, dismiss, and explain away your direct experience.
 
 When in doubt, trust the organism.
 
@@ -640,7 +634,7 @@ When in doubt, trust the organism.
 After your next significant interaction, pause and notice: What does my body feel? Am I larger or smaller than before? Energized or drained? Clear or confused? Trust the signal before the story.
 
 **Key Skill to Develop:**
-The ability to pause, scan your body, and name what you're feeling—before your mind creates a story that explains it away.
+The ability to pause, scan your body, and name what you're feeling, before your mind creates a story that explains it away.
 
 ---
 

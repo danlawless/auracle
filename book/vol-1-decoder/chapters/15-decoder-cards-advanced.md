@@ -22,13 +22,13 @@ These cards cover more complex manipulation patterns—tactics that are harder t
 - Emergencies that appear whenever you have plans
 
 **What's Really Happening:**
-Your time isn't yours—it's theirs to claim. By creating urgency, they test your compliance and train you to prioritize their timeline over your own.
+Your time isn't yours. It's theirs to claim. By creating urgency, they test your compliance and train you to prioritize their timeline over your own.
 
 **How It Hooks You:**
 You feel cruel ignoring emergencies. You drop your plans because what if this time it's real?
 
 **Your Power Move:**
-"I can talk at [specific time]." Real emergencies are rare; manufactured ones are constant. If everything is urgent, nothing is.
+"I can talk at [specific time]." Real emergencies are rare. Manufactured ones are constant. If everything is urgent, nothing is.
 
 ---
 
@@ -66,7 +66,7 @@ Trust what you observe. Name it directly: "When you do [specific action], it fee
 - Nervous energy behind requests for connection
 
 **What's Really Happening:**
-Your boundary has threatened their sense of control. The pressure to "keep in contact" isn't about genuine connection—it's about maintaining access. The anxiety you sense is their fear of losing the ability to influence or monitor you.
+Your boundary has threatened their sense of control. The pressure to "keep in contact" isn't about genuine connection. It's about maintaining access. The anxiety you sense is their fear of losing the ability to influence or monitor you.
 
 **How It Hooks You:**
 The request sounds reasonable. You feel guilty for wanting distance. You mistake their anxiety for love. You agree to terms of contact that undermine your boundaries just to relieve the tension in the moment.
@@ -89,35 +89,23 @@ The request sounds reasonable. You feel guilty for wanting distance. You mistake
 
 **What's Really Happening:**
 
-Your apology removed their leverage. They can no longer:
-- Hold moral superiority
-- Keep the conflict alive
-- Extract repair from you
-- Maintain a grievance-based identity
+Your apology removed their leverage. They can no longer hold moral superiority, keep the conflict alive, extract repair from you, or maintain a grievance-based identity.
 
-So they withdraw instead of reconnect. This is not reconciliation avoidance—it's control through absence.
+So they withdraw instead of reconnect. This is not reconciliation avoidance. It's control through absence.
 
-Instead of mutual repair, they:
-- Avoid vulnerability
-- Avoid their own accountability
-- Preserve distance as safety
-- Maintain superiority by not engaging
+Instead of mutual repair, they avoid vulnerability, avoid their own accountability, preserve distance as safety, and maintain superiority by not engaging.
 
 Distance becomes the message.
 
 **Why it feels worse than silence:**
 
-Because it says: "I'll acknowledge you just enough to stay relevant—but not enough to be relational." It keeps you emotionally activated without offering connection. It's presence without presence.
+Because it says, "I'll acknowledge you just enough to stay relevant, but not enough to be relational." It keeps you emotionally activated without offering connection. It's presence without presence.
 
 **How It Hooks You:**
 
-Because it's not complete silence, you hold out hope. You think: "Maybe I didn't apologize well enough," "Maybe I should try again," "Maybe time will soften this." You stay emotionally activated waiting for connection that never comes.
+Because it's not complete silence, you hold out hope. You think, "Maybe I didn't apologize well enough," "Maybe I should try again," "Maybe time will soften this." You stay emotionally activated waiting for connection that never comes.
 
-Symbolic contact without warmth:
-- Reopens emotional doors without offering safety
-- Keeps you in limbo
-- Maintains a hierarchy
-- Prevents closure
+Symbolic contact without warmth reopens emotional doors without offering safety, keeps you in limbo, maintains a hierarchy, and prevents closure.
 
 Your body is signaling: "This is not nourishing. This is not real connection." That signal is trustworthy.
 
@@ -148,18 +136,18 @@ The correct internal reframe: "Repair is mutual or it's not repair. I completed 
 
 **What's Really Happening:**
 
-This is not confession—it's deflection. The emotional burden shifts from them being harmful to them being hurt. They'd rather be the victim, the tragic antihero, than the person who caused harm.
+This is not confession. It's deflection. The emotional burden shifts from them being harmful to them being hurt. They'd rather be the victim, the tragic antihero, than the person who caused harm.
 
 This accomplishes three things instantly:
-1. **Stops accountability**—You can't stay angry at a "wounded soul"
-2. **Reverses roles**—Suddenly you feel bad for them
-3. **Re-opens emotional access**—Now you're managing their feelings instead of addressing their behavior
+1. **Stops accountability.** You can't stay angry at a "wounded soul"
+2. **Reverses roles.** Suddenly you feel bad for them
+3. **Re-opens emotional access.** Now you're managing their feelings instead of addressing their behavior
 
 This creates powerful trauma bonds instantly.
 
 **How It Hooks You:**
 
-Compassionate people see their "pain" and think: "They're hurting—this isn't about me." You shift from confronting to caretaking—comforting the person who hurt you.
+Compassionate people see their "pain" and think, "They're hurting. This isn't about me." You shift from confronting to caretaking, comforting the person who hurt you.
 
 You feel sympathy instead of anger. Your guard lowers. You feel guilty for being upset. You justify the original betrayal because you're now emotionally managing their feelings.
 
@@ -250,7 +238,7 @@ Anxiety spikes immediately. You drop everything. You start rehearsing what you m
 
 **What's Really Happening:**
 
-They're using the implicit threat of physical harm to establish dominance. You don't have to be hit to be controlled by the possibility of being hit. The fear is the point. By demonstrating your physical vulnerability, they remind you who has power—and that your safety depends on their restraint.
+They're using the implicit threat of physical harm to establish dominance. You don't have to be hit to be controlled by the possibility of being hit. The fear is the point. By demonstrating your physical vulnerability, they remind you who has power. Your safety depends on their restraint.
 
 **How It Hooks You:**
 
@@ -525,7 +513,7 @@ Then actually go to sleep. Your rested self makes better decisions than your dep
 
 **What's Really Happening:**
 
-They're taking you emotionally hostage. By making you responsible for their life, they trap you in the relationship through fear and guilt. The threat weaponizes your empathy. Whether or not they mean it, the effect is the same: you're paralyzed.
+They're taking you emotionally hostage. By making you responsible for their life, they trap you in the relationship through fear and guilt. The threat weaponizes your empathy. Whether or not they mean it, the effect is the same. You're paralyzed.
 
 **How It Hooks You:**
 
@@ -575,8 +563,8 @@ You need your things. You keep reaching out. Each interaction gives them another
 **Your Power Move:**
 
 Decide what's worth the engagement:
-- For valuable items: Use a third party (friend, courier, mediator) to retrieve them
-- For lower-value items: Consider whether peace of letting go outweighs the object's worth
+- For valuable items, use a third party (friend, courier, mediator) to retrieve them
+- For lower-value items, consider whether peace of letting go outweighs the object's worth
 
 Don't let possessions become chains. Your freedom is worth more than your stuff.
 

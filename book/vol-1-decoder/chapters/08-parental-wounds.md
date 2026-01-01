@@ -6,7 +6,7 @@
 
 > **A Note on Terminology**
 >
-> This chapter uses "Mother Wound" and "Father Wound" as recognizable terms, but these patterns aren't limited to biological parents of specific genders. These **Parental Wounds** can be created by any parent or caregiver—a father, grandmother, two mothers, a non-binary parent, or any other caregiver regardless of gender.
+> This chapter uses "Mother Wound" and "Father Wound" as recognizable terms, but these patterns aren't limited to biological parents of specific genders. These **Parental Wounds** can be created by any parent or caregiver: a father, grandmother, two mothers, a non-binary parent, or any other caregiver regardless of gender.
 >
 > If you were raised by same-sex parents, grandparents, single parents, or in non-traditional family structures, translate these patterns to fit your experience. The wound patterns are about the *role* and *attachment dynamics*, not the gender or biological relationship of the parent. Narcissistic patterns can emerge in any parent or caregiver of any gender.
 
@@ -16,29 +16,25 @@
 
 When the narcissist is your parent, the wound runs particularly deep.
 
-Our parents are our first attachment—whether biological mothers, fathers, adoptive parents, grandparents, or other figures who raised us. Psychologically, you're wired to bond with whoever fills that parenting role. When that bond is contaminated by narcissism, it affects your most foundational understanding of:
-- Whether you're worthy of love
-- Whether your needs matter
-- Whether you can trust those closest to you
-- Whether you deserve to exist
+Our parents are our first attachment, whether biological mothers, fathers, adoptive parents, grandparents, or other figures who raised us. Psychologically, you're wired to bond with whoever fills that parenting role. When that bond is contaminated by narcissism, it affects your most foundational understanding of whether you're worthy of love, whether your needs matter, whether you can trust those closest to you, whether you deserve to exist.
 
 ### The Narcissistic Parent May:
 
 - Compete with their child rather than nurture them
-- Depend on their children for emotional regulation ("parentification")
+- Depend on their children for emotional regulation (parentification)
 - Ignore children's needs while expecting attention to their own
 - Use children as extensions of themselves rather than seeing them as separate people
 - Intrude on privacy, boundaries, and autonomy
 - Switch between smothering and neglecting
 - Be enraged by children's independence or success
 - Play victim when children set boundaries
-- Betray confidences (the "Mother Betrayal Pattern")
+- Betray confidences (the Mother Betrayal Pattern)
 
 ### What It Feels Like to Have a Narcissistic Parent
 
-There's a particular loneliness in this wound. Society expects parents to be nurturing. The cultural narrative says they love unconditionally. So when yours didn't—when yours competed, criticized, neglected, or used you—you may have concluded the problem was you.
+There's a particular loneliness in this wound. Society expects parents to be nurturing. The cultural narrative says they love unconditionally. So when yours didn't (when yours competed, criticized, neglected, or used you), you may have concluded the problem was you.
 
-You may have spent years trying to earn what should have been freely given. Performing. Achieving. Being good enough. Only to realize that "enough" didn't exist.
+You may have spent years trying to earn what should have been freely given, performing, achieving, being good enough, only to realize that "enough" didn't exist.
 
 You may have learned to:
 - Caretake before being cared for
@@ -47,11 +43,11 @@ You may have learned to:
 - Apologize for existing
 - Need nothing, want nothing, and be nothing that inconveniences her
 
-And underneath all of it, a primal grief: the mother you needed isn't the mother you got.
+And underneath all of it, a primal grief. The mother you needed isn't the mother you got.
 
 ### The Mother Betrayal Pattern: Deep Dive
 
-**What it feels like:** A sudden drop in your chest. A sting of shame. A feeling of being exposed, unprotected, or "sold out." The shock of: "How could my own mother do this?"
+**What it feels like:** A sudden drop in your chest. A sting of shame. A feeling of being exposed, unprotected, or "sold out." The shock of "How could my own mother do this?"
 
 **Pattern name:** Maternal Undermining + Triangulated Exposure
 
@@ -67,14 +63,10 @@ And underneath all of it, a primal grief: the mother you needed isn't the mother
 
 **What's really happening:**
 
-1. **This isn't a misunderstanding—it's an emotional boundary violation.**
+1. This isn't a misunderstanding. It's an emotional boundary violation.
 2. She chose the system over your safety.
-3. Your shame is NOT yours—it's the byproduct of being exposed without consent.
-4. Narcissistic or emotionally immature mothers prioritize:
-   - Harmony over honesty
-   - Image over intimacy
-   - The golden child over the truth
-   - Control over connection
+3. Your shame is NOT yours. It's the byproduct of being exposed without consent.
+4. Narcissistic or emotionally immature mothers prioritize harmony over honesty, image over intimacy, the golden child over the truth, control over connection.
 5. Your mother did NOT protect you because she never learned how. Not with you. Not with anyone.
 
 **What maternal betrayal does to the daughter:**
@@ -114,7 +106,7 @@ She cannot hold it.
 
 4. **Detach with clarity:** Her betrayal is information. Not a crisis. Not a reason to self-blame. Not a reason to re-engage. Information.
 
-**The empowered reframe:** Maternal betrayal is not a sign that you are unlovable—it is evidence she was never capable of emotionally mothering you. This is devastating—and freeing.
+**The empowered reframe:** Maternal betrayal is not a sign that you are unlovable; it is evidence she was never capable of emotionally mothering you. This is devastating and freeing.
 
 **Activation statement:** "It was not my job to make her safe enough to protect me. I release the shame that was never mine."
 
@@ -126,26 +118,26 @@ She cannot hold it.
 
 She is called to speak.
 
-Not as witness to a crime, but as evidence of one parent's unfitness—a case built on her mother's fear and her own careful silence.
+Not as witness to a crime, but as evidence of one parent's unfitness: a case built on her mother's fear and her own careful silence.
 
-Before the hearing, she is coached. Not in words, but in implications. In the weight of her mother's desperation. In the understanding that if she doesn't say the right things, everything will fall apart. Her siblings depend on her. Her mother depends on her. The family depends on her saying what needs to be said.
+Before the hearing, she is coached. Not in words, but in implications, in the weight of her mother's desperation, in the understanding that if she doesn't say the right things, everything will fall apart. Her siblings depend on her. Her mother depends on her. The family depends on her saying what needs to be said.
 
 So she says it.
 
-She describes a monster. A man unfit to parent. Words that don't match the father she knows—the one who helped with homework, who drove her to school, who was imperfect but present.
+She describes a monster. A man unfit to parent. Words that don't match the father she knows, the one who helped with homework, who drove her to school, who was imperfect but present.
 
 The courtroom believes her. Why wouldn't they? Children don't lie about such things.
 
-But she knows. Her body knows. Something inside her collapses as she speaks—the part of her that trusted herself, that believed words meant truth, that thought loyalty and love were the same thing.
+But she knows. Her body knows. Something inside her collapses as she speaks, the part of her that trusted herself, that believed words meant truth, that thought loyalty and love were the same thing.
 
-She chose her mother. She betrayed her father. She protected her siblings—or so she told herself.
+She chose her mother. She betrayed her father. She protected her siblings, or so she told herself.
 
 What she couldn't see then: she was never supposed to choose. The choice itself was the wound.
 
 Years later, she will struggle to trust her own voice. She will second-guess her perceptions. She will feel guilty for speaking and guilty for staying silent. She will wonder if every relationship requires her to pick a side, to perform, to sacrifice truth for belonging.
 
 Her body learned:
-*Love requires betrayal. Protection requires lies. Your words can destroy someone—and you will be asked to use them.*
+*Love requires betrayal. Protection requires lies. Your words can destroy someone, and you will be asked to use them.*
 
 She was a child. She did what children do when adults fail to protect them from impossible positions: she survived it.
 
@@ -175,16 +167,7 @@ But she carries it still.
 
 5. **Wanting distance is a SIGN of awakening, not cruelty.**
 
-**What this moment actually indicates:**
-- Your boundaries are coming online
-- The fantasy mother is dissolving
-- The real mother is becoming visible
-- The inner child is speaking
-- You are breaking the role
-- You are stepping into sovereignty
-- You are no longer hypnotized
-- Your nervous system is choosing safety
-- Your adult self is taking over
+**What this moment actually indicates:** Your boundaries are coming online. The fantasy mother is dissolving. The real mother is becoming visible. The inner child is speaking. You are breaking the role. You are stepping into sovereignty. You are no longer hypnotized. Your nervous system is choosing safety. Your adult self is taking over.
 
 **What to STOP telling yourself:**
 - "I'm a bad daughter."
@@ -217,7 +200,7 @@ These are role-conditioning scripts, not truth.
 
 **The empowered reframe:** Wanting distance is not disrespect. It is self-respect.
 
-**Activation statement:** "My nervous system doesn't feel safe with her—and that is enough reason to choose distance."
+**Activation statement:** "My nervous system doesn't feel safe with her, and that is enough reason to choose distance."
 
 > *"The grief isn't that you're walking away. The grief is that there was never a safe place to walk toward."*
 
@@ -230,8 +213,8 @@ The mother wound doesn't heal by getting the mother you needed. It heals by beco
 **The grief work:**
 - Grieve the mother you needed but didn't have
 - Acknowledge what was missing without minimizing it
-- Let yourself be angry—anger is appropriate
-- Let yourself be sad—the loss is real
+- Let yourself be angry. Anger is appropriate.
+- Let yourself be sad. The loss is real.
 - Stop waiting for her to become someone she can't be
 
 **The truth work:**
@@ -282,7 +265,7 @@ This type of parental wound is often the wound of absence. Even when they were p
 
 For many, this creates a desperate seeking. A parent is supposed to show you that you're valuable, worthy of protection, deserving of love. When instead they were absent, critical, or controlling, it creates a void that you may have spent years trying to fill.
 
-For others, there's a different wound—the pressure to perform, to be tough, to never be vulnerable. Their approval was contingent on achievement. Emotions were weakness. You learned to shut down parts of yourself to survive.
+For others, there's a different wound: the pressure to perform, to be tough, to never be vulnerable. Their approval was contingent on achievement. Emotions were weakness. You learned to shut down parts of yourself to survive.
 
 **Common experiences:**
 - Walking on eggshells around their anger
@@ -304,7 +287,7 @@ For others, there's a different wound—the pressure to perform, to be tough, to
 **This occurs when a father:**
 - Praises achievements only to immediately point out what's missing
 - Compares you to others who did better
-- Withholds verbal affirmation ("I don't believe in praise—it makes people soft")
+- Withholds verbal affirmation ("I don't believe in praise; it makes people soft")
 - Shows pride to others but never directly to you
 - Criticizes effort rather than celebrating progress
 - Makes approval contingent on ever-higher standards
@@ -314,9 +297,9 @@ For others, there's a different wound—the pressure to perform, to be tough, to
 
 **What's really happening:**
 
-1. **This isn't mentorship—it's emotional starvation by design.**
+1. **This isn't mentorship; it's emotional starvation by design.**
 2. He needs you to keep reaching because your reaching validates his superiority.
-3. Your exhaustion is NOT laziness—it's the inevitable result of chasing an impossible target.
+3. Your exhaustion is NOT laziness; it's the inevitable result of chasing an impossible target.
 4. Narcissistic fathers use achievement as a control mechanism:
    - Performance over personhood
    - Results over relationship
@@ -362,7 +345,7 @@ He cannot see it. Not because it isn't there. Because he isn't capable.
 
 4. **Detach with clarity:** His withholding is information. Not a reflection of your worth. Not something to fix. Not a reason to try harder. Information.
 
-**The empowered reframe:** Paternal withholding is not evidence of your inadequacy—it is proof he was never equipped to father you emotionally. This is devastating AND liberating.
+**The empowered reframe:** Paternal withholding is not evidence of your inadequacy; it is proof he was never equipped to father you emotionally. This is devastating AND liberating.
 
 **Activation statement:** "It was not my job to be perfect enough to make him capable of love. I release the performance that was never going to be enough."
 
@@ -376,9 +359,9 @@ He cannot see it. Not because it isn't there. Because he isn't capable.
 
 **The hidden message you received:** You're not worth engaging with. Emotional connection isn't something you deserve. Men don't show up.
 
-**What it feels like in your body:** A reaching that never finds anything to hold. An emptiness that relationships don't quite fill. Grief that doesn't have a specific memory to attach to—just the cumulative absence.
+**What it feels like in your body:** A reaching that never finds anything to hold. An emptiness that relationships don't quite fill. Grief that doesn't have a specific memory to attach to, just the cumulative absence.
 
-**The adult pattern:** You may seek emotionally unavailable partners, unconsciously recreating the reaching. Or you may avoid intimacy entirely—if you don't reach, you can't be disappointed.
+**The adult pattern:** You may seek emotionally unavailable partners, unconsciously recreating the reaching. Or you may avoid intimacy entirely (if you don't reach, you can't be disappointed).
 
 ---
 
@@ -386,7 +369,7 @@ He cannot see it. Not because it isn't there. Because he isn't capable.
 
 **What it looks like:** His word was law. Obedience was expected. Questioning was disrespect. Control was maintained through fear, not connection.
 
-**The hidden message you received:** Your thoughts, feelings, and needs don't matter. Power is maintained through dominance. Authority doesn't need to earn your respect—you owe it.
+**The hidden message you received:** Your thoughts, feelings, and needs don't matter. Power is maintained through dominance. Authority doesn't need to earn your respect; you owe it.
 
 **What it feels like in your body:** Bracing. A flinch that never quite relaxes. Hypervigilance around authority figures. Anger that feels dangerous to express.
 
@@ -398,7 +381,7 @@ He cannot see it. Not because it isn't there. Because he isn't capable.
 
 **What it looks like:** Love was performance-based. You were valued for what you accomplished, not who you were. His pride in you was contingent on your success.
 
-**The hidden message you received:** Your worth is in your achievements. Rest is laziness. Being is not enough—you must always be doing. Failure makes you unlovable.
+**The hidden message you received:** Your worth is in your achievements. Rest is laziness. Being is not enough; you must always be doing. Failure makes you unlovable.
 
 **What it feels like in your body:** The inability to relax. A driven quality that doesn't stop even when you're exhausted. Anxiety that spikes when you're not producing. Emptiness at the center of accomplishments.
 
@@ -422,7 +405,7 @@ He cannot see it. Not because it isn't there. Because he isn't capable.
 
 He is eight years old, standing in the garage beside his father.
 
-His father is building something—a table, maybe, or a shelf. The boy doesn't remember what. What he remembers is the feeling of wanting to help. The desire to be close. To be useful. To be seen.
+His father is building something: a table, maybe, or a shelf. The boy doesn't remember what. What he remembers is the feeling of wanting to help. The desire to be close. To be useful. To be seen.
 
 He reaches for a tool.
 
@@ -436,11 +419,11 @@ He tries to hold the board steady.
 
 "If you can't do it right, don't bother."
 
-His father doesn't look at him when he speaks. The words land like tools dropped on concrete—heavy, final, irretrievable.
+His father doesn't look at him when he speaks. The words land like tools dropped on concrete: heavy, final, irretrievable.
 
 The boy stands there, hands empty, trying to shrink himself into usefulness. Trying to anticipate what's needed before being told. Trying to be good enough to earn a space beside his father.
 
-Years later—decades later—he will stand in meetings the same way. Braced. Monitoring the room for displeasure. Offering help before it's asked for. Apologizing for taking up space.
+Years later (decades later), he will stand in meetings the same way. Braced. Monitoring the room for displeasure. Offering help before it's asked for. Apologizing for taking up space.
 
 He will achieve things his father never did. He will build a career his father would have envied. He will earn accolades, respect, success.
 
@@ -464,13 +447,13 @@ The father wound doesn't heal by finally earning his approval. It heals by build
 **The grief work:**
 - Grieve the father you needed but didn't have
 - Acknowledge the impact of his absence, criticism, or control
-- Let yourself feel the anger—it's information about what was wrong
+- Let yourself feel the anger; it's information about what was wrong
 - Stop protecting him from the truth of what he did or didn't do
 
 **The truth work:**
 - Recognize that his failures were his limitations, not your inadequacy
 - Understand that you couldn't have been "successful enough" to earn what should have been given freely
-- Accept that he may have done his best—and his best still wounded you
+- Accept that he may have done his best, and his best still wounded you
 - Stop seeking his approval in other unavailable people
 
 **The repair work:**

@@ -13,7 +13,7 @@
 
 ---
 
-# Chapter 17: Energetic Remapping — Recovery Tools
+# Chapter 17: Energetic Remapping ,  Recovery Tools
 
 ## Rewiring Your Nervous System for Freedom
 
@@ -21,9 +21,9 @@
 
 Understanding narcissism is necessary. But it's not enough. Your mind can know the patterns perfectly while your body still reacts as if you're in danger.
 
-This is because manipulation doesn't just happen to your thoughts—it happens to your nervous system. The patterns get stored in your body. Recovery, therefore, must include the body.
+This is because manipulation doesn't just happen to your thoughts, it happens to your nervous system. The patterns get stored in your body. Recovery, therefore, must include the body.
 
-This chapter provides practical tools for rewiring your responses—for teaching your nervous system that the threat has passed and new patterns are possible.
+This chapter provides practical tools for rewiring your responses, for teaching your nervous system that the threat has passed and new patterns are possible.
 
 ---
 
@@ -39,7 +39,7 @@ You've done the intellectual work. You can name the tactics. You understand the 
 
 This isn't failure. This is neurobiology.
 
-Your nervous system learned to respond to certain cues with certain protective patterns. These responses became automatic—faster than thought. They were adaptive: they helped you survive in a threatening environment.
+Your nervous system learned to respond to certain cues with certain protective patterns. These responses became automatic, faster than thought. They were adaptive: they helped you survive in a threatening environment.
 
 But now the environment has changed. The responses haven't caught up. Your body is still running programs designed for a situation you've left.
 
@@ -49,7 +49,7 @@ But now the environment has changed. The responses haven't caught up. Your body 
 
 ## When the Loop Replays in Your Body
 
-After leaving a narcissistic relationship—or even after a difficult interaction—you may experience:
+After leaving a narcissistic relationship, or even after a difficult interaction—you may experience:
 
 - **Agitation:** Restless, unable to settle, activated for no clear present reason
 - **Looping thoughts:** The same conversation or moment playing over and over
@@ -90,7 +90,7 @@ Your body needs to know it's safe *now*, not just in theory.
 
 **5-4-3-2-1:** Name five things you see, four you hear, three you feel, two you smell, one you taste. This brings attention to present-moment sensory reality.
 
-**Long exhale:** Breathe in for 4 counts, out for 8 counts. The extended exhale activates the parasympathetic nervous system—the "rest and digest" mode that calms activation.
+**Long exhale:** Breathe in for 4 counts, out for 8 counts. The extended exhale activates the parasympathetic nervous system, the "rest and digest" mode that calms activation.
 
 **Cold water:** Run cold water on your wrists or splash your face. The sensation interrupts the loop and brings you present.
 
@@ -123,7 +123,7 @@ Instead of: *Analyzing whether they were right*
 Try: "That was comparison as control."
 
 This does two things:
-1. **Interrupts the loop**—You give your brain something to do besides replay
+1. **Interrupts the loop**, You give your brain something to do besides replay
 2. **Consolidates learning**—Each translation strengthens your pattern recognition
 
 *Every time you name the pattern instead of reliving it, your nervous system learns a new route home.*
@@ -141,7 +141,7 @@ Understanding how shame works helps you release it.
 **Guilt** says: "I did something bad."
 **Shame** says: "I am bad."
 
-Guilt can be useful—it alerts us when we've violated our own values and motivates repair.
+Guilt can be useful, it alerts us when we've violated our own values and motivates repair.
 
 Shame is rarely useful. It collapses our identity into our worst moment. It paralyzes rather than motivates.
 
@@ -162,7 +162,7 @@ You may have absorbed shame as a child and continue absorbing it as an adult. At
 
 **Practice 1: The Return**
 
-When you feel shame arising—especially shame that appears suddenly without clear cause—try:
+When you feel shame arising, especially shame that appears suddenly without clear cause, try:
 
 "I return this shame to its source."
 
@@ -192,7 +192,7 @@ When you must interact with a narcissist due to co-parenting, work, family event
 
 ## Detaching with Love
 
-Sometimes you need to disconnect from someone without anger or vengeance—simply stepping back from a situation that doesn't serve your wellbeing.
+Sometimes you need to disconnect from someone without anger or vengeance, simply stepping back from a situation that doesn't serve your wellbeing.
 
 ### What Detaching with Love Looks Like
 
@@ -232,17 +232,17 @@ This teaches your nervous system that the environment is safe.
 
 ### Pendulation (Swinging Between Calm and Activation)
 
-Trauma often creates stuck energy. Pendulation—gently swinging your attention between activated and calm places in your body—helps discharge it.
+Trauma often creates stuck energy. Pendulation, gently swinging your attention between activated and calm places in your body, helps discharge it.
 
-**Practice:** Notice where you feel activation in your body. Place your attention there. Then shift attention to a place in your body that feels neutral or calm. Slowly pendulate attention between the two—activated, calm, activated, calm.
+**Practice:** Notice where you feel activation in your body. Place your attention there. Then shift attention to a place in your body that feels neutral or calm. Slowly pendulate attention between the two, activated, calm, activated, calm.
 
-This teaches your nervous system that activation can move through and complete. Think of it like slowly warming up a cold muscle—you don't force it, you let it thaw naturally.
+This teaches your nervous system that activation can move through and complete. Think of it like slowly warming up a cold muscle, you don't force it, you let it thaw naturally.
 
 ### Resourcing
 
 A resource is anything that helps you feel grounded, calm, or connected.
 
-**Practice:** Identify your resources—people, places, memories, sensations, objects. When activated, deliberately bring a resource to mind. Feel it in your body, not just your thoughts.
+**Practice:** Identify your resources, people, places, memories, sensations, objects. When activated, deliberately bring a resource to mind. Feel it in your body, not just your thoughts.
 
 Examples:
 - A person who loves you
@@ -254,7 +254,7 @@ Examples:
 
 ### Titration (Small Doses, Not Floods)
 
-Healing doesn't require reliving trauma at full intensity. Titration—a term borrowed from chemistry—means approaching difficult material in small, measured doses rather than all at once.
+Healing doesn't require reliving trauma at full intensity. Titration—a term borrowed from chemistry, means approaching difficult material in small, measured doses rather than all at once.
 
 **Practice:** Rather than diving into the worst memories, approach them gradually. Touch the edge of the experience, then return to resource. A little at a time. Let your nervous system build capacity.
 
@@ -264,7 +264,7 @@ Think of it like adjusting to cold water: you wade in slowly rather than jumping
 
 ## Quick Grounding When Activated
 
-For moments when you need immediate regulation, use the grounding techniques from Chapter 16: Decoder Cards—Emergency Protocol. The key techniques include:
+For moments when you need immediate regulation, use the grounding techniques from Chapter 16: Decoder Cards, Emergency Protocol. The key techniques include:
 
 - **The 3-3-3 Rule** — Name three things you see, hear, and move three body parts
 - **The Squeeze-Release** — Clench all muscles tight, then release completely
@@ -280,7 +280,7 @@ These same techniques work both in crisis moments (Chapter 16) and as part of yo
 
 ## Building a Daily Practice
 
-Healing isn't a single event—it's a process that unfolds over time. A daily practice supports this unfolding.
+Healing isn't a single event, it's a process that unfolds over time. A daily practice supports this unfolding.
 
 Consider including:
 
@@ -333,7 +333,7 @@ For sustained recovery, commit to this daily protocol for 21 days:
 
 **Midday check-in (2 min):**
 - Pause. Breathe. Where is tension?
-- Release one area deliberately (drop your shoulders, unclench your jaw, soften your stomach—wherever you found tightness)
+- Release one area deliberately (drop your shoulders, unclench your jaw, soften your stomach, wherever you found tightness)
 - Drink water
 
 **After any activation (5–15 min):**
@@ -392,7 +392,7 @@ You deserve support. Seeking it is strength, not weakness.
 5. **Practical Communication:** For required interactions, see Chapter 18
 
 **The Promise:**
-Every time you complete a stress cycle, your nervous system recalibrates. Every time you name the pattern, you weaken its grip. You are literally building new neural pathways—routes home that don't pass through hypervigilance and shame.
+Every time you complete a stress cycle, your nervous system recalibrates. Every time you name the pattern, you weaken its grip. You are literally building new neural pathways, routes home that don't pass through hypervigilance and shame.
 
 ---
 

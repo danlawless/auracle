@@ -12,7 +12,7 @@
 
 ---
 
-**Before you begin:** This section covers tactics that often appear during intimate moments, spiritual contexts, and relationship exits. If you're currently in crisis, consider reading Chapter 14 (Energetic Remapping) first for grounding tools.
+**Before you begin:** This section covers tactics that often appear during intimate moments, spiritual contexts, and relationship exits. If you're currently in crisis, consider reading Chapter 17 (Energetic Remapping) first for grounding tools.
 
 **Continuing from Part 1:** Tactics 1-19 are covered in [Chapter 3A](./03a-narcissist-playbook-part1.md). This chapter continues with the more advanced and often more dangerous tactics.
 
@@ -330,7 +330,7 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 **Your power move:** "I'm fine—I'll reach out if I need anything." Don't explain, justify, or provide details. Caring people trust your ability to manage yourself. If they push: "I appreciate the thought, but I'm good." Then hold that boundary.
 
-*Note: See also Decoder Card 1 (Chapter 11) for quick reference on this pattern.*
+*Note: See also Decoder Card 1 (Chapter 14) for quick reference on this pattern.*
 
 > *"Control rarely storms the gate; it flatters its way inside."*
 
@@ -360,7 +360,7 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 **Your power move:** Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification. No second letter. An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
 
-*Note: See also Decoder Card 23 (Chapter 12) for quick reference on this pattern.*
+*Note: See also Decoder Card 23 (Chapter 15) for quick reference on this pattern.*
 
 ---
 

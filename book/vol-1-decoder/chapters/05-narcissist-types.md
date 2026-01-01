@@ -245,3 +245,61 @@ After time with them, you feel depleted. Empty. Like you've been performing in s
 
 **Why they're dangerous:** They drain group energy. Their constant need for attention leaves no room for others. Relationships with them feel exhausting because you're always audience to their performance.
 
+---
+
+## Why Types Matter Less Than You Think
+
+You might be tempted to diagnose the narcissist in your life. To figure out exactly which type they are. To find the perfect label.
+
+Here's what I want you to know: **The type matters less than the impact.**
+
+Whether they're grandiose or covert, malignant or communal, the result is the same—your needs get subordinated to their ego. Your reality gets distorted. Your energy gets drained.
+
+The types exist to help you recognize the pattern when it's wearing different costumes. The grandiose narcissist is loud about it. The covert one is quiet. But both are centered on themselves at your expense.
+
+**What matters most:**
+- How do you feel after time with them?
+- Are your needs consistently deprioritized?
+- Do you doubt your own perception?
+- Is the relationship draining you?
+
+If the answers are yes, the specific type is academic. What matters is what you do next.
+
+---
+
+## Chapter Summary
+
+In this chapter, we explored the five primary narcissist types:
+
+1. **The Grandiose Narcissist** — Obvious, loud, openly superior. The classic image of narcissism.
+
+2. **The Covert Narcissist** — Hidden superiority masked as victimhood, sensitivity, or humility. Harder to spot, equally draining.
+
+3. **The Communal Narcissist** — Superiority through service. The helper who needs recognition more than they want to help.
+
+4. **The Malignant Narcissist** — Where narcissism meets sadism. The most dangerous type, deriving pleasure from your pain.
+
+5. **The Histrionic Narcissist** — Attention at all costs. Drama, emotion, and performance as supply-gathering mechanisms.
+
+**Key insight:** All types share the same core wound—a fragile sense of self that requires constant external validation. The types are just different strategies for obtaining that supply.
+
+**Your takeaway:** Recognition is power. Now that you can see the patterns beneath the surface presentation, you're harder to manipulate. Trust your body's signals more than their words.
+
+---
+
+## Transition to Part II
+
+You now understand what narcissism looks like—the tactics, the types, the signature energy. Part I was about recognition: learning to name what's happening.
+
+Part II takes us deeper: **Understanding Origins**.
+
+Because this isn't just about them. It's about understanding how these patterns affected you—in your family, in your childhood, in your romantic relationships. It's about tracing the invisible threads that connected you to this person in the first place.
+
+Why did you stay? Why didn't you see it sooner? Why do you still miss them sometimes?
+
+These aren't signs of weakness. They're signs of a system—one that starts long before any specific narcissist entered your life.
+
+Part II will show you where that system came from. And in seeing it clearly, you'll begin to break its hold.
+
+When you're ready, turn the page.
+

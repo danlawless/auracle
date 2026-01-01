@@ -171,7 +171,7 @@ Let the witness's perspective inform your own.
 
 ## Protecting Yourself in Required Interactions
 
-When you must interact with a narcissist due to co-parenting, work, family events, or other circumstances, specific communication strategies can help protect your energy. For the Gray Rock communication strategy and detailed scripts for managing these interactions, see Chapter 15: Practical Responses.
+When you must interact with a narcissist due to co-parenting, work, family events, or other circumstances, specific communication strategies can help protect your energy. For the Gray Rock communication strategy and detailed scripts for managing these interactions, see Chapter 18: Practical Responses & Scripts.
 
 ---
 
@@ -390,7 +390,7 @@ You deserve support. Seeking it is strength, not weakness.
 2. **Breaking Shame:** Return it, differentiate, witness
 3. **Detach with Love:** Release without erasing
 4. **Somatic Work:** Orienting, pendulation, resourcing, titration
-5. **Practical Communication:** For required interactions, see Chapter 15
+5. **Practical Communication:** For required interactions, see Chapter 18
 
 **The Promise:**
 Every time you complete a stress cycle, your nervous system recalibrates. Every time you name the pattern, you weaken its grip. You are literally building new neural pathways—routes home that don't pass through hypervigilance and shame.

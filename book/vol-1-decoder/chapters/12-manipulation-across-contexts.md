@@ -8,6 +8,26 @@ Narcissistic patterns don't stay contained in romantic relationships. They appea
 
 ---
 
+> **How to Use This Chapter**
+>
+> This chapter covers nine contexts where narcissistic patterns appear. You don't need to read it all at once. **Start with the context most relevant to your current situation**, then return to others when needed.
+>
+> | Context | When to read |
+> |---------|--------------|
+> | **Family Relationships** | If family dynamics are central to your experience |
+> | **Friendships** | If you're questioning a draining friendship |
+> | **Spiritual Communities** | If you've experienced manipulation in religious/spiritual settings |
+> | **Professional Relationships** | If a therapist, coach, or healer has crossed boundaries |
+> | **Group Settings** | If you're navigating group dynamics with a narcissist |
+> | **Workplace Dynamics** | If dealing with a narcissistic boss or coworker |
+> | **Online Manipulation** | If experiencing digital stalking or control |
+> | **Women Manipulating Women** | If recognizing same-gender narcissistic dynamics |
+> | **Exit Strategies** | When you're ready to leave any of these contexts |
+>
+> The core pattern is the same across all contexts: **their needs consistently eclipse yours.** Only the specific tactics change.
+
+---
+
 ## Family Relationships
 
 (See Chapters 6-8 for in-depth treatment. Brief summary here for reference.)

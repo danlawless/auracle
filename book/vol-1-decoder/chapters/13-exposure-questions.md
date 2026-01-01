@@ -1,12 +1,25 @@
 > **⚠️ CRITICAL SAFETY WARNING — READ THIS FIRST**
 >
-> **Before using any questions in this chapter, assess your safety situation.** These questions can trigger narcissistic rage if the person feels exposed. If you are in a relationship with potential for violence, physical intimidation, or where leaving might be dangerous, prioritize your physical safety over gaining clarity. Use these questions only when you are in a safe environment and have a safety plan in place.
+> **Before using any questions in this chapter, assess your safety situation.** These questions can trigger narcissistic rage if the person feels exposed.
 >
-> **If you are in immediate danger:** Call 911 or the National Domestic Violence Hotline: 1-800-799-7233 (TTY: 1-800-787-3224)
+> ### Safety Hierarchy: Ask Yourself First
 >
-> **If you're in crisis or immediate danger, skip to Appendix A resources NOW.**
+> | Safety Level | Description | Can You Use These Questions? |
+> |--------------|-------------|------------------------------|
+> | **GREEN** | You're physically safe, not living with them, or have support nearby | Yes—use with awareness |
+> | **YELLOW** | Living together but no history of violence; exit plan exists | Use selectively, in calm moments only |
+> | **RED** | History of physical intimidation, threats, or violence | **NO—focus on safe exit first** |
 >
-> These questions are for your own clarity, not as weapons. You don't need them to see themselves for you to see them clearly.
+> **If you are in RED:**
+> - Do NOT use these questions—they can trigger dangerous escalation
+> - Prioritize Chapter 18's exit planning and safety resources
+> - Contact: National Domestic Violence Hotline: 1-800-799-7233 (24/7)
+> - Skip to Appendix A resources NOW
+>
+> **If you are in YELLOW or GREEN:**
+> - These questions are for your own clarity, not as confrontation tools
+> - You don't need them to see themselves for you to see them clearly
+> - Use them to confirm your perception, then act on what you learn
 
 ---
 

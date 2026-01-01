@@ -292,7 +292,7 @@ When confronted about lying, cheating, or boundary violations, they pivot to sel
 **Why this is critical:**
 
 - If they're genuinely suicidal, they need professional help you cannot provide. Calling 911 gets them that help.
-- If they're manipulating you (using the threat to control), calling 911 calls their bluff and shows that tactic won't work.
+- If they're using the threat to control you, calling 911 ensures they receive professional crisis intervention. Whether the threat is genuine or manipulative, professional involvement is appropriate.
 - Either way, you've done what you can. Their choices after that are theirs.
 
 **What not to do:**

@@ -104,15 +104,29 @@ Appendix E: Index — Quick Reference to Key Concepts and Terms ................
 
 ---
 
+## Before We Begin
+
+Take a breath.
+
+What you're about to read may activate memories, emotions, and realizations. That's normal. That's part of the process. Your nervous system stored these experiences for a reason—it was trying to protect you.
+
+Now, you're choosing to look directly at what happened. That takes courage.
+
+Go slowly. Put the book down when you need to. Come back when you're ready.
+
+This is not a race. This is a homecoming.
+
+---
+
 ## About This Book
 
 You picked up this book because something felt off.
 
-Maybe it was a relationship that left you questioning your own sanity. Maybe it was a family dynamic that always seemed to drain you, no matter how much you gave. Maybe it was a friendship that felt more like a hostage situation than a connection. Or maybe you're just starting to wake up to patterns you've lived with your entire life—patterns you thought were normal until you realized they weren't.
+Maybe it was a relationship that left you questioning your own sanity. Maybe it was a family dynamic that always seemed to drain you, no matter how much you gave. Maybe it was a friendship where you felt trapped and drained. Or maybe you're just starting to wake up to patterns you've lived with your entire life—patterns you thought were normal until you realized they weren't.
 
 This book is your decoder ring.
 
-The tactics described in these pages aren't random acts of cruelty. They're a systematic playbook used by people who prioritize control over connection, dominance over intimacy, and their own needs over yours—every single time. Once you can name these patterns, they lose their power over you.
+The tactics described in these pages aren't random acts of cruelty. They're patterns used by people who prioritize control over connection, dominance over intimacy, and their own needs over yours—every single time. Once you can name these patterns, they lose their power over you.
 
 ---
 
@@ -186,9 +200,11 @@ The **Decoder Cards** in Chapters 14, 15, and 16 are designed to be shared. Use 
 
 ## A Note on Language
 
-Throughout this book, I use "he/him" pronouns in many examples. This is not because women cannot be narcissists—they absolutely can, and Chapter 6 on Family Systems specifically addresses maternal narcissism. The pronoun choice reflects my personal experience and the examples I had access to while writing.
+Throughout this book, examples use varied pronouns—he/him, she/her, and they/them—to reflect that these patterns occur across all genders and relationship types. Narcissistic abuse happens in heterosexual relationships, same-gender relationships, and relationships involving non-binary individuals. The perpetrator can be any gender; so can the survivor.
 
-Please translate any gendered language to fit your situation. The patterns are universal; only the pronouns change.
+When reading, translate any example to fit your situation. If the example describes "he" but your experience involved "she" or "they," the pattern still applies. The tactics are universal—only the specific people change.
+
+Chapter 8 (Parental Wounds) and Chapter 11 (Romantic Manipulation) include notes on adapting content for same-sex parents, non-binary individuals, and diverse relationship structures.
 
 ---
 
@@ -240,20 +256,6 @@ Throughout this book, you'll encounter situations where you need to respond in t
 **3 Words (or fewer):** Keep initial responses short. "I'll think about that." "Interesting perspective." "Not for me." The less you say, the less they have to twist.
 
 This book will teach you *what* to say. This rule teaches you *how* to buy time to say it.
-
----
-
-## Before We Begin
-
-Take a breath.
-
-What you're about to read may activate memories, emotions, and realizations. That's normal. That's part of the process. Your nervous system stored these experiences for a reason—it was trying to protect you.
-
-Now, you're choosing to look directly at what happened. That takes courage.
-
-Go slowly. Put the book down when you need to. Come back when you're ready.
-
-This is not a race. This is a homecoming.
 
 ---
 

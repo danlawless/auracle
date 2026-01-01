@@ -1,12 +1,20 @@
 # Chapter 18: Practical Responses & Scripts
 
-## What to Actually Say and Do
+## Planned Interaction Strategies
 
 ---
 
-Theory is helpful. But when you're in the moment—heart racing, mind scrambling, old patterns activating—you need something concrete.
+> **How This Chapter Differs from Chapter 16**
+>
+> Chapter 16 is your *emergency protocol*—what to do when you're activated and caught off guard in the moment. This chapter is for *planned interactions*—preparing scripts for situations you can anticipate. Think of Chapter 16 as crisis response; this chapter is strategic preparation.
+>
+> *For the 5-Second Response Protocol, Universal Response Bank, Broken Record Technique, and Exit Ladder, see Chapter 16.*
 
-This chapter provides scripts, strategies, and specific responses for common situations. Not to make you perfect at handling narcissists (no one is), but to give you options when you need them most.
+---
+
+Theory is helpful. But when you're preparing for a known interaction—a family dinner, a co-parenting exchange, a conversation you know is coming—you need specific scripts.
+
+This chapter provides prepared responses for common situations. Not to make you perfect at handling narcissists (no one is), but to give you options you can rehearse and internalize before you need them.
 
 ---
 
@@ -234,7 +242,7 @@ When confronted about lying, cheating, or boundary violations, they pivot to sel
 
 **Your power:** Withdraw emotional labor. That is the *real* boundary.
 
-*See also: Chapter 3, Tactic 28; Chapter 12, Card 24*
+*See also: Chapter 3, Tactic 28; Chapter 15, Card 24*
 
 ---
 
@@ -338,54 +346,6 @@ The most disorienting thing you can do to a narcissist isn't to beat them at the
 
 ---
 
-## The 5-Second Response Protocol
-
-When hit with a tactic and caught off guard:
-
-**Second 1-2:** Pause. Take a breath. Say nothing.
-
-**Second 3:** Internally identify: "This is [tactic name]."
-
-**Second 4:** Choose from your response bank (see below).
-
-**Second 5:** Deliver flatly. Do not elaborate.
-
-### The Universal Response Bank
-
-Memorize these. They work for almost any tactic:
-
-- "I hear you."
-- "That's one way to see it."
-- "I'll think about that."
-- "Interesting perspective."
-- "We see it differently."
-- "This isn't productive."
-- "I'm not going to engage with that."
-- "Not my world." (Disengages from their drama/reality without argument)
-- *Silence + unchanged expression*
-
-### The Broken Record Technique
-
-When they push back on your boundary:
-
-1. State your position once, clearly
-2. When they argue, repeat it identically
-3. Don't add new information or justification
-4. Match their escalation with calm repetition
-
-**Example:**
-- You: "I'm not discussing this tonight."
-- Them: "But we need to resolve this!"
-- You: "I'm not discussing this tonight."
-- Them: "You always run away from problems!"
-- You: "I'm not discussing this tonight."
-- Them: [Escalates]
-- You: "I'm not discussing this tonight." [Exit room if needed]
-
-The repetition signals: This isn't a negotiation. The answer won't change.
-
----
-
 ## When You Must Coexist
 
 Sometimes you can't escape—co-parenting, work, family events, shared communities. Here's how to protect yourself:
@@ -486,7 +446,7 @@ Family relationships carry unique guilt and obligation scripts. Here's how to ho
 
 **The principle:** Family membership does not equal unlimited access. Past help does not equal future obligation to accept harmful behavior.
 
-*See also: Chapter 6, Family Systems for context on family dynamics and shame programming*
+*See also: Chapter 7, Family Roles & Triangulation for context on family dynamics and shame programming*
 
 ---
 
@@ -524,7 +484,7 @@ After setting boundaries or ending relationships, they may send minimal, symboli
 
 **Don't:** Provide details. Justify your independence. Agree to check-ins that undermine your boundaries.
 
-*See also: Chapter 3, Tactics 35 & 37; Chapter 12, Card 23 for pattern recognition*
+*See also: Chapter 3, Tactics 35 & 37; Chapter 15, Card 23 for pattern recognition*
 
 ---
 
@@ -628,20 +588,6 @@ Instead of defending, ask:
 - "Is there something specific you'd like me to change?"
 
 This shifts the labor to them. They must articulate what they want—which often exposes that they want control, not resolution.
-
-### The Exit Ladder
-
-When a conversation is escalating, use progressive exits:
-
-**Level 1 - Topic Exit:** "I'm not discussing that. What else is on your mind?"
-
-**Level 2 - Conversation Exit:** "I'm going to stop this conversation for now."
-
-**Level 3 - Room Exit:** "I'm stepping away." [Leave]
-
-**Level 4 - Contact Exit:** "I'm ending this call/visit." [Leave/hang up]
-
-You don't have to announce which level you're moving to. Just execute.
 
 ### The Documentation Discipline
 

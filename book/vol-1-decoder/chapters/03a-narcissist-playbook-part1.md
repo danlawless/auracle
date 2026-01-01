@@ -4,6 +4,14 @@
 
 ---
 
+> **Content Warning**
+>
+> This chapter contains descriptions of controlling and abusive behaviors including physical intimidation, threats of violence, and psychological manipulation tactics. These descriptions are provided to help readers recognize and name harmful patterns. If you're currently in an unsafe situation, please prioritize your physical safety and consider contacting: National Domestic Violence Hotline: 1-800-799-7233.
+>
+> Take breaks as needed. Your wellbeing matters more than finishing the chapter.
+
+---
+
 This chapter is the heart of the decoder. Each tactic is presented with:
 - **What it looks like** on the surface
 - **What's really happening** beneath the surface

@@ -1,6 +1,6 @@
 # Pause and Integrate
 
-You've completed **Part III: Tools** (Chapters 13-16)
+You've completed **Part III: Tools & Recognition** (Chapters 13-16)
 
 ---
 
@@ -8,7 +8,7 @@ Before continuing, take a moment:
 
 ## Notice Your Body
 
-You now have tools. Decoder cards to name what's happening. Exposure questions to reveal patterns. Concrete resources you can use.
+You now have tools. Decoder cards to name what's happening. Exposure questions to reveal patterns. Emergency protocols for when you're activated. Concrete resources you can use.
 
 How does it feel to have these in your hands?
 
@@ -32,15 +32,15 @@ You are equipped now in ways you weren't before. That's not nothing. That's actu
 
 ## Reflection Questions
 
-1. Which tool resonated most? Which will you use first?
-2. What question from Chapter 13 do you want to ask—or wish you'd asked earlier?
-3. What decoder card pattern do you need to watch for most carefully?
+1. Which decoder card resonated most? Which pattern do you need to watch for most carefully?
+2. What grounding technique from Chapter 16 will you use when activated?
+3. Which exposure questions do you want to ask—or wish you'd asked earlier?
 
 ---
 
 ## When You're Ready
 
-Part IV awaits: **Response & Recovery**—where we explore how to rewire your nervous system, communicate with power, and move forward into the life that's actually yours.
+**Part IV: Response & Integration** awaits (Chapters 17-19)—where we explore how to rewire your nervous system through energetic remapping, communicate with power through prepared scripts, and move forward into the life that's actually yours.
 
 You've done the recognition. You've understood the origins. You have the tools.
 

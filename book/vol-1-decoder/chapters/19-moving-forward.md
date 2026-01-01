@@ -140,6 +140,30 @@ Here's a statement to claim as your own—modify it to fit your truth:
 
 ---
 
+> **I claim my sovereignty.**
+>
+> I am not what was done to me. I am not the roles I was assigned. I am not the story they told about me.
+>
+> I am the one who survived. I am the one who is healing. I am the one who chooses what happens next.
+>
+> My perception is valid. My boundaries are sacred. My needs matter.
+>
+> I release the need for their understanding. I release the hope that they will change. I release the version of me that was shaped by their distortion.
+>
+> I am reclaiming my energy, my truth, my life.
+>
+> I am building something new—not from reaction, but from choice. Not from wounding, but from wisdom.
+>
+> I am sovereign.
+>
+> **This is my declaration. This is my beginning.**
+
+---
+
+*Read this aloud if it helps. Return to it when you forget. Make it your own.*
+
+---
+
 ## The Sovereignty You're Building Toward
 
 As you heal, you're creating space for what you deserve. This might look like:

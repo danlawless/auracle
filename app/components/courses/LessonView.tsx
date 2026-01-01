@@ -1,15 +1,15 @@
-'use client'
+'use client';
 
-import { useState, useRef, useEffect, useCallback } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
-import { 
-  Play, 
-  Pause, 
-  CheckCircle, 
-  Circle, 
-  MessageCircle, 
-  X, 
-  Send, 
+import { useState, useRef, useEffect, useCallback } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import {
+  Play,
+  Pause,
+  CheckCircle,
+  Circle,
+  MessageCircle,
+  X,
+  Send,
   Lightbulb,
   Clock,
   BookOpen,
@@ -21,30 +21,30 @@ import {
   FileText,
   Target,
   Brain,
-  Award
-} from 'lucide-react'
-import { Lesson } from '../../../types/course'
-import FloatingAIAssistant from './FloatingAIAssistant'
+  Award,
+} from 'lucide-react';
+import { Lesson } from '../../../types/course';
+import FloatingAIAssistant from './FloatingAIAssistant';
 
 interface LessonViewProps {
-  lesson: Lesson
-  onComplete: (lessonId: string, notes?: string) => void
-  onNext: () => void
-  onPrevious: () => void
-  hasNext: boolean
-  hasPrevious: boolean
+  lesson: Lesson;
+  onComplete: (lessonId: string, notes?: string) => void;
+  onNext: () => void;
+  onPrevious: () => void;
+  hasNext: boolean;
+  hasPrevious: boolean;
   progress: {
-    current: number
-    total: number
-    percentage: number
-  }
+    current: number;
+    total: number;
+    percentage: number;
+  };
 }
 
 interface ChatMessage {
-  id: string
-  text: string
-  sender: 'user' | 'assistant'
-  timestamp: Date
+  id: string;
+  text: string;
+  sender: 'user' | 'assistant';
+  timestamp: Date;
 }
 
 const LessonView: React.FC<LessonViewProps> = ({
@@ -54,57 +54,59 @@ const LessonView: React.FC<LessonViewProps> = ({
   onPrevious,
   hasNext,
   hasPrevious,
-  progress
+  progress,
 }) => {
-  const [isCompleted, setIsCompleted] = useState(lesson.isCompleted || false)
-  const [userNotes, setUserNotes] = useState(lesson.userNotes || '')
-  const [showAIAssistant, setShowAIAssistant] = useState(false)
-  const [chatMessages, setChatMessages] = useState<ChatMessage[]>([])
-  const [inputMessage, setInputMessage] = useState('')
-  const [isTyping, setIsTyping] = useState(false)
-  const [currentCheckpoint, setCurrentCheckpoint] = useState(0)
-  const [checkpointResponses, setCheckpointResponses] = useState<{[key: string]: string}>({})
-  const [showCompletionForm, setShowCompletionForm] = useState(false)
-  const [isPlaying, setIsPlaying] = useState(false)
-  const audioRef = useRef<HTMLAudioElement>(null)
-  const chatEndRef = useRef<HTMLDivElement>(null)
+  const [isCompleted, setIsCompleted] = useState(lesson.isCompleted || false);
+  const [userNotes, setUserNotes] = useState(lesson.userNotes || '');
+  const [showAIAssistant, setShowAIAssistant] = useState(false);
+  const [chatMessages, setChatMessages] = useState<ChatMessage[]>([]);
+  const [inputMessage, setInputMessage] = useState('');
+  const [isTyping, setIsTyping] = useState(false);
+  const [currentCheckpoint, setCurrentCheckpoint] = useState(0);
+  const [checkpointResponses, setCheckpointResponses] = useState<{
+    [key: string]: string;
+  }>({});
+  const [showCompletionForm, setShowCompletionForm] = useState(false);
+  const [isPlaying, setIsPlaying] = useState(false);
+  const audioRef = useRef<HTMLAudioElement>(null);
+  const chatEndRef = useRef<HTMLDivElement>(null);
 
   // Ensure page starts at top when lesson loads
   useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [lesson.id])
+    window.scrollTo(0, 0);
+  }, [lesson.id]);
 
   // Auto-scroll chat to bottom
   useEffect(() => {
-    chatEndRef.current?.scrollIntoView({ behavior: 'smooth' })
-  }, [chatMessages])
+    chatEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  }, [chatMessages]);
 
   const handleSendMessage = async (message: string) => {
-    if (!message.trim()) return
+    if (!message.trim()) return;
 
     const userMessage: ChatMessage = {
       id: Date.now().toString(),
       text: message.trim(),
       sender: 'user',
-      timestamp: new Date()
-    }
+      timestamp: new Date(),
+    };
 
-    setChatMessages(prev => [...prev, userMessage])
-    setInputMessage('')
-    setIsTyping(true)
+    setChatMessages((prev) => [...prev, userMessage]);
+    setInputMessage('');
+    setIsTyping(true);
 
     // Simulate AI response (in real implementation, this would call your AI service)
     setTimeout(() => {
       const assistantMessage: ChatMessage = {
         id: (Date.now() + 1).toString(),
         text: generateAIResponse(message, lesson),
-        sender: 'assistant', 
-        timestamp: new Date()
-      }
-      setChatMessages(prev => [...prev, assistantMessage])
-      setIsTyping(false)
-    }, 1500)
-  }
+        sender: 'assistant',
+        timestamp: new Date(),
+      };
+      setChatMessages((prev) => [...prev, assistantMessage]);
+      setIsTyping(false);
+    }, 1500);
+  };
 
   const generateAIResponse = (userMessage: string, lesson: Lesson): string => {
     // Auracle AI responses focused on lesson guidance and support
@@ -112,45 +114,51 @@ const LessonView: React.FC<LessonViewProps> = ({
       `That's an excellent question about ${lesson.title}! Your experience is completely natural for this stage of practice. Let me help you understand what's happening...`,
       `I can guide you through this part of ${lesson.title}. Every student experiences these techniques differently - some visualize clearly, others feel sensations, and some simply know. All approaches are valid and effective.`,
       `Your awareness of this aspect of the lesson shows you're developing important spiritual skills. Trust what you're experiencing in ${lesson.title} - it's exactly what you need for your growth right now.`,
-      `Great question! This is a common experience in ${lesson.title}. Your spiritual practice is unique to you, and I'm here to help you navigate any challenges or insights that arise.`
-    ]
-    return responses[Math.floor(Math.random() * responses.length)]
-  }
+      `Great question! This is a common experience in ${lesson.title}. Your spiritual practice is unique to you, and I&apos;m here to help you navigate any challenges or insights that arise.`,
+    ];
+    return responses[Math.floor(Math.random() * responses.length)];
+  };
 
   const handleComplete = () => {
-    setIsCompleted(true)
-    onComplete(lesson.id, userNotes)
-    setShowCompletionForm(false)
-  }
+    setIsCompleted(true);
+    onComplete(lesson.id, userNotes);
+    setShowCompletionForm(false);
+  };
 
   const handleCheckpointResponse = (checkpointId: string, response: string) => {
-    setCheckpointResponses(prev => ({
+    setCheckpointResponses((prev) => ({
       ...prev,
-      [checkpointId]: response
-    }))
-  }
+      [checkpointId]: response,
+    }));
+  };
 
   const toggleAudio = () => {
     if (audioRef.current) {
       if (isPlaying) {
-        audioRef.current.pause()
+        audioRef.current.pause();
       } else {
-        audioRef.current.play()
+        audioRef.current.play();
       }
-      setIsPlaying(!isPlaying)
+      setIsPlaying(!isPlaying);
     }
-  }
+  };
 
   const getContentIcon = (type: string) => {
     switch (type) {
-      case 'quote': return <Heart className="h-5 w-5 text-rose-pink" />
-      case 'tip': return <Lightbulb className="h-5 w-5 text-golden-light" />
-      case 'step_by_step': return <BookOpen className="h-5 w-5 text-deep-rose" />
-      case 'visualization': return <Sun className="h-5 w-5 text-earth-copper" />
-      case 'warning': return <Sparkles className="h-5 w-5 text-sage-green" />
-      default: return <Circle className="h-5 w-5 text-gray-400" />
+      case 'quote':
+        return <Heart className="h-5 w-5 text-rose-pink" />;
+      case 'tip':
+        return <Lightbulb className="h-5 w-5 text-golden-light" />;
+      case 'step_by_step':
+        return <BookOpen className="h-5 w-5 text-deep-rose" />;
+      case 'visualization':
+        return <Sun className="h-5 w-5 text-earth-copper" />;
+      case 'warning':
+        return <Sparkles className="h-5 w-5 text-sage-green" />;
+      default:
+        return <Circle className="h-5 w-5 text-gray-400" />;
     }
-  }
+  };
 
   return (
     <div className="min-h-screen bg-gradient-sacred">
@@ -159,21 +167,19 @@ const LessonView: React.FC<LessonViewProps> = ({
         <div className="max-w-4xl mx-auto px-4 py-4">
           <div className="flex items-center justify-between mb-4">
             <div className="flex items-center space-x-4">
-              <button 
+              <button
                 onClick={onPrevious}
                 disabled={!hasPrevious}
                 className="p-2 rounded-full hover:bg-rose-pink/10 disabled:opacity-50 disabled:cursor-not-allowed"
               >
                 <ArrowLeft className="h-5 w-5 text-deep-rose" />
               </button>
-              
+
               <div>
                 <h1 className="text-2xl font-serif font-bold text-gray-800">
                   {lesson.title}
                 </h1>
-                {lesson.subtitle && (
-                  <p className="text-gray-600">{lesson.subtitle}</p>
-                )}
+                {lesson.subtitle && <p className="text-gray-600">{lesson.subtitle}</p>}
               </div>
             </div>
 
@@ -182,7 +188,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                 <Clock className="h-4 w-4 mr-1" />
                 {lesson.duration} min
               </div>
-              
+
               <button
                 onClick={() => setShowAIAssistant(!showAIAssistant)}
                 className="btn-primary relative"
@@ -216,7 +222,7 @@ const LessonView: React.FC<LessonViewProps> = ({
           {/* Main Content */}
           <div className="lg:col-span-2 space-y-8">
             {/* Introduction */}
-            <motion.div 
+            <motion.div
               className="card-sacred"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -230,7 +236,9 @@ const LessonView: React.FC<LessonViewProps> = ({
                   <h2 className="text-xl font-serif font-semibold text-gray-800">
                     Welcome to Your Lesson
                   </h2>
-                  <p className="text-gray-600">Take your time and trust your experience</p>
+                  <p className="text-gray-600">
+                    Take your time and trust your experience
+                  </p>
                 </div>
               </div>
               <p className="text-gray-700 leading-relaxed">
@@ -240,7 +248,7 @@ const LessonView: React.FC<LessonViewProps> = ({
 
             {/* Audio Player (if available) */}
             {lesson.content.practiceExercise?.guidedAudioUrl && (
-              <motion.div 
+              <motion.div
                 className="card-sacred"
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -254,7 +262,11 @@ const LessonView: React.FC<LessonViewProps> = ({
                     onClick={toggleAudio}
                     className="w-12 h-12 bg-gradient-gold rounded-full flex items-center justify-center hover:scale-105 transition-transform"
                   >
-                    {isPlaying ? <Pause className="h-5 w-5 text-white ml-0.5" /> : <Play className="h-5 w-5 text-white ml-0.5" />}
+                    {isPlaying ? (
+                      <Pause className="h-5 w-5 text-white ml-0.5" />
+                    ) : (
+                      <Play className="h-5 w-5 text-white ml-0.5" />
+                    )}
                   </button>
                   <div>
                     <p className="font-medium text-gray-800">
@@ -297,18 +309,25 @@ const LessonView: React.FC<LessonViewProps> = ({
                             {block.content.split(':')[0]}
                           </h4>
                           <div className="space-y-2">
-                            {block.content.split('\n').slice(1).map((step, stepIndex) => (
-                              <div key={stepIndex} className="flex items-start">
-                                <span className="w-6 h-6 bg-gradient-rose rounded-full flex items-center justify-center text-xs text-white font-medium mr-3 flex-shrink-0 mt-0.5">
-                                  {stepIndex + 1}
-                                </span>
-                                <p className="text-gray-700">{step.replace(/^\d+\.\s*/, '')}</p>
-                              </div>
-                            ))}
+                            {block.content
+                              .split('\n')
+                              .slice(1)
+                              .map((step, stepIndex) => (
+                                <div key={stepIndex} className="flex items-start">
+                                  <span className="w-6 h-6 bg-gradient-rose rounded-full flex items-center justify-center text-xs text-white font-medium mr-3 flex-shrink-0 mt-0.5">
+                                    {stepIndex + 1}
+                                  </span>
+                                  <p className="text-gray-700">
+                                    {step.replace(/^\d+\.\s*/, '')}
+                                  </p>
+                                </div>
+                              ))}
                           </div>
                         </div>
                       ) : (
-                        <p className={`leading-relaxed ${block.emphasis === 'highlight' ? 'text-deep-rose font-medium' : 'text-gray-700'}`}>
+                        <p
+                          className={`leading-relaxed ${block.emphasis === 'highlight' ? 'text-deep-rose font-medium' : 'text-gray-700'}`}
+                        >
                           {block.content}
                         </p>
                       )}
@@ -320,7 +339,7 @@ const LessonView: React.FC<LessonViewProps> = ({
 
             {/* Practice Exercise */}
             {lesson.content.practiceExercise && (
-              <motion.div 
+              <motion.div
                 className="card-sacred border-2 border-golden-light/20 bg-golden-light/5"
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -335,21 +354,25 @@ const LessonView: React.FC<LessonViewProps> = ({
                   </h3>
                 </div>
                 <div className="space-y-3">
-                  {lesson.content.practiceExercise.instructions.map((instruction, index) => (
-                    <div key={index} className="flex items-start">
-                      <span className="w-5 h-5 bg-earth-copper rounded-full flex items-center justify-center text-xs text-white font-medium mr-3 flex-shrink-0 mt-1">
-                        {index + 1}
-                      </span>
-                      <p className="text-gray-700">{instruction}</p>
-                    </div>
-                  ))}
+                  {lesson.content.practiceExercise.instructions.map(
+                    (instruction, index) => (
+                      <div key={index} className="flex items-start">
+                        <span className="w-5 h-5 bg-earth-copper rounded-full flex items-center justify-center text-xs text-white font-medium mr-3 flex-shrink-0 mt-1">
+                          {index + 1}
+                        </span>
+                        <p className="text-gray-700">{instruction}</p>
+                      </div>
+                    )
+                  )}
                 </div>
                 <div className="mt-4 p-3 bg-white/50 rounded-lg">
                   <p className="text-sm text-gray-600">
-                    <span className="font-medium">Duration:</span> {lesson.content.practiceExercise.duration} minutes
+                    <span className="font-medium">Duration:</span>{' '}
+                    {lesson.content.practiceExercise.duration} minutes
                   </p>
                   <p className="text-sm text-gray-600 mt-1">
-                    <span className="font-medium">Completion:</span> {lesson.content.practiceExercise.completionCriteria}
+                    <span className="font-medium">Completion:</span>{' '}
+                    {lesson.content.practiceExercise.completionCriteria}
                   </p>
                 </div>
               </motion.div>
@@ -357,7 +380,7 @@ const LessonView: React.FC<LessonViewProps> = ({
 
             {/* Checkpoints */}
             {lesson.content.checkpoints && lesson.content.checkpoints.length > 0 && (
-              <motion.div 
+              <motion.div
                 className="card-sacred"
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
@@ -368,11 +391,16 @@ const LessonView: React.FC<LessonViewProps> = ({
                 </h3>
                 <div className="space-y-4">
                   {lesson.content.checkpoints.map((checkpoint, index) => (
-                    <div key={checkpoint.id} className="border border-gray-200 rounded-lg p-4">
+                    <div
+                      key={checkpoint.id}
+                      className="border border-gray-200 rounded-lg p-4"
+                    >
                       <p className="text-gray-700 mb-3">{checkpoint.question}</p>
                       <textarea
                         value={checkpointResponses[checkpoint.id] || ''}
-                        onChange={(e) => handleCheckpointResponse(checkpoint.id, e.target.value)}
+                        onChange={(e) =>
+                          handleCheckpointResponse(checkpoint.id, e.target.value)
+                        }
                         placeholder="Share your thoughts and reflections..."
                         className="w-full p-3 border border-gray-300 rounded-lg resize-none focus:outline-none focus:border-rose-pink"
                         rows={3}
@@ -384,7 +412,7 @@ const LessonView: React.FC<LessonViewProps> = ({
             )}
 
             {/* Key Takeaways */}
-            <motion.div 
+            <motion.div
               className="card-sacred border-2 border-sage-green/20 bg-sage-green/5"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -404,7 +432,7 @@ const LessonView: React.FC<LessonViewProps> = ({
             </motion.div>
 
             {/* Completion Section */}
-            <motion.div 
+            <motion.div
               className="card-sacred text-center"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -416,9 +444,9 @@ const LessonView: React.FC<LessonViewProps> = ({
                     Ready to Complete This Lesson?
                   </h3>
                   <p className="text-gray-600 mb-6">
-                    Take a moment to reflect on what you've learned and practiced.
+                    Take a moment to reflect on what you&apos;ve learned and practiced.
                   </p>
-                  
+
                   <div className="mb-4">
                     <textarea
                       value={userNotes}
@@ -428,11 +456,8 @@ const LessonView: React.FC<LessonViewProps> = ({
                       rows={3}
                     />
                   </div>
-                  
-                  <button
-                    onClick={handleComplete}
-                    className="btn-primary text-lg px-8"
-                  >
+
+                  <button onClick={handleComplete} className="btn-primary text-lg px-8">
                     <CheckCircle className="h-5 w-5 mr-2" />
                     Mark Complete & Continue
                   </button>
@@ -446,7 +471,8 @@ const LessonView: React.FC<LessonViewProps> = ({
                     Beautiful Work!
                   </h3>
                   <p className="text-gray-600 mb-6">
-                    You've completed this lesson. Your spiritual practice is growing stronger.
+                    You&apos;ve completed this lesson. Your spiritual practice is
+                    growing stronger.
                   </p>
                   {hasNext && (
                     <button onClick={onNext} className="btn-primary">
@@ -475,18 +501,20 @@ const LessonView: React.FC<LessonViewProps> = ({
                 </div>
               </div>
               <div className="space-y-2">
-                {lesson.aiAssistant.suggestedQuestions.slice(0, 3).map((question, index) => (
-                  <button
-                    key={index}
-                    onClick={() => {
-                      setShowAIAssistant(true)
-                      setInputMessage(question)
-                    }}
-                    className="w-full text-left text-sm p-2 rounded-lg hover:bg-rose-pink/10 text-gray-600 hover:text-deep-rose transition-colors"
-                  >
-                    "{question}"
-                  </button>
-                ))}
+                {lesson.aiAssistant.suggestedQuestions
+                  .slice(0, 3)
+                  .map((question, index) => (
+                    <button
+                      key={index}
+                      onClick={() => {
+                        setShowAIAssistant(true);
+                        setInputMessage(question);
+                      }}
+                      className="w-full text-left text-sm p-2 rounded-lg hover:bg-rose-pink/10 text-gray-600 hover:text-deep-rose transition-colors"
+                    >
+                      &ldquo;{question}&rdquo;
+                    </button>
+                  ))}
               </div>
             </div>
           </div>
@@ -538,7 +566,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                 {chatMessages.length === 0 && (
                   <div className="text-center py-8">
                     <p className="text-gray-500 mb-4">
-                      Welcome! I'm here to support your spiritual journey.
+                      Welcome! I&apos;m here to support your spiritual journey.
                     </p>
                     <div className="space-y-2">
                       {lesson.aiAssistant.suggestedQuestions.map((question, index) => (
@@ -553,7 +581,7 @@ const LessonView: React.FC<LessonViewProps> = ({
                     </div>
                   </div>
                 )}
-                
+
                 {chatMessages.map((message) => (
                   <div
                     key={message.id}
@@ -567,9 +595,11 @@ const LessonView: React.FC<LessonViewProps> = ({
                       }`}
                     >
                       <p className="leading-relaxed">{message.text}</p>
-                      <p className={`text-xs mt-2 ${
-                        message.sender === 'user' ? 'text-rose-100' : 'text-gray-500'
-                      }`}>
+                      <p
+                        className={`text-xs mt-2 ${
+                          message.sender === 'user' ? 'text-rose-100' : 'text-gray-500'
+                        }`}
+                      >
                         {message.timestamp.toLocaleTimeString()}
                       </p>
                     </div>
@@ -581,8 +611,14 @@ const LessonView: React.FC<LessonViewProps> = ({
                     <div className="bg-gray-100 text-gray-800 p-4 rounded-2xl">
                       <div className="flex space-x-1">
                         <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce"></div>
-                        <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '0.1s' }}></div>
-                        <div className="w-2 h-2 bg-gray-400 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></div>
+                        <div
+                          className="w-2 h-2 bg-gray-400 rounded-full animate-bounce"
+                          style={{ animationDelay: '0.1s' }}
+                        ></div>
+                        <div
+                          className="w-2 h-2 bg-gray-400 rounded-full animate-bounce"
+                          style={{ animationDelay: '0.2s' }}
+                        ></div>
                       </div>
                     </div>
                   </div>
@@ -597,7 +633,9 @@ const LessonView: React.FC<LessonViewProps> = ({
                     type="text"
                     value={inputMessage}
                     onChange={(e) => setInputMessage(e.target.value)}
-                    onKeyPress={(e) => e.key === 'Enter' && handleSendMessage(inputMessage)}
+                    onKeyPress={(e) =>
+                      e.key === 'Enter' && handleSendMessage(inputMessage)
+                    }
                     placeholder="Ask your question..."
                     className="flex-1 px-4 py-3 border border-gray-300 rounded-full focus:outline-none focus:border-rose-pink"
                     disabled={isTyping}
@@ -616,7 +654,7 @@ const LessonView: React.FC<LessonViewProps> = ({
         )}
       </AnimatePresence>
     </div>
-  )
-}
+  );
+};
 
-export default LessonView
+export default LessonView;

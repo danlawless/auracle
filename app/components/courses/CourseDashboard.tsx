@@ -1,30 +1,30 @@
-'use client'
+'use client';
 
-import { useState } from 'react'
-import { motion } from 'framer-motion'
-import { 
-  Play, 
-  CheckCircle, 
-  Lock, 
-  Trophy, 
-  Flame, 
-  Clock, 
+import { useState } from 'react';
+import { motion } from 'framer-motion';
+import {
+  Play,
+  CheckCircle,
+  Lock,
+  Trophy,
+  Flame,
+  Clock,
   BookOpen,
   Star,
   Medal,
   Target,
   Calendar,
   TrendingUp,
-  Sparkles
-} from 'lucide-react'
-import { Lesson, Course } from '../../../types/course'
-import { useLessonProgression } from '../../../hooks/useLessonProgression'
-import EnhancedLessonView from './EnhancedLessonView'
-import CourseCompletionCelebration from './CourseCompletionCelebration'
+  Sparkles,
+} from 'lucide-react';
+import { Lesson, Course } from '../../../types/course';
+import { useLessonProgression } from '../../../hooks/useLessonProgression';
+import EnhancedLessonView from './EnhancedLessonView';
+import CourseCompletionCelebration from './CourseCompletionCelebration';
 
 interface CourseDashboardProps {
-  course: Course
-  lessons: Lesson[]
+  course: Course;
+  lessons: Lesson[];
 }
 
 const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) => {
@@ -36,80 +36,87 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
     getCourseStats,
     isCourseCompleted,
     getCourseCompletionDate,
-    isClient
-  } = useLessonProgression(course.id)
+    isClient,
+  } = useLessonProgression(course.id);
 
-  const [currentView, setCurrentView] = useState<'dashboard' | 'lesson'>('dashboard')
-  const [selectedLesson, setSelectedLesson] = useState<Lesson | null>(null)
-  const [showCelebration, setShowCelebration] = useState(false)
+  const [currentView, setCurrentView] = useState<'dashboard' | 'lesson'>('dashboard');
+  const [selectedLesson, setSelectedLesson] = useState<Lesson | null>(null);
+  const [showCelebration, setShowCelebration] = useState(false);
 
-  const stats = getCourseStats()
+  const stats = getCourseStats();
 
   const startLesson = (lesson: Lesson) => {
     if (isLessonUnlocked(lesson.id)) {
-      setSelectedLesson(lesson)
-      setCurrentView('lesson')
+      setSelectedLesson(lesson);
+      setCurrentView('lesson');
     }
-  }
+  };
 
   const handleLessonComplete = (lessonId: string, completionData: any) => {
-    completeLesson(lessonId, completionData)
-    
+    completeLesson(lessonId, completionData);
+
     // Check if course is now completed (checking if this was the last lesson)
     // Only trigger on client side to prevent hydration issues
-    const wasJustCompleted = isClient && lessonId === 'rm1-010' && !stats.isCompleted
-    
+    const wasJustCompleted = isClient && lessonId === 'rm1-010' && !stats.isCompleted;
+
     // Return to dashboard after completion
-    setCurrentView('dashboard')
-    setSelectedLesson(null)
-    
+    setCurrentView('dashboard');
+    setSelectedLesson(null);
+
     if (wasJustCompleted) {
       // Show celebration for course completion after a brief delay
       setTimeout(() => {
-        setShowCelebration(true)
-      }, 500)
+        setShowCelebration(true);
+      }, 500);
     }
-  }
+  };
 
   const handleNext = () => {
     if (selectedLesson) {
-      const currentIndex = lessons.findIndex(l => l.id === selectedLesson.id)
-      const nextLesson = lessons[currentIndex + 1]
+      const currentIndex = lessons.findIndex((l) => l.id === selectedLesson.id);
+      const nextLesson = lessons[currentIndex + 1];
       if (nextLesson && isLessonUnlocked(nextLesson.id)) {
-        setSelectedLesson(nextLesson)
+        setSelectedLesson(nextLesson);
       }
     }
-  }
+  };
 
   const handlePrevious = () => {
     if (selectedLesson) {
-      const currentIndex = lessons.findIndex(l => l.id === selectedLesson.id)
-      const prevLesson = lessons[currentIndex - 1]
+      const currentIndex = lessons.findIndex((l) => l.id === selectedLesson.id);
+      const prevLesson = lessons[currentIndex - 1];
       if (prevLesson) {
-        setSelectedLesson(prevLesson)
+        setSelectedLesson(prevLesson);
       }
     }
-  }
+  };
 
   const handleBackToDashboard = () => {
-    setCurrentView('dashboard')
-    setSelectedLesson(null)
-  }
+    setCurrentView('dashboard');
+    setSelectedLesson(null);
+  };
 
   const getRarityColor = (rarity: string) => {
     switch (rarity) {
-      case 'common': return 'text-gray-600 bg-gray-100'
-      case 'uncommon': return 'text-green-600 bg-green-100'
-      case 'rare': return 'text-blue-600 bg-blue-100'
-      case 'legendary': return 'text-purple-600 bg-purple-100'
-      default: return 'text-gray-600 bg-gray-100'
+      case 'common':
+        return 'text-gray-600 bg-gray-100';
+      case 'uncommon':
+        return 'text-green-600 bg-green-100';
+      case 'rare':
+        return 'text-blue-600 bg-blue-100';
+      case 'legendary':
+        return 'text-purple-600 bg-purple-100';
+      default:
+        return 'text-gray-600 bg-gray-100';
     }
-  }
+  };
 
   if (currentView === 'lesson' && selectedLesson) {
-    const currentIndex = lessons.findIndex(l => l.id === selectedLesson.id)
-    const hasNext = currentIndex < lessons.length - 1 && isLessonUnlocked(lessons[currentIndex + 1]?.id)
-    const hasPrevious = currentIndex > 0
+    const currentIndex = lessons.findIndex((l) => l.id === selectedLesson.id);
+    const hasNext =
+      currentIndex < lessons.length - 1 &&
+      isLessonUnlocked(lessons[currentIndex + 1]?.id);
+    const hasPrevious = currentIndex > 0;
 
     return (
       <EnhancedLessonView
@@ -123,10 +130,10 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
         progress={{
           current: currentIndex + 1,
           total: lessons.length,
-          percentage: ((currentIndex + 1) / lessons.length) * 100
+          percentage: ((currentIndex + 1) / lessons.length) * 100,
         }}
       />
-    )
+    );
   }
 
   return (
@@ -147,9 +154,7 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
           <h1 className="text-4xl md:text-5xl font-serif font-bold text-gradient-rose mb-4">
             {course.title}
           </h1>
-          <p className="text-xl text-gray-700 max-w-2xl mx-auto">
-            {course.subtitle}
-          </p>
+          <p className="text-xl text-gray-700 max-w-2xl mx-auto">{course.subtitle}</p>
         </motion.div>
 
         <div className="grid lg:grid-cols-3 gap-8 mb-12">
@@ -162,9 +167,11 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
           >
             <div className="card-sacred mb-8">
               <h2 className="text-2xl font-serif font-semibold text-gray-800 mb-6">
-                {isClient && stats.isCompleted ? '🌹 Sacred Journey Complete!' : 'Your Sacred Journey'}
+                {isClient && stats.isCompleted
+                  ? '🌹 Sacred Journey Complete!'
+                  : 'Your Sacred Journey'}
               </h2>
-              
+
               {/* Completion Badge or Progress Bar */}
               {isClient && stats.isCompleted ? (
                 <div className="mb-6 p-6 bg-gradient-to-r from-golden-light/20 via-rose-pink/20 to-soft-lavender/20 rounded-2xl border-2 border-golden-light/30">
@@ -178,8 +185,12 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                       Congratulations! Course Mastered
                     </p>
                     <p className="text-sm text-gray-600">
-                      Completed on {stats.completionDate?.toLocaleDateString('en-US', { 
-                        weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' 
+                      Completed on{' '}
+                      {stats.completionDate?.toLocaleDateString('en-US', {
+                        weekday: 'long',
+                        month: 'long',
+                        day: 'numeric',
+                        year: 'numeric',
                       })}
                     </p>
                   </div>
@@ -187,8 +198,12 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
               ) : (
                 <div className="mb-6">
                   <div className="flex justify-between items-center mb-2">
-                    <span className="text-sm font-medium text-gray-700">Course Progress</span>
-                    <span className="text-sm font-medium text-deep-rose">{stats.overallProgress}% Complete</span>
+                    <span className="text-sm font-medium text-gray-700">
+                      Course Progress
+                    </span>
+                    <span className="text-sm font-medium text-deep-rose">
+                      {stats.overallProgress}% Complete
+                    </span>
                   </div>
                   <div className="w-full bg-gray-200 rounded-full h-3">
                     <motion.div
@@ -205,7 +220,9 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 <div className="text-center p-4 bg-rose-pink/10 rounded-2xl">
                   <BookOpen className="h-6 w-6 text-deep-rose mx-auto mb-2" />
-                  <div className="text-2xl font-bold text-gray-800">{stats.completedLessons}</div>
+                  <div className="text-2xl font-bold text-gray-800">
+                    {stats.completedLessons}
+                  </div>
                   <div className="text-sm text-gray-600">Lessons Done</div>
                 </div>
                 <div className="text-center p-4 bg-golden-light/10 rounded-2xl">
@@ -215,7 +232,9 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                 </div>
                 <div className="text-center p-4 bg-sage-green/10 rounded-2xl">
                   <Clock className="h-6 w-6 text-sage-green mx-auto mb-2" />
-                  <div className="text-2xl font-bold text-gray-800">{Math.round(stats.totalTimeSpent)}</div>
+                  <div className="text-2xl font-bold text-gray-800">
+                    {Math.round(stats.totalTimeSpent)}
+                  </div>
                   <div className="text-sm text-gray-600">Hours Learned</div>
                 </div>
                 <div className="text-center p-4 bg-purple-100 rounded-2xl">
@@ -233,15 +252,15 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
               </h3>
               <div className="space-y-4">
                 {lessons.map((lesson, index) => {
-                  const isCompleted = isLessonCompleted(lesson.id)
-                  const isUnlocked = isLessonUnlocked(lesson.id)
-                  const isCurrent = lesson.id === courseProgress.currentLesson
-                  
+                  const isCompleted = isLessonCompleted(lesson.id);
+                  const isUnlocked = isLessonUnlocked(lesson.id);
+                  const isCurrent = lesson.id === courseProgress.currentLesson;
+
                   return (
                     <motion.div
                       key={lesson.id}
                       className={`group relative p-4 rounded-xl border-2 transition-all duration-300 cursor-pointer ${
-                        isCompleted 
+                        isCompleted
                           ? 'border-green-200 bg-green-50 hover:border-green-300'
                           : isUnlocked
                             ? 'border-rose-pink/20 bg-white hover:border-rose-pink/40 hover:shadow-md'
@@ -269,7 +288,7 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                             </div>
                           )}
                         </div>
-                        
+
                         <div className="flex-1">
                           <div className="flex items-center justify-between">
                             <div>
@@ -277,7 +296,9 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                                 {lesson.title}
                               </h4>
                               {lesson.subtitle && (
-                                <p className="text-sm text-gray-600">{lesson.subtitle}</p>
+                                <p className="text-sm text-gray-600">
+                                  {lesson.subtitle}
+                                </p>
                               )}
                             </div>
                             <div className="text-right">
@@ -293,14 +314,14 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                           </div>
                         </div>
                       </div>
-                      
+
                       {!isUnlocked && lesson.prerequisites && (
                         <div className="mt-2 text-xs text-gray-500">
                           Complete previous lessons to unlock
                         </div>
                       )}
                     </motion.div>
-                  )
+                  );
                 })}
               </div>
             </div>
@@ -325,13 +346,18 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                 <div className="text-3xl font-bold text-gray-800">0</div>
                 <div className="text-sm text-gray-600">days in a row</div>
               </div>
-              
+
               {/* Streak Milestones */}
               <div className="space-y-2">
                 {[].map((milestone, index) => (
-                  <div key={index} className={`flex items-center justify-between p-2 rounded-lg ${
-                    milestone.achieved ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-600'
-                  }`}>
+                  <div
+                    key={index}
+                    className={`flex items-center justify-between p-2 rounded-lg ${
+                      milestone.achieved
+                        ? 'bg-green-100 text-green-700'
+                        : 'bg-gray-100 text-gray-600'
+                    }`}
+                  >
                     <span className="text-sm">
                       {milestone.achieved ? '✅' : '⭕'} {milestone.days} days
                     </span>
@@ -349,8 +375,13 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                 </h3>
                 <div className="space-y-3">
                   {[].slice(-3).map((achievement) => (
-                    <div key={achievement.id} className="flex items-center p-3 bg-gradient-to-r from-purple-50 to-pink-50 rounded-lg">
-                      <div className={`w-8 h-8 rounded-full flex items-center justify-center text-lg mr-3 ${getRarityColor(achievement.rarity)}`}>
+                    <div
+                      key={achievement.id}
+                      className="flex items-center p-3 bg-gradient-to-r from-purple-50 to-pink-50 rounded-lg"
+                    >
+                      <div
+                        className={`w-8 h-8 rounded-full flex items-center justify-center text-lg mr-3 ${getRarityColor(achievement.rarity)}`}
+                      >
                         {achievement.icon}
                       </div>
                       <div className="flex-1">
@@ -375,18 +406,23 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                   Your Next Adventure
                 </h3>
                 <p className="text-sm text-gray-600 mb-4">
-                  You've mastered Rose Meditation Level 1! Ready to deepen your spiritual journey?
+                  You&apos;ve mastered Rose Meditation Level 1! Ready to deepen your
+                  spiritual journey?
                 </p>
                 <div className="space-y-3">
-                  <button 
+                  <button
                     onClick={() => setShowCelebration(true)}
                     className="w-full bg-gradient-gold text-white px-4 py-3 rounded-full font-semibold text-sm hover:shadow-lg transition-all duration-200"
                   >
                     <Trophy className="h-4 w-4 mr-2 inline" />
                     Celebrate Achievement
                   </button>
-                  <button 
-                    onClick={() => alert('Rose Meditation Level 2: Advanced Practices coming soon! 🌹✨')}
+                  <button
+                    onClick={() =>
+                      alert(
+                        'Rose Meditation Level 2: Advanced Practices coming soon! 🌹✨'
+                      )
+                    }
                     className="w-full border-2 border-rose-pink text-rose-pink px-4 py-3 rounded-full font-semibold text-sm hover:bg-rose-pink/5 transition-all duration-200"
                   >
                     <Sparkles className="h-4 w-4 mr-2 inline" />
@@ -401,12 +437,15 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
                     Continue Your Journey
                   </h3>
                   <p className="text-lg text-gray-600 mb-8 leading-relaxed max-w-lg mx-auto">
-                    Pick up where you left off and maintain your spiritual practice momentum.
+                    Pick up where you left off and maintain your spiritual practice
+                    momentum.
                   </p>
-                  <button 
+                  <button
                     onClick={() => {
-                      const currentLesson = lessons.find(l => l.id === courseProgress.currentLesson)
-                      if (currentLesson) startLesson(currentLesson)
+                      const currentLesson = lessons.find(
+                        (l) => l.id === courseProgress.currentLesson
+                      );
+                      if (currentLesson) startLesson(currentLesson);
                     }}
                     className="btn-primary text-lg px-8 py-4 shadow-xl hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
                   >
@@ -425,20 +464,28 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
               <div className="space-y-3">
                 <div className="flex justify-between">
                   <span className="text-sm text-gray-600">Total Time</span>
-                  <span className="text-sm font-medium text-gray-800">{stats.totalTimeSpent} min</span>
+                  <span className="text-sm font-medium text-gray-800">
+                    {stats.totalTimeSpent} min
+                  </span>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-sm text-gray-600">Average/Lesson</span>
-                  <span className="text-sm font-medium text-gray-800">{stats.averageTimePerLesson} min</span>
+                  <span className="text-sm font-medium text-gray-800">
+                    {stats.averageTimePerLesson} min
+                  </span>
                 </div>
                 <div className="flex justify-between">
                   <span className="text-sm text-gray-600">Unlocked</span>
-                  <span className="text-sm font-medium text-gray-800">{stats.unlockedLessons}/{stats.totalLessons}</span>
+                  <span className="text-sm font-medium text-gray-800">
+                    {stats.unlockedLessons}/{stats.totalLessons}
+                  </span>
                 </div>
                 {stats.completedLessons >= 5 && (
                   <div className="p-2 bg-gradient-gold/10 rounded-lg text-center">
                     <Star className="h-4 w-4 text-earth-copper mx-auto mb-1" />
-                    <span className="text-xs text-earth-copper font-medium">Dedicated Student</span>
+                    <span className="text-xs text-earth-copper font-medium">
+                      Dedicated Student
+                    </span>
                   </div>
                 )}
               </div>
@@ -455,13 +502,13 @@ const CourseDashboard: React.FC<CourseDashboardProps> = ({ course, lessons }) =>
         completionDate={stats.completionDate || new Date()}
         totalTimeSpent={stats.totalTimeSpent}
         onContinueJourney={() => {
-          setShowCelebration(false)
+          setShowCelebration(false);
           // Future: Navigate to next course or progression path
-          alert('Next level courses coming soon! 🌟')
+          alert('Next level courses coming soon! 🌟');
         }}
       />
     </div>
-  )
-}
+  );
+};
 
-export default CourseDashboard
+export default CourseDashboard;

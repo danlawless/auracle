@@ -1,15 +1,15 @@
-'use client'
+'use client';
 
-import { motion } from 'framer-motion'
-import { Award, Heart, Users, Sparkles, Star, Clock } from 'lucide-react'
+import { motion } from 'framer-motion';
+import { Award, Heart, Users, Sparkles, Star, Clock } from 'lucide-react';
 
 const JaeProfile = () => {
   const achievements = [
     { icon: Users, number: '500+', label: 'Souls Guided' },
     { icon: Clock, number: '5+', label: 'Years Experience' },
     { icon: Star, number: '4.9', label: 'Average Rating' },
-    { icon: Award, number: '50+', label: 'Countries Reached' }
-  ]
+    { icon: Award, number: '50+', label: 'Countries Reached' },
+  ];
 
   const specialties = [
     'Aura Sessions & Interpretation',
@@ -19,8 +19,8 @@ const JaeProfile = () => {
     'Chakra Alignment & Healing',
     'Past Life Energy Patterns',
     'Soul Purpose Clarity',
-    'Energetic Protection Methods'
-  ]
+    'Energetic Protection Methods',
+  ];
 
   return (
     <section className="py-20 bg-white/30 backdrop-blur-sm">
@@ -54,7 +54,7 @@ const JaeProfile = () => {
             <div className="card-sacred text-center relative overflow-hidden">
               {/* Background Gradient */}
               <div className="absolute inset-0 bg-gradient-to-br from-rose-pink/10 to-golden-light/10" />
-              
+
               <div className="relative z-10">
                 {/* Avatar */}
                 <div className="flex justify-center mb-6">
@@ -65,7 +65,7 @@ const JaeProfile = () => {
                     <motion.div
                       className="absolute -inset-4 border-2 border-golden-light rounded-full opacity-60"
                       animate={{ rotate: 360 }}
-                      transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
+                      transition={{ duration: 20, repeat: Infinity, ease: 'linear' }}
                     />
                   </div>
                 </div>
@@ -82,10 +82,11 @@ const JaeProfile = () => {
                 <div className="bg-white/50 rounded-lg p-6 mb-6">
                   <Sparkles className="h-6 w-6 text-rose-pink mx-auto mb-3" />
                   <p className="text-lg font-serif italic text-gray-700 mb-3">
-                    "Every soul carries a unique energetic signature, a sacred story written in light. 
-                    My gift is helping you read that story and understand its beautiful message."
+                    &ldquo;Every soul carries a unique energetic signature, a sacred
+                    story written in light. My gift is helping you read that story and
+                    understand its beautiful message.&rdquo;
                   </p>
-                  <p className="text-sm text-gray-500">— Jae's Sacred Mission</p>
+                  <p className="text-sm text-gray-500">— Jae&apos;s Sacred Mission</p>
                 </div>
 
                 {/* Achievements */}
@@ -96,9 +97,7 @@ const JaeProfile = () => {
                       <div className="text-xl font-serif font-bold text-gradient-gold">
                         {achievement.number}
                       </div>
-                      <div className="text-sm text-gray-600">
-                        {achievement.label}
-                      </div>
+                      <div className="text-sm text-gray-600">{achievement.label}</div>
                     </div>
                   ))}
                 </div>
@@ -124,20 +123,22 @@ const JaeProfile = () => {
               </div>
               <div className="space-y-4 text-gray-700 leading-relaxed">
                 <p>
-                  Jae's path to becoming a master Auracle practitioner began over five years ago 
-                  during a profound spiritual awakening. Through years of dedicated practice, 
-                  study, and service, she has developed an extraordinary gift for reading the 
-                  subtle energies that surround each soul.
+                  Jae&apos;s path to becoming a master Auracle practitioner began over
+                  five years ago during a profound spiritual awakening. Through years of
+                  dedicated practice, study, and service, she has developed an
+                  extraordinary gift for reading the subtle energies that surround each
+                  soul.
                 </p>
                 <p>
-                  Her approach combines ancient wisdom with modern understanding, creating a 
-                  safe, sacred space where clients can explore their deepest truths. Jae's 
-                  sessions are known for their accuracy, compassion, and transformative power.
+                  Her approach combines ancient wisdom with modern understanding,
+                  creating a safe, sacred space where clients can explore their deepest
+                  truths. Jae&apos;s sessions are known for their accuracy, compassion,
+                  and transformative power.
                 </p>
                 <p>
-                  "I don't just see your aura," Jae explains, "I feel the sacred story 
-                  it tells about your soul's journey, your gifts, your challenges, and your 
-                  beautiful potential."
+                  &ldquo;I don&apos;t just see your aura,&rdquo; Jae explains, &ldquo;I
+                  feel the sacred story it tells about your soul&apos;s journey, your
+                  gifts, your challenges, and your beautiful potential.&rdquo;
                 </p>
               </div>
             </div>
@@ -179,25 +180,29 @@ const JaeProfile = () => {
                 <div className="flex items-start">
                   <span className="w-2 h-2 bg-golden-light rounded-full mt-2 mr-3 flex-shrink-0" />
                   <div>
-                    <strong>Advanced Aura Session Certification</strong> - International Institute of Energy Studies
+                    <strong>Advanced Aura Session Certification</strong> - International
+                    Institute of Energy Studies
                   </div>
                 </div>
                 <div className="flex items-start">
                   <span className="w-2 h-2 bg-golden-light rounded-full mt-2 mr-3 flex-shrink-0" />
                   <div>
-                    <strong>Rose Meditation Master Teacher</strong> - Sacred Rose Academy
+                    <strong>Rose Meditation Master Teacher</strong> - Sacred Rose
+                    Academy
                   </div>
                 </div>
                 <div className="flex items-start">
                   <span className="w-2 h-2 bg-golden-light rounded-full mt-2 mr-3 flex-shrink-0" />
                   <div>
-                    <strong>Energy Healing Practitioner</strong> - Holistic Energy Institute
+                    <strong>Energy Healing Practitioner</strong> - Holistic Energy
+                    Institute
                   </div>
                 </div>
                 <div className="flex items-start">
                   <span className="w-2 h-2 bg-golden-light rounded-full mt-2 mr-3 flex-shrink-0" />
                   <div>
-                    <strong>Spiritual Counseling Certificate</strong> - Center for Spiritual Development
+                    <strong>Spiritual Counseling Certificate</strong> - Center for
+                    Spiritual Development
                   </div>
                 </div>
               </div>
@@ -216,24 +221,24 @@ const JaeProfile = () => {
           <h4 className="text-2xl font-serif font-semibold text-gradient-rose mb-8">
             What Clients Say About Jae
           </h4>
-          
+
           <div className="grid md:grid-cols-3 gap-6">
             {[
               {
                 text: "Jae saw things in my aura that completely shifted my understanding of myself. Her gentle guidance helped me heal patterns I didn't even know existed.",
-                name: "Sarah M.",
-                location: "California"
+                name: 'Sarah M.',
+                location: 'California',
               },
               {
-                text: "The accuracy of Jae's session was astounding. She described my spiritual gifts with such precision and gave me practical steps to develop them.",
-                name: "Michael R.",
-                location: "New York"
+                text: 'The accuracy of Jae&apos;s session was astounding. She described my spiritual gifts with such precision and gave me practical steps to develop them.',
+                name: 'Michael R.',
+                location: 'New York',
               },
               {
-                text: "Jae creates such a sacred, safe space. I felt completely held and supported throughout our session. Her insights were profound and healing.",
-                name: "Elena K.",
-                location: "London"
-              }
+                text: 'Jae creates such a sacred, safe space. I felt completely held and supported throughout our session. Her insights were profound and healing.',
+                name: 'Elena K.',
+                location: 'London',
+              },
             ].map((testimonial, index) => (
               <div key={index} className="card-sacred">
                 <div className="flex justify-center mb-4">
@@ -242,7 +247,7 @@ const JaeProfile = () => {
                   ))}
                 </div>
                 <p className="text-gray-700 italic mb-4 leading-relaxed">
-                  "{testimonial.text}"
+                  &ldquo;{testimonial.text}&rdquo;
                 </p>
                 <div className="text-sm text-gray-600">
                   <strong>{testimonial.name}</strong> - {testimonial.location}
@@ -253,7 +258,7 @@ const JaeProfile = () => {
         </motion.div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default JaeProfile
+export default JaeProfile;

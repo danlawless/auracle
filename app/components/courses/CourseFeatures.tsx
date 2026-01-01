@@ -1,77 +1,116 @@
-'use client'
+'use client';
 
-import { motion } from 'framer-motion'
-import { useRouter } from 'next/navigation'
-import { Smartphone, Monitor, Headphones, Users, Download, Clock, Award, Heart } from 'lucide-react'
+import { motion } from 'framer-motion';
+import { useRouter } from 'next/navigation';
+import {
+  Smartphone,
+  Monitor,
+  Headphones,
+  Users,
+  Download,
+  Clock,
+  Award,
+  Heart,
+} from 'lucide-react';
 
 const CourseFeatures = () => {
-  const router = useRouter()
+  const router = useRouter();
 
   const features = [
     {
       icon: Smartphone,
       title: 'Mobile & Desktop Access',
-      description: 'Learn anywhere, anytime on your phone, tablet, or computer with our responsive platform.',
-      color: 'text-rose-pink'
+      description:
+        'Learn anywhere, anytime on your phone, tablet, or computer with our responsive platform.',
+      color: 'text-rose-pink',
     },
     {
       icon: Download,
       title: 'Offline Downloads',
-      description: 'Download lessons and meditations for offline practice, perfect for travel or retreat time.',
-      color: 'text-golden-light'
+      description:
+        'Download lessons and meditations for offline practice, perfect for travel or retreat time.',
+      color: 'text-golden-light',
     },
     {
       icon: Headphones,
       title: 'High-Quality Audio',
-      description: 'Crystal-clear guided meditations and teachings recorded in professional studios.',
-      color: 'text-earth-copper'
+      description:
+        'Crystal-clear guided meditations and teachings recorded in professional studios.',
+      color: 'text-earth-copper',
     },
     {
       icon: Users,
       title: 'Sacred Community',
-      description: 'Connect with fellow practitioners in our private community space for support and sharing.',
-      color: 'text-deep-rose'
+      description:
+        'Connect with fellow practitioners in our private community space for support and sharing.',
+      color: 'text-deep-rose',
     },
     {
       icon: Clock,
       title: 'Lifetime Access',
-      description: 'Once enrolled, access your courses forever. Revisit lessons whenever you need guidance.',
-      color: 'text-rose-pink'
+      description:
+        'Once enrolled, access your courses forever. Revisit lessons whenever you need guidance.',
+      color: 'text-rose-pink',
     },
     {
       icon: Award,
       title: 'Completion Certificates',
-      description: 'Receive beautiful certificates to honor your commitment to spiritual growth.',
-      color: 'text-golden-light'
-    }
-  ]
+      description:
+        'Receive beautiful certificates to honor your commitment to spiritual growth.',
+      color: 'text-golden-light',
+    },
+  ];
 
   const learningMethods = [
     {
       title: 'Video Lessons',
-      description: 'HD video teachings with Jae guiding you through each practice step-by-step',
+      description:
+        'HD video teachings with Jae guiding you through each practice step-by-step',
       icon: '🎥',
-      details: ['Professional production', 'Multiple camera angles', 'Clear visual demonstrations', 'Subtitle options']
+      details: [
+        'Professional production',
+        'Multiple camera angles',
+        'Clear visual demonstrations',
+        'Subtitle options',
+      ],
     },
     {
       title: 'Guided Meditations',
-      description: 'Sacred audio experiences designed to deepen your practice and inner connection',
+      description:
+        'Sacred audio experiences designed to deepen your practice and inner connection',
       icon: '🎧',
-      details: ['Binaural audio quality', 'Various lengths available', 'Background music options', 'Downloadable formats']
+      details: [
+        'Binaural audio quality',
+        'Various lengths available',
+        'Background music options',
+        'Downloadable formats',
+      ],
     },
     {
       title: 'Sacred Texts',
-      description: 'Beautifully designed PDFs with teachings, exercises, and reflection prompts',
+      description:
+        'Beautifully designed PDFs with teachings, exercises, and reflection prompts',
       icon: '📜',
-      details: ['Printable materials', 'Interactive exercises', 'Journal prompts', 'Reference guides']
+      details: [
+        'Printable materials',
+        'Interactive exercises',
+        'Journal prompts',
+        'Reference guides',
+      ],
     },
     {
       title: 'Live Sessions',
-      description: 'Monthly group calls for Q&A, practice sessions, and community connection',
+      description:
+        'Monthly group calls for Q&A, practice sessions, and community connection',
       icon: '✨',
-      details: ['Interactive participation', 'Personal guidance', 'Group energy work', 'Recorded for replay']
-    }
-  ]
+      details: [
+        'Interactive participation',
+        'Personal guidance',
+        'Group energy work',
+        'Recorded for replay',
+      ],
+    },
+  ];
 
   return (
     <section className="py-20 bg-white/50 backdrop-blur-sm">
@@ -88,8 +127,8 @@ const CourseFeatures = () => {
             Sacred Learning Experience
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            Every course is designed with love and intention, providing multiple ways to engage 
-            with the teachings and deepen your spiritual practice.
+            Every course is designed with love and intention, providing multiple ways to
+            engage with the teachings and deepen your spiritual practice.
           </p>
         </motion.div>
 
@@ -112,9 +151,7 @@ const CourseFeatures = () => {
               <h3 className="text-xl font-serif font-semibold text-gray-800 mb-3">
                 {feature.title}
               </h3>
-              <p className="text-gray-600 leading-relaxed">
-                {feature.description}
-              </p>
+              <p className="text-gray-600 leading-relaxed">{feature.description}</p>
             </motion.div>
           ))}
         </div>
@@ -130,7 +167,7 @@ const CourseFeatures = () => {
           <h3 className="text-3xl font-serif font-bold text-gradient-gold text-center mb-12">
             Multiple Ways to Learn
           </h3>
-          
+
           <div className="grid lg:grid-cols-2 gap-8">
             {learningMethods.map((method, index) => (
               <motion.div
@@ -154,7 +191,10 @@ const CourseFeatures = () => {
                     </p>
                     <ul className="grid grid-cols-2 gap-2">
                       {method.details.map((detail, detailIndex) => (
-                        <li key={detailIndex} className="flex items-center text-sm text-gray-600">
+                        <li
+                          key={detailIndex}
+                          className="flex items-center text-sm text-gray-600"
+                        >
                           <span className="w-1.5 h-1.5 bg-rose-pink rounded-full mr-2 flex-shrink-0" />
                           {detail}
                         </li>
@@ -186,8 +226,9 @@ const CourseFeatures = () => {
               Loving Support
             </h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              Our dedicated support team is here to help you every step of the way. 
-              Get technical assistance, course guidance, and spiritual encouragement whenever you need it.
+              Our dedicated support team is here to help you every step of the way. Get
+              technical assistance, course guidance, and spiritual encouragement
+              whenever you need it.
             </p>
             <div className="space-y-2 text-sm text-gray-600">
               <div>📧 Email support within 24 hours</div>
@@ -208,8 +249,9 @@ const CourseFeatures = () => {
               Sacred Promise
             </h3>
             <p className="text-gray-600 mb-6 leading-relaxed">
-              We believe so deeply in the transformative power of these teachings that we offer 
-              a 30-day satisfaction guarantee. Your spiritual growth is our sacred commitment.
+              We believe so deeply in the transformative power of these teachings that
+              we offer a 30-day satisfaction guarantee. Your spiritual growth is our
+              sacred commitment.
             </p>
             <div className="space-y-2 text-sm text-gray-600">
               <div>✅ 30-day money-back guarantee</div>
@@ -238,17 +280,18 @@ const CourseFeatures = () => {
               Ready to Begin Your Sacred Journey?
             </h3>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
-              "Visualize your grounding cord now. Feel your presence deepen." 
-              Join thousands of souls who have transformed their lives through these sacred practices.
+              &ldquo;Visualize your grounding cord now. Feel your presence
+              deepen.&rdquo; Join thousands of souls who have transformed their lives
+              through these sacred practices.
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center">
-              <button 
+              <button
                 onClick={() => router.push('/courses')}
                 className="btn-primary text-lg px-12 py-4"
               >
                 Browse All Courses
               </button>
-              <button 
+              <button
                 onClick={() => router.push('/courses/rose-meditation-1/dashboard')}
                 className="btn-secondary text-lg px-12 py-4"
               >
@@ -259,7 +302,7 @@ const CourseFeatures = () => {
         </motion.div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default CourseFeatures
+export default CourseFeatures;

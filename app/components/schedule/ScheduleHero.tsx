@@ -1,7 +1,7 @@
-'use client'
+'use client';
 
-import { motion } from 'framer-motion'
-import { Calendar, Clock, Heart, Sparkles } from 'lucide-react'
+import { motion } from 'framer-motion';
+import { Calendar, Clock, Heart, Sparkles } from 'lucide-react';
 
 const ScheduleHero = () => {
   return (
@@ -10,15 +10,15 @@ const ScheduleHero = () => {
       <motion.div
         className="absolute top-1/4 left-1/6 text-vibrant-pink opacity-20"
         animate={{ rotate: 360 }}
-        transition={{ duration: 20, repeat: Infinity, ease: "linear" }}
+        transition={{ duration: 20, repeat: Infinity, ease: 'linear' }}
       >
         <Calendar className="h-16 w-16" />
       </motion.div>
-      
+
       <motion.div
         className="absolute bottom-1/4 right-1/6 text-golden-accent opacity-25"
         animate={{ rotate: -360 }}
-        transition={{ duration: 25, repeat: Infinity, ease: "linear" }}
+        transition={{ duration: 25, repeat: Infinity, ease: 'linear' }}
       >
         <Sparkles className="h-12 w-12" />
       </motion.div>
@@ -44,7 +44,7 @@ const ScheduleHero = () => {
               <motion.div
                 className="absolute -inset-3 border-2 border-golden-accent rounded-full opacity-50"
                 animate={{ rotate: 360 }}
-                transition={{ duration: 15, repeat: Infinity, ease: "linear" }}
+                transition={{ duration: 15, repeat: Infinity, ease: 'linear' }}
               />
             </div>
           </motion.div>
@@ -59,16 +59,16 @@ const ScheduleHero = () => {
             >
               Book Your Session
             </motion.h1>
-            
+
             <motion.p
               className="text-xl md:text-2xl text-gray-700 max-w-3xl mx-auto leading-relaxed"
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.5 }}
             >
-              Connect with 
-              <span className="text-gradient-gold font-medium"> Jae</span>, 
-              for profound spiritual guidance and transformative insights into your divine path.
+              Connect with
+              <span className="text-gradient-gold font-medium"> Jae</span>, for profound
+              spiritual guidance and transformative insights into your divine path.
             </motion.p>
           </div>
 
@@ -80,23 +80,33 @@ const ScheduleHero = () => {
             transition={{ duration: 0.8, delay: 0.7 }}
           >
             {[
-              { icon: Heart, title: 'Personal Insights', description: 'Deep understanding of your spiritual journey and purpose' },
-              { icon: Sparkles, title: 'Divine Guidance', description: 'Clear messages from your spirit guides and divine team' },
-              { icon: Clock, title: 'Flexible Sessions', description: 'Choose 30, 60, or 90 minutes based on your needs' }
+              {
+                icon: Heart,
+                title: 'Personal Insights',
+                description: 'Deep understanding of your spiritual journey and purpose',
+              },
+              {
+                icon: Sparkles,
+                title: 'Divine Guidance',
+                description: 'Clear messages from your spirit guides and divine team',
+              },
+              {
+                icon: Clock,
+                title: 'Flexible Sessions',
+                description: 'Choose 30, 60, or 90 minutes based on your needs',
+              },
             ].map((benefit, index) => (
               <motion.div
                 key={benefit.title}
                 className="card-sacred p-6 text-center group"
                 whileHover={{ scale: 1.05 }}
-                transition={{ type: "spring", stiffness: 300 }}
+                transition={{ type: 'spring', stiffness: 300 }}
               >
                 <benefit.icon className="h-8 w-8 text-vibrant-pink mx-auto mb-3 group-hover:scale-110 transition-transform duration-300" />
                 <h3 className="text-lg font-serif font-medium text-gray-800 mb-2">
                   {benefit.title}
                 </h3>
-                <p className="text-sm text-gray-600">
-                  {benefit.description}
-                </p>
+                <p className="text-sm text-gray-600">{benefit.description}</p>
               </motion.div>
             ))}
           </motion.div>
@@ -114,10 +124,11 @@ const ScheduleHero = () => {
               </div>
             </div>
             <p className="text-lg font-serif italic text-gray-700 mb-2">
-              "Beloved, return to your breath. The moment is sacred."
+              &ldquo;Beloved, return to your breath. The moment is sacred.&rdquo;
             </p>
             <p className="text-sm text-gray-500">
-              Experience the gentle, transformative power of authentic spiritual guidance
+              Experience the gentle, transformative power of authentic spiritual
+              guidance
             </p>
           </motion.div>
 
@@ -159,7 +170,7 @@ const ScheduleHero = () => {
         </motion.div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default ScheduleHero
+export default ScheduleHero;

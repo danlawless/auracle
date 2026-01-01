@@ -1,72 +1,89 @@
-'use client'
+'use client';
 
-import { motion } from 'framer-motion'
-import { useRouter } from 'next/navigation'
-import { ArrowRight, CheckCircle } from 'lucide-react'
+import { motion } from 'framer-motion';
+import { useRouter } from 'next/navigation';
+import { ArrowRight, CheckCircle } from 'lucide-react';
 
 const LearningPath = () => {
-  const router = useRouter()
+  const router = useRouter();
 
   const handleCourseNavigation = (courseTitle: string) => {
     // For now, only Rose Meditation Level 1 has content
     if (courseTitle === 'Rose Meditation Level 1') {
-      router.push('/courses/rose-meditation-1/dashboard')
+      router.push('/courses/rose-meditation-1/dashboard');
     } else {
       // Other courses go to coming soon page
-      router.push(`/courses/${courseTitle.toLowerCase().replace(/\s+/g, '-').replace(/&/g, 'and')}`)
+      router.push(
+        `/courses/${courseTitle.toLowerCase().replace(/\s+/g, '-').replace(/&/g, 'and')}`
+      );
     }
-  }
+  };
 
   const pathSteps = [
     {
       level: 'Begin Here',
       title: 'Rose Meditation Level 1',
       subtitle: 'Foundation of Sacred Practice',
-      description: 'Step into your inner sanctuary through foundational Rose Meditation practices',
-      practices: ['Golden Sun Visualization', 'Grounding Cord Mastery', 'Pink Rose Heart Opening', 'Aura Boundary Setting'],
+      description:
+        'Step into your inner sanctuary through foundational Rose Meditation practices',
+      practices: [
+        'Golden Sun Visualization',
+        'Grounding Cord Mastery',
+        'Pink Rose Heart Opening',
+        'Aura Boundary Setting',
+      ],
       duration: '4 weeks',
       color: 'from-rose-pink to-deep-rose',
       price: '$197',
       originalPrice: null,
       isUnlocked: true,
       progressLevel: 'start',
-      icon: '🌹'
+      icon: '🌹',
     },
     {
       level: 'Level 2',
       title: 'Rose Meditation Level 2',
       subtitle: 'Deepen Your Practice',
       description: 'Unlock deeper wisdom through advanced Rose Meditation teachings',
-      practices: ['Advanced Four Roses', 'Energy Transmutation', 'Chakra Rose Work', 'Sacred Healing'],
+      practices: [
+        'Advanced Four Roses',
+        'Energy Transmutation',
+        'Chakra Rose Work',
+        'Sacred Healing',
+      ],
       duration: '6 weeks',
       color: 'from-golden-light to-earth-copper',
       price: '$397',
       originalPrice: null,
       isUnlocked: false,
       progressLevel: 'unlocks-next',
-      icon: '🌹✨'
+      icon: '🌹✨',
     },
     {
       level: 'Level 3',
       title: 'Rose Meditation Level 3',
       subtitle: 'Master Level Practice',
-      description: 'Embody the complete Rose Meditation teachings and prepare for sovereignty',
-      practices: ['Master Rose Techniques', 'Sacred Geometry', 'Advanced Healing', 'Spiritual Mastery'],
+      description:
+        'Embody the complete Rose Meditation teachings and prepare for sovereignty',
+      practices: [
+        'Master Rose Techniques',
+        'Sacred Geometry',
+        'Advanced Healing',
+        'Spiritual Mastery',
+      ],
       duration: '8 weeks',
       color: 'from-earth-copper to-golden-light',
       price: '$597',
       originalPrice: null,
       isUnlocked: false,
       progressLevel: 'unlocks-next',
-      icon: '🌹👑'
-    }
-  ]
+      icon: '🌹👑',
+    },
+  ];
 
   return (
     <section className="py-20 bg-white/30 backdrop-blur-sm">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-
-
         {/* Learning Path */}
         <div className="relative">
           {/* Connection Line */}
@@ -85,7 +102,9 @@ const LearningPath = () => {
               >
                 {/* Content Card */}
                 <div className="w-full max-w-sm">
-                  <div className={`card-sacred group relative overflow-hidden ${step.progressLevel === 'start' ? 'ring-2 ring-rose-pink shadow-2xl' : ''}`}>
+                  <div
+                    className={`card-sacred group relative overflow-hidden ${step.progressLevel === 'start' ? 'ring-2 ring-rose-pink shadow-2xl' : ''}`}
+                  >
                     {/* Progress Badge */}
                     {step.progressLevel === 'start' && (
                       <div className="absolute -top-2 -right-2 z-20">
@@ -101,16 +120,20 @@ const LearningPath = () => {
                         </div>
                       </div>
                     )}
-                    
+
                     {/* Background Gradient */}
-                    <div className={`absolute inset-0 bg-gradient-to-br ${step.color} opacity-5 group-hover:opacity-10 transition-opacity duration-300`} />
-                    
+                    <div
+                      className={`absolute inset-0 bg-gradient-to-br ${step.color} opacity-5 group-hover:opacity-10 transition-opacity duration-300`}
+                    />
+
                     {/* Content */}
                     <div className="relative z-10">
                       {/* Level Badge & Icon */}
                       <div className="flex items-center justify-between mb-4">
-                        <div className={`inline-flex items-center px-3 py-1 rounded-full bg-gradient-to-r ${step.color} text-white text-sm font-medium`}>
-                        {step.level}
+                        <div
+                          className={`inline-flex items-center px-3 py-1 rounded-full bg-gradient-to-r ${step.color} text-white text-sm font-medium`}
+                        >
+                          {step.level}
                         </div>
                         <span className="text-3xl">{step.icon}</span>
                       </div>
@@ -119,9 +142,7 @@ const LearningPath = () => {
                       <h3 className="text-2xl font-serif font-semibold text-gray-800 mb-2">
                         {step.title}
                       </h3>
-                      <p className="text-rose-pink font-medium mb-3">
-                        {step.subtitle}
-                      </p>
+                      <p className="text-rose-pink font-medium mb-3">{step.subtitle}</p>
                       <p className="text-gray-600 mb-6 leading-relaxed">
                         {step.description}
                       </p>
@@ -137,11 +158,14 @@ const LearningPath = () => {
                       {/* Practices */}
                       <div className="mb-6">
                         <h4 className="text-sm font-medium text-gray-800 mb-3">
-                          What You'll Master:
+                          What You&apos;ll Master:
                         </h4>
                         <ul className="space-y-2">
                           {step.practices.map((practice, practiceIndex) => (
-                            <li key={practiceIndex} className="flex items-center text-sm text-gray-600">
+                            <li
+                              key={practiceIndex}
+                              className="flex items-center text-sm text-gray-600"
+                            >
                               <CheckCircle className="h-4 w-4 text-green-500 mr-2 flex-shrink-0" />
                               {practice}
                             </li>
@@ -154,27 +178,35 @@ const LearningPath = () => {
                         <span className="text-sm text-gray-500">
                           Duration: {step.duration}
                         </span>
-                        <span className={`text-xs px-2 py-1 rounded-full ${
-                          step.isUnlocked ? 'bg-rose-100 text-rose-800' : 
-                          step.progressLevel === 'sovereignty' ? 'bg-golden-100 text-golden-800' :
-                          'bg-gray-100 text-gray-600'
-                        }`}>
-                          {step.isUnlocked ? 'Begin Here' : 
-                           step.progressLevel === 'sovereignty' ? 'Awaits You' :
-                           'Unlocks Next'}
+                        <span
+                          className={`text-xs px-2 py-1 rounded-full ${
+                            step.isUnlocked
+                              ? 'bg-rose-100 text-rose-800'
+                              : step.progressLevel === 'sovereignty'
+                                ? 'bg-golden-100 text-golden-800'
+                                : 'bg-gray-100 text-gray-600'
+                          }`}
+                        >
+                          {step.isUnlocked
+                            ? 'Begin Here'
+                            : step.progressLevel === 'sovereignty'
+                              ? 'Awaits You'
+                              : 'Unlocks Next'}
                         </span>
                       </div>
 
                       {/* CTA Button */}
-                        <button 
-                          onClick={() => handleCourseNavigation(step.title)}
-                        disabled={!step.isUnlocked && step.progressLevel !== 'sovereignty'}
+                      <button
+                        onClick={() => handleCourseNavigation(step.title)}
+                        disabled={
+                          !step.isUnlocked && step.progressLevel !== 'sovereignty'
+                        }
                         className={`w-full inline-flex items-center justify-center px-6 py-3 rounded-full text-sm font-medium transition-all duration-300 hover:shadow-lg hover:scale-105 ${
-                          step.isUnlocked 
-                            ? `bg-gradient-to-r ${step.color} text-white` 
+                          step.isUnlocked
+                            ? `bg-gradient-to-r ${step.color} text-white`
                             : step.progressLevel === 'sovereignty'
-                            ? 'bg-gradient-to-r from-golden-light to-earth-copper text-white'
-                            : 'bg-gray-200 text-gray-500 cursor-not-allowed'
+                              ? 'bg-gradient-to-r from-golden-light to-earth-copper text-white'
+                              : 'bg-gray-200 text-gray-500 cursor-not-allowed'
                         }`}
                       >
                         {step.isUnlocked ? (
@@ -185,12 +217,12 @@ const LearningPath = () => {
                         ) : step.progressLevel === 'sovereignty' ? (
                           <>
                             Are You Ready?
-                          <ArrowRight className="ml-2 h-4 w-4" />
+                            <ArrowRight className="ml-2 h-4 w-4" />
                           </>
                         ) : (
                           'Complete Previous Level'
                         )}
-                        </button>
+                      </button>
                     </div>
                   </div>
                 </div>
@@ -200,7 +232,7 @@ const LearningPath = () => {
                   <motion.div
                     className={`w-16 h-16 bg-gradient-to-br ${step.color} rounded-full flex items-center justify-center shadow-lg mx-auto`}
                     whileHover={{ scale: 1.1 }}
-                    transition={{ type: "spring", stiffness: 300 }}
+                    transition={{ type: 'spring', stiffness: 300 }}
                   >
                     <span className="text-2xl font-serif font-bold text-white">
                       {index + 1}
@@ -211,11 +243,9 @@ const LearningPath = () => {
             ))}
           </div>
         </div>
-
-        
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default LearningPath
+export default LearningPath;

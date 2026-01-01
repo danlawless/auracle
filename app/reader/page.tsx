@@ -3,18 +3,59 @@ import { volumes } from './chapters';
 
 export const metadata = {
   title: 'The Sovereignty Series | Reader',
-  description: 'An eight-volume journey from recognition through healing to sovereignty, embodied leadership, parenting, helping others, prosperity, and quantum awakening.',
+  description:
+    'An eight-volume journey from recognition through healing to sovereignty, embodied leadership, parenting, helping others, prosperity, and quantum awakening.',
 };
 
 const volumeColors = [
-  { gradient: 'from-rose-500 to-pink-600', bg: 'bg-rose-50', border: 'border-rose-200', text: 'text-rose-700' },
-  { gradient: 'from-amber-500 to-orange-600', bg: 'bg-amber-50', border: 'border-amber-200', text: 'text-amber-700' },
-  { gradient: 'from-emerald-500 to-teal-600', bg: 'bg-emerald-50', border: 'border-emerald-200', text: 'text-emerald-700' },
-  { gradient: 'from-violet-500 to-purple-600', bg: 'bg-violet-50', border: 'border-violet-200', text: 'text-violet-700' },
-  { gradient: 'from-sky-500 to-blue-600', bg: 'bg-sky-50', border: 'border-sky-200', text: 'text-sky-700' },
-  { gradient: 'from-fuchsia-500 to-pink-600', bg: 'bg-fuchsia-50', border: 'border-fuchsia-200', text: 'text-fuchsia-700' },
-  { gradient: 'from-lime-500 to-green-600', bg: 'bg-lime-50', border: 'border-lime-200', text: 'text-lime-700' },
-  { gradient: 'from-indigo-500 to-cyan-600', bg: 'bg-indigo-50', border: 'border-indigo-200', text: 'text-indigo-700' },
+  {
+    gradient: 'from-rose-500 to-pink-600',
+    bg: 'bg-rose-50',
+    border: 'border-rose-200',
+    text: 'text-rose-700',
+  },
+  {
+    gradient: 'from-amber-500 to-orange-600',
+    bg: 'bg-amber-50',
+    border: 'border-amber-200',
+    text: 'text-amber-700',
+  },
+  {
+    gradient: 'from-emerald-500 to-teal-600',
+    bg: 'bg-emerald-50',
+    border: 'border-emerald-200',
+    text: 'text-emerald-700',
+  },
+  {
+    gradient: 'from-violet-500 to-purple-600',
+    bg: 'bg-violet-50',
+    border: 'border-violet-200',
+    text: 'text-violet-700',
+  },
+  {
+    gradient: 'from-sky-500 to-blue-600',
+    bg: 'bg-sky-50',
+    border: 'border-sky-200',
+    text: 'text-sky-700',
+  },
+  {
+    gradient: 'from-fuchsia-500 to-pink-600',
+    bg: 'bg-fuchsia-50',
+    border: 'border-fuchsia-200',
+    text: 'text-fuchsia-700',
+  },
+  {
+    gradient: 'from-lime-500 to-green-600',
+    bg: 'bg-lime-50',
+    border: 'border-lime-200',
+    text: 'text-lime-700',
+  },
+  {
+    gradient: 'from-indigo-500 to-cyan-600',
+    bg: 'bg-indigo-50',
+    border: 'border-indigo-200',
+    text: 'text-indigo-700',
+  },
 ];
 
 const volumeKeywords = [
@@ -38,14 +79,19 @@ export default function ReaderPage() {
             The Sovereignty Series
           </h1>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto mb-6">
-            An eight-volume journey from recognizing manipulation patterns through healing,
-            sovereignty, embodied leadership, parenting, helping others, prosperity, and quantum awakening.
+            An eight-volume journey from recognizing manipulation patterns through
+            healing, sovereignty, embodied leadership, parenting, helping others,
+            prosperity, and quantum awakening.
           </p>
           <div className="flex flex-wrap justify-center gap-2 text-sm text-gray-500">
             {volumeKeywords.map((keyword, index) => (
               <span key={keyword} className="flex items-center gap-1">
-                <span className={`font-semibold ${volumeColors[index].text}`}>{keyword}</span>
-                {index < volumeKeywords.length - 1 && <span className="text-gray-300">→</span>}
+                <span className={`font-semibold ${volumeColors[index].text}`}>
+                  {keyword}
+                </span>
+                {index < volumeKeywords.length - 1 && (
+                  <span className="text-gray-300">→</span>
+                )}
               </span>
             ))}
           </div>
@@ -58,8 +104,12 @@ export default function ReaderPage() {
           {volumes.map((volume, index) => {
             const colors = volumeColors[index];
             const keyword = volumeKeywords[index];
-            const chapterCount = volume.chapters.filter(c => c.type === 'chapter').length;
-            const appendixCount = volume.chapters.filter(c => c.type === 'appendix').length;
+            const chapterCount = volume.chapters.filter(
+              (c) => c.type === 'chapter'
+            ).length;
+            const appendixCount = volume.chapters.filter(
+              (c) => c.type === 'appendix'
+            ).length;
 
             return (
               <Link
@@ -71,15 +121,19 @@ export default function ReaderPage() {
                 `}
               >
                 {/* Volume Number Badge */}
-                <div className={`
+                <div
+                  className={`
                   absolute top-4 right-4 w-10 h-10 rounded-full bg-gradient-to-br ${colors.gradient}
                   flex items-center justify-center text-white font-bold text-lg shadow-lg
-                `}>
+                `}
+                >
                   {index + 1}
                 </div>
 
                 {/* Keyword Badge */}
-                <div className={`inline-block px-2 py-1 rounded text-xs font-bold ${colors.text} bg-white/50 mb-3`}>
+                <div
+                  className={`inline-block px-2 py-1 rounded text-xs font-bold ${colors.text} bg-white/50 mb-3`}
+                >
                   {keyword}
                 </div>
 
@@ -100,15 +154,35 @@ export default function ReaderPage() {
 
                   <div className="flex items-center gap-4 text-xs text-gray-500">
                     <span className="flex items-center gap-1">
-                      <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                      <svg
+                        className="w-4 h-4"
+                        fill="none"
+                        stroke="currentColor"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          strokeLinecap="round"
+                          strokeLinejoin="round"
+                          strokeWidth={2}
+                          d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
+                        />
                       </svg>
                       {chapterCount} Chapters
                     </span>
                     {appendixCount > 0 && (
                       <span className="flex items-center gap-1">
-                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                        <svg
+                          className="w-4 h-4"
+                          fill="none"
+                          stroke="currentColor"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                          />
                         </svg>
                         {appendixCount} Appendices
                       </span>
@@ -116,15 +190,22 @@ export default function ReaderPage() {
                   </div>
 
                   {/* Arrow indicator */}
-                  <div className={`flex items-center gap-2 ${colors.text} font-medium text-sm pt-2`}>
+                  <div
+                    className={`flex items-center gap-2 ${colors.text} font-medium text-sm pt-2`}
+                  >
                     <span>Begin Reading</span>
-                    <svg 
-                      className="w-4 h-4 transform transition-transform group-hover:translate-x-1" 
-                      fill="none" 
-                      stroke="currentColor" 
+                    <svg
+                      className="w-4 h-4 transform transition-transform group-hover:translate-x-1"
+                      fill="none"
+                      stroke="currentColor"
                       viewBox="0 0 24 24"
                     >
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M9 5l7 7-7 7"
+                      />
                     </svg>
                   </div>
                 </div>
@@ -143,41 +224,44 @@ export default function ReaderPage() {
             </h3>
             <div className="grid md:grid-cols-2 gap-4 text-gray-600 text-sm">
               <p>
-                <strong className="text-rose-700">Volume 1: SEE</strong> — Recognize and name 
-                the patterns of manipulation you've experienced.
+                <strong className="text-rose-700">Volume 1: SEE</strong> — Recognize and
+                name the patterns of manipulation you&apos;ve experienced.
               </p>
               <p>
-                <strong className="text-amber-700">Volume 2: HEAL</strong> — Guide you through healing 
-                attachment wounds and learning secure connection.
+                <strong className="text-amber-700">Volume 2: HEAL</strong> — Guide you
+                through healing attachment wounds and learning secure connection.
               </p>
               <p>
-                <strong className="text-emerald-700">Volume 3: STAND</strong> — Install internal authority 
-                and teach you to live from sovereignty.
+                <strong className="text-emerald-700">Volume 3: STAND</strong> — Install
+                internal authority and teach you to live from sovereignty.
               </p>
               <p>
-                <strong className="text-violet-700">Volume 4: LIVE</strong> — Explore embodied leadership, 
-                aura coherence, and living from full presence.
+                <strong className="text-violet-700">Volume 4: LIVE</strong> — Explore
+                embodied leadership, aura coherence, and living from full presence.
               </p>
               <p>
-                <strong className="text-sky-700">Volume 5: GIVE</strong> — Break generational cycles 
-                and parent consciously after trauma.
+                <strong className="text-sky-700">Volume 5: GIVE</strong> — Break
+                generational cycles and parent consciously after trauma.
               </p>
               <p>
-                <strong className="text-fuchsia-700">Volume 6: SERVE</strong> — Help others heal 
-                without losing yourself in the process.
+                <strong className="text-fuchsia-700">Volume 6: SERVE</strong> — Help
+                others heal without losing yourself in the process.
               </p>
               <p>
-                <strong className="text-lime-700">Volume 7: THRIVE</strong> — Build a life of prosperity,
-                purpose, and sustainable success after survival mode.
+                <strong className="text-lime-700">Volume 7: THRIVE</strong> — Build a
+                life of prosperity, purpose, and sustainable success after survival
+                mode.
               </p>
               <p className="md:col-span-2 text-center">
-                <strong className="text-indigo-700">Volume 8: BECOME</strong> — Embody your quantum self and
-                recognize the infinite awareness you've always been.
+                <strong className="text-indigo-700">Volume 8: BECOME</strong> — Embody
+                your quantum self and recognize the infinite awareness you&apos;ve
+                always been.
               </p>
             </div>
             <div className="mt-6 pt-6 border-t border-soft-lavender/30">
               <p className="text-xs text-gray-500 italic text-center">
-                Each volume builds on the previous, but you can start wherever you are in your journey.
+                Each volume builds on the previous, but you can start wherever you are
+                in your journey.
               </p>
             </div>
           </div>

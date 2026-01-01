@@ -1,46 +1,46 @@
-'use client'
+'use client';
 
-import React, { useState } from 'react'
-import { motion, AnimatePresence } from 'framer-motion'
-import { 
-  Calendar, 
-  Clock, 
-  CreditCard, 
-  CheckCircle, 
-  ArrowLeft, 
+import React, { useState } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
+import {
+  Calendar,
+  Clock,
+  CreditCard,
+  CheckCircle,
+  ArrowLeft,
   ArrowRight,
   User,
   Mail,
   Heart,
   Sparkles,
   ChevronLeft,
-  ChevronRight
-} from 'lucide-react'
+  ChevronRight,
+} from 'lucide-react';
 
 interface SessionOption {
-  id: string
-  title: string
-  duration: string
-  price: number
-  description: string
-  icon: string
-  questions: string[]
+  id: string;
+  title: string;
+  duration: string;
+  price: number;
+  description: string;
+  icon: string;
+  questions: string[];
 }
 
 interface BookingData {
-  sessionType: SessionOption | null
-  firstName: string
-  lastName: string
-  email: string
-  phone?: string
-  sessionGoals: string[]
-  specificNeeds: string
-  selectedDate: string | null
-  selectedTime: string | null
+  sessionType: SessionOption | null;
+  firstName: string;
+  lastName: string;
+  email: string;
+  phone?: string;
+  sessionGoals: string[];
+  specificNeeds: string;
+  selectedDate: string | null;
+  selectedTime: string | null;
 }
 
 const StreamlinedBooking = () => {
-  const [currentStep, setCurrentStep] = useState(0)
+  const [currentStep, setCurrentStep] = useState(0);
   const [bookingData, setBookingData] = useState<BookingData>({
     sessionType: null,
     firstName: '',
@@ -50,10 +50,10 @@ const StreamlinedBooking = () => {
     sessionGoals: [],
     specificNeeds: '',
     selectedDate: null,
-    selectedTime: null
-  })
-  const [isSubmitting, setIsSubmitting] = useState(false)
-  const [isComplete, setIsComplete] = useState(false)
+    selectedTime: null,
+  });
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [isComplete, setIsComplete] = useState(false);
 
   const sessionOptions: SessionOption[] = [
     {
@@ -69,8 +69,8 @@ const StreamlinedBooking = () => {
         'Get clarity on one focused question',
         'Chakra insight & healing (1-2 chakras)',
         'Dream interpretation',
-        'Other specific focus'
-      ]
+        'Other specific focus',
+      ],
     },
     {
       id: '60-min',
@@ -85,8 +85,8 @@ const StreamlinedBooking = () => {
         'Complex life questions & themes',
         'Full chakra assessment (3-4 chakras)',
         'Multiple dream analysis',
-        'Relationship & life path guidance'
-      ]
+        'Relationship & life path guidance',
+      ],
     },
     {
       id: '90-min',
@@ -101,76 +101,97 @@ const StreamlinedBooking = () => {
         'Comprehensive life themes',
         'Complete 7-chakra energy balancing',
         'Deep spiritual symbol interpretation',
-        'Full spiritual overview integration'
-      ]
-    }
-  ]
+        'Full spiritual overview integration',
+      ],
+    },
+  ];
 
   // Mock calendar data - in production, this would come from an API
   const availableDates = [
-    '2024-02-15', '2024-02-16', '2024-02-17', '2024-02-19', '2024-02-20',
-    '2024-02-22', '2024-02-23', '2024-02-24', '2024-02-26', '2024-02-27'
-  ]
+    '2024-02-15',
+    '2024-02-16',
+    '2024-02-17',
+    '2024-02-19',
+    '2024-02-20',
+    '2024-02-22',
+    '2024-02-23',
+    '2024-02-24',
+    '2024-02-26',
+    '2024-02-27',
+  ];
 
   const timeSlots = [
-    '9:00 AM', '10:30 AM', '12:00 PM', '1:30 PM', '3:00 PM', '4:30 PM', '6:00 PM', '7:30 PM'
-  ]
+    '9:00 AM',
+    '10:30 AM',
+    '12:00 PM',
+    '1:30 PM',
+    '3:00 PM',
+    '4:30 PM',
+    '6:00 PM',
+    '7:30 PM',
+  ];
 
   const formatDate = (dateStr: string) => {
-    const date = new Date(dateStr)
-    return date.toLocaleDateString('en-US', { 
-      weekday: 'short', 
-      month: 'short', 
-      day: 'numeric' 
-    })
-  }
+    const date = new Date(dateStr);
+    return date.toLocaleDateString('en-US', {
+      weekday: 'short',
+      month: 'short',
+      day: 'numeric',
+    });
+  };
 
   const handleSessionGoalToggle = (goal: string) => {
-    setBookingData(prev => ({
+    setBookingData((prev) => ({
       ...prev,
       sessionGoals: prev.sessionGoals.includes(goal)
-        ? prev.sessionGoals.filter(g => g !== goal)
-        : [...prev.sessionGoals, goal]
-    }))
-  }
+        ? prev.sessionGoals.filter((g) => g !== goal)
+        : [...prev.sessionGoals, goal],
+    }));
+  };
 
   const canProceedToNextStep = () => {
     switch (currentStep) {
-      case 0: return bookingData.sessionType !== null
-      case 1: return bookingData.firstName && bookingData.lastName && bookingData.email
-      case 2: return bookingData.sessionGoals.length > 0
-      case 3: return bookingData.selectedDate && bookingData.selectedTime
-      case 4: return true // Payment step
-      default: return false
+      case 0:
+        return bookingData.sessionType !== null;
+      case 1:
+        return bookingData.firstName && bookingData.lastName && bookingData.email;
+      case 2:
+        return bookingData.sessionGoals.length > 0;
+      case 3:
+        return bookingData.selectedDate && bookingData.selectedTime;
+      case 4:
+        return true; // Payment step
+      default:
+        return false;
     }
-  }
+  };
 
   const handleNext = () => {
     if (canProceedToNextStep()) {
-      setCurrentStep(prev => prev + 1)
+      setCurrentStep((prev) => prev + 1);
     }
-  }
+  };
 
   const handleBack = () => {
-    setCurrentStep(prev => prev - 1)
-  }
+    setCurrentStep((prev) => prev - 1);
+  };
 
   const handlePayment = async () => {
-    setIsSubmitting(true)
+    setIsSubmitting(true);
     // Simulate payment processing
     setTimeout(() => {
-      setIsSubmitting(false)
-      setIsComplete(true)
-    }, 2000)
-  }
+      setIsSubmitting(false);
+      setIsComplete(true);
+    }, 2000);
+  };
 
   const steps = [
     'Select Session',
-    'Your Details', 
+    'Your Details',
     'Session Focus',
     'Choose Time',
-    'Payment'
-  ]
+    'Payment',
+  ];
 
   if (isComplete) {
     return (
@@ -184,36 +205,51 @@ const StreamlinedBooking = () => {
           <div className="w-20 h-20 bg-gradient-rose rounded-full flex items-center justify-center mx-auto mb-6">
             <CheckCircle className="h-10 w-10 text-white" />
           </div>
-          
+
           <h1 className="text-3xl font-serif font-medium text-gradient-primary mb-4">
             Your Session is Confirmed! ✨
           </h1>
-          
+
           <div className="bg-white/50 rounded-2xl p-6 mb-6">
             <div className="text-left space-y-2">
-              <p><strong>Session:</strong> {bookingData.sessionType?.title}</p>
-              <p><strong>Date:</strong> {bookingData.selectedDate ? formatDate(bookingData.selectedDate) : ''}</p>
-              <p><strong>Time:</strong> {bookingData.selectedTime}</p>
-              <p><strong>Investment:</strong> ${bookingData.sessionType?.price}</p>
+              <p>
+                <strong>Session:</strong> {bookingData.sessionType?.title}
+              </p>
+              <p>
+                <strong>Date:</strong>{' '}
+                {bookingData.selectedDate ? formatDate(bookingData.selectedDate) : ''}
+              </p>
+              <p>
+                <strong>Time:</strong> {bookingData.selectedTime}
+              </p>
+              <p>
+                <strong>Investment:</strong> ${bookingData.sessionType?.price}
+              </p>
             </div>
           </div>
 
           <p className="text-gray-700 leading-relaxed mb-8">
-            Thank you, {bookingData.firstName}! We'll see you for your sacred session. 
-            Look out for a confirmation email with your session details and preparation guide.
+            Thank you, {bookingData.firstName}! We&apos;ll see you for your sacred
+            session. Look out for a confirmation email with your session details and
+            preparation guide.
           </p>
 
-                      <div className="space-y-4">
-              <a href="/essence" className="btn-primary w-full text-lg py-4 inline-block text-center">
-                Explore Our Essence Before Our Call
-              </a>
-              <button className="btn-secondary w-full text-lg py-4">
-                Add to Calendar
-              </button>
-            </div>
+          <div className="space-y-4">
+            <a
+              href="/essence"
+              className="btn-primary w-full text-lg py-4 inline-block text-center"
+            >
+              Explore Our Essence Before Our Call
+            </a>
+            <button className="btn-secondary w-full text-lg py-4">
+              Add to Calendar
+            </button>
+          </div>
 
           <div className="mt-8 text-sm text-gray-600 bg-white/30 rounded-xl p-4">
-            <p className="mb-2"><strong>What's next?</strong></p>
+            <p className="mb-2">
+              <strong>What&apos;s next?</strong>
+            </p>
             <ul className="text-left space-y-1">
               <li>• Check your email for session prep materials</li>
               <li>• Test your video connection 15 minutes early</li>
@@ -223,7 +259,7 @@ const StreamlinedBooking = () => {
           </div>
         </div>
       </motion.div>
-    )
+    );
   }
 
   return (
@@ -241,8 +277,8 @@ const StreamlinedBooking = () => {
               >
                 <div
                   className={`w-8 h-8 rounded-full flex items-center justify-center text-sm font-medium ${
-                    index <= currentStep 
-                      ? 'bg-gradient-rose text-white' 
+                    index <= currentStep
+                      ? 'bg-gradient-rose text-white'
                       : 'bg-gray-200 text-gray-600'
                   }`}
                 >
@@ -252,7 +288,7 @@ const StreamlinedBooking = () => {
               </div>
             ))}
           </div>
-          
+
           <div className="w-full bg-gray-200 rounded-full h-2">
             <div
               className="bg-gradient-rose h-2 rounded-full transition-all duration-300"
@@ -276,12 +312,14 @@ const StreamlinedBooking = () => {
                 <h2 className="text-2xl font-serif font-medium text-gradient-primary mb-6 text-center">
                   Choose Your Session Length
                 </h2>
-                
+
                 <div className="grid md:grid-cols-3 gap-6">
                   {sessionOptions.map((session) => (
                     <div
                       key={session.id}
-                      onClick={() => setBookingData(prev => ({ ...prev, sessionType: session }))}
+                      onClick={() =>
+                        setBookingData((prev) => ({ ...prev, sessionType: session }))
+                      }
                       className={`cursor-pointer transition-all duration-300 rounded-2xl p-6 border-2 ${
                         bookingData.sessionType?.id === session.id
                           ? 'border-deep-rose bg-rose-pink/10 scale-105'
@@ -300,9 +338,7 @@ const StreamlinedBooking = () => {
                           <Clock className="h-4 w-4 mr-1" />
                           {session.duration}
                         </div>
-                        <p className="text-gray-700 text-sm">
-                          {session.description}
-                        </p>
+                        <p className="text-gray-700 text-sm">{session.description}</p>
                       </div>
                     </div>
                   ))}
@@ -316,7 +352,7 @@ const StreamlinedBooking = () => {
                 <h2 className="text-2xl font-serif font-medium text-gradient-primary mb-6 text-center">
                   Tell Us About Yourself
                 </h2>
-                
+
                 <div className="max-w-2xl mx-auto space-y-6">
                   <div className="grid md:grid-cols-2 gap-4">
                     <div>
@@ -326,12 +362,17 @@ const StreamlinedBooking = () => {
                       <input
                         type="text"
                         value={bookingData.firstName}
-                        onChange={(e) => setBookingData(prev => ({ ...prev, firstName: e.target.value }))}
+                        onChange={(e) =>
+                          setBookingData((prev) => ({
+                            ...prev,
+                            firstName: e.target.value,
+                          }))
+                        }
                         className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-rose-pink focus:border-transparent"
                         placeholder="Your first name"
                       />
                     </div>
-                    
+
                     <div>
                       <label className="block text-gray-700 font-medium mb-2">
                         Last Name *
@@ -339,7 +380,12 @@ const StreamlinedBooking = () => {
                       <input
                         type="text"
                         value={bookingData.lastName}
-                        onChange={(e) => setBookingData(prev => ({ ...prev, lastName: e.target.value }))}
+                        onChange={(e) =>
+                          setBookingData((prev) => ({
+                            ...prev,
+                            lastName: e.target.value,
+                          }))
+                        }
                         className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-rose-pink focus:border-transparent"
                         placeholder="Your last name"
                       />
@@ -353,7 +399,9 @@ const StreamlinedBooking = () => {
                     <input
                       type="email"
                       value={bookingData.email}
-                      onChange={(e) => setBookingData(prev => ({ ...prev, email: e.target.value }))}
+                      onChange={(e) =>
+                        setBookingData((prev) => ({ ...prev, email: e.target.value }))
+                      }
                       className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-rose-pink focus:border-transparent"
                       placeholder="your@email.com"
                     />
@@ -366,7 +414,9 @@ const StreamlinedBooking = () => {
                     <input
                       type="tel"
                       value={bookingData.phone}
-                      onChange={(e) => setBookingData(prev => ({ ...prev, phone: e.target.value }))}
+                      onChange={(e) =>
+                        setBookingData((prev) => ({ ...prev, phone: e.target.value }))
+                      }
                       className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-rose-pink focus:border-transparent"
                       placeholder="(555) 123-4567"
                     />
@@ -382,9 +432,10 @@ const StreamlinedBooking = () => {
                   What Would You Like to Explore?
                 </h2>
                 <p className="text-gray-600 text-center mb-8">
-                  Select all areas you'd like to focus on during your {bookingData.sessionType.duration} session
+                  Select all areas you&apos;d like to focus on during your{' '}
+                  {bookingData.sessionType.duration} session
                 </p>
-                
+
                 <div className="max-w-3xl mx-auto space-y-4">
                   {bookingData.sessionType.questions.map((question, index) => (
                     <div
@@ -396,11 +447,13 @@ const StreamlinedBooking = () => {
                           : 'border-gray-200 hover:border-rose-pink hover:bg-white/50'
                       }`}
                     >
-                      <div className={`w-5 h-5 rounded-full border-2 mr-4 flex items-center justify-center ${
-                        bookingData.sessionGoals.includes(question)
-                          ? 'border-deep-rose bg-deep-rose'
-                          : 'border-gray-300'
-                      }`}>
+                      <div
+                        className={`w-5 h-5 rounded-full border-2 mr-4 flex items-center justify-center ${
+                          bookingData.sessionGoals.includes(question)
+                            ? 'border-deep-rose bg-deep-rose'
+                            : 'border-gray-300'
+                        }`}
+                      >
                         {bookingData.sessionGoals.includes(question) && (
                           <CheckCircle className="h-3 w-3 text-white" />
                         )}
@@ -408,14 +461,19 @@ const StreamlinedBooking = () => {
                       <span className="text-gray-700">{question}</span>
                     </div>
                   ))}
-                  
+
                   <div className="mt-6">
                     <label className="block text-gray-700 font-medium mb-2">
-                      Anything specific you'd like Jae to know? (Optional)
+                      Anything specific you&apos;d like Jae to know? (Optional)
                     </label>
                     <textarea
                       value={bookingData.specificNeeds}
-                      onChange={(e) => setBookingData(prev => ({ ...prev, specificNeeds: e.target.value }))}
+                      onChange={(e) =>
+                        setBookingData((prev) => ({
+                          ...prev,
+                          specificNeeds: e.target.value,
+                        }))
+                      }
                       className="w-full px-4 py-3 rounded-xl border border-gray-300 focus:ring-2 focus:ring-rose-pink focus:border-transparent"
                       rows={4}
                       placeholder="Share any specific questions, concerns, or context that would help prepare for your session..."
@@ -431,7 +489,7 @@ const StreamlinedBooking = () => {
                 <h2 className="text-2xl font-serif font-medium text-gradient-primary mb-6 text-center">
                   Choose Your Preferred Time
                 </h2>
-                
+
                 <div className="max-w-4xl mx-auto">
                   {/* Date Selection */}
                   <div className="mb-8">
@@ -442,16 +500,16 @@ const StreamlinedBooking = () => {
                       {availableDates.map((date) => (
                         <button
                           key={date}
-                          onClick={() => setBookingData(prev => ({ ...prev, selectedDate: date }))}
+                          onClick={() =>
+                            setBookingData((prev) => ({ ...prev, selectedDate: date }))
+                          }
                           className={`p-3 rounded-xl border-2 transition-all duration-300 text-center ${
                             bookingData.selectedDate === date
                               ? 'border-deep-rose bg-rose-pink/10 text-deep-rose'
                               : 'border-gray-200 hover:border-rose-pink text-gray-700'
                           }`}
                         >
-                          <div className="text-sm font-medium">
-                            {formatDate(date)}
-                          </div>
+                          <div className="text-sm font-medium">{formatDate(date)}</div>
                         </button>
                       ))}
                     </div>
@@ -471,7 +529,12 @@ const StreamlinedBooking = () => {
                         {timeSlots.map((time) => (
                           <button
                             key={time}
-                            onClick={() => setBookingData(prev => ({ ...prev, selectedTime: time }))}
+                            onClick={() =>
+                              setBookingData((prev) => ({
+                                ...prev,
+                                selectedTime: time,
+                              }))
+                            }
                             className={`p-3 rounded-xl border-2 transition-all duration-300 ${
                               bookingData.selectedTime === time
                                 ? 'border-deep-rose bg-rose-pink/10 text-deep-rose'
@@ -494,7 +557,7 @@ const StreamlinedBooking = () => {
                 <h2 className="text-2xl font-serif font-medium text-gradient-primary mb-6 text-center">
                   Secure Payment
                 </h2>
-                
+
                 <div className="max-w-2xl mx-auto">
                   {/* Booking Summary */}
                   <div className="bg-white/50 rounded-2xl p-6 mb-6">
@@ -507,12 +570,17 @@ const StreamlinedBooking = () => {
                       <div className="flex justify-between">
                         <span>Date & Time:</span>
                         <span>
-                          {bookingData.selectedDate ? formatDate(bookingData.selectedDate) : ''} at {bookingData.selectedTime}
+                          {bookingData.selectedDate
+                            ? formatDate(bookingData.selectedDate)
+                            : ''}{' '}
+                          at {bookingData.selectedTime}
                         </span>
                       </div>
                       <div className="flex justify-between">
                         <span>Client:</span>
-                        <span>{bookingData.firstName} {bookingData.lastName}</span>
+                        <span>
+                          {bookingData.firstName} {bookingData.lastName}
+                        </span>
                       </div>
                       <div className="border-t pt-2 mt-2 flex justify-between font-medium text-lg">
                         <span>Total:</span>
@@ -533,7 +601,7 @@ const StreamlinedBooking = () => {
                         placeholder="1234 5678 9012 3456"
                       />
                     </div>
-                    
+
                     <div className="grid grid-cols-2 gap-4">
                       <div>
                         <label className="block text-gray-700 font-medium mb-2">
@@ -592,8 +660,8 @@ const StreamlinedBooking = () => {
             onClick={handleBack}
             disabled={currentStep === 0}
             className={`flex items-center px-6 py-3 rounded-xl transition-all duration-300 ${
-              currentStep === 0 
-                ? 'text-gray-400 cursor-not-allowed' 
+              currentStep === 0
+                ? 'text-gray-400 cursor-not-allowed'
                 : 'text-gray-700 hover:bg-white/50'
             }`}
           >
@@ -638,7 +706,7 @@ const StreamlinedBooking = () => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default StreamlinedBooking
+export default StreamlinedBooking;

@@ -1,6 +1,6 @@
 # Pause and Integrate
 
-You've completed **Part III: Tools & Recognition** (Chapters 13-16)
+You've completed **Part III: Tools & Recognition** (Chapters 13–16)
 
 ---
 

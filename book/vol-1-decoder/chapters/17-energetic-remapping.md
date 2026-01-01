@@ -327,7 +327,7 @@ Practice this daily when calm so it becomes automatic when triggered.
 
 For sustained recovery, commit to this daily protocol for 21 days:
 
-**Morning (5-10 min):**
+**Morning (5–10 min):**
 - Grounding exercise before phone
 - Set intention: "I choose safety in my body today"
 - Three qualities affirmation: "I am [discerning], [strong], [clear]"
@@ -337,7 +337,7 @@ For sustained recovery, commit to this daily protocol for 21 days:
 - Release one area deliberately (drop your shoulders, unclench your jaw, soften your stomach—wherever you found tightness)
 - Drink water
 
-**After any activation (5-15 min):**
+**After any activation (5–15 min):**
 - Four-step remapping process
 - Journal briefly: What happened? Which pattern? How did I respond?
 

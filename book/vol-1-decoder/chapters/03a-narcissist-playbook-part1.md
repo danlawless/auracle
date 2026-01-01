@@ -50,7 +50,7 @@ These tactics are about establishing dominance: who has power, who sets the agen
 
 **Your power move:** "I'm going to finish this. We can talk when I'm done." Then finish. Do not explain, justify, or apologize for having your own activities.
 
-> *"He'll break your meditation to prove your focus belongs to him."*
+> *"They'll break your meditation to prove your focus belongs to them."*
 
 ---
 
@@ -76,7 +76,7 @@ These tactics are about establishing dominance: who has power, who sets the agen
 
 **Your power move:** Lower your voice instead of raising it. Or simply say: "I'm going to pause this conversation until we can both speak at normal volume." Then leave the room if needed.
 
-> *"He doesn't shout because he's angry—he shouts to rewrite the room's frequency."*
+> *"They don't shout because they're angry—they shout to rewrite the room's frequency."*
 
 ---
 
@@ -104,7 +104,7 @@ These tactics are about establishing dominance: who has power, who sets the agen
 
 **Your power move:** Stop trying to organize their chaos. Create clear, protected space for yourself (even if it's just one room, one corner, one hour). Chaos is their problem, not yours to solve.
 
-> *"His environment reflects the chaos he refuses to clean inside."*
+> *"Their environment reflects the chaos they refuse to clean inside."*
 
 ---
 

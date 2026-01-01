@@ -245,7 +245,7 @@ Complete cessation of relationship. May be necessary if:
 - No calls, texts, emails, or visits
 - Blocking on social media and phone
 - Potentially moving without sharing your address
-- Having plans for flying monkeys (people sent to contact you on their behalf)
+- Having plans for Flying Monkeys (people sent to contact you on their behalf)
 - Grieving the relationship as if they died (because functionally, they have)
 
 ### What No Contact Isn't

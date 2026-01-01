@@ -1,6 +1,6 @@
 # Pause and Integrate
 
-You've completed **Part I: Recognition** (Chapters 1-4)
+You've completed **Part I: Recognition** (Chapters 1–4)
 
 ---
 

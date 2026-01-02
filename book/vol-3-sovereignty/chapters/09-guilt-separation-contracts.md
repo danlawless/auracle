@@ -405,6 +405,38 @@ Both can exist at the same time.
 
 ---
 
+## Mantras for When You Want to Explain
+
+Sometimes the urge to defend, clarify, or make yourself understood is overwhelming. Especially when someone has reframed your separation as betrayal, or when they're invested in misunderstanding you.
+
+These mantras are for those moments when guilt or the need to be understood pulls at you:
+
+### When the urge to correct rises:
+
+> *"I don't correct people who are invested in misunderstanding."*
+
+If someone needs you to be wrong in order to avoid their own accountability, no amount of explanation will land. The story was written before the conversation started. Your words will be absorbed into their narrative, not received on their own terms.
+
+### When you feel compelled to explain yourself:
+
+> *"Misalignment doesn't require my explanation."*
+
+You don't owe anyone a dissertation on your intentions. If the facts are clear—who benefited, who gave, what was actually agreed—and they're still framing it as your failure, more words won't change anything.
+
+### When they say you betrayed them:
+
+> *"Stopping carrying someone's disappointment is not betrayal. It's separation."*
+
+When someone reframes your boundary as abandonment, ask yourself: *Who was actually carrying whom?* Often, "betrayal" is code for: *"You stopped managing my emotions."* That's not betrayal. That's adulthood.
+
+### When guilt floods and you want to soften:
+
+> *"Agreement in this context is self-erasure."*
+
+Agreeing with someone's distorted narrative just to keep peace doesn't restore connection—it dissolves you. If you're wrong, own it. But if you're not wrong, holding your position isn't cruelty. It's integrity.
+
+---
+
 ## Field Note: The Christmas Visit
 
 She hasn't gone home for Christmas in three years.

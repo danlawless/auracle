@@ -372,6 +372,63 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 ---
 
+### Tactic 39: The Inversion + Entitlement Pattern (DARVO Sequence)
+
+**What it looks like:** After extracting significant value—financial, emotional, or otherwise—from you or the relationship, they reframe the story when outcomes don't match their internal fantasy. Someone who took more than they gave suddenly positions themselves as the one who was "betrayed" or "abandoned." They may have benefited financially while you contributed labor, thinking, and time. When results disappoint them, the narrative flips: "You failed me." "You abandoned me." "I was betrayed."
+
+This often appears in:
+- Business partnerships where one party extracted financial benefit while the other contributed work
+- Relationships where one person's expectations were never actually agreed upon
+- Situations where they want "image management" over accountability—hiding the breakup, controlling optics, keeping you quiet—while simultaneously devaluing you
+
+**What's really happening:** This is a classic **DARVO sequence**—Deny, Attack, Reverse Victim and Offender:
+
+1. **Deny responsibility:** "I thought it would be done sooner" (denying that uncertainty was inherent, that timelines weren't guaranteed)
+2. **Attack:** "You failed me" (attacking your competence, effort, or character)
+3. **Reverse Victim and Offender:** "You abandoned me" (positioning themselves as the victim when they were actually the one who extracted value)
+
+The inversion serves a psychological function: **externalizing disappointment**. When reality doesn't match their internal fantasy timeline or expectation, shame is intolerable. So they deposit it in you. Your "failure" becomes the explanation for their unmet expectations—rather than their unrealistic assumptions or the inherent uncertainty of any endeavor.
+
+**The financial asymmetry tells the truth:** Look at who benefited materially. Who took more out than they put in? Who bore the risk while the other collected reward? When someone takes disproportionate financial benefit, holds unrealistic expectations, and then reframes unmet outcomes as personal betrayal—they're avoiding accountability, not naming reality.
+
+**How it hooks you:** You feel compelled to defend your effort, relitigate timelines, re-explain intentions. You may even start doubting yourself—*Did* I fail them? *Was* I wrong? The guilt appears. The urge to explain rises.
+
+But nothing you say will land. The story was already written before the conversation started. They need you to be the problem so they don't have to face their own role.
+
+**What NOT to do:**
+- Do not argue timelines
+- Do not defend effort
+- Do not re-litigate intentions
+- Do not agree just to keep peace (agreement in this context = self-erasure)
+
+**Your power move:** Recognize what's actually happening:
+
+> *"They took disproportionate benefit, held unrealistic expectations, and are now reframing unmet outcomes as personal betrayal to avoid accountability."*
+
+That's the truth, distilled. No drama required.
+
+If closure language is needed:
+
+> *"We're not aligned on scope, expectations, or responsibility. I'm complete with this and won't be continuing further discussion."*
+
+This does not accuse. Does not explain. Does not invite debate. It ends the frame.
+
+If they push for image control ("Let's keep this quiet," "Don't tell anyone what happened"):
+
+> *"I'm not available for managing narratives. I'll be truthful if asked."*
+
+That's a boundary, not a threat.
+
+**The key reframe:** When someone says "You betrayed me" but the facts show they extracted value and avoided shared risk, what they're really saying is:
+
+> *"You stopped carrying my disappointment for me."*
+
+That's not betrayal. That's separation.
+
+*See also: Tactic 6 (Shame Inversion), Tactic 18 (Reversal of Blame), Tactic 28 (Pity Play). Chapter 18 has full closure scripts for this pattern.*
+
+---
+
 ## How to Use This Chapter
 
 This playbook isn't meant to be memorized. It's meant to be referenced.
@@ -407,6 +464,13 @@ The playbook exists. Now you can read it.
 - Confusion as a tactic deserves no explanation
 - Minimal contact after repair reveals capacity, not worth
 - Trivial demands are tests of dominance, not requests
+
+**For inversion + entitlement patterns (39):**
+- Look at who actually benefited—financial asymmetry tells the truth
+- Expectation without agreement isn't your failure
+- You can't correct someone invested in misunderstanding
+- Separation isn't betrayal—it's autonomy
+- Don't manage their narrative. Be truthful if asked
 
 ---
 

@@ -42,65 +42,65 @@ First Edition
 
 **Part I: Recognition**
 
-Chapter 1: The Opening Manifesto — What This Book Is Really About .................... [pg. XX]
+Chapter 1: The Opening Manifesto — What This Book Is Really About
 
-Chapter 2: The Energetic Signature — How to Recognize Control Before Your Mind Catches Up .................... [pg. XX]
+Chapter 2: The Energetic Signature — How to Recognize Control Before Your Mind Catches Up
 
-Chapter 3A: The Narcissist Playbook Part 1 — Tactics 1-19: Control, Validation & Psychological Manipulation .................... [pg. XX]
+Chapter 3A: The Narcissist Playbook Part 1 — Tactics 1-19: Control, Validation & Psychological Manipulation
 
-Chapter 3B: The Narcissist Playbook Part 2 — Tactics 20-38: Sexual, Energetic & Post-Encounter Manipulation .................... [pg. XX]
+Chapter 3B: The Narcissist Playbook Part 2 — Tactics 20-38: Sexual, Energetic & Post-Encounter Manipulation
 
 **Part II: Understanding Origins**
 
-Chapter 4: The Psychology of Trauma Bonds — Why You Got Hooked, and Why Leaving Is So Hard .................... [pg. XX]
+Chapter 4: The Psychology of Trauma Bonds — Why You Got Hooked, and Why Leaving Is So Hard
 
-Chapter 5: Understanding Narcissist Types — The Spectrum from Grandiose to Covert to Malignant .................... [pg. XX]
+Chapter 5: Understanding Narcissist Types — The Spectrum from Grandiose to Covert to Malignant
 
-Chapter 6: The Masks They Wear — 12 Identity Roles Narcissists Adopt for Control .................... [pg. XX]
+Chapter 6: The Masks They Wear — 12 Identity Roles Narcissists Adopt for Control
 
-Chapter 7: Family Roles & Triangulation — When Manipulation Is Your Origin Story .................... [pg. XX]
+Chapter 7: Family Roles & Triangulation — When Manipulation Is Your Origin Story
 
-Chapter 8: Parental Wounds — The Mother Wound and Father Wound .................... [pg. XX]
+Chapter 8: Parental Wounds — The Mother Wound and Father Wound
 
-Chapter 9: Breaking Free from Family Systems — Siblings, Shame, and Sovereignty .................... [pg. XX]
+Chapter 9: Breaking Free from Family Systems — Siblings, Shame, and Sovereignty
 
-Chapter 10: Understanding Your Childhood Patterns — How Early Experiences Shape Adult Vulnerability *(Advanced—read when ready)* .................... [pg. XX]
+Chapter 10: Understanding Your Childhood Patterns — How Early Experiences Shape Adult Vulnerability *(Advanced—read when ready)*
 
 **Part III: Patterns in Context**
 
-Chapter 11: Romantic Manipulation — How Control Adapts to Intimacy .................... [pg. XX]
+Chapter 11: Romantic Manipulation — How Control Adapts to Intimacy
 
-Chapter 12: Manipulation Across Contexts — Beyond Romance: Recognizing Patterns Everywhere .................... [pg. XX]
+Chapter 12: Manipulation Across Contexts — Beyond Romance: Recognizing Patterns Everywhere
 
-Chapter 13: Diagnostic Questions — Questions That Make Narcissists Reveal Themselves .................... [pg. XX]
+Chapter 13: Diagnostic Questions — Questions That Make Narcissists Reveal Themselves
 
 **Part IV: Decoder Tools**
 
-Chapter 14: Decoder Cards — Core Patterns — Quick-Reference Guides for Real-Time Recognition .................... [pg. XX]
+Chapter 14: Decoder Cards — Core Patterns — Quick-Reference Guides for Real-Time Recognition
 
-Chapter 15: Decoder Cards — Advanced Patterns — Recognizing Sophisticated Control Tactics .................... [pg. XX]
+Chapter 15: Decoder Cards — Advanced Patterns — Recognizing Sophisticated Control Tactics
 
-Chapter 16: Decoder Cards — Emergency Protocol — When You Need Clarity Now .................... [pg. XX]
+Chapter 16: Decoder Cards — Emergency Protocol — When You Need Clarity Now
 
 **Part V: Recovery & Response**
 
-Chapter 17: Energetic Remapping — Recovery Tools — Rewiring Your Nervous System for Freedom .................... [pg. XX]
+Chapter 17: Energetic Remapping — Recovery Tools — Rewiring Your Nervous System for Freedom
 
-Chapter 18: Practical Responses & Scripts — What to Actually Say and Do .................... [pg. XX]
+Chapter 18: Practical Responses & Scripts — What to Actually Say and Do
 
-Chapter 19: Moving Forward — Closing Chapters and Beginning New Ones .................... [pg. XX]
+Chapter 19: Moving Forward — Closing Chapters and Beginning New Ones
 
 **Appendices**
 
-Appendix A: Resources — Support, Information, and Next Steps .................... [pg. XX]
+Appendix A: Resources — Support, Information, and Next Steps
 
-Appendix B: Glossary of Terms — Key Concepts and Definitions .................... [pg. XX]
+Appendix B: Glossary of Terms — Key Concepts and Definitions
 
-Appendix C: Bibliography & Further Reading — Sources, Influences, and Recommended Reading .................... [pg. XX]
+Appendix C: Bibliography & Further Reading — Sources, Influences, and Recommended Reading
 
-Appendix D: Core Techniques Reference — Quick Access Guide for Grounding, Response, and Protection .................... [pg. XX]
+Appendix D: Core Techniques Reference — Quick Access Guide for Grounding, Response, and Protection
 
-Appendix E: Index — Quick Reference to Key Concepts and Terms .................... [pg. XX]
+Appendix E: Index — Quick Reference to Key Concepts and Terms
 
 ---
 

@@ -530,6 +530,206 @@ Agreeing with someone's distorted narrative just to keep peace doesn't restore c
 
 ---
 
+## When They Defend By Projecting
+
+Sometimes, when you set a boundary, the response isn't just disappointment.
+
+It's a complete inversion.
+
+The script flips. Suddenly *you* are the one who failed. *You* are the problem. *You* are being blamed for something that looks nothing like what actually happened.
+
+This is defensive projection. And it deserves its own name.
+
+---
+
+## What You're Witnessing
+
+When someone cannot tolerate accountability, their nervous system may:
+
+- Reflexively flip the script
+- Move into devaluation ("you failed me")
+- Externalize all blame
+- Reframe you as defective
+
+This is a classic collapse response when someone loses access to control, supply, or narrative dominance.
+
+**It is not feedback.**
+
+**It is defensive projection.**
+
+---
+
+## The Pattern (Named Clearly)
+
+**Step 1: Boundary is set**
+
+*"This relationship is no longer workable."*
+
+**Step 2: Shame is activated**
+
+The other person feels exposed, diminished, or losing leverage.
+
+**Step 3: Ego defense engages**
+
+Instead of self-reflection:
+- Blame is externalized
+- Responsibility is denied
+- You are reframed as the problem
+
+**Step 4: Devaluation is deployed**
+
+*"You failed me."*
+
+This serves one purpose only: to offload shame and restore a sense of superiority.
+
+---
+
+## Why This Can Feel Destabilizing
+
+Your nervous system may still react—even when you know better—because:
+
+- Blame was delivered with emotional intensity
+- Authority language was used
+- There was a sudden inversion of reality
+
+That doesn't mean it's true.
+
+It means it was forceful.
+
+**Force is not truth.**
+
+---
+
+## The Distinction That Matters
+
+**Accountability sounds like:**
+
+- "Here's where I contributed."
+- "I see how my actions impacted this."
+- "I take responsibility for my part."
+
+**Defensive projection sounds like:**
+
+- Unilateral blame
+- Character judgment
+- Relational erasure
+- "You failed me" without any self-examination
+
+When someone cannot take responsibility, they assign blame.
+
+That tells you everything.
+
+---
+
+## What This Says About You (Not Them)
+
+When you:
+
+- Named reality
+- Exited a misaligned system
+- Refused to carry someone else's dysfunction
+- Did not retaliate or devalue in return
+
+That is leadership.
+That is integrity.
+That is nervous-system maturity.
+
+Someone who needs dominance will always call that "failure."
+
+Their label does not make it true.
+
+---
+
+## What Not to Do Now
+
+When you've been on the receiving end of defensive projection:
+
+- Don't replay their words
+- Don't debate the narrative
+- Don't try to "understand their side"
+- Don't look for closure from them
+
+They already showed you their ceiling.
+
+Closure will not come from them. It will come from you—when you stop needing them to see what happened clearly.
+
+---
+
+## A Practice: Somatic Reset After Projection
+
+When someone's defensive projection has landed in your body:
+
+**Step 1:** Place one hand on your chest, one on your belly.
+
+**Step 2:** Slow inhale through the nose.
+
+**Step 3:** Long exhale through the mouth.
+
+**Step 4:** Say quietly, internally or aloud:
+
+> *"That was projection. Not truth."*
+
+**Step 5:** Let your shoulders drop.
+
+**Step 6:** Feel your feet on the floor. You are here. You are intact.
+
+The projection belonged to them. You don't have to carry it home.
+
+---
+
+## Field Note: The Partnership That Ended
+
+He ended the business partnership.
+
+It had been months of misalignment—values drifting, communication breaking down, patterns that couldn't be resolved.
+
+He stated it clearly. No cruelty. Just truth: *"This isn't working anymore."*
+
+The response came fast. Not reflection. Not accountability. Not even anger he could have understood.
+
+Instead: *"You failed me."*
+
+A complete inversion. As if the months of concern, the attempts at repair, the patterns he'd flagged again and again—none of it existed.
+
+His wife saw it land. Watched him go quiet. Felt the residue in the room.
+
+Before, he might have replayed it. Questioned himself. Tried to understand what he'd missed.
+
+This time, he named it.
+
+*"That wasn't feedback. That was someone who couldn't tolerate losing control."*
+
+He didn't chase the story. Didn't try to correct it. Didn't need the other person to see clearly.
+
+He'd already seen clearly. That was enough.
+
+---
+
+## A Mantra for Projection
+
+> *"When someone can't take responsibility, they assign blame."*
+
+Their inability to hold themselves accountable does not create an obligation for you to carry their shame.
+
+---
+
+## For Partners: Secondary Impact
+
+If you witnessed someone you love receive defensive projection, you may carry residue too.
+
+Partners often absorb what their loved ones won't let themselves feel. You may notice:
+
+- Protective anger
+- A desire to argue with the projector
+- Hypervigilance about the aftermath
+- Your own nervous system registering the wrongness
+
+That's normal. And you don't have to carry it.
+
+**Your practice:** Support without absorbing. Be present without taking on the fallout. Let your partner process at their pace. And let the projection pass through your system too.
+
+---
+
 ## Field Note: The Christmas Visit
 
 She hasn't gone home for Christmas in three years.

@@ -247,6 +247,78 @@ After time with them, you feel depleted. Empty. Like you've been performing in s
 
 ---
 
+## The Addiction-Narcissism Intersection
+
+Substance abuse and narcissistic patterns frequently overlap. This isn't coincidental—both share underlying dynamics that reinforce each other. Understanding this intersection helps you recognize red flags early and avoid the trap of believing "they'll be different when they're sober."
+
+### Why They Often Co-Occur
+
+**Shared psychological features:**
+- **Low distress tolerance.** Both patterns involve difficulty sitting with uncomfortable emotions. Substances provide chemical escape; narcissistic defenses provide psychological escape.
+- **Reality avoidance.** Addiction denies the problem exists ("I can stop anytime"). Narcissism denies the self's flaws exist. Both require elaborate systems of denial to function.
+- **Externalization of blame.** The addict blames stress, relationships, or circumstances for their use. The narcissist blames others for their behavior. Neither looks inward.
+- **Difficulty with intimacy.** Both patterns create barriers to genuine connection—substances numb vulnerability; narcissistic defenses prevent it.
+
+**The mutual reinforcement cycle:**
+1. Narcissistic injury occurs (shame, failure, criticism)
+2. Intolerable feelings arise
+3. Substance use provides temporary relief
+4. Behavior while intoxicated creates consequences
+5. Consequences threaten self-image
+6. Narcissistic defenses (denial, blame-shifting) activate
+7. The partner becomes responsible for both the addiction's effects AND the narcissist's ego protection
+8. Repeat
+
+### Red Flags: Substance Use in Narcissistic Patterns
+
+**The personality shift.** Watch for dramatic changes when drinking or using. The charming, controlled persona gives way to cruelty, contempt, or rage. This isn't the substance "creating" a different person—it's revealing what's normally suppressed.
+
+**The morning-after amnesia.** Convenient memory loss about harmful things said or done while intoxicated. "I don't remember that" becomes a recurring shield.
+
+**The double standard.** Their drinking is social, recreational, necessary for stress relief. Your drinking (or your concern about theirs) is the problem.
+
+**The escalating chaos.** Substance use creates crises that demand your attention, energy, and management—while they remain the center of the drama.
+
+**The functional facade.** High-functioning addiction that "proves" there's no problem: "I never miss work." Meanwhile, you absorb the private reality.
+
+**The blame transfer.** "I wouldn't drink so much if you didn't stress me out." "You drove me to this." The addiction becomes your fault.
+
+### What It Feels Like to Be With Them
+
+You become hypervigilant about their consumption. You track drinks at dinner. You smell their breath. You notice changes in their eyes. You calculate how much they've had and what that means for the evening ahead.
+
+You become the secret-keeper. You make excuses for missed events. You cover for their behavior. You explain away what others notice. You protect their image while living their reality.
+
+You walk on eggshells around two threats: their sober narcissism AND their intoxicated version. Neither feels safe.
+
+You may start using substances yourself—to cope, to join them, to numb the chaos. Or you may become rigidly sober, trying to "balance" the household.
+
+You lose the ability to trust your own perceptions. When they insist there's no problem, and function just well enough to maintain the facade, you wonder if you're overreacting.
+
+### The Specific Wound They Create
+
+You learn that your safety depends on managing someone else's chemistry. You become an expert in monitoring, predicting, and accommodating. Your own needs become irrelevant—there's no room for them in the constant crisis management.
+
+You may develop a deep distrust of people who drink, even socially. Or you may find yourself attracted to similar patterns, mistaking the familiar chaos for love.
+
+Healing requires learning that you cannot manage, control, or cure someone else's addiction—and that their narcissistic patterns would exist with or without the substances.
+
+### The Critical Truth
+
+Many people hope: "If they just got sober, everything would be fine."
+
+But sobriety doesn't cure narcissism. It removes one coping mechanism, often revealing the underlying patterns more starkly. A sober narcissist is still a narcissist. The cruelty that emerged when drunk exists within them—alcohol just gave it permission.
+
+**The substances are not the core problem. The pattern of harm is.**
+
+If someone is both narcissistic and addicted:
+- Their addiction is not yours to cure
+- Their narcissism is not yours to heal
+- Your wellbeing is not secondary to their recovery
+- You are allowed to leave even if they're struggling
+
+---
+
 ## Why Types Matter Less Than You Think
 
 You might be tempted to diagnose the narcissist in your life. To figure out exactly which type they are. To find the perfect label.
@@ -280,6 +352,10 @@ This chapter explored the five primary narcissist types:
 4. **The Malignant Narcissist** — Where narcissism meets sadism. The most dangerous type, deriving pleasure from your pain.
 
 5. **The Histrionic Narcissist** — Attention at all costs. Drama, emotion, and performance as supply-gathering mechanisms.
+
+We also explored:
+
+6. **The Addiction-Narcissism Intersection** — How substance abuse and narcissistic patterns often co-occur, reinforce each other, and create specific wounds. Red flags include personality shifts when intoxicated, convenient amnesia, double standards around use, and blame transfer. The critical truth: sobriety doesn't cure narcissism.
 
 **Key insight:** All types share the same core wound, a fragile sense of self that requires constant external validation. The types are just different strategies for obtaining that supply.
 

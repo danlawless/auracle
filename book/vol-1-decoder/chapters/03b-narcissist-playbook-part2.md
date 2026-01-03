@@ -1,6 +1,6 @@
 # Chapter 3B: The Narcissist Playbook — Part 2
 
-## Tactics 20-38: Sexual, Energetic, and Post-Encounter Manipulation
+## Tactics 20-43: Sexual, Energetic, Post-Encounter, and Substance-Related Manipulation
 
 ---
 
@@ -417,6 +417,210 @@ That's not betrayal. That's separation.
 
 ---
 
+## Category G: Substance-Related Manipulation
+
+These tactics use alcohol, drugs, or other substances as tools for control, excuse-making, or reality distortion.
+
+---
+
+## Field Note (Before): The Third Glass
+
+He refills her wine before she asks.
+
+"You're so tense. Just relax."
+
+She wasn't tense until he said that. Now she feels like she's failing at something.
+
+By the third glass, she's softer. Easier. The edges blur.
+
+That's when he brings up what he wants—something she said no to last week. Something that made her uncomfortable.
+
+She hears herself agreeing. Her voice sounds far away.
+
+The next morning, she doesn't remember exactly what she said yes to. But she remembers the feeling: cornered without walls.
+
+When she tries to revisit the conversation sober, he says: "You already agreed. Are you going back on your word?"
+
+---
+
+## Field Note (After): The Pause Before the Pour
+
+He reaches for the bottle.
+
+She covers her glass. "I'm good."
+
+"Come on. One more won't hurt."
+
+She notices the pressure. The familiar setup. The way serious conversations always seem to happen after she's had a few.
+
+"I said I'm good."
+
+His face flickers—Loss of control? Irritation?—then smooths into charm. "Fine. Suit yourself."
+
+Later, when he brings up the thing she said no to before, she's clear.
+
+"My answer is still no."
+
+"You're so rigid when you're sober."
+
+"I know. That's the point."
+
+---
+
+## Field Note (Before): The Morning After
+
+She wakes with a headache and a body that feels wrong.
+
+Fragmented memories: his weight, his voice—harsher than usual, demanding things he doesn't ask for sober. Her own silence.
+
+She lies still, trying to piece together what happened.
+
+When he wakes, she asks carefully: "Last night... were you—was that—"
+
+"Was I what?"
+
+"You seemed... different."
+
+He laughs. "I was drunk. You were drunk. We both had fun. Don't make it weird."
+
+She doesn't remember having fun. She remembers freezing. She remembers being too intoxicated to form the word "stop."
+
+But he's already moving on with his day, and she's left holding something she can't name.
+
+She tells herself: *It wasn't that bad. We were both drinking. He didn't mean it.*
+
+The excuses come automatically now.
+
+---
+
+## Field Note (After): Naming What Happened
+
+She's been sober for two months. Not because she had a problem—because she needed her mind clear.
+
+She's been reading. Talking to a therapist. Putting words to things that happened in the blur.
+
+One night he comes home buzzed and reaches for her the old way—insistent, not asking.
+
+She steps back. "No."
+
+"What's wrong with you lately?"
+
+"Nothing's wrong with me. I'm just not available for this."
+
+"For what? Sex with your own husband?"
+
+"For sex I didn't agree to."
+
+The room goes cold. This is new territory. She's naming something that was supposed to stay unnamed.
+
+"You're making a big deal out of nothing."
+
+"It wasn't nothing to me."
+
+She doesn't need him to agree. She just needed to say it out loud.
+
+---
+
+## Field Note (Before): The Only Time He Wants Me
+
+She notices the pattern but doesn't let herself name it.
+
+Sober, he's distant. Critical. Uninterested.
+
+After a few drinks, he's suddenly affectionate. Attentive. Wanting her.
+
+She starts to associate alcohol with being desired. The drinks become foreplay—the only bridge to connection.
+
+She finds herself pouring wine at dinner, hoping. Monitoring his consumption. Calculating when he'll want her.
+
+She doesn't notice that she's performing availability for a version of him that only exists when his inhibitions are lowered.
+
+She doesn't notice that sober intimacy has disappeared entirely.
+
+---
+
+## Field Note (After): What Sober Desire Looks Like
+
+She stopped drinking with him. Started paying attention.
+
+Weeks pass. He doesn't reach for her—not sober, anyway.
+
+She realizes: he doesn't want *her*. He wants what alcohol gives him permission to take.
+
+She sits with that. Grieves it.
+
+Then she asks herself a harder question: *Do I want someone who only wants me when he's not fully himself?*
+
+The answer takes time. But it's clear.
+
+She starts imagining what sober intimacy could feel like—with someone who wants her without chemical permission. Someone who reaches for her with clear eyes.
+
+She's never had that. But now she knows it's what she wants.
+
+---
+
+### Tactic 40: The Substance Shield
+
+**What it looks like:** After cruel behavior while intoxicated, they claim not to remember. "I was drunk—I didn't mean it." "I don't even remember saying that." "That wasn't really me; I was wasted." The substance becomes a blanket excuse that erases accountability for anything said or done while under its influence.
+
+**What's really happening:** Intoxication is being used as a get-out-of-jail-free card. Whether or not they remember, the behavior still happened. The impact on you still occurred. The "drunk version" isn't a different person—it's often the unfiltered version, the one without the mask.
+
+**The truth about "drunk words":** Alcohol and substances lower inhibitions. They don't create new personalities—they reveal what's already there but usually suppressed. What comes out when the filter drops often reflects genuine beliefs, resentments, or desires that they keep hidden when sober.
+
+**How it hooks you:** You minimize harm because "they weren't themselves." You wait for the sober version to return. You accept apologies that blame the substance rather than addressing the behavior. You start tracking their drinking to predict when the "real them" might emerge.
+
+**Your power move:** "Drunk or sober, you said/did that. The substance doesn't erase the impact." If this is a pattern, the pattern is the problem—not any single incident. Someone who repeatedly harms you while intoxicated and then claims amnesia is choosing to keep drinking despite the consequences.
+
+> *"The mask slips when they're drunk. What you see isn't the alcohol talking—it's them, unfiltered."*
+
+---
+
+### Tactic 41: Lowering Your Defenses
+
+**What it looks like:** They push drinks on you. "Come on, just one more." "You're more fun when you drink." "Don't be so uptight." They initiate important conversations when you've been drinking. They pick fights or extract agreements when your judgment is impaired. They may even "accidentally" make your drinks stronger than expected.
+
+**What's really happening:** Your lowered inhibitions serve their purposes. When you're intoxicated, you're more likely to agree to things you'd refuse sober, reveal information you'd protect, respond emotionally rather than strategically, forget details they can later deny, or be easier to gaslight about what actually happened.
+
+**How it hooks you:** You feel like you're being social, relaxing, having fun together. You don't notice you're consistently more intoxicated than them. Important decisions get made when you're not at full capacity. You wake up having agreed to things or said things you regret—and they hold you to it.
+
+**Your power move:** Notice if serious conversations, conflicts, or requests consistently happen when you've been drinking. "I don't make decisions when I've been drinking. We can talk about this tomorrow." If they push: "My answer while sober is my answer."
+
+> *"If they want you drunk to have the conversation, they need you impaired to get the answer they want."*
+
+---
+
+### Tactic 42: The Functional Facade
+
+**What it looks like:** They maintain a public image of control while privately struggling with substance use. High-functioning alcoholism or addiction that's carefully hidden. They may drink every night but "never miss work." They may use substances daily but insist they "don't have a problem." Any attempt to discuss it is met with defensiveness, denial, or accusations about your own behavior.
+
+**What's really happening:** The image is what matters. As long as they can maintain the appearance of functionality, they don't have to address the reality. The secrecy itself becomes a form of gaslighting—you see the consumption, but they insist there's no problem. Your perception becomes the issue, not their behavior.
+
+**The narcissistic intersection:** Substance abuse often coexists with narcissistic patterns because both involve denial of reality, projection of problems onto others, difficulty tolerating discomfort, and rage when the facade is threatened. Confronting the addiction threatens their self-image, which triggers narcissistic defenses.
+
+**How it hooks you:** You become the secret-keeper. You manage around their use. You stop inviting certain people over. You make excuses. You question whether you're "overreacting" because they "function just fine." You absorb the chaos while they maintain their image.
+
+**Your power move:** You're not responsible for protecting their image. "I see what I see. Your definition of 'fine' isn't mine." You can love someone and refuse to participate in their denial. Their addiction is not yours to manage, hide, or cure.
+
+> *"Functional addiction is still addiction. The mask of competence doesn't erase the chaos you absorb behind closed doors."*
+
+---
+
+### Tactic 43: Weaponizing Your Use
+
+**What it looks like:** They track and catalogue your drinking or substance use. "You were drunk that night, so your memory can't be trusted." "You've had a glass of wine, so you're not thinking clearly." "Remember when you smoked pot last month? You're in no position to judge." Any past use becomes permanent ammunition to discredit your perceptions.
+
+**What's really happening:** Your occasional or past use is being stored as a weapon. Meanwhile, their behavior—potentially far more problematic—is positioned as irrelevant because you "also" use substances. This creates a false equivalence that silences your concerns.
+
+**The double standard:** Notice if there's a different rulebook. Their drinking is "social" while yours is "a problem." Their use is "recreational" while yours indicates "poor judgment." They're "fine to drive" while you're "too impaired to think clearly."
+
+**How it hooks you:** You stop bringing up concerns because you feel like a hypocrite. You doubt your own perceptions because "you'd been drinking." You accept their version of events because your credibility has been undermined. You become hyper-careful about your own consumption to avoid giving them ammunition.
+
+**Your power move:** "Having a drink doesn't erase what I witnessed or experienced. My perception is valid." Separate conversations about their behavior from conversations about yours—they're not the same discussion.
+
+> *"They're not concerned about your drinking. They're concerned about having something to use against you."*
+
+---
+
 ## How to Use This Chapter
 
 This playbook isn't meant to be memorized. It's meant to be referenced.
@@ -459,6 +663,14 @@ The playbook exists. Now you can read it.
 - You can't correct someone invested in misunderstanding
 - Separation isn't betrayal—it's autonomy
 - Don't manage their narrative. Be truthful if asked
+
+**For substance-related tactics (40-43):**
+- Intoxication explains behavior; it doesn't excuse it
+- "Drunk words" often reveal what's hidden sober
+- If they need you impaired to get agreement, the answer is no
+- Functional addiction is still addiction—you see what you see
+- Your past use doesn't disqualify your current perception
+- Their addiction is not yours to manage, hide, or cure
 
 ---
 

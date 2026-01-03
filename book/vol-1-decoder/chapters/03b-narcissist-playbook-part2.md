@@ -4,14 +4,6 @@
 
 ---
 
-> **⚠️ CONTENT WARNING**
->
-> This chapter contains descriptions of controlling and abusive behaviors including: physical intimidation and threats of violence, emotional manipulation, sexual coercion, suicide threats, and detailed accounts of psychological abuse tactics. These descriptions are provided to help readers recognize and name harmful patterns. If you're currently in an unsafe situation, please prioritize your physical safety and consider contacting: National Domestic Violence Hotline: 1-800-799-7233.
->
-> Take breaks as needed. Your wellbeing matters more than finishing the chapter.
-
----
-
 **Before you begin:** This section covers tactics that often appear during intimate moments, spiritual contexts, and relationship exits. If you're currently in crisis, consider reading Chapter 17 (Energetic Remapping) first for grounding tools.
 
 **Continuing from Part 1:** Tactics 1-19 are covered in [Chapter 3A](./03a-narcissist-playbook-part1.md). This chapter continues with the more advanced and often more dangerous tactics.

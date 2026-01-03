@@ -153,6 +153,8 @@ Then slowly, you realize there's no room for you. Conversations are monologues. 
 
 Your body knows before your mind does. You feel smaller around them. Your voice gets quieter. You start sentences and don't finish them. You look to them before forming opinions. You've become an audience member in your own relationship.
 
+> **Field Note:** Watch for physical gestures that establish dominance while appearing affectionate. The head pat. The hair tousle. The way they rest their hand on top of your head like you're a child or a pet. These gestures communicate hierarchy through the body—they're literally looking down at you, touching you from above, positioning themselves as the adult in the room. When someone pats your head, your nervous system registers the power imbalance even if your conscious mind files it under "affection."
+
 **The tell:** Their superiority is on display. They don't hide it, they advertise it. If you feel like you're constantly in the presence of someone who thinks they're better than everyone, trust that perception.
 
 **Why they're dangerous:** Their grandiosity makes it hard to have your needs met. You become an audience member rather than a partner. Their rage at any challenge can be explosive.
@@ -281,6 +283,10 @@ You feel stupid. Even if you're intelligent, accomplished, competent, around the
 
 Your voice gets smaller in intellectual discussions. You stop sharing opinions because they'll be picked apart. You defer to their "expertise" even on topics you know well.
 
+> **Field Note:** I have a family member who made me feel intellectually small for years. Every conversation became a test I was failing. He'd explain basic concepts I already understood, interrupt me to "correct" minor points, and sigh with impatience when I spoke. Over time, I stopped sharing my ideas around him. I'd rehearse things in my head first, trying to make them bulletproof. Nothing ever was. The message was clear: You're the dumb one here. I believed it for longer than I should have.
+>
+> It doesn't have to be about big ideas. With cerebral narcissists, the corrections often live in the mundane: how you load the dishwasher (wrong), your grammar in a text message (corrected), the way you pronounced a word (actually, it's...). These micro-corrections aren't about dishes or grammar. They're about establishing a hierarchy where they're always the one who knows better—and you're always the one being taught.
+
 **The specific wound:** You lose trust in your own mind. Healing requires reclaiming your intellectual confidence.
 
 ---
@@ -298,6 +304,8 @@ Aging is particularly threatening. Partners may be valued as trophies rather tha
 You become hyper-aware of your body. You feel evaluated constantly. You notice them noticing other people's bodies. You compare yourself to everyone and always come up short.
 
 Your relationship to your own body becomes fraught. You're never attractive enough, fit enough, young enough. Your worth feels tied to how you look, not who you are.
+
+> **Field Note:** I dated a bodybuilder. We lifted together. One day at lunch, he looked at my plate and said, "That's a lot of tuna for a little girl." Seven words. Said casually, almost playfully. But the message landed: *I'm watching what you eat. I decide what's appropriate for your body. You're little—I'm the authority here.* I put down my fork. For months after, I felt his eyes on me whenever I ate. The comment wasn't about tuna. It was about control—wrapped in the language of health and fitness, delivered with a smile.
 
 **The specific wound:** Your body becomes an object rather than a home. Healing requires rebuilding a loving relationship with your physical self.
 

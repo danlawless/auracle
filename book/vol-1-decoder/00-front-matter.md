@@ -130,6 +130,20 @@ The tactics described in these pages aren't random acts of cruelty. They're patt
 
 ---
 
+## A Note on Field Experience
+
+The examples in this book come from real life.
+
+They're drawn from my years as a mental health counselor working across a variety of settings—locked psychiatric units, in-home family therapy, individual sessions, couples counseling—as well as from my own personal relationships and lived experiences.
+
+When you read a field note about a comment made at a gym, a look given across a dinner table, or the specific way someone's voice changed before an attack, these aren't hypotheticals. They happened. To my clients. To people I love. To me.
+
+I include these details because narcissistic abuse lives in the specifics—the offhand comment that deflates you, the gesture that infantilizes you, the tone that makes you feel stupid before you can articulate why. The patterns are universal. The moments are particular. Both are true.
+
+Some details have been changed to protect privacy. But the essence—the feeling, the dynamic, the wound—is preserved exactly as it occurred.
+
+---
+
 ## Who This Book Is For
 
 This book is for:

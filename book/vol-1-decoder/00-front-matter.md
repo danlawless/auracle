@@ -64,7 +64,7 @@ Chapter 8: Parental Wounds — The Mother Wound and Father Wound ...............
 
 Chapter 9: Breaking Free from Family Systems — Siblings, Shame, and Sovereignty .................... [pg. XX]
 
-Chapter 10: Understanding Your Childhood Patterns — How Early Experiences Shape Adult Vulnerability *(Advanced—read when ready)* .................... [pg. XX]
+Chapter 10: Understanding Your Childhood Patterns — How Early Experiences Shape Adult Vulnerability .................... [pg. XX]
 
 **Part III: Patterns in Context**
 

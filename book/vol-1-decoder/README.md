@@ -21,7 +21,7 @@
 | [Chapter 7](./chapters/07-family-roles-triangulation.md) | Family Roles & Triangulation | Scapegoats, golden children, and the games narcissists play |
 | [Chapter 8](./chapters/08-parental-wounds.md) | Parental Wounds | When your parent is the narcissist |
 | [Chapter 9](./chapters/09-family-breaking-free.md) | Breaking Free from Family Systems | Exit strategies and ongoing contact management |
-| [Chapter 10](./chapters/10-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability *(Advanced—read when ready)* |
+| [Chapter 10](./chapters/10-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
 | [Chapter 11](./chapters/11-romantic-manipulation.md) | Romantic Manipulation | How narcissism operates in intimate relationships |
 | [Chapter 12](./chapters/12-manipulation-across-contexts.md) | Manipulation Across Contexts | Workplace, friendships, and other arenas |
 | [Chapter 13](./chapters/13-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |

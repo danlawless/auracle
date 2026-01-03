@@ -195,7 +195,7 @@ APPENDICES
 
 ## 📘 Continue Your Journey
 
-This is Volume 1 of 7 in the Sovereignty Series.
+This is Volume 1 of 8 in the Sovereignty Series.
 
 When you're ready to move from recognition to healing, **[Volume 2: The Bridge](../vol-2-bridge/README.md)** continues with:
 - Secure attachment training
@@ -217,6 +217,7 @@ The complete series:
 - **Volume 5:** The Lineage — *Parenting*
 - **Volume 6:** The Guide — *Serving*
 - **Volume 7:** The Return — *Thriving*
+- **Volume 8:** Quantum You — *Becoming*
 
 ---
 

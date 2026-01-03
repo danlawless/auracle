@@ -28,6 +28,36 @@ These tactics operate in the realm of intimacy, using closeness as a control mec
 
 ---
 
+### Field Note: As If Nothing Happened
+
+The argument escalates. His voice gets louder. Then it crosses a line.
+
+"A woman should do anything to please her man. Blow him, whatever. That's what a real woman does."
+
+She goes still. The words hang in the air—ugly, reducing her to a function.
+
+She doesn't fight back. She's learned that fighting back makes it worse. Instead, she gets quiet. Apologizes. Softens her voice. Does what she knows will calm him down.
+
+It works. His shoulders drop. The tension drains from the room.
+
+Then—as if the last ten minutes didn't happen—he reaches for her. Pulls her toward him for a kiss. Casual. Almost sweet.
+
+"Come here," he says. "We're good, right?"
+
+Her body is frozen but her mouth says, "Yeah. We're good."
+
+She lets him kiss her. She doesn't feel the kiss. She feels the whiplash: from being told what a woman *should* do to being expected to perform closeness immediately after.
+
+No acknowledgment. No repair. Just the assumption that proximity erases what he said.
+
+Later, she'll wonder why she feels so disoriented. He didn't hit her. He even wanted to kiss her. Isn't that affection?
+
+But her body knows the truth: the kiss wasn't connection. It was a reset button *he* pushed—to skip the part where he'd have to face what he said.
+
+**One-Line Decoder:** When someone reaches for intimacy immediately after an eruption, they're not repairing—they're erasing.
+
+---
+
 ### Tactic 21: Withholding Tenderness
 
 **What it looks like:** Affection disappears when you displease them. Physical warmth is rationed based on your behavior. Touch becomes a reward rather than a given. "I don't feel close to you right now" after you've set a boundary.

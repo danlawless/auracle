@@ -454,5 +454,5 @@ Let's begin.
 ---
 
 *"The truth will set you free, but first it will piss you off."*
-— commonly attributed to Gloria Steinem
+— Gloria Steinem
 

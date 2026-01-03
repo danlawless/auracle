@@ -1,12 +1,12 @@
 # The Retroactive Reframe
 
-**Volume 9 Case Vignette — Appendix C**
+**Volume 1 Case Vignette — Supporting Material for Chapter 3**
 
 ---
 
 ## Context
 
-Maya had agreed to a mutual in-trade collaboration with Sage, a practitioner she'd met in a spiritual community. During their exchange, what was framed as an exploratory conversation became a sales pitch for Sage's paid services.
+Maya had agreed to a mutual in-trade collaboration with Sage, a practitioner she'd met in a community group. During their exchange, what was framed as an exploratory conversation became a sales pitch for Sage's paid services.
 
 ---
 
@@ -50,7 +50,7 @@ Hope that makes sense to you as to why "I was just practicing" doesn't resonate.
 
 I am in a process of learning and testing out what is right for me. And it would be nice for you to see that and observe the transformation vs feels like judging the process.
 
-I asked you if it was okay to push and to see explore what it would be like to work together. I wasn't planning on pitching you that day but it probably came through because of a business accelerator program I was in this year, which I do not resonate with all of their sales processes. I would rather be on qualified sales calls of course when it's already framed. And I would rather just be selling software that supports our soul growth to build our content and our funnels online.
+I asked you if it was okay to push and to see explore what it would be like to work together. I wasn't planning on pitching you that day but it probably came through because of a business program I was in this year, which I do not resonate with all of their sales processes. I would rather be on qualified sales calls of course when it's already framed.
 
 I am in a very painful place in my life. My gut isn't healing. And I have to really let go of any negative ideas about this so I can heal.
 
@@ -66,42 +66,54 @@ In the beginning I shared it would be cool to do a simple trade, one for one. So
 
 ---
 
-## Teaching Points
+## The Tactic: Retroactive Reframing
 
-This exchange illustrates several patterns common in conscious community dynamics:
+**What it looks like:** After their behavior doesn't get the desired outcome, they rewrite what the behavior was. "I was just joking." "I was only testing you." "I was just practicing." "I didn't really mean it."
 
-### The Retroactive Reframe
-"I was just practicing" only emerged after the pitch was declined. The test: *If she had said yes, would payment have been accepted?* Yes. Therefore it wasn't practice.
+**What's really happening:** They're attempting to escape accountability by changing the nature of the act after the fact. The reframe only appears when the original approach fails.
+
+**How it hooks you:** You doubt your own perception. Maybe it *was* just a joke? Maybe you overreacted? The reframe creates just enough uncertainty to make you question whether you have a right to your response.
+
+**The Logic Test:** Ask yourself: *If I had said yes, would they have followed through?* If the answer is yes, it wasn't practice. It wasn't a joke. It wasn't a test. It was real, and the reframe is the manipulation.
+
+**Your power move:** Name it directly: "If I had said yes, you would have accepted. So it wasn't practice." You don't need them to agree. You just need to hold your reality.
+
+> *"The reframe only appears when the original approach fails."*
+
+---
+
+## Additional Tactics Present in This Exchange
 
 ### Transformation as Shield
-"We're all going through massive transformation" redirects accountability into a shared spiritual experience where boundaries become "judgment."
+"We're all going through massive transformation" redirects accountability into a shared experience where boundaries become "judgment."
+
+*Related to: Tactic 28 (Spiritual Bypassing)*
 
 ### Health Crisis as Leverage
 "My gut isn't healing. And I have to really let go of any negative ideas about this so I can heal" implies that Maya's boundary is causing physical harm.
 
-### Program Blame
-Attributing the behavior to an external program ("a business accelerator I was in") distances the person from their own choices.
+*Related to: Tactic 16 (Guilt as Currency)*
+
+### External Blame
+Attributing the behavior to an external program ("a business program I was in") distances the person from their own choices.
+
+*Related to: Tactic 22 (Excuse Rotation)*
 
 ### Flattery During Confrontation
 "You are incredibly talented!" arrives at the moment of highest accountability pressure.
 
+*Related to: Tactic 14 (Love Bombing)*
+
 ### The Judgment Flip
 "It would be nice for you to see that and observe the transformation vs feels like judging the process" reframes a valid boundary as a character flaw.
 
----
-
-## Pattern Cross-References
-
-This vignette demonstrates patterns from:
-- **Chapter 4:** Pattern 3 (Misrepresentation as Recruitment)
-- **Chapter 6:** Financial Ambiguity as Leverage
-- **Chapter 7:** Mentorship dynamics and "transformation" language as control
+*Related to: Tactic 10 (DARVO)*
 
 ---
 
-## What Sovereignty Looks Like
+## What Healthy Response Looks Like
 
-Maya's response models clarity without cruelty:
+Maya's responses model clarity without cruelty:
 - Names the specific behavior without character assassination
 - Applies the logic test ("if I had said yes...")
 - Maintains warmth while holding the boundary
@@ -110,4 +122,4 @@ Maya's response models clarity without cruelty:
 
 *"I absolutely don't hold anything in my heart other than love, truth and light towards you and all my sisters."*
 
-Sovereignty isn't hardness. It's the capacity to hold truth and love simultaneously.
+Truth and love aren't opposites. You can hold both.

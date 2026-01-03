@@ -265,6 +265,59 @@ When confronted about lying, cheating, or boundary violations, they pivot to sel
 
 ---
 
+### When They Reframe Separation as Betrayal (The DARVO Sequence)
+
+When someone who extracted value—financial, emotional, or otherwise—reframes their disappointment as your "betrayal" or "abandonment."
+
+**Them:** "You failed me. You abandoned me. After everything I invested, you betrayed me."
+
+**The reality check:** Ask yourself:
+- Who actually benefited materially? Who took more than they gave?
+- Were expectations ever formally agreed, or assumed unilaterally?
+- Are they asking for image control ("let's keep this quiet") while devaluing you?
+
+If the answer is they benefited disproportionately while holding expectations that were never agreed upon, you're witnessing the **inversion + entitlement pattern**: externalizing disappointment to avoid accountability.
+
+**Clean closure response:**
+
+*"We're not aligned on scope, expectations, or responsibility. I'm complete with this and won't be continuing further discussion."*
+
+This response:
+- Does not accuse
+- Does not explain
+- Does not invite debate
+- Ends the frame
+
+**If they push for narrative control:**
+
+**Them:** "Let's not tell anyone about this. Can we keep this between us? I don't want people to know."
+
+**Your response:**
+
+*"I'm not available for managing narratives. I'll be truthful if asked."*
+
+That's a boundary, not a threat.
+
+**What NOT to do:**
+- Don't argue timelines ("But I did work 60-hour weeks!")
+- Don't defend effort ("Let me show you everything I delivered")
+- Don't re-litigate intentions ("I was trying to help you succeed")
+- Don't agree just to keep peace (agreement = self-erasure)
+
+Nothing you say will land. The story was written before the conversation started. They need you to be the problem so they don't have to face their role.
+
+**The reframe that frees you:**
+
+When someone says "You betrayed me" but the facts show they extracted value and avoided shared risk, what they're really saying is:
+
+> *"You stopped carrying my disappointment for me."*
+
+That's not betrayal. That's separation.
+
+*See also: Chapter 3, Tactic 39 (The Inversion + Entitlement Pattern)*
+
+---
+
 ### When They Escalate Volume
 
 **Them:** *[RAISING VOICE, TALKING OVER YOU]*

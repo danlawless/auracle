@@ -273,6 +273,31 @@ If every ex is crazy/abusive/the problem, the pattern reveals the common denomin
 
 ---
 
+### Question 2.6: "What are you accountable for?"
+
+**Especially effective in professional contexts: exit interviews, performance reviews, workplace mediations.**
+
+**Why it exposes:**
+This question strips away the specificity that allows hedging. Instead of asking about their part in *this* conflict, it asks about accountability as a general principle. Narcissists cannot access genuine accountability because owning impact threatens their entire self-construction.
+
+**Healthy response:** Genuine reflection with specific ownership. "I'm accountable for how I communicate when I'm stressed. I'm accountable for the commitments I make to the team. I could have handled the transition better and given people more notice."
+
+**Narcissistic tells:**
+- Blank refusal: "Nothing" (complete inability to access accountability)
+- Deflection: "That depends on what you mean by accountable"
+- Self-reference only: "I'm accountable to myself" (reframes away from impact on others)
+- External blame: "I would be accountable if anyone else did their job"
+- Victimhood: "Everyone already blames me for everything"
+- Counter-question: "What are YOU accountable for?"
+
+**Field note:**
+During an exit interview, Ezekiel asked Marcus directly: "What are you accountable for?" Marcus's response was immediate and unguarded: "Nothing." In one word, he revealed what months of workplace conflict had only suggested—complete absence of accountability capacity. The exit interview format worked because Marcus expected procedural questions, not diagnostic ones. His guard was down. The question's simplicity left no room for the elaborate justifications he'd perfected in conflict situations.
+
+**The trap mechanism:**
+The question's generality is its power. Specific accountability questions ("What did you do wrong in this situation?") allow for tactical deflection—narcissists can argue the details, reframe the conflict, or attack the premise. But "What are you accountable for?" as a general principle exposes whether they have *any* capacity for ownership. A "nothing" response reveals complete accountability absence. They're not saying they did nothing wrong in this instance; they're revealing they exist in a world where accountability doesn't apply to them at all.
+
+---
+
 ## Category 3: The Consistency Trap Questions
 
 These questions create opportunities for the narcissist to contradict themselves. Their narrative requires constant maintenance that breaks under examination.

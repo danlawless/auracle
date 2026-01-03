@@ -210,6 +210,18 @@ But children do repeat things out of context. They do absorb adult tensions and 
 
 **The damage:** The adult being accused feels trapped—you can't argue with a child's words without seeming defensive. The child learns their words have explosive power they don't understand. And the person wielding this tactic gets to hide behind a child's innocence while launching an adult attack.
 
+### Projection Through the Triangle
+
+Sometimes the third person isn't a messenger or a weapon—they're an *audience* for projection. The narcissistic family member says something about you *to* someone else that's really about themselves. It's indirect communication wrapped in projection, and it reveals more about the speaker than the target.
+
+> **Field Note:** My sister made a mistake and somehow flipped the whole thing to make it my fault. Then, while explaining the situation to her daughter—right in front of me—she said *"she is so old"* about me. As if my supposed age explained my supposed error. The thing is, I'm younger than her. By years. The projection was so transparent that even her daughter caught it. The kid looked confused and said, *"Mommy, she's not that old."* I felt humiliated—blamed for something I didn't do, criticized in front of a child, reduced to a punchline about aging. But in that moment, watching a child see through what my sister couldn't admit to herself, something clicked. She wasn't really talking about me. She was externalizing her own anxiety about getting older, her own fear of making mistakes, and I was just the screen she projected it onto. The blame-shifting and the age comment served the same purpose: keep her discomfort outside herself, on me.
+>
+> What haunts me now isn't my own humiliation—it's watching my niece in that system. She spoke up this time. She saw what was off and said so. But I know how that gets trained out of you. I learned somewhere along the way that I shouldn't mess up, that expressing my feelings wasn't safe. I don't want her to become like me—growing up not knowing how to say what she feels because she learned it wasn't welcome. She still has that clarity. I hope she keeps it.
+
+**What's happening:** The speaker avoids confronting their own discomfort by attributing it to you. By saying it to a third party rather than directly, they get to express the feeling while maintaining deniability. It wasn't about them—it was an observation about you.
+
+**The tell:** When the thing they're saying doesn't match reality—especially when even a child can see it doesn't fit—you're watching projection in real time. Their words reveal their wounds, not yours.
+
 ---
 
 ### Breaking Triangulation

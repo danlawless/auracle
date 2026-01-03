@@ -186,7 +186,7 @@ To recognize the energetic signature of control, you need to know what healthy c
 
 **In healthy connection:** Your chest opens. Your breathing deepens. You feel like there's more room for you in the space. Your body relaxes rather than braces.
 
-**In control:** Your chest tightens. Your breathing becomes shallow. You feel like you need to take up less room. Your body prepares for something.
+**In control:** Your chest tightens. Your breathing becomes shallow. You feel contracted. You feel like you need to take up less room. Your body prepares for something.
 
 ### Curiosity vs. Vigilance
 

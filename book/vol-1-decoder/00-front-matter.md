@@ -118,6 +118,26 @@ This is not a race. This is a homecoming.
 
 ---
 
+## A Note on Memory
+
+Keep a journal nearby.
+
+As I wrote this book, I found myself remembering things I hadn't thought of in years. Moments I'd buried. Feelings I thought I'd processed. They surfaced—sometimes gently, sometimes suddenly—as the material on these pages took shape.
+
+The same may happen to you.
+
+Reading about these patterns can unlock memories your mind tucked away for safekeeping. Old conversations. Specific looks. The way someone's voice changed before an attack. These aren't intrusions—they're your psyche saying: *I'm ready to look at this now.*
+
+When this happens, write it down. Get it out of your head and onto paper.
+
+You don't need to analyze it. You don't need to do anything with it. Just capture it. The act of externalizing what's internal—giving it form outside your body—is part of the healing. What stays locked inside continues to loop. What makes it onto paper begins to release.
+
+A simple notebook. A notes app. The margins of this book. Whatever works.
+
+Your memories are information. Honor them by recording them.
+
+---
+
 ## About This Book
 
 You picked up this book because something felt off.

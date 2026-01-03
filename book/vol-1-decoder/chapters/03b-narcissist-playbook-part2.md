@@ -360,6 +360,72 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 ---
 
+## Field Note (Before): The Ledger
+
+They'd been building together for eighteen months.
+
+He put in the hours. The thinking. The late nights solving problems no one else could see. She handled the money side—investor calls, distributions, the things that required a different kind of confidence.
+
+When the first payout came, she took $180,000. He received $25,000.
+
+"You're the builder," she said. "I'm the one who made it possible."
+
+He told himself it made sense. She'd brought the opportunity. He was just the labor.
+
+But when the timeline slipped—when the product took longer than her internal fantasy predicted—the story changed.
+
+"I trusted you," she said. "I believed in you. And you abandoned me."
+
+He tried to explain the complexity. The unforeseen obstacles. The things that couldn't have been predicted.
+
+She wasn't listening. She was already writing the ending.
+
+"You failed me. After everything I did for you."
+
+He felt the guilt rise. The urge to defend his effort. To re-litigate the timeline. To explain what was actually possible.
+
+He stayed on the call for two more hours, trying to be understood.
+
+When he hung up, he felt smaller than when they started.
+
+---
+
+## Field Note (After): The Ledger Closed
+
+She calls again. Same tone. Same story.
+
+"You betrayed me. You abandoned this."
+
+He listens. Not because he agrees—because he's checking his own body. Is the guilt still there? Does he still feel the pull to explain?
+
+The pull is quieter now.
+
+"We're not aligned on scope, expectations, or responsibility," he says. "I'm complete with this and won't be continuing further discussion."
+
+Silence. Then:
+
+"We need to manage how this looks. I don't want people knowing what happened."
+
+There it is. The request for narrative control. The real priority.
+
+"I'm not available for managing narratives. I'll be truthful if asked."
+
+"That's not fair to me."
+
+"It's not my job to be fair to the story you want to tell."
+
+He hangs up.
+
+The urge to call back and soften it rises. Old programming. He notices it, doesn't follow it.
+
+Later, a friend asks what happened with the partnership.
+
+He says: "She took more than she gave and called it betrayal when I stopped carrying her disappointment."
+
+That's the whole story. No drama required.
+
+---
+
 ### Tactic 39: The Inversion + Entitlement Pattern (DARVO Sequence)
 
 **What it looks like:** After extracting significant value—financial, emotional, or otherwise—from you or the relationship, they reframe the story when outcomes don't match their internal fantasy. Someone who took more than they gave suddenly positions themselves as the one who was "betrayed" or "abandoned." They may have benefited financially while you contributed labor, thinking, and time. When results disappoint them, the narrative flips: "You failed me." "You abandoned me." "I was betrayed."

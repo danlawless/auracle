@@ -194,6 +194,24 @@ In a triangulated family, you may find yourself:
 - Uncertain what's real because everything has been filtered through the narcissist
 - Defending yourself against accusations that came through intermediaries
 
+### When Children Become Weapons
+
+One of the most insidious forms of triangulation uses children—not as messengers, but as *evidence*. A child's words become ammunition. "Children don't lie" becomes a trump card that ends all discussion.
+
+But children do repeat things out of context. They do absorb adult tensions and reflect them back in fragments. They do say what they sense will please the adult asking the questions. Using a child's statement as irrefutable proof isn't honoring the child's truth—it's weaponizing their innocence.
+
+> **Field Note:** My sister once pulled me onto a phone call to witness her confronting our mom. She told our mother that her granddaughter had said Grandma loved her the most—more than her own parents. *"Children don't lie,"* my sister said, like she was presenting evidence in court. My mother tried to explain, tried to say that wasn't what she meant, that kids say things, that of course she loved everyone. But there was no defense against a child's words treated as testimony. I sat there on the call, pulled in as a witness to this ambush, watching my mother scramble to defend herself against her granddaughter's innocent comment turned into proof of favoritism. My mom later told me she felt gaslit—accused of something she couldn't disprove because the "evidence" was a child's offhand remark. My sister got to play prosecutor, my niece was the unwitting witness, and I was the audience meant to validate the verdict. No one won. Especially not the kid whose words got turned into a weapon she never meant to wield.
+
+**What to watch for:**
+- A child's statement presented as "proof" of your wrongdoing
+- "Out of the mouths of babes" used to shut down your perspective
+- Being put on speakerphone or pulled into calls as a witness to confrontations
+- Children being questioned in ways that produce useful answers
+
+**The damage:** The adult being accused feels trapped—you can't argue with a child's words without seeming defensive. The child learns their words have explosive power they don't understand. And the person wielding this tactic gets to hide behind a child's innocence while launching an adult attack.
+
+---
+
 ### Breaking Triangulation
 
 - **Go direct.** If you hear that someone has a problem with you, talk to them directly—not through the intermediary.

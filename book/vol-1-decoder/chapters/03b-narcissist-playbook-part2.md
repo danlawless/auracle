@@ -318,8 +318,6 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 
 **Your power move:** "I'm fine—I'll reach out if I need anything." Don't explain, justify, or provide details. Caring people trust your ability to manage yourself. If they push: "I appreciate the thought, but I'm good." Then hold that boundary.
 
-*Note: See also Decoder Card 1 (Chapter 14) for quick reference on this pattern.*
-
 > *"Control rarely storms the gate; it flatters its way inside."*
 
 ---
@@ -347,8 +345,6 @@ After an apology that's met with withholding: Do nothing. No follow-up. No clari
 **How it hooks you:** Because it's not complete silence, you hold out hope. You think, "Maybe I didn't apologize well enough," "Maybe I should try again," "Maybe time will soften this." You stay emotionally activated waiting for connection that never comes.
 
 **Your power move:** Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification. No second letter. An apology is not a down payment that entitles someone to keep you waiting. If repair is not met with engagement, the relationship has reached its functional limit.
-
-*Note: See also Decoder Card 23 (Chapter 15) for quick reference on this pattern.*
 
 ---
 

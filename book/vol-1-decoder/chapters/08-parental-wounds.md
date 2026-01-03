@@ -353,6 +353,67 @@ He cannot see it. Not because it isn't there. Because he isn't capable.
 
 ---
 
+### Field Note: Where Are the Other Two Points?
+
+He gets a 98 on the test.
+
+He is proud. He did everything right. He studied. He remembered. He performed.
+
+He shows his father.
+
+"Where are the other two points?"
+
+Not "great job." Not "I'm proud of you." Not even silence. A question. An accounting. A reminder that 98 is not 100, and not-100 is not enough.
+
+His body learns: *Perfect is the minimum. Anything less requires explanation.*
+
+His mother teaches a different lesson—but the same wound.
+
+She says they're leaving at 2:00. He's ready at 1:45. He waits. 2:00 passes. 2:30. 3:15. She's not ready. She's never ready. He learns to wait. He learns that his readiness doesn't matter. He learns that time is something that happens *to* him, not something he controls.
+
+But also: he learns to *dread* being the one who isn't ready. Because he knows how it feels to wait. He will not make others feel that. He will be early. He will be prepared. He will never be the reason someone waits.
+
+Two wounds. Two parents. One nervous system trying to hold both.
+
+Now add this: his brain works differently. Not broken—but differently. The ADHD means time is slippery. Transitions are hard. Leaving on time requires a kind of executive scaffolding that doesn't come naturally. What others do automatically, he must do manually. Every departure is a negotiation with a brain that doesn't feel urgency until urgency is all there is.
+
+So he's fighting three battles:
+- His father's voice saying *98 isn't good enough*
+- His body remembering hours of waiting, learning his time doesn't matter
+- A brain that makes punctuality genuinely harder
+
+The result: being late feels like moral failure. Not inconvenience—*failure*. The same failure as those two missing points. The same invisibility as waiting in the hallway for hours.
+
+When he's running late, his nervous system doesn't say "you might be a few minutes behind." It says *you are failing*. It says *you are the problem*. It says *hurry, hurry, hurry*.
+
+One winter morning, running late for work, he drives too fast on icy roads.
+
+He crashes.
+
+The car spins. Metal crumples. Glass shatters. He is lucky—shaken, but alive.
+
+And sitting in the wreckage, heart pounding, he has a moment of terrible clarity: *I almost died because I couldn't be five minutes late.*
+
+Not because of the ice. Not because of the weather. Because his body decided that death was preferable to being the person who makes others wait. Because somewhere in his nervous system, "late" and "worthless" became the same thing.
+
+This is how childhood patterns become life-threatening.
+
+Not through dramatic abuse. Through small, repeated lessons: *You are not enough. Your time doesn't matter. Perfect is the minimum.*
+
+The ADHD doesn't create the wound. But it makes the wound harder to outrun. The brain that struggles with time meets the nervous system that fears lateness, and together they create a feedback loop of anxiety, shame, and desperate compensation.
+
+**The truth:** Punctuality is not a moral virtue. Being five minutes late does not make you your father's disappointment or your mother's inconvenience. Your worth is not determined by a clock.
+
+**The work:** Separating time from shame. Learning that "running behind" is logistics, not identity. Teaching the nervous system that lateness is survivable—uncomfortable, maybe, but survivable.
+
+He is not chasing two points anymore. He is not waiting in a hallway. He is an adult, and he gets to decide what lateness means.
+
+It doesn't have to mean failure.
+
+It can just mean: *I'm on my way.*
+
+---
+
 ### The Emotionally Absent Father
 
 **What it looks like:** He was there but not there. Physically present but emotionally checked out. Didn't know how to connect. Deferred to your mother. Was uncomfortable with feelings.

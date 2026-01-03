@@ -18,13 +18,17 @@ These tactics operate in the realm of intimacy, using closeness as a control mec
 
 ### Tactic 20: Sexualized Dominance
 
-**What it looks like:** When anger shifts into sexual territory. Commands or demands that feel more about power than desire. Making you feel that obedience equals attraction, that compliance equals intimacy.
+**What it looks like:** When anger shifts into sexual territory. Commands or demands that feel more about power than desire. Making you feel that obedience equals attraction, that compliance equals intimacy. Statements like "A real woman would..." or "You should want to please me" that reduce you to a function rather than a person.
 
 **What's really happening:** When someone mixes sex talk with rage, it's not passion. It's control disguised as intimacy. The body's vulnerability during intimacy is being weaponized to re-establish hierarchy.
 
-**How it hooks you:** You conflate intensity with passion. You mistake dominance for desire. You may comply to restore peace or prove your attractiveness.
+**The objectification underneath:** This tactic works because it reduces you from a person with desires, boundaries, and agency to an object that exists to serve. Words like "whatever" or "anything" signal that your personhood is interchangeable with any act of compliance. You're not being desired—you're being collected.
 
-**Your power move:** Real desire doesn't feel like demand. Real passion doesn't feel like punishment. Trust the difference your body knows.
+The objectification often continues after the eruption. When he reaches for intimacy immediately after—a kiss, a touch, an expectation of closeness—he's assuming access to your body without repair. As if your feelings don't require tending. Only your compliance.
+
+**How it hooks you:** You conflate intensity with passion. You mistake dominance for desire. You may comply to restore peace or prove your attractiveness. The objectification is harder to name because it wears the mask of wanting you—but your body knows the difference between being *wanted* and being *used*.
+
+**Your power move:** Real desire doesn't feel like demand. Real passion doesn't feel like punishment. Trust the difference your body knows. If intimacy follows an eruption with no acknowledgment of what was said, that's not reconciliation—it's erasure.
 
 ---
 

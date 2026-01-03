@@ -219,6 +219,27 @@ But something has shifted. She realizes the pattern isn't passion. It's a cycle 
 
 ---
 
+### The Objectification Hidden in Reconciliation
+
+What makes post-conflict sexuality so disorienting isn't just the relief cycle. It's that intimacy becomes a site where objectification hides in plain sight—disguised as passion, reconciliation, or affection.
+
+**In the makeup sex pattern:**
+What was, in her experience, a vulnerable moment of reconciliation becomes something he *acquired*. When he narrates it to friends—"She came around. Took care of me."—she stops being a person who chose connection. She becomes a trophy. A conquest. Proof of his power to get what he wants after a fight.
+
+The bragging transforms her from *partner* to *proof*.
+
+**In the eruption-then-intimacy pattern:**
+The objectification is explicit before the kiss even happens. Words like "A woman should do anything to please her man" reduce her to a function—what she *should* provide, not who she is. The word "whatever" is particularly telling: her personhood is interchangeable with any act of service.
+
+Then the kiss continues the objectification. He assumes access to her body without repair, as if her feelings don't require tending—only her compliance.
+
+**Why this matters:**
+Objectification during reconciliation is harder to name than objectification during conflict. It wears the mask of affection. But your body knows the difference between being *wanted* and being *collected*. Between intimacy that sees you and intimacy that uses you.
+
+If something feels off in the "making up," trust that signal. Reconciliation that requires you to become an object isn't repair—it's another form of the same harm.
+
+---
+
 ### Why This Creates Confusion
 
 When someone asks, "Was it all bad?" they often think of the sexual connection.

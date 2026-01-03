@@ -69,6 +69,7 @@ Trauma doesn't just live in your mind; it lives in your body. After years in a d
 - Immune system dysregulation (frequent illness, autoimmune flares)
 - Hormonal imbalances
 - Racing heart or palpitations
+- High blood pressure
 - Shortness of breath or sighing frequently
 - Temperature dysregulation
 

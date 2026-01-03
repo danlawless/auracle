@@ -14,6 +14,8 @@ Maybe it was:
 - An urge to make them feel better
 - A strange sensation of shrinking
 - An inexplicable exhaustion afterward
+- A headache that came on during or after the conversation
+- A desperate need to sleep, even though you'd done nothing physically taxing
 - A subtle feeling that something was "off"
 - An impulse to apologize, though you'd done nothing wrong
 
@@ -160,8 +162,12 @@ After interactions with controlling people, you may notice:
 - Feeling confused about what just happened
 - Needing time alone to "come back to yourself"
 - Memory gaps about the interaction
+- A headache that develops during or shortly after the conversation
+- Pressure behind your eyes or temples
 
 This mental fog is a nervous system response. When your system detects threat, it can shift resources away from higher cognitive functions toward survival responses. You're not stupid or losing your mind, you're in a physiological state that impairs clear thinking.
+
+The headaches that accompany this fog are your body's physical protest. The mental energy required to track their shifting moods, decode their double messages, and suppress your authentic responses creates genuine neurological strain. Many people report these headaches appearing within hours of an interaction—sometimes during it—and find that no amount of pain relief fully addresses them. The headache resolves only when your nervous system finally processes the encounter and returns to safety.
 
 The fog often lifts once you're away from them. That tells you something important.
 
@@ -173,6 +179,12 @@ Even short interactions might leave you disproportionately tired. This exhaustio
 - Suppress your authentic responses
 - Process double messages
 - Protect yourself emotionally
+
+You may find yourself needing to sleep after encounters with controlling people—not just wanting rest, but being pulled into sleep as if your body is shutting down. This isn't laziness or weakness. Sleep is your nervous system's reset button. When you've been in a state of hypervigilance, tracking every micro-expression and calibrating every word, your system needs to discharge that activation. Sleep allows your brain to process what just happened without the added burden of staying alert.
+
+Many people describe needing to lie down immediately after interactions—whether it's a business meeting, a family dinner, or even a brief phone call. The conversation might have been only twenty minutes, but the recovery requires hours. You might wake up still tired, your body still processing the encounter.
+
+This pattern is especially common after dealing with controlling people in professional contexts, family gatherings, or friendships where you can't simply leave. The social requirement to stay engaged while your body screams for escape creates a unique kind of depletion.
 
 This exhaustion is a signal. It's your body telling you how much work this relationship requires.
 
@@ -623,7 +635,7 @@ When in doubt, trust the organism.
 
 **Key Insights:**
 - Your body detects control before your mind can articulate it
-- Control disguised as care produces specific bodily sensations: tension, vigilance, shame, contraction, fog, exhaustion
+- Control disguised as care produces specific bodily sensations: tension, vigilance, shame, contraction, fog, exhaustion, headaches, and the need for sleep
 - Healthy connection produces opposite sensations: expansion, ease, safety, clarity, energy, authentic expression
 - Sensitivity is both your vulnerability and your superpower
 - "You're too sensitive" is a sign you're perceiving accurately

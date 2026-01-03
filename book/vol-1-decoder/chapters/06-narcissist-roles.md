@@ -30,6 +30,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** A heaviness in your chest. A compulsion to help. Guilt when you consider stepping back. Your own needs feel selfish by comparison.
 
+> **Field Note:** Every conversation circled back to her suffering. Her ex was cruel. Her boss was unfair. Her friends didn't understand her. I'd cancel plans to comfort her, skip meals to take her calls. When I finally had my own crisis—a death in my family—she listened for two minutes, then said, "That reminds me of when my grandmother died. Let me tell you about *that* trauma." My grief became a springboard for hers. I was allowed to hurt only if it led back to her pain.
+
 **The liberation:** Their pain is real, and they're still responsible for their behavior. Both things can be true. You can have compassion without becoming their caretaker.
 
 ---
@@ -45,6 +47,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 **The trap:** You lose trust in your own capability. You start to believe you can't manage without them. Gratitude becomes obligation. Help becomes control.
 
 **What it feels like in your body:** Initial relief that someone is handling things. Then a creeping sense of incompetence. Shrinking when you think about doing things yourself. A childlike dependency that doesn't match who you actually are.
+
+> **Field Note:** He insisted on handling all the finances. "You shouldn't have to worry about this stuff." At first it felt like care. Then I noticed I couldn't access our accounts without asking him. When I wanted to buy something, I had to explain why. He'd sigh and say, "I'm just trying to protect us." By year three, I didn't know our account balances, our bills, our investments. I'd run a department at work but couldn't tell you what we paid for electricity. When I finally asked for access, he looked hurt: "After everything I've done to take care of us?"
 
 **The liberation:** You were capable before they arrived. You're capable now. Real help empowers; controlling help diminishes.
 
@@ -62,6 +66,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Constriction in your throat when you want to ask for something. Guilt that lives in your stomach. A sense that you're always taking and never giving enough—even when you're exhausted from giving.
 
+> **Field Note:** My mother never let me forget the epidural she didn't get. "I was in labor for thirty-six hours. No medication. For you." This was the opening line of every argument, the trump card that ended every disagreement. When I set a boundary: "After everything I sacrificed." When I moved away for work: "I gave up my career for you, and this is how you repay me." Her suffering was currency, and I was always in debt. I spent decades trying to repay a bill that only grew larger.
+
 **The liberation:** Sacrifice given freely doesn't keep score. If they're tracking their giving, it was never generosity. It was investment.
 
 ---
@@ -77,6 +83,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 **The trap:** You spend your energy trying to meet ever-moving standards. You feel less-than without their validation. Their judgment becomes your internal voice.
 
 **What it feels like in your body:** Bracing before you show them anything. Holding your breath waiting for the verdict. A constant low-level tension of being evaluated. Your inner critic sounds exactly like them.
+
+> **Field Note:** I stopped cooking when he was home. Every meal I made got the inspection: the seasoning was off, the vegetables overcooked, the presentation sloppy. "I'm just trying to help you improve." I'd been feeding myself for a decade before I met him. But slowly his voice replaced my own judgment. I'd season a dish and hear him before I tasted it. Years after leaving, I still flinch when someone watches me cook. His evaluation lives in my kitchen long after he left my life.
 
 **The liberation:** Their standards are arbitrary. You don't need to pass their tests. Your worth doesn't require their approval rating.
 
@@ -94,6 +102,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Exhaustion that never lifts. Resentment that you feel guilty about. The weight of carrying two lives on shoulders that were only built for one.
 
+> **Field Note:** He couldn't figure out the laundry. Couldn't remember to pay bills. Couldn't manage to buy groceries or schedule his own appointments. "I'm just not good at that stuff." But I'd seen his work presentations—meticulous, organized, impressive. He ran complex projects at the office. At home, he became helpless. I was doing everything for two adults while he played video games, because "domestic stuff just isn't my strength." His incompetence was selective. It only showed up when the task was something he didn't want to do.
+
 **The liberation:** They're not actually helpless; they're unwilling. There's a difference. You can stop compensating for someone who's capable but choosing not to try.
 
 ---
@@ -109,6 +119,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 **The trap:** You doubt your own perception because theirs is framed as more evolved. You feel spiritually inferior. You enable harm in the name of supporting their "journey."
 
 **What it feels like in your body:** Confusion that your mind can't resolve. A sense that something is wrong but you can't name it because they have spiritual explanations for everything. Your intuition screaming while their words sound so wise.
+
+> **Field Note:** She spoke in affirmations. "Everything happens for a reason." "You attracted this experience for your growth." When I was upset about her canceling plans again, she said I was "operating from ego." When I cried, she told me to "sit with it"—but never sat with me. Her spiritual language made every confrontation impossible. How do you argue with someone who's already "done the work"? My anger wasn't valid; it was "unprocessed trauma." My boundaries weren't healthy; they were "resistance." She was enlightened. I was just unawakened.
 
 **The liberation:** Real spiritual development includes accountability, not immunity from it. Wisdom shows in behavior, not vocabulary.
 
@@ -126,6 +138,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** A drug-like rush. Addictive excitement. Later, withdrawal symptoms when the intensity fades: anxiety, craving, desperation to get the feeling back.
 
+> **Field Note:** Three weeks in, he said I was his soulmate. He'd never felt this way. We were texting constantly—hundreds of messages a day. He remembered everything I mentioned and surprised me with gifts that showed he'd been listening. I felt *seen* in a way I'd never experienced. By month two, the texts slowed. By month three, he was distant, irritated by the same things he'd once found charming. I spent the next year trying to get back to those first three weeks. I didn't realize until later: those weeks weren't a preview of the relationship. They were the bait.
+
 **The liberation:** Intensity is not intimacy. Real connection builds slowly. The rush you felt was manufactured, not matched.
 
 ---
@@ -141,6 +155,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 **The trap:** You learn that emotional access is conditional. You modify behavior to avoid the withdrawal. You're hypervigilant about what might trigger their disappearance.
 
 **What it feels like in your body:** Anxiety that won't resolve. A hole in your chest. Compulsive checking—for texts, for signs of warmth, for any indication you're back in favor. Your nervous system on high alert.
+
+> **Field Note:** I learned to read his silences like weather patterns. The short responses. The delayed texts. The way he'd look at his phone and not answer when I was right there. I never knew what triggered the withdrawals. Sometimes it was something I said. Sometimes it was nothing at all. I'd replay conversations, searching for my mistake. I'd apologize for things I hadn't done, just to end the ice age. When warmth finally returned, I was so relieved I'd forget to be angry. Until the next withdrawal. The cycle trained me to need his approval like oxygen.
 
 **The liberation:** Their withdrawal is manipulation, not mystery. You don't have to solve for their silence. Let them sit in it while you go live your life.
 
@@ -158,6 +174,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Invalidation that settles in your stomach. Frustration that can't find its target because everything gets smoothed over. A sense that your reality keeps getting erased.
 
+> **Field Note:** After he screamed at me in front of our friends, his sister pulled me aside. "You know how he gets. But you also push his buttons sometimes." She wanted us to apologize to each other. "Both of you need to move on." I hadn't done anything except exist in his bad mood. But suddenly we were "both at fault." The family peacekeeper made sure nothing was ever anyone's fault—which meant his behavior never had consequences. Her neutrality protected him while erasing me. Peacemaking without truth is just silencing.
+
 **The liberation:** Peace without truth isn't peace; it's suppression. You don't have to accept false equivalence. You're allowed to name what happened.
 
 ---
@@ -173,6 +191,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 **The trap:** You feel cared for at first. Then controlled. Then you can't tell the difference. You start reporting your whereabouts to avoid their worry.
 
 **What it feels like in your body:** Claustrophobia even in open spaces. The sense that you're being watched. Second-guessing your own decisions because they seem to always know better.
+
+> **Field Note:** She needed to know where I was at all times. "It's because I love you. I worry." At first I was touched. Then I noticed the interrogations when I came home late. The checking of my phone "just to see who you're talking to." The unexpected visits to my workplace. When I asked for space, she cried: "I'm just trying to keep you safe. You don't appreciate how much I care." The surveillance was wrapped so tightly in love language that I felt cruel for wanting privacy. Her protection was a cage with a heart painted on the bars.
 
 **The liberation:** Care that requires your compliance isn't care; it's control. Real love gives space. Real protection doesn't need to track you.
 
@@ -190,6 +210,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 
 **What it feels like in your body:** Whiplash—you were angry, now you're comforting. Confusion about who the victim is. A vague sense of having been robbed of something you can't name.
 
+> **Field Note:** Every time I confronted him about something hurtful, he collapsed. "You're right. I'm the worst. I don't deserve you. I should just leave." Suddenly I was talking him off a ledge instead of addressing his behavior. My anger evaporated into concern. By the end of the conversation, I was reassuring him that he wasn't terrible, that we'd be okay, that I loved him. The original issue—whatever he'd actually done—never got discussed. He'd absorbed my confrontation and transformed it into his crisis. My grievance became his wound. Every single time.
+
 **The liberation:** Self-criticism is not the same as accountability. They can feel bad and still be responsible for repair. Don't let their feelings about their behavior replace addressing the behavior itself.
 
 ---
@@ -205,6 +227,8 @@ The key insight: **The role serves them, not you.** It's never about who they au
 **The trap:** You internalize their criticism as help. You stop trusting your reaction to their cruelty. You believe real love requires harsh truth.
 
 **What it feels like in your body:** Stinging that goes deep. Shame that lingers. A protective flinch when they start sentences with "Can I be honest with you?"
+
+> **Field Note:** "I'm just being honest—no one else will tell you this." She said it before every wound. The dress that made me look heavy. The presentation that wasn't my best work. The way my laugh was "a little much." She delivered each truth with a sympathetic head tilt, as if she was doing me a favor. When I pushed back, she sighed: "Fine, I'll just lie to you like everyone else." Her honesty was always about my flaws, never about my strengths. Somehow her "truth-telling" only ever aimed at what would hurt most.
 
 **The liberation:** Honesty delivered with care feels different than honesty wielded as a weapon. If their "truth" consistently wounds you, it's not truth-telling. It's target practice.
 
@@ -270,145 +294,17 @@ You've probably experienced this split. You were amazing until you weren't. You 
 
 ---
 
-## Type-Specific Tactical Responses
-
-While core strategies apply to all types, nuanced responses can be more effective:
-
-### For Grandiose Narcissists
-
-**Their weakness:** Ego fragility beneath the bravado.
-
-**Don't do:** Challenge them publicly (triggers rage), compete for dominance, or try to humble them.
-
-**Do instead:** Gray rock. Be boring. They'll seek supply elsewhere. Acknowledge their statements flatly without feeding the ego: "That's interesting." Then redirect to your needs.
-
-**The body practice:** When you feel yourself shrinking around them, plant your feet. Take up space. You don't have to compete with them. Just refuse to disappear.
-
-**Exit line:** "I can see you're passionate about this. I need to go."
-
-### For Covert Narcissists
-
-**Their weakness:** Need to be seen as the good victim.
-
-**Don't do:** Try to prove they're manipulating, rescue them, or feel responsible for their pain.
-
-**Do instead:** Name impact without accusation: "When this happens, I feel drained." Hold boundaries gently but firmly. Don't over-explain. They'll use your words against you.
-
-**The body practice:** Notice when you start caretaking. Feel your own tiredness. Your depletion is information. You're allowed to stop pouring from an empty cup.
-
-**Exit line:** "I care about you. And I can't be what you need right now."
-
-### For Communal Narcissists
-
-**Their weakness:** Their generosity is transactional. Expose the ledger.
-
-**Don't do:** Accept "gifts" with strings, feel obligated by their help, or let their reputation silence your experience.
-
-**Do instead:** Decline help you didn't ask for. When they invoke the ledger ("After everything I've done..."), respond: "I'm grateful. And I still have this need."
-
-**The body practice:** Notice the tightening when they give you something. Trust that sensation. You're sensing the strings attached.
-
-**Exit line:** "Thank you for everything you've given. That doesn't change what I need."
-
-### For Malignant Narcissists
-
-**Their weakness:** None that you can safely exploit.
-
-**Don't do:** Confront alone, try to expose them, or underestimate the danger.
-
-**Do instead:** Safety first. Document everything. Build support. Exit strategically with professional guidance if needed.
-
-**The body practice:** Trust your fear. Your body is giving you accurate information about danger. Don't override it with rationalizations.
-
-**Exit line:** None verbal. Plan your exit silently and execute it.
-
----
-
-## Navigating Different Types
-
-The strategies are largely the same regardless of type:
-
-1. **Trust your body's signals** over their presentation
-2. **Notice the pattern** of self-serving behavior
-3. **Protect your sense of reality** from their interpretation
-4. **Don't try to fill the unfillable** void
-5. **Limit contact** when possible
-6. **Gray rock** when contact is necessary
-7. **Prioritize your safety** if malignant features are present
-
-The type affects the *flavor* of the manipulation, but the fundamental dynamic is consistent. **Their needs eclipse yours, always.**
-
----
-
-## The Healing Work by Type
-
-Each type creates specific wounds. Here's where to focus your healing:
-
-**After Grandiose:** Rebuild your sense of self. Reclaim your voice. Practice having opinions and taking up space. Learn to be the main character in your own life again.
-
-**After Covert:** Learn that you're allowed to have needs. Practice receiving without guilt. Release the belief that your job is to manage others' pain.
-
-**After Communal:** Rebuild trust in kindness. Practice receiving freely. Release the debt you were taught to carry.
-
-**After Cerebral:** Reclaim your intellectual confidence. Trust your mind. Stop waiting for someone else to validate your ideas.
-
-**After Somatic:** Rebuild a loving relationship with your body. Your worth isn't tied to appearance. Your body is your home, not your product.
-
-**After Malignant:** Safety first, always. Trauma processing with professional support. Learning to trust again, slowly, with evidence.
-
----
-
 ## Chapter Summary
 
 **Key Insights:**
-- Narcissism exists on a spectrum from healthy self-esteem to malignant pathology
-- The three primary types are Grandiose, Covert, and Communal. Each presents differently but shares core features
-- Narcissists play roles (Victim, Hero, Protector, Expert) that shift to serve their needs
-- Underneath all presentations is fragile self-worth, need for external regulation, and empathy deficits
-- Each type creates specific wounds that require specific healing approaches
+- Narcissists adopt twelve distinct roles (identity masks) that serve their needs in specific situations
+- Roles include: The Victim, The Hero/Savior, The Martyr, The Judge/Critic, The Child, The Guru, The Seducer/Charmer, The Ghost/Withholder, The Peacemaker, The Protector, The Saboteur, and The Truth-Teller
+- These roles shift constantly—the same person may play victim, then hero, then protector, all in one day
+- Every role serves control, supply, or perception management—never your genuine wellbeing
+- Underneath all roles is fragile self-worth, need for external regulation, and empathy deficits
 
 **The Unifying Principle:**
-Don't get lost in categorization. The question isn't "which type are they?" but "is their way of relating to me consistently self-serving?" If yes, the specific type matters less than your response.
-
----
-
-## The Type-Identification Checklist
-
-When trying to understand what you're dealing with, ask:
-
-**How do they seek attention?**
-- Openly demanding admiration → Grandiose
-- Through victimhood and suffering → Covert
-- Through displays of generosity → Communal
-- Through intellectual superiority → Cerebral
-- Through physical appearance/sexuality → Somatic
-
-**What triggers their worst behavior?**
-- Public challenge or embarrassment → Grandiose
-- Not being recognized as special-in-their-suffering → Covert
-- Not being appreciated for their "giving" → Communal
-- Being intellectually challenged or proven wrong → Cerebral
-- Threats to their attractiveness → Somatic
-
-**How do they make you feel?**
-- Constantly performing to be worthy → Grandiose
-- Responsible for their emotions → Covert
-- Eternally indebted → Communal
-- Stupid or ignorant → Cerebral
-- Physically inadequate → Somatic
-
-**How does your body respond to them?**
-- Shrinking, getting smaller → Grandiose
-- Heavy, tired, depleted → Covert
-- Tight, trapped, indebted → Communal
-- Stupid, silenced, dismissed → Cerebral
-- Evaluated, inadequate, objectified → Somatic
-
-**Why this matters:** Knowing the type helps you:
-1. Predict their triggers so you can avoid or prepare
-2. Understand their supply needs so you can stop providing
-3. Choose more effective responses, type-matched rather than generic
-4. Identify your specific wounds so you can heal them
+Don't get lost in identifying every role. The question isn't "which role are they playing?" but "does every role they play serve them at my expense?" If yes, the specific role matters less than recognizing the pattern.
 
 ---
 

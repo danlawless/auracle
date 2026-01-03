@@ -284,6 +284,8 @@ You feel stupid. Even if you're intelligent, accomplished, competent, around the
 Your voice gets smaller in intellectual discussions. You stop sharing opinions because they'll be picked apart. You defer to their "expertise" even on topics you know well.
 
 > **Field Note:** I have a family member who made me feel intellectually small for years. Every conversation became a test I was failing. He'd explain basic concepts I already understood, interrupt me to "correct" minor points, and sigh with impatience when I spoke. Over time, I stopped sharing my ideas around him. I'd rehearse things in my head first, trying to make them bulletproof. Nothing ever was. The message was clear: You're the dumb one here. I believed it for longer than I should have.
+>
+> It doesn't have to be about big ideas. With cerebral narcissists, the corrections often live in the mundane: how you load the dishwasher (wrong), your grammar in a text message (corrected), the way you pronounced a word (actually, it's...). These micro-corrections aren't about dishes or grammar. They're about establishing a hierarchy where they're always the one who knows better—and you're always the one being taught.
 
 **The specific wound:** You lose trust in your own mind. Healing requires reclaiming your intellectual confidence.
 

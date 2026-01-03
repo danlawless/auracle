@@ -353,6 +353,99 @@ This is especially useful with people who:
 
 ---
 
+## When They Respond with Sarcasm
+
+You offered clear information. Clear logistics. A straightforward answer.
+
+And they responded with sarcasm.
+
+This shift matters. It's no longer about the content. It's a bid—for emotional access, for control, for something you're not obligated to give.
+
+### What Sarcasm Often Signals
+
+Sarcasm is frequently how people:
+- Avoid vulnerability
+- Provoke reassurance
+- Pull you into over-explaining
+- Regain relevance or control
+
+You don't need to meet them there.
+
+### The Core Pattern
+
+1. You offered clear logistics
+2. They responded with sarcasm
+3. Sarcasm is an invitation to over-talk, defend, or soothe
+4. You refuse that role
+
+**That's not cold. That's mature boundary maintenance.**
+
+### Response Options
+
+When someone shifts to sarcasm after you've been clear, you have choices. From minimal to slightly more engaged:
+
+**Zero emotional labor responses:**
+
+- "Ok."
+- "Got it."
+- "Hmmm."
+- "I see."
+- "Interesting."
+- "Understood."
+
+That's it. Silence after is not avoidance—it's completion.
+
+**Neutral close (best if you want it to stop):**
+
+*"I've shared what I can. Let's leave it there."*
+
+No tone. No extra words. This signals: conversation complete.
+
+**Name the mismatch (calm, adult):**
+
+*"I'm not able to engage in sarcasm about this. I've already explained the logistics."*
+
+This does two things:
+- Names the behavior without attacking
+- Returns to facts, not feelings
+
+### The Deeper Reframe
+
+You are not failing at relating.
+
+You are outgrowing a relational style that depended on:
+- You accommodating mood
+- You translating feelings for others
+- You doing the emotional work so they don't have to
+
+When you stop over-functioning, relationships often feel awkward or thin—especially with people who never learned how to meet you as an equal adult.
+
+**That discomfort is growth, not loss.**
+
+### A Practice: When Sarcasm Hooks You
+
+When sarcasm lands and you feel the pull to explain or soothe:
+
+**Step 1:** Drop your shoulders.
+
+**Step 2:** Soften your belly.
+
+**Step 3:** Exhale longer than you inhale.
+
+**Step 4:** Say internally: *"I don't need to perform closeness to be kind."*
+
+**Step 5:** Choose your response from stillness, not from the hook.
+
+### A Mantra for This Pattern
+
+> *"I can be clear without being caretaking."*
+
+Clarity is not coldness. Brevity is not rejection. Silence is not cruelty.
+
+You're not doing anything wrong. You're just done over-explaining.
+
+---
+
 ## Field Note: The Boundary That Held
 
 She said no to hosting Thanksgiving.

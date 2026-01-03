@@ -192,6 +192,10 @@ But the healing never comes. No matter how much you give, they need more. Their 
 
 Your body starts to feel heavy around them. Tired. You dread their calls because you know you'll spend an hour hearing about their suffering while your own struggles go unmentioned. You feel guilty when good things happen to you because they're still suffering.
 
+> **Field Note:** I had a friend who called whenever she was in crisis—which was always. I'd clear my schedule, listen for hours, offer solutions she'd reject while insisting she wanted help. One day I mentioned my own difficult week. She listened for maybe thirty seconds, then pivoted: "That reminds me of something even worse that happened to me." My struggles existed only as springboards back to hers. When I finally set a boundary—"I can't talk right now"—she didn't get angry. She got wounded. "I thought you cared about me. I guess I was wrong about our friendship." The guilt lasted for days. That's their currency: not demands, but disappointment so heavy you'd do anything to relieve it.
+>
+> The covert narcissist doesn't take. They receive with such visible need that you feel cruel for having limits. They don't criticize your cooking—they look sad and say nothing, letting you marinate in uncertainty. They don't demand your time—they just seem so fragile that you offer it preemptively. The manipulation is in the vacuum they create, one you rush to fill without ever being asked.
+
 **The tell:** They're somehow always the victim, even when they've caused harm. Their sensitivity only goes one way. They're wounded easily but wound others without awareness.
 
 **Why they're dangerous:** Their vulnerability is compelling but bottomless. You can pour love into them forever and never fill the void. They drain through neediness rather than demand.
@@ -229,6 +233,10 @@ Then you notice the ledger. Every kindness gets recorded. Every gift comes with 
 
 Your body feels the trap before you can articulate it. Something tightens when they do something "nice." You feel indebted but also somehow resentful, and then guilty for the resentment because they've done so much for you.
 
+> **Field Note:** My aunt was the family saint. She organized every holiday, remembered every birthday, showed up at every hospital bedside. She also kept meticulous records. Years later, during a family dispute, I watched her recite a decade of favors: the casseroles delivered, the rides given, the checks written. "After everything I've done for this family." The ledger was always running. Every kindness was a deposit she expected to withdraw later—with interest.
+>
+> But it was subtler than that. She'd give gifts you didn't ask for, then be visibly hurt when you didn't use them correctly. She'd "help" with projects and then take over, becoming indispensable so she could later remind you how much you needed her. Once, she cleaned my entire apartment while I was at work. I came home to find everything rearranged. When I looked uncomfortable, she said, "You're welcome," with a tightness that made clear my discomfort was ingratitude. I spent the evening thanking her while feeling violated. That's the communal narcissist's trick: they give you things you can't refuse, then own you through your receipt of them.
+
 **The tell:** Their giving always seems to come back to them somehow, to their image, their need for recognition, their moral superiority. And when you don't appreciate them enough, their true entitlement emerges.
 
 **Why they're dangerous:** They're hard to identify as narcissists because their manipulation is wrapped in helpfulness. You feel guilty for ever having boundaries or complaints because "they've done so much for you."
@@ -264,6 +272,10 @@ This is the most dangerous combination. Malignant narcissists don't just need su
 Fear. Constant, low-grade fear that sometimes spikes into terror. You're always calculating, what will set them off? You've learned to read micro-expressions, shifts in tone, the quality of silence. You know when danger is coming before they say a word.
 
 Your body is never at rest around them. Your shoulders live near your ears. Your stomach is always slightly tight. You've forgotten what it feels like to relax.
+
+> **Field Note:** I knew someone whose cruelty had a particular flavor: it was almost curious. He'd say something devastating, then watch your face like he was conducting an experiment. "I just wanted to see what you'd do." When you cried, he'd seem satisfied—not apologetic, satisfied. He collected reactions the way other people collect stamps.
+>
+> He'd pit people against each other and then sit back to watch the conflict unfold. He'd share your secrets with others, then feign surprise when you were hurt: "I didn't think it was a big deal." Everything was a test, and you never knew what you were being tested for. The paranoia was constant—he suspected everyone of scheming against him, probably because he was always scheming against them. When I finally left, he told mutual friends I was "unstable." The smear campaign was immediate and thorough. That's the malignant narcissist: they don't just need supply. They need to win. And winning often means you have to lose everything.
 
 If you recognize this pattern, safety is your first priority. This is not someone to try to reason with or heal.
 
@@ -333,6 +345,12 @@ Exhausting. The energy in any room flows to them and stays there. You can't fini
 
 After time with them, you feel depleted. Empty. Like you've been performing in someone else's show instead of living your own life.
 
+> **Field Note:** At parties, she was magnetic. She'd arrive late with a story—always a story. A near-accident on the highway. A dramatic encounter with a stranger. Something that demanded the room's attention before anyone else could establish theirs. If someone else was sharing news, she'd one-up it or pivot: "Oh my God, that reminds me of something INSANE that happened to me."
+>
+> The sexual undertones were constant but never quite crossing lines. Comments about her body, about others' bodies, innuendos that made you slightly uncomfortable but felt impossible to address without seeming prudish. At a dinner once, she spent twenty minutes describing a dream about a mutual friend's husband—in explicit detail, while he sat there, while his wife sat there. The room was frozen. She thrived on the discomfort.
+>
+> When attention drifted away from her, she'd escalate. Her voice got louder. Her stories got more dramatic. Once, she faked a phone call about a "family emergency" when the conversation had moved on without her. Afterward, I realized I knew almost nothing real about her—just a series of performances designed to keep eyes on her at any cost.
+
 **The tell:** If someone seems to need ALL the attention ALL the time, and their emotional expressions feel theatrical rather than genuine, you may be encountering this pattern. The shock tactics, whether sexual, emotional, or dramatic, are supply-gathering mechanisms.
 
 **Why they're dangerous:** They drain group energy. Their constant need for attention leaves no room for others. Relationships with them feel exhausting because you're always audience to their performance.
@@ -386,6 +404,12 @@ You walk on eggshells around two threats: their sober narcissism AND their intox
 You may start using substances yourself—to cope, to join them, to numb the chaos. Or you may become rigidly sober, trying to "balance" the household.
 
 You lose the ability to trust your own perceptions. When they insist there's no problem, and function just well enough to maintain the facade, you wonder if you're overreacting.
+
+> **Field Note:** He never missed work. That was his defense, his proof: "I'm not an alcoholic—I'm functional." But functional for whom? He functioned at the office. At home, I managed the private reality: the forgotten promises, the personality shift after the third drink, the mornings I'd piece together what he'd said the night before while he claimed to remember nothing.
+>
+> The cruelty only came out when he drank. Sober, he was charming, apologetic, full of plans to cut back. Drunk, he became someone I didn't recognize—cold, contemptuous, sometimes frightening. When I confronted him, he had two responses: "I don't remember saying that" or "You're being dramatic." The next morning, flowers. Or sex. Or an elaborate breakfast. Never a real conversation.
+>
+> I started tracking his drinks, hiding bottles, counting the days between incidents. I became an investigator in my own home. When I finally said the word "alcoholic," he turned it around: "You're the one obsessed with my drinking. Maybe you should look at your own issues." That's when I understood—the alcohol wasn't the problem. It was a tool. Sober or drunk, the pattern was the same: his needs first, my reality dismissed, my concerns weaponized against me.
 
 ### The Specific Wound They Create
 

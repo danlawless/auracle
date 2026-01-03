@@ -512,6 +512,8 @@ Your throat tightens. Words get stuck. You might clear your throat frequently or
 
 Something in your stomach feels unsettled. Not quite nausea, but an unease. Your gut is processing information your conscious mind hasn't accepted yet.
 
+Sometimes this manifests as acid reflux—a burning sensation rising in your chest—or the feeling of your stomach crawling higher in your body. It's as if your digestive system is rejecting what it can't digest. And on an energetic level, that's exactly what's happening. The words, the tone, the implied meanings—your body is literally refusing to metabolize them.
+
 ### The Eye Avoidance
 
 You find yourself breaking eye contact more than usual, looking down, or looking away. Your eyes are trying to escape a gaze that feels invasive or evaluating.
@@ -635,7 +637,7 @@ When in doubt, trust the organism.
 
 **Key Insights:**
 - Your body detects control before your mind can articulate it
-- Control disguised as care produces specific bodily sensations: tension, vigilance, shame, contraction, fog, exhaustion, headaches, and the need for sleep
+- Control disguised as care produces specific bodily sensations: tension, vigilance, shame, contraction, fog, exhaustion, headaches, acid reflux, and the need for sleep
 - Healthy connection produces opposite sensations: expansion, ease, safety, clarity, energy, authentic expression
 - Sensitivity is both your vulnerability and your superpower
 - "You're too sensitive" is a sign you're perceiving accurately

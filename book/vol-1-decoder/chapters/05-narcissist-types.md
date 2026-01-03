@@ -153,7 +153,9 @@ Then slowly, you realize there's no room for you. Conversations are monologues. 
 
 Your body knows before your mind does. You feel smaller around them. Your voice gets quieter. You start sentences and don't finish them. You look to them before forming opinions. You've become an audience member in your own relationship.
 
-> **Field Note:** Watch for physical gestures that establish dominance while appearing affectionate. The head pat. The hair tousle. The way they rest their hand on top of your head like you're a child or a pet. These gestures communicate hierarchy through the body—they're literally looking down at you, touching you from above, positioning themselves as the adult in the room. When someone pats your head, your nervous system registers the power imbalance even if your conscious mind files it under "affection."
+> **Field Note:** My ex had this habit I couldn't name for years. He'd pat my head. Tousle my hair. Rest his hand on top of my head while we talked, like I was a golden retriever who'd done a good trick. In the moment, it felt almost affectionate—he was touching me, after all. But my body knew something my mind didn't. I'd feel myself shrink. My shoulders would curl inward. I was being positioned: he was literally above me, looking down, the adult in the room.
+>
+> It wasn't until much later that I understood what those gestures were doing. They established hierarchy through the body—no words needed. Every head pat said: *I'm the big one here. You're the little one.* My nervous system registered the power imbalance long before my conscious mind could name it. When I finally stopped letting him touch my head, he was furious. "It's just affection," he said. But we both knew it wasn't.
 
 **The tell:** Their superiority is on display. They don't hide it, they advertise it. If you feel like you're constantly in the presence of someone who thinks they're better than everyone, trust that perception.
 

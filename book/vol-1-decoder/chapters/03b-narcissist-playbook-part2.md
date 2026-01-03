@@ -423,6 +423,142 @@ These tactics use alcohol, drugs, or other substances as tools for control, excu
 
 ---
 
+## Field Note (Before): The Third Glass
+
+He refills her wine before she asks.
+
+"You're so tense. Just relax."
+
+She wasn't tense until he said that. Now she feels like she's failing at something.
+
+By the third glass, she's softer. Easier. The edges blur.
+
+That's when he brings up what he wants—something she said no to last week. Something that made her uncomfortable.
+
+She hears herself agreeing. Her voice sounds far away.
+
+The next morning, she doesn't remember exactly what she said yes to. But she remembers the feeling: cornered without walls.
+
+When she tries to revisit the conversation sober, he says: "You already agreed. Are you going back on your word?"
+
+---
+
+## Field Note (After): The Pause Before the Pour
+
+He reaches for the bottle.
+
+She covers her glass. "I'm good."
+
+"Come on. One more won't hurt."
+
+She notices the pressure. The familiar setup. The way serious conversations always seem to happen after she's had a few.
+
+"I said I'm good."
+
+His face flickers—Loss of control? Irritation?—then smooths into charm. "Fine. Suit yourself."
+
+Later, when he brings up the thing she said no to before, she's clear.
+
+"My answer is still no."
+
+"You're so rigid when you're sober."
+
+"I know. That's the point."
+
+---
+
+## Field Note (Before): The Morning After
+
+She wakes with a headache and a body that feels wrong.
+
+Fragmented memories: his weight, his voice—harsher than usual, demanding things he doesn't ask for sober. Her own silence.
+
+She lies still, trying to piece together what happened.
+
+When he wakes, she asks carefully: "Last night... were you—was that—"
+
+"Was I what?"
+
+"You seemed... different."
+
+He laughs. "I was drunk. You were drunk. We both had fun. Don't make it weird."
+
+She doesn't remember having fun. She remembers freezing. She remembers being too intoxicated to form the word "stop."
+
+But he's already moving on with his day, and she's left holding something she can't name.
+
+She tells herself: *It wasn't that bad. We were both drinking. He didn't mean it.*
+
+The excuses come automatically now.
+
+---
+
+## Field Note (After): Naming What Happened
+
+She's been sober for two months. Not because she had a problem—because she needed her mind clear.
+
+She's been reading. Talking to a therapist. Putting words to things that happened in the blur.
+
+One night he comes home buzzed and reaches for her the old way—insistent, not asking.
+
+She steps back. "No."
+
+"What's wrong with you lately?"
+
+"Nothing's wrong with me. I'm just not available for this."
+
+"For what? Sex with your own husband?"
+
+"For sex I didn't agree to."
+
+The room goes cold. This is new territory. She's naming something that was supposed to stay unnamed.
+
+"You're making a big deal out of nothing."
+
+"It wasn't nothing to me."
+
+She doesn't need him to agree. She just needed to say it out loud.
+
+---
+
+## Field Note (Before): The Only Time He Wants Me
+
+She notices the pattern but doesn't let herself name it.
+
+Sober, he's distant. Critical. Uninterested.
+
+After a few drinks, he's suddenly affectionate. Attentive. Wanting her.
+
+She starts to associate alcohol with being desired. The drinks become foreplay—the only bridge to connection.
+
+She finds herself pouring wine at dinner, hoping. Monitoring his consumption. Calculating when he'll want her.
+
+She doesn't notice that she's performing availability for a version of him that only exists when his inhibitions are lowered.
+
+She doesn't notice that sober intimacy has disappeared entirely.
+
+---
+
+## Field Note (After): What Sober Desire Looks Like
+
+She stopped drinking with him. Started paying attention.
+
+Weeks pass. He doesn't reach for her—not sober, anyway.
+
+She realizes: he doesn't want *her*. He wants what alcohol gives him permission to take.
+
+She sits with that. Grieves it.
+
+Then she asks herself a harder question: *Do I want someone who only wants me when he's not fully himself?*
+
+The answer takes time. But it's clear.
+
+She starts imagining what sober intimacy could feel like—with someone who wants her without chemical permission. Someone who reaches for her with clear eyes.
+
+She's never had that. But now she knows it's what she wants.
+
+---
+
 ### Tactic 40: The Substance Shield
 
 **What it looks like:** After cruel behavior while intoxicated, they claim not to remember. "I was drunk—I didn't mean it." "I don't even remember saying that." "That wasn't really me; I was wasted." The substance becomes a blanket excuse that erases accountability for anything said or done while under its influence.

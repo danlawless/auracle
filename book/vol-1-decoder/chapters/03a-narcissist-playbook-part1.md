@@ -327,7 +327,8 @@ You don't have to process everything now. Mark this page. Come back when you're 
 **Part 2 covers:**
 - Sexual & Emotional Control (Tactics 20-23)
 - Energetic & Spiritual Distortion (Tactics 24-29)
-- Post-Encounter Manipulation (Tactics 30-38)
+- Post-Encounter Manipulation (Tactics 30-39)
+- Substance-Related Manipulation (Tactics 40-43)
 
 These later tactics often appear during high-stakes moments: intimate situations, when you're questioning the relationship, or when you're trying to leave. Reading them is important, but only when you feel steady.
 

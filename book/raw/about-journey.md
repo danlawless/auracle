@@ -72,7 +72,7 @@ I immersed myself in the study of astrology with **Kaypacha**, founder of Astrol
 I lived here for about a year, breaking free from societal constraints and US cultural conditioning. I connected with transformative communities including:
 - **Arnold Poncon**, founder of WeGo Nicaragua
 - **Kelly Krezek** and **Joe McVeen**, founders of New Earth Development
-- **Luke Jensen**, founder of Vibe Up
+- **Marcus**, founder of a wellness startup
 
 This was where I learned to think freely and reconnect with natural rhythms.
 

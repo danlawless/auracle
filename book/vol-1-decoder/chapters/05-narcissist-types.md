@@ -351,6 +351,12 @@ After time with them, you feel depleted. Empty. Like you've been performing in s
 >
 > When attention drifted away from her, she'd escalate. Her voice got louder. Her stories got more dramatic. Once, she faked a phone call about a "family emergency" when the conversation had moved on without her. Afterward, I realized I knew almost nothing real about her—just a series of performances designed to keep eyes on her at any cost.
 
+> **Field Note:** At a family dinner, David wasn't getting the attention he felt entitled to. The conversation had drifted to someone else's news. First came the sulking. Then he stormed off from the table. Twenty minutes later, he appeared in the doorway with suitcases in hand, announcing he was leaving. Ellen, his wife, rushed to calm him. The room froze. All eyes on David—mission accomplished.
+>
+> The suitcases were empty. He admitted it later, almost proudly: "It was a show. I'm a performer." The whites of his eyes had been exaggerated, widened for effect, the look of someone making sure you're watching. That's the histrionic playbook: when attention drifts, escalate until it returns. The props don't need to be real. The threat doesn't need to be genuine. The performance is the point.
+
+**A note on clustering:** These types aren't mutually exclusive. Someone can be grandiose *and* histrionic—commanding the room through both superiority and drama. A cerebral narcissist might drive a modest car but find ways to mention their Harvard degree in every conversation. A somatic narcissist might wear flashy watches not just to signal status (grandiose) but to attract compliments and eyes (histrionic). The types describe *strategies for obtaining supply*—and people often use multiple strategies.
+
 **The tell:** If someone seems to need ALL the attention ALL the time, and their emotional expressions feel theatrical rather than genuine, you may be encountering this pattern. The shock tactics, whether sexual, emotional, or dramatic, are supply-gathering mechanisms.
 
 **Why they're dangerous:** They drain group energy. Their constant need for attention leaves no room for others. Relationships with them feel exhausting because you're always audience to their performance.

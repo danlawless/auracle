@@ -443,6 +443,134 @@ If someone is both narcissistic and addicted:
 
 ---
 
+## The Type-Identification Checklist
+
+When trying to understand what you're dealing with, ask:
+
+**How do they seek attention?**
+- Openly demanding admiration → Grandiose
+- Through victimhood and suffering → Covert
+- Through displays of generosity → Communal
+- Through intellectual superiority → Cerebral
+- Through physical appearance/sexuality → Somatic
+
+**What triggers their worst behavior?**
+- Public challenge or embarrassment → Grandiose
+- Not being recognized as special-in-their-suffering → Covert
+- Not being appreciated for their "giving" → Communal
+- Being intellectually challenged or proven wrong → Cerebral
+- Threats to their attractiveness → Somatic
+
+**How do they make you feel?**
+- Constantly performing to be worthy → Grandiose
+- Responsible for their emotions → Covert
+- Eternally indebted → Communal
+- Stupid or ignorant → Cerebral
+- Physically inadequate → Somatic
+
+**How does your body respond to them?**
+- Shrinking, getting smaller → Grandiose
+- Heavy, tired, depleted → Covert
+- Tight, trapped, indebted → Communal
+- Stupid, silenced, dismissed → Cerebral
+- Evaluated, inadequate, objectified → Somatic
+
+**Why this matters:** Knowing the type helps you:
+1. Predict their triggers so you can avoid or prepare
+2. Understand their supply needs so you can stop providing
+3. Choose more effective responses, type-matched rather than generic
+4. Identify your specific wounds so you can heal them
+
+---
+
+## Type-Specific Tactical Responses
+
+While core strategies apply to all types, nuanced responses can be more effective:
+
+### For Grandiose Narcissists
+
+**Their weakness:** Ego fragility beneath the bravado.
+
+**Don't do:** Challenge them publicly (triggers rage), compete for dominance, or try to humble them.
+
+**Do instead:** Gray rock. Be boring. They'll seek supply elsewhere. Acknowledge their statements flatly without feeding the ego: "That's interesting." Then redirect to your needs.
+
+**The body practice:** When you feel yourself shrinking around them, plant your feet. Take up space. You don't have to compete with them. Just refuse to disappear.
+
+**Exit line:** "I can see you're passionate about this. I need to go."
+
+### For Covert Narcissists
+
+**Their weakness:** Need to be seen as the good victim.
+
+**Don't do:** Try to prove they're manipulating, rescue them, or feel responsible for their pain.
+
+**Do instead:** Name impact without accusation: "When this happens, I feel drained." Hold boundaries gently but firmly. Don't over-explain. They'll use your words against you.
+
+**The body practice:** Notice when you start caretaking. Feel your own tiredness. Your depletion is information. You're allowed to stop pouring from an empty cup.
+
+**Exit line:** "I care about you. And I can't be what you need right now."
+
+### For Communal Narcissists
+
+**Their weakness:** Their generosity is transactional. Expose the ledger.
+
+**Don't do:** Accept "gifts" with strings, feel obligated by their help, or let their reputation silence your experience.
+
+**Do instead:** Decline help you didn't ask for. When they invoke the ledger ("After everything I've done..."), respond: "I'm grateful. And I still have this need."
+
+**The body practice:** Notice the tightening when they give you something. Trust that sensation. You're sensing the strings attached.
+
+**Exit line:** "Thank you for everything you've given. That doesn't change what I need."
+
+### For Malignant Narcissists
+
+**Their weakness:** None that you can safely exploit.
+
+**Don't do:** Confront alone, try to expose them, or underestimate the danger.
+
+**Do instead:** Safety first. Document everything. Build support. Exit strategically with professional guidance if needed.
+
+**The body practice:** Trust your fear. Your body is giving you accurate information about danger. Don't override it with rationalizations.
+
+**Exit line:** None verbal. Plan your exit silently and execute it.
+
+---
+
+## Navigating Different Types
+
+The strategies are largely the same regardless of type:
+
+1. **Trust your body's signals** over their presentation
+2. **Notice the pattern** of self-serving behavior
+3. **Protect your sense of reality** from their interpretation
+4. **Don't try to fill the unfillable** void
+5. **Limit contact** when possible
+6. **Gray rock** when contact is necessary
+7. **Prioritize your safety** if malignant features are present
+
+The type affects the *flavor* of the manipulation, but the fundamental dynamic is consistent. **Their needs eclipse yours, always.**
+
+---
+
+## The Healing Work by Type
+
+Each type creates specific wounds. Here's where to focus your healing:
+
+**After Grandiose:** Rebuild your sense of self. Reclaim your voice. Practice having opinions and taking up space. Learn to be the main character in your own life again.
+
+**After Covert:** Learn that you're allowed to have needs. Practice receiving without guilt. Release the belief that your job is to manage others' pain.
+
+**After Communal:** Rebuild trust in kindness. Practice receiving freely. Release the debt you were taught to carry.
+
+**After Cerebral:** Reclaim your intellectual confidence. Trust your mind. Stop waiting for someone else to validate your ideas.
+
+**After Somatic:** Rebuild a loving relationship with your body. Your worth isn't tied to appearance. Your body is your home, not your product.
+
+**After Malignant:** Safety first, always. Trauma processing with professional support. Learning to trust again, slowly, with evidence.
+
+---
+
 ## Why Types Matter Less Than You Think
 
 You might be tempted to diagnose the narcissist in your life. To figure out exactly which type they are. To find the perfect label.

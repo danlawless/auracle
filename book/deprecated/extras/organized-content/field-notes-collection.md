@@ -250,6 +250,30 @@ My sister wasn't cruel. She was adapting. Children don't betray parents — they
 
 ---
 
+### Field Note: The Open Door
+
+At dinner, I met a couple for the first time. Later, in the kitchen, she confessed something quietly.
+
+"My father drank. I was always embarrassed to have anyone over. I never knew what they'd walk into."
+
+She paused.
+
+"Now I love having visitors. I want people in my home all the time."
+
+She didn't frame it as healing. She didn't call it transformation. She just named the pattern: What was once shame became invitation.
+
+**What's happening:**
+
+The nervous system doesn't forget deprivation. But sometimes it doesn't repeat it either. Sometimes it overcorrects toward abundance.
+
+The girl who couldn't have friends over became the woman whose door is always open.
+
+Not because she healed the wound. Because she built a life around never recreating it.
+
+**One-Line Truth:** Some people heal by finally having what they couldn't give themselves as children.
+
+---
+
 ### Field Note: The Letter to the Court
 
 She remembers only two things from her childhood. This is one:
@@ -372,6 +396,7 @@ Just the assumption: "We're connected, so what's yours is partially mine."
 | The Check She Ran | Vol 4 | Ch 18 |
 | Mediator Childhood | Vol 5 | Ch 3 |
 | Ridicule as Bonding | Vol 5 | Ch 12 |
+| The Open Door | Vol 5 | Ch 5 or Ch 6 |
 | Letter to Court | Vol 5 | Ch 10 |
 | The Boat Departure | Vol 5 | Ch 3 or Ch 4 |
 | Business Partner Promises | Vol 7 | Business chapter |

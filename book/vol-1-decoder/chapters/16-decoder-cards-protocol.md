@@ -127,6 +127,53 @@ For moments when you need immediate regulation:
 
 ---
 
+## Body-Based Grounding
+
+When quick techniques aren't enough, the body itself becomes the anchor. These practices use gravity, earth contact, and natural movement to reset the nervous system at a deeper level.
+
+**Earth Contact:**
+- Go barefoot on grass, soil, or sand
+- Stand still and feel the ground receiving your weight
+- Let the earth hold you—you don't have to hold yourself
+- Even 10 minutes of barefoot contact shifts the nervous system
+
+**Laying Flat:**
+- Lie on the ground—floor, grass, earth
+- Let your full weight release into the surface
+- Feel gravity doing its work
+- The body remembers: ground is safety
+
+**Heel Grounding with Vagal Release:**
+- Lie flat on your back
+- Pin your heels to the earth, pressing them gently down
+- Rock your body slowly, just the pelvis and lower back lifting slightly
+- Bob gently—small movements, steady rhythm
+- This stimulates the vagus nerve and releases stored tension
+
+**Weighted Pressure:**
+- A heavy blanket across your body
+- 10-15 pounds is often ideal
+- The weight signals safety to the nervous system
+- Deep pressure calms like nothing else can
+
+**Shaking:**
+- Stand and let your body shake—start with your hands, arms, then whole body
+- Let it be ugly and uncontrolled
+- Animals shake after threat passes—they discharge the stress
+- You can too—this completes the survival cycle
+- Shake for 2-3 minutes until the energy moves through
+
+**Dancing:**
+- Put on music and let your body move without plan
+- Not performance—just movement
+- Let the body lead, not the mind
+- Dancing discharges activation and returns you to presence
+- Even 5 minutes can reset everything
+
+**Why these work:** The body stores what the mind can't process. These practices don't require thinking—they use weight, contact, and movement to speak directly to the nervous system. When you can't think your way to calm, move your way there.
+
+---
+
 ## The 5-Second Response Protocol
 
 When hit with a tactic and caught off guard:

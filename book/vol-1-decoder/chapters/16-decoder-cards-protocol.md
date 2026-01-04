@@ -264,6 +264,57 @@ ________________________________
 
 ---
 
+## Diagnostic Pattern Map: When Intimacy Establishes Control
+
+While individual decoder cards help you recognize specific tactics, sometimes you need to assess a relationship as a whole. This diagnostic map helps you step back and see the larger pattern—especially useful in new relationships where control hasn't yet become obvious.
+
+**How to Use This Map:**
+If 3 or more patterns appear early (within weeks) or cluster together, pause. If your body reacts before your mind does, trust that signal.
+
+**Entry Patterns (How They Arrive):**
+- **Accelerated Intimacy**—Immediate closeness, rapid physical/emotional access
+- **Unasked Assistance**—Fixing, organizing without being asked
+- **Fast Social Integration**—Early introductions creating social cost for withdrawal
+
+**Control Mechanisms (How It Operates):**
+- **Micro-Critique of Identity**—Comments on clothing, tone, choices; framed as "helpful"
+- **Narrative Reframing**—"We were friends," retroactive redefinition of events
+- **Boundary Ambiguity**—Assumptions instead of questions, offense when boundaries appear
+
+**Psychological Hooks (Why It Works):**
+- **Conditional Safety**—Warmth when compliant, withdrawal when independent
+- **Moral Positioning**—"I'm just trying to protect you"
+- **Speed Over Choice**—Things happen faster than you can process
+
+**Impact Indicators (How You Know):**
+- **Somatic Discrepancy**—Your body tightens while your mind explains
+- **Self-Minimization**—"It's not that bad," "Maybe I'm overreacting"
+- **Identity Compression**—Less spontaneity, more monitoring
+
+**Differentiation Matrix:**
+
+| Connection | Control |
+|------------|---------|
+| Asks | Assumes |
+| Paces | Rushes |
+| Expands agency | Narrows options |
+| Responds to boundaries | Punishes boundaries |
+| Encourages autonomy | Requires compliance |
+
+**Your Power Move:**
+
+If a relationship:
+- Enters quickly
+- Modifies you subtly
+- Redefines consent retroactively
+- And makes leaving feel costly
+
+It is not intimacy. It is control wearing relational language.
+
+> *"Where did my body know before my mind caught up?"*
+
+---
+
 ## The Liberation
 
 Every pattern you can name is a pattern that loses power over you.

@@ -147,6 +147,8 @@ This is why they can seem so different in different moments. When regulated, the
 
 This is not a conscious choice. It's a window problem.
 
+> **Field Note:** My mom's boyfriend had been losing friends lately. One after another. Then we were at the track and a horse went down on the field. Dead. He made some crass comment—flippant, like it didn't matter. Someone called him out. And he practically flipped the table. Yelling. Standing up so fast the chair scraped. Announced he was leaving and everyone could pay for themselves. In front of everyone. I sat there frozen, watching the whole restaurant turn toward us. Later I understood: he wasn't angry about being called out. He was drowning in grief he couldn't name. The crass comment was armor. The explosion was what happened when someone tried to remove it. He couldn't say *"I'm overwhelmed by death right now."* So he made everyone else uncomfortable instead. His pain became our problem. His regulation became our job.
+
 ---
 
 ## What It Looks Like in Real Life

@@ -36,7 +36,7 @@ Her healing journey led her beyond traditional therapy—through shadow work, ne
 
 Today, Jennifer lives in Costa Rica surrounded by community, where she offers aura readings, integration sessions, and spiritual guidance through Light Field Institute. Her books—*The Narcissism Decoder*, *The Bridge*, and *Sovereignty*—were written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
-**Connect:** lightfield.institute | @jae.lawless | lightfieldpress@gmail.com
+**Connect:** lightfield.institute | @jae.lawless | lightwavesenergy@gmail.com
 
 ---
 

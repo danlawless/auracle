@@ -350,9 +350,9 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 - [ ] A) Already present
 - [ ] B) Needs to be added
 - [ ] C) Unsure
-- [x] D) CUSTOM: Include content warnings as brief as possible if needed
+- [x] D) CUSTOM: Remove all content warnings
 
-**Reasoning:** Author clarified preference for minimal content warnings. Where necessary for reader safety, include brief warnings without extensive preamble. Balance reader autonomy with appropriate care for trauma-sensitive material.
+**Reasoning:** Author decided to remove all content warnings from the manuscript. This reflects author preference for treating readers as capable adults who can navigate difficult material.
 
 ---
 
@@ -451,7 +451,7 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 1. Mother-Father balance: **Expand Father Wound section** for balance
 
 ### Verification Decisions (Morgan):
-1. Content warnings: **Brief warnings where needed** (minimal, not excessive)
+1. Content warnings: **Remove all** content warnings
 2. Fact-check corrections: **Custom directives** (see Q7 details above)
 3. Cross-references: **Verification needed** — systematic audit required
 4. Page references: **Remove all** for now
@@ -463,7 +463,7 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 
 ### Outstanding Items:
 ✅ **RESOLVED:** Decoder card count—playbook contains **52 tactical elements** (author confirmed)
-✅ **RESOLVED:** Content warnings—include brief warnings where needed (author clarified)
+✅ **RESOLVED:** Content warnings—**remove all** (author decision)
 ⚠️ **ACTION:** Cross-reference audit needed after chapter renumbering
 ⚠️ **ACTION:** Gloria Steinem quote attribution needs verification
 
@@ -502,7 +502,7 @@ Author responses integrated from GitHub Issues #220 (Diana) and #221 (Morgan).
 
 **Key editorial decisions from Morgan's questions:**
 - Publication path: **Quality-first (6-8 weeks)** with all 18 medium-priority items
-- Content warnings: **Brief warnings where needed** (minimal, not excessive)
+- Content warnings: **Remove all** content warnings
 - Glossary voice: **Clinical passive** (author's custom preference)
 - Em-dash reduction: **50% reduction** approved
 - Cross-references: **Systematic audit required**
@@ -523,5 +523,5 @@ Author clarifications received on content warnings and decoder card count.
 
 *Before Phase 2, prioritize:*
 1. Cross-reference audit (critical after chapter renumbering)
-2. Discussion with author regarding content warning removal
+2. Remove all content warnings from manuscript
 3. Begin implementation of confirmed structural changes

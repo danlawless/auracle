@@ -618,26 +618,6 @@ Often the need is to express, not to be received by them. You can meet that need
 
 ---
 
-## Chapter Summary
-
-**Core Principles:**
-1. You can't win the argument—stop trying
-2. Reaction is supply—starve the dynamic
-3. You don't owe explanation—brief is better
-4. Exits are power—leaving is strategy
-
-**Key Strategies:**
-- Spiritual aikido: redirect, don't combat
-- Close conversations on your terms
-- Gray Rock when you must interact
-- Somatic and social cues for protection
-- Describe behavior to authorities, not labels
-
-**Remember:**
-These scripts aren't magic. They won't transform the narcissist. They won't guarantee good outcomes. What they do is give you options—ways to respond that don't drain you, don't feed them, and don't abandon yourself.
-
----
-
 ## Advanced Tactics
 
 ### The Strategic Silence
@@ -688,6 +668,32 @@ Before any planned interaction with a narcissist:
 - [ ] Who can I debrief with after?
 
 Preparation is protection. Going in blind is asking to be destabilized.
+
+---
+
+## Chapter Summary
+
+**Core Principles:**
+1. You can't win the argument—stop trying
+2. Reaction is supply—starve the dynamic
+3. You don't owe explanation—brief is better
+4. Exits are power—leaving is strategy
+
+**Key Strategies:**
+- Spiritual aikido: redirect, don't combat
+- Close conversations on your terms
+- Gray Rock when you must interact
+- Somatic and social cues for protection
+- Describe behavior to authorities, not labels
+
+**Advanced Tactics:**
+- Strategic silence to expose their need for reaction
+- Question redirects to shift labor back to them
+- Documentation discipline for reality anchoring
+- Pre-interaction checklist for preparation
+
+**Remember:**
+These scripts aren't magic. They won't transform the narcissist. They won't guarantee good outcomes. What they do is give you options—ways to respond that don't drain you, don't feed them, and don't abandon yourself.
 
 ---
 

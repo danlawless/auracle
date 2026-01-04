@@ -1,4 +1,4 @@
-# Chapter 17: Energetic Remapping ,  Recovery Tools
+# Chapter 17: Energetic Remapping
 
 ## Rewiring Your Nervous System for Freedom
 
@@ -108,7 +108,7 @@ Instead of: *Analyzing whether they were right*
 Try: "That was comparison as control."
 
 This does two things:
-1. **Interrupts the loop**, You give your brain something to do besides replay
+1. **Interrupts the loop:** You give your brain something to do besides replay
 2. **Consolidates learning**—Each translation strengthens your pattern recognition
 
 *Every time you name the pattern instead of reliving it, your nervous system learns a new route home.*
@@ -126,7 +126,7 @@ Understanding how shame works helps you release it.
 **Guilt** says: "I did something bad."
 **Shame** says: "I am bad."
 
-Guilt can be useful, it alerts us when we've violated our own values and motivates repair.
+Guilt can be useful—it alerts us when we've violated our own values and motivates repair.
 
 Shame is rarely useful. It collapses our identity into our worst moment. It paralyzes rather than motivates.
 
@@ -166,12 +166,6 @@ If you're feeling bad because someone deposited shame in you, that shame isn't y
 Imagine someone who loves you unconditionally observing the situation that triggered shame. What would they see? Would they condemn you? Or would they see someone who was manipulated?
 
 Let the witness's perspective inform your own.
-
----
-
-## Protecting Yourself in Required Interactions
-
-When you must interact with a narcissist due to co-parenting, work, family events, or other circumstances, specific communication strategies can help protect your energy. For the Gray Rock communication strategy and detailed scripts for managing these interactions, see Chapter 18: Practical Responses & Scripts.
 
 ---
 
@@ -247,22 +241,6 @@ Think of it like adjusting to cold water: you wade in slowly rather than jumping
 
 ---
 
-## Quick Grounding When Activated
-
-For moments when you need immediate regulation, use the grounding techniques from Chapter 16: Decoder Cards, Emergency Protocol. The key techniques include:
-
-- **The 3-3-3 Rule** — Name three things you see, hear, and move three body parts
-- **The Squeeze-Release** — Clench all muscles tight, then release completely
-- **The Butterfly Hug** — Cross arms over chest, hands on shoulders, tap alternating sides
-- **The Cold Reset** — Hold ice cubes to interrupt the activation loop
-- **The Vocal Release** — Sigh, hum, or vocalize to engage the vagus nerve
-
-*For detailed instructions on each technique, see Chapter 16's Quick Grounding Techniques section.*
-
-These same techniques work both in crisis moments (Chapter 16) and as part of your ongoing recovery practice (this chapter). The difference is context: Chapter 16 is for when you're caught off guard in the moment; here, you're building a daily practice of nervous system regulation.
-
----
-
 ## Building a Daily Practice
 
 Healing isn't a single event, it's a process that unfolds over time. A daily practice supports this unfolding.
@@ -304,6 +282,8 @@ When you're activated and need immediate regulation (memorize this):
 5. **CHOOSE:** What do you need? (Exit, support, rest, water, movement)
 
 Practice this daily when calm so it becomes automatic when triggered.
+
+*For additional grounding techniques (3-3-3 Rule, Squeeze-Release, Butterfly Hug, Cold Reset, Vocal Release), see Chapter 16: Decoder Cards — Emergency Protocol.*
 
 ---
 
@@ -374,7 +354,9 @@ You deserve support. Seeking it is strength, not weakness.
 2. **Breaking Shame:** Return it, differentiate, witness
 3. **Detach with Love:** Release without erasing
 4. **Somatic Work:** Orienting, pendulation, resourcing, titration
-5. **Practical Communication:** For required interactions, see Chapter 18
+5. **Emergency Reset:** STOP → BREATHE → GROUND → NAME → CHOOSE
+
+*For practical communication scripts when you must interact with a narcissist, see Chapter 18: Practical Responses & Scripts.*
 
 **The Promise:**
 Every time you complete a stress cycle, your nervous system recalibrates. Every time you name the pattern, you weaken its grip. You are literally building new neural pathways, routes home that don't pass through hypervigilance and shame.

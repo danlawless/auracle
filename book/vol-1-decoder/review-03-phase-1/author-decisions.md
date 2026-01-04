@@ -350,11 +350,9 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 - [ ] A) Already present
 - [ ] B) Needs to be added
 - [ ] C) Unsure
-- [x] D) CUSTOM: Remove all content warnings for all chapters
+- [x] D) CUSTOM: Include content warnings as brief as possible if needed
 
-**Reasoning:** Author made an unexpected decision—requesting removal of ALL content warnings throughout the book. This differs from the standard options provided and reflects author preference for treating readers as capable adults.
-
-**⚠️ EDITORIAL NOTE:** This is a significant departure from standard practice for trauma-focused content. Consider discussing implications with author before implementing.
+**Reasoning:** Author clarified preference for minimal content warnings. Where necessary for reader safety, include brief warnings without extensive preamble. Balance reader autonomy with appropriate care for trauma-sensitive material.
 
 ---
 
@@ -453,18 +451,19 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 1. Mother-Father balance: **Expand Father Wound section** for balance
 
 ### Verification Decisions (Morgan):
-1. Content warnings: **CUSTOM — Remove all content warnings** ⚠️
+1. Content warnings: **Brief warnings where needed** (minimal, not excessive)
 2. Fact-check corrections: **Custom directives** (see Q7 details above)
 3. Cross-references: **Verification needed** — systematic audit required
 4. Page references: **Remove all** for now
+5. Decoder card count: **52 tactical elements** confirmed
 
 ### Polish Preferences (Morgan):
 1. Glossary voice: **Clinical passive** (custom choice)
 2. Em-dash reduction: **Reduce by 50%** before publication
 
 ### Outstanding Items:
-⚠️ **FLAG:** Decoder card count discrepancy—clarify whether playbook contains 38 or 50 tactical elements
-⚠️ **FLAG:** Content warning removal—significant departure from standard trauma-content practice, requires discussion
+✅ **RESOLVED:** Decoder card count—playbook contains **52 tactical elements** (author confirmed)
+✅ **RESOLVED:** Content warnings—include brief warnings where needed (author clarified)
 ⚠️ **ACTION:** Cross-reference audit needed after chapter renumbering
 ⚠️ **ACTION:** Gloria Steinem quote attribution needs verification
 
@@ -503,15 +502,15 @@ Author responses integrated from GitHub Issues #220 (Diana) and #221 (Morgan).
 
 **Key editorial decisions from Morgan's questions:**
 - Publication path: **Quality-first (6-8 weeks)** with all 18 medium-priority items
-- Content warnings: **Remove all** (author's custom decision—requires discussion)
+- Content warnings: **Brief warnings where needed** (minimal, not excessive)
 - Glossary voice: **Clinical passive** (author's custom preference)
 - Em-dash reduction: **50% reduction** approved
 - Cross-references: **Systematic audit required**
 - Page references: **Remove all** for now
+- Decoder card count: **52 tactical elements** (resolved)
 
-**⚠️ Items Requiring Discussion Before Implementation:**
-1. Content warning removal—significant departure from trauma-content standard practice
-2. Decoder card count discrepancy (38 vs 50 tactical elements)
+**✅ All Phase 1 Items Resolved**
+Author clarifications received on content warnings and decoder card count.
 
 ---
 

@@ -252,7 +252,7 @@ My sister wasn't cruel. She was adapting. Children don't betray parents — they
 
 ### Field Note: The Open Door
 
-At dinner, I met a couple for the first time. Later, in the kitchen, she confessed something quietly.
+At dinner, I met a couple for the first time. We'd only just been introduced. Later, in the kitchen, she confessed something quietly.
 
 "My father drank. I was always embarrassed to have anyone over. I never knew what they'd walk into."
 
@@ -260,17 +260,19 @@ She paused.
 
 "Now I love having visitors. I want people in my home all the time."
 
-She didn't frame it as healing. She didn't call it transformation. She just named the pattern: What was once shame became invitation.
+I noticed the intimacy of the confession—how quickly she offered something so personal. We'd barely met.
+
+But that's the pattern too, isn't it? The child who had to hide everything sometimes becomes the adult who hides nothing. The shame that once sealed the door now swings it wide open—to guests, to strangers, to anyone willing to enter.
 
 **What's happening:**
 
 The nervous system doesn't forget deprivation. But sometimes it doesn't repeat it either. Sometimes it overcorrects toward abundance.
 
-The girl who couldn't have friends over became the woman whose door is always open.
+The girl who couldn't have friends over became the woman whose door is always open. The child who kept the family secret became the woman who shares early—testing, perhaps, whether you'll stay once you know.
 
-Not because she healed the wound. Because she built a life around never recreating it.
+Not all oversharing is dysfunction. Sometimes it's the body saying: *I'm done hiding. See me now, before I invest.*
 
-**One-Line Truth:** Some people heal by finally having what they couldn't give themselves as children.
+**One-Line Truth:** Some people heal by finally having what they couldn't give themselves as children. Others heal by finally saying what they couldn't.
 
 ---
 

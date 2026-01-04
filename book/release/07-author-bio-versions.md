@@ -2,63 +2,41 @@
 
 ## Jennifer Brooke Lawless
 
-Use these versions across platforms. Customize as needed.
+Use these versions across platforms. Each volume has its own back-matter bio that evolves with the reader's journey.
 
 ---
 
-## Short Bio (100 words)
+## Volume-Specific Bios (Back of Book)
 
-*For: Amazon KDP, back of book, podcast introductions*
+Each volume has a dedicated author bio that matches where the reader is:
 
-Jennifer Brooke Lawless holds a Bachelor of Science in Psychology and a Master of Science in Mental Health Counseling. Her clinical work ranged from a locked psychiatric ward in Miami to in-home family therapy, individual sessions, and couples counseling. But her own healing journey led her beyond the therapy room. After surviving narcissistic relationships and navigating a profound spiritual awakening, she traveled globally—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—seeking community and transformation. She now lives in Costa Rica, where she co-hosts transformative retreats at Zunya and trains in aura therapy through Escola da Aura. She wrote *The Narcissism Decoder* and *The Bridge* because she needed these books—and couldn't find them.
-
----
-
-## Medium Bio (200 words)
-
-*For: Gumroad, Substack About page, guest post bylines*
-
-Jennifer Brooke Lawless holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work spanned from a locked psychiatric ward in Miami to in-home family systems therapy, individual sessions, and couples counseling. Now she works at the intersection of traditional psychology and spiritual healing. Her journey from feardom to freedom began when she finally named the patterns that had kept her small—narcissistic relationships, approval-seeking, chronic self-doubt, and the belief that her sensitivity was a flaw rather than a gift.
-
-After the death of her father, Jennifer experienced a powerful Kundalini awakening that opened her to new levels of consciousness. What followed was three years of global travel—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—searching for the spiritual community and healing modalities that would become her life's work.
-
-Today, Jennifer lives in Costa Rica surrounded by community, where she co-hosts transformative retreats at Zunya and trains in aura therapy through Escola da Aura. She is particularly passionate about helping emotionally sensitive adults move from survival to sovereign connection.
-
-She wrote *The Narcissism Decoder* and *The Bridge* because she needed them—and when she couldn't find the book that bridged insight and embodiment, she created it.
-
-**Connect:** [Newsletter] | [Instagram] | lightfieldpress@gmail.com
+| Volume | Theme | Bio Focus | Location |
+|--------|-------|-----------|----------|
+| **1** | Recognition | *Surviving & naming patterns* | `vol-1-decoder/back-matter-about-author.md` |
+| **2** | Healing | *Crossing from insight to embodiment* | `vol-2-bridge/back-matter-about-author.md` |
+| **3** | Sovereignty | *Living from embodied authority* | `vol-3-sovereignty/back-matter-about-author.md` |
 
 ---
 
-## Long Bio (400 words)
+## Short Bio (75 words)
 
-*For: Website, press kit, speaking engagements*
+*For: Amazon KDP, podcast introductions, event programs*
 
-Jennifer Brooke Lawless is a healer, writer, and event producer dedicated to helping emotionally sensitive adults recognize manipulation, heal attachment wounds, and build relationships that regulate rather than activate.
+Jennifer Brooke Lawless holds degrees in Psychology (Boston University) and Mental Health Counseling (Nova Southeastern University). Her clinical work ranged from psychiatric units to family therapy and couples counseling. After surviving narcissistic relationships and discovering that insight alone doesn't heal, she wrote the books she needed but couldn't find. She lives in Costa Rica, where she offers aura readings and healing work through Light Field Institute.
 
-She holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University. Her clinical work ranged from the locked psychiatric ward in Miami to in-home family systems therapy, individual sessions, and couples counseling. But her own healing required more than insight—it required a complete rewiring of how she related to herself, others, and the world. Her journey from feardom to freedom became the foundation for everything she now teaches.
+---
 
-### The Turning Point
+## Medium Bio (150 words)
 
-After her father's passing, Jennifer experienced a Kundalini awakening that cracked open her consciousness. What followed was three years of global travel—Cyprus, Greece, Nicaragua, Costa Rica, Mexico—in search of healing, community, and her soul's purpose. She wrote over 200 pages communicating with her father through clairaudience. She studied astrology with Kaypacha. She trained in shadow work through the Transitions program with Diego Dosal, a visionary leader from Mexican high society.
+*For: Gumroad, Substack, guest post bylines*
 
-Through this journey, she had to face her own patterns: passive-aggression, approval-seeking, shrinking in narcissistic relationships, years of depression and anxiety, and the mortally wounded self-esteem that came from a lifetime of emotional enmeshment.
+Jennifer Brooke Lawless is a mental health counselor, writer, and survivor of narcissistic abuse. She holds a Bachelor of Science in Psychology from Boston University and a Master of Science in Mental Health Counseling from Nova Southeastern University, with clinical experience spanning psychiatric care, family systems therapy, and couples work.
 
-### The Work Today
+Her healing journey led her beyond traditional therapy—through shadow work, nervous system regulation, and the slow practice of building secure attachment from the inside out. She discovered that naming patterns isn't enough; the body needs to learn something new.
 
-Jennifer now lives in Costa Rica, where she co-hosts transformative retreats at Zunya—immersive experiences combining energy healing, meditation, aura readings, and community. She continues her training in aura therapy through Escola da Aura under the guidance of Angelina Ataíde, a Portuguese spiritual teacher, and her daily practice includes Qi Gong, Tai Chi, Reiki, and meditation.
+Today, Jennifer lives in Costa Rica surrounded by community, where she offers aura readings, integration sessions, and spiritual guidance through Light Field Institute. Her books—*The Narcissism Decoder*, *The Bridge*, and *Sovereignty*—were written for the person she used to be: confused, self-doubting, and desperately needing someone to explain what was happening.
 
-Her books—*The Narcissism Decoder* and *The Bridge*—were born from lived experience, not clinical distance. She wrote them because she needed them. Because insight alone hadn't healed her. Because she couldn't find the book that bridged understanding and embodiment—so she created it.
-
-### Philosophy
-
-Jennifer believes that naming patterns breaks their power. That secure attachment is practiced, not found. That sensitivity is not a weakness but a survival adaptation that can be redirected. And that healing happens through consistent, gentle practice—not more analysis.
-
-### Connect
-
-- **Newsletter:** [Substack link]
-- **Aura Readings:** calendly.com/lightfield
-- **Events:** lightfieldpress@gmail.com
+**Connect:** lightfield.institute | @jae.lawless | lightfieldpress@gmail.com
 
 ---
 
@@ -66,7 +44,7 @@ Jennifer believes that naming patterns breaks their power. That secure attachmen
 
 *For: Social media bios, Twitter/X*
 
-Author of The Narcissism Decoder & The Bridge | BS Psychology, MS Mental Health Counseling | Helping you recognize control & build secure attachment | Costa Rica 🌴
+Author of The Narcissism Decoder trilogy | MS Mental Health Counseling | Helping sensitive adults recognize control & build secure attachment | Costa Rica
 
 ---
 
@@ -74,14 +52,15 @@ Author of The Narcissism Decoder & The Bridge | BS Psychology, MS Mental Health 
 
 *For: Quick podcast introductions*
 
-Jennifer Brooke Lawless is the author of *The Narcissism Decoder* and *The Bridge*. With degrees in Psychology and Mental Health Counseling—and clinical experience from psychiatric wards to family therapy—she helps emotionally sensitive adults move from survival to sovereign connection. She lives in Costa Rica.
+Jennifer Brooke Lawless is the author of *The Narcissism Decoder*, *The Bridge*, and *Sovereignty*. With degrees in Psychology and Mental Health Counseling—and clinical experience from psychiatric wards to family therapy—she helps emotionally sensitive adults move from survival to sovereign connection. She lives in Costa Rica.
 
 ---
 
 ## Notes for Customization
 
-- Replace [Newsletter], [Instagram], [Substack link] with actual links
-- For platforms requiring shorter bios, use the one-line version
-- For more personal contexts, emphasize the lived experience; for professional contexts, lead with credentials
-- The Costa Rica detail humanizes and differentiates—use it
+- **Volume-specific contexts:** Use the back-matter bio from the relevant volume
+- **Platform-agnostic contexts:** Use the Short or Medium bio above
+- **Professional contexts:** Lead with credentials
+- **Personal contexts:** Emphasize lived experience
+- The Costa Rica detail humanizes and differentiates—keep it
 

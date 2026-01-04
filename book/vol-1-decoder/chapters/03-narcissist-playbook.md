@@ -138,6 +138,18 @@ Physical proximity becomes a threat even without actual violence.
 
 ---
 
+> **PAUSE AND BREATHE**
+>
+> You've just read 8 tactics of control. This is heavy material. Before continuing:
+> - Take three slow breaths (inhale for 4, exhale for 6)
+> - Notice where you're holding tension in your body
+> - Ground yourself: feel your feet, feel the surface beneath you
+> - Remind yourself: You're safe right now, reading words that name what happened
+>
+> Continue when you're ready.
+
+---
+
 ## Category B: Validation & Devaluation Tactics
 
 These tactics keep you seeking their approval, raising you up just enough to drop you again.
@@ -285,6 +297,19 @@ This often appears with trivial demands that become tests of compliance. They de
 **How it hooks you:** You laugh along to avoid being the buzzkill. You doubt whether you're being too sensitive. You let comments slide because "it was just a joke." Meanwhile, the message lands: you're ridiculous, mockable, not to be taken seriously.
 
 **Your power move:** "Jokes are funny for everyone, not just the person telling them. That one wasn't funny to me."
+
+---
+
+> **PAUSE AND INTEGRATE**
+>
+> You've now covered 19 tactics—over half the playbook. This is a lot to process.
+>
+> **Quick Tool:** If you're feeling activated, try this:
+> - Place both hands on your chest
+> - Say aloud or silently: "I name what happened. Naming gives me power."
+> - Take 3 deep breaths
+>
+> You don't have to finish this chapter in one sitting. The book will wait.
 
 ---
 
@@ -460,6 +485,19 @@ Withdraw emotional labor. That is the REAL boundary.
 *Crisis Text Line: Text HOME to 741741*
 
 > *"Making you responsible for their life is the ultimate control. You cannot save someone by sacrificing yourself."*
+
+---
+
+> **PAUSE AND GROUND**
+>
+> You've just read about some of the heaviest tactics—spiritual manipulation, suicide threats, and using your exhaustion against you.
+>
+> **First Aid:** If this content activated crisis memories:
+> - You are safe right now
+> - These are words on a page about patterns—you are not in that situation right now
+> - If you need support: Crisis Text Line: Text HOME to 741741
+>
+> Take all the time you need. The final section covers post-encounter tactics—what happens after.
 
 ---
 

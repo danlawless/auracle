@@ -72,7 +72,7 @@ Chapter 11: Romantic Manipulation — How Control Adapts to Intimacy ...........
 
 Chapter 12: Manipulation Across Contexts — Beyond Romance: Recognizing Patterns Everywhere .................... [pg. XX]
 
-Chapter 13: Diagnostic Questions — Questions That Make Narcissists Reveal Themselves .................... [pg. XX]
+Chapter 13: The Exposure Questions — Questions That Make Narcissists Reveal Themselves .................... [pg. XX]
 
 **Part IV: Decoder Tools**
 

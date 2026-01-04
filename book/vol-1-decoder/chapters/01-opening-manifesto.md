@@ -62,14 +62,7 @@ There's an old fable you already know, dating at least to medieval times, though
 
 This isn't just a children's story. It's a survival manual.
 
-The patterns in this book are wolves. Every single one of them. But they never arrive wearing wolf skin. They arrive wearing:
-
-- The wool of **care**: "I'm only doing this because I love you."
-- The wool of **protection**: "I'm just trying to keep you safe."
-- The wool of **honesty**: "I'm the only one who will tell you the truth."
-- The wool of **concern**: "I worry about you when I don't hear from you."
-- The wool of **help**: "Let me handle that for you."
-- The wool of **wisdom**: "I know what's best."
+The patterns in this book are wolves. Every single one of them. But they never arrive wearing wolf skin. They arrive wearing the same disguises we just named—concern, love, honesty, protection—woven into wool so soft you invite them closer.
 
 The sheep's clothing makes you lower your guard. It makes you feel grateful. It makes you invite the wolf closer.
 
@@ -355,30 +348,28 @@ This book contains 19 chapters organized into these key areas:
 
 **Part I: Recognition**
 - **The Energetic Signature** (Chapter 2): How to recognize control in your body before your mind catches up
-- **The Narcissist Playbook** (Chapter 3): 38 specific tactics, named and decoded, with your power moves for each
+- **The Narcissist Playbook** (Chapters 3A & 3B): 38 specific tactics, named and decoded, with your power moves for each
 
-**Part II: Understanding**
+**Part II: Understanding Origins**
 - **Trauma Bonds** (Chapter 4): The neuroscience of why you got hooked and why leaving is so hard
 - **Understanding Narcissist Types** (Chapter 5): The different presentations of narcissism
 - **The Masks They Wear** (Chapter 6): 12 identity roles narcissists adopt
-
-**Part III: Family Systems**
 - **Family Roles & Triangulation** (Chapter 7): When manipulation is your origin story
 - **Parental Wounds** (Chapter 8): The mother wound and father wound
 - **Breaking Free from Family Systems** (Chapter 9): Siblings, shame, and sovereignty
 - **Understanding Your Childhood Patterns** (Chapter 10): How early experiences shape adult vulnerability
 
-**Part IV: Patterns in Context**
+**Part III: Patterns in Context**
 - **Romantic Manipulation** (Chapter 11): How control adapts to intimacy
 - **Manipulation Across Contexts** (Chapter 12): Recognizing patterns in work, friendships, and other arenas
-
-**Part V: Exposure & Decoder Tools**
 - **The Exposure Questions** (Chapter 13): Questions that make narcissists reveal themselves
+
+**Part IV: Decoder Tools**
 - **Decoder Cards — Core Patterns** (Chapter 14): Quick-reference guides for real-time recognition
 - **Decoder Cards — Advanced Patterns** (Chapter 15): Recognizing sophisticated control tactics
 - **Decoder Cards — Emergency Protocol** (Chapter 16): When you need clarity now
 
-**Part VI: Recovery & Response**
+**Part V: Recovery & Response**
 - **Energetic Remapping** (Chapter 17): Practical tools for rewiring your nervous system
 - **Practical Responses & Scripts** (Chapter 18): Scripts and strategies for real-life situations
 - **Moving Forward** (Chapter 19): How to close chapters and begin new ones

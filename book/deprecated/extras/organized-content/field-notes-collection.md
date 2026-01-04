@@ -288,6 +288,8 @@ The arm grab wasn't about the boat. It was about the pattern—how "protection" 
 
 She won't remember wanting a snack. She'll remember the grip.
 
+And later, when someone says *"I'm just trying to keep you safe"*—her body will tense before her mind knows why. Because she learned early: safety meant pain.
+
 **One-Line Decoder:** When safety requires harshness, it's not about safety.
 
 ---

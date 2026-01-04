@@ -4,19 +4,6 @@
 
 ---
 
-> **Content Warning**
->
-> This chapter contains descriptions of controlling and abusive behaviors including physical intimidation, threats of violence, sexual coercion, and psychological manipulation. These descriptions are provided to help you recognize and name harmful patterns. If you're currently in an unsafe situation, please prioritize your physical safety.
->
-> **Crisis Resources:**
-> - National Domestic Violence Hotline: 1-800-799-7233
-> - National Suicide Prevention Lifeline: 988
-> - Crisis Text Line: Text HOME to 741741
->
-> Take breaks as needed. Your wellbeing matters more than finishing the chapter.
-
----
-
 ## What These Cards Are For
 
 When you're in the middle of manipulation, your thinking brain goes offline. You freeze. You doubt. You can't access what you know.

@@ -1,18 +1,3 @@
-> **⚠️ IMPORTANT SAFETY NOTE — READ THIS FIRST**
->
-> This chapter contains grounding and recovery techniques for processing trauma. If you are currently in crisis, in immediate danger, or experiencing thoughts of self-harm, please reach out for professional support first.
->
-> **Crisis Resources:**
-> - **National Domestic Violence Hotline:** 1-800-799-7233 (TTY: 1-800-787-3224)
-> - **National Suicide Prevention Lifeline:** 988
-> - **Crisis Text Line:** Text HOME to 741741
->
-> **If you're in crisis or immediate danger, skip to Appendix A resources NOW.**
->
-> These practices support healing but don't replace professional help. Go at your own pace. It's okay to put this down and return when you're ready.
-
----
-
 # Chapter 17: Energetic Remapping ,  Recovery Tools
 
 ## Rewiring Your Nervous System for Freedom

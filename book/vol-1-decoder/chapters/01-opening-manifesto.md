@@ -72,6 +72,8 @@ Not by looking for fangs. By the time you see those, it's too late. But by recog
 
 The wolf in sheep's clothing doesn't want you to read this book. It survives by staying unnamed. By the end of these pages, you'll be able to name it every time.
 
+This metaphor is so central to everything that follows that it forms our **master decoder card**—Card 0—which you'll find in Chapter 14. When in doubt, return to this question: *Is this wool or is this fur?*
+
 ### The Erosion Effect
 
 Control accumulates gradually, one small incident at a time. One comment, one look, one "joke" might be nothing. But fifty of them? Five hundred? They build a structure inside your psyche, an invisible architecture that shapes how you see yourself.

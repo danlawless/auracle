@@ -1,0 +1,284 @@
+# Managing Editor Questions — Vol. 1 Round 3 Review
+
+**From:** Morgan (The Conductor - Managing Editor)
+**Date:** January 4, 2026
+**Full Review:** `/book/vol-1-decoder/review-03/managing-editor-review.md`
+
+---
+
+## Context
+
+You have done exceptional work implementing feedback from Rounds 1 and 2. Major structural changes are complete:
+- Chapter 18 successfully moved to Chapter 10
+- Chapter 5 split into Types (Ch 5) and Roles (Ch 6)
+- Chapter 3 split into 3A and 3B
+- Critical fixes implemented (gender pronouns, content warnings, sovereignty statement revision)
+- Front matter significantly improved (TOC, copyright, crisis path, diversity note)
+
+The manuscript is approaching publication readiness. I need your input on remaining decisions to finalize the revision plan.
+
+---
+
+## Outstanding Decisions from Previous Rounds
+
+### Decision 1: Part Structure Clarification
+**Issue:** Your Table of Contents shows 5 parts, but Round 2 materials referenced 4 parts.
+
+**Current Structure (per TOC):**
+- Part I: Recognition (Ch 1-3B)
+- Part II: Understanding Origins (Ch 4-10)
+- Part III: Patterns in Context (Ch 11-13)
+- Part IV: Decoder Tools (Ch 14-16)
+- Part V: Recovery & Response (Ch 17-19)
+
+**Question:** Is this 5-part structure your final intended structure, or should it be consolidated?
+
+**Why this matters:** Part structure affects pause files, chapter transitions, and reader navigation.
+
+**Your decision needed:**
+- [ ] Confirm 5-part structure (update pause files to match)
+- [ ] Revise to 4-part structure (combining Parts III & IV?)
+- [ ] Other structure preference (please specify)
+
+---
+
+### Decision 2: Chapter 10 Placement Satisfaction
+**Change Made:** Former Chapter 18 (Childhood Patterns) is now Chapter 10, positioned after Chapter 9 (Breaking Free from Family Systems).
+
+**Original Recommendation:** Round 1 suggested after Chapter 8 (Parental Wounds).
+
+**Question:** Are you satisfied with the current placement after Chapter 9, or would you prefer the original suggestion after Chapter 8?
+
+**Why this matters:** This determines the narrative flow from parental wounds → childhood patterns → romantic manipulation.
+
+**Your decision needed:**
+- [ ] Keep current placement after Chapter 9
+- [ ] Move to after Chapter 8 as originally suggested
+- [ ] Other placement preference
+
+---
+
+### Decision 3: Mother Wound vs. Father Wound Balance
+**Issue from Round 2:** Chapter 8 has 2:1 ratio (Mother Wound: 211 lines, Father Wound: 119 lines).
+
+**Question:** Is this imbalance intentional based on your clinical experience, or should the Father Wound section be expanded?
+
+**Why this matters:** Readers with narcissistic fathers may feel their experience is secondary. But if your clinical/research experience justifies the current balance, we can acknowledge it rather than force artificial parity.
+
+**Your decision needed:**
+- [ ] Intentional - reflects clinical reality (consider brief author note acknowledging)
+- [ ] Should be balanced - willing to expand Father Wound section (~90 additional lines)
+- [ ] Other approach (please specify)
+
+---
+
+## Conflicting Feedback Needing Resolution
+
+### Conflict A: Glossary Voice Conversion
+**Round 2 Recommendation:** Convert all glossary definitions from third-person clinical to second-person active voice for consistency with book's voice.
+
+**Current State:** Partially converted (some definitions use "you," others remain clinical/passive).
+
+**Trade-off:**
+- **Pro conversion:** Voice consistency throughout book
+- **Con conversion:** Glossaries are typically clinical reference tools; some readers may prefer traditional format
+
+**Question:** How important is full glossary voice conversion before publication?
+
+**Your decision needed:**
+- [ ] Critical for consistency - complete before publication
+- [ ] Nice to have but not required
+- [ ] Keep current mixed approach (reference tool can differ from main text)
+- [ ] Defer to second edition
+
+---
+
+### Conflict B: Em-Dash Frequency
+**Round 2 Pattern Report:** ~200+ em-dashes create rhythmic monotony.
+
+**Your Voice:** Em-dashes are part of your distinctive style—creating pause, emphasis, and the conversational intimacy readers connect with.
+
+**Trade-off:**
+- **Reduce:** Varies rhythm, highlights specific em-dashes for impact
+- **Keep:** Maintains your authentic voice and writing style
+
+**Question:** How do you want to handle em-dash frequency?
+
+**Your decision needed:**
+- [ ] Important - reduce by 50% for rhythmic variety
+- [ ] Not a priority - intentional style choice
+- [ ] Compromise - reduce in most repetitive sections only
+- [ ] Defer to second edition
+
+---
+
+## Priority Clarification
+
+### Question A: Medium Priority Items Selection
+**Round 2 identified 18 medium-priority items** (style polish, formatting, optional enhancements). Completing all would extend timeline by 4-6 weeks.
+
+**Examples:**
+- Convert "we" to "you" in 25+ instances
+- Activate 45 passive voice constructions
+- Add chapter transition paragraphs
+- Add "Pause and Integrate" pages between parts
+- Expand Chapter 11 healthy romance section
+- Standardize hyphenation
+- Create comprehensive index
+
+**Question:** Which medium-priority items matter most to you for first edition?
+
+**Your decision needed:**
+- [ ] All 18 items (quality-first approach, extends timeline)
+- [ ] Selected critical items only: _________________ (specify)
+- [ ] None - focus on verification and critical/high items only
+- [ ] Defer all to second edition
+
+---
+
+### Question B: Publication Timeline
+**Question:** What's your target publication timeframe? This determines which items to prioritize.
+
+**Options:**
+- **Fast Track (1-2 weeks):** Critical verification only (cross-references, fact-checks, content warnings)
+- **Standard (3-4 weeks):** Critical + remaining high-priority items + select medium items
+- **Quality-First (6-8 weeks):** Comprehensive polish including optional enhancements
+
+**Your decision needed:**
+- [ ] Fast Track - get it published (1-2 weeks)
+- [ ] Standard timeline - balanced approach (3-4 weeks)
+- [ ] Quality-First - comprehensive polish (6-8 weeks)
+- [ ] Flexible - quality matters more than timeline
+
+---
+
+## Publication Readiness Questions
+
+### Verification Question 1: Content Warnings Complete?
+**Round 2 noted:** Tactic 4 (Physical Intimidation) in Chapter 3A contains graphic domestic violence content.
+
+**Question:** Does Chapter 3A have content warning at the beginning before Tactic 4?
+
+**Your answer:**
+- [ ] Yes, already present
+- [ ] No, needs to be added
+- [ ] Unsure, please verify during next pass
+
+---
+
+### Verification Question 2: Fact-Check Corrections Applied?
+**Round 2 required 4 corrections in Chapter 1:**
+1. 72-hour neurochemistry claim (add "guideline, not science" disclaimer)
+2. Frog boiling water (label explicitly as metaphor)
+3. Gloria Steinem quote (change to "popularized by" not originated)
+4. "Ancient fable" (remove "ancient" or acknowledge uncertainty)
+
+**Question:** Have these corrections been applied?
+
+**Your answer:**
+- [ ] Yes, all 4 applied
+- [ ] Some applied: _________________ (specify which)
+- [ ] None applied yet
+- [ ] Unsure, please verify during next pass
+
+---
+
+### Verification Question 3: Cross-References Updated?
+**Context:** Major renumbering from structural changes:
+- Chapter 18 → Chapter 10
+- Old Chapter 5 → Chapters 5 & 6
+- Chapters 6-17 → Chapters 7-18
+
+**Question:** Have cross-references been systematically updated throughout manuscript?
+
+**Your answer:**
+- [ ] Yes, comprehensive update completed
+- [ ] Partial update, needs full verification pass
+- [ ] No systematic update yet - please complete
+- [ ] Unsure, recommend full verification pass
+
+---
+
+## Overall Direction Questions
+
+### Question 1: Satisfaction with Structural Changes
+**Major changes implemented:**
+- Chapter 18 relocated to Part II as Chapter 10
+- Chapter 5 split into two focused chapters
+- Chapter 3 split for reader pacing
+- 5-part structure (vs. original 4-part)
+
+**Question:** Are you satisfied with these structural changes, or do you have second thoughts about any of them?
+
+**Your feedback:**
+- [ ] Very satisfied - these changes strengthen the manuscript
+- [ ] Mostly satisfied - minor concerns: _________________
+- [ ] Want to revisit specific change: _________________
+- [ ] Other thoughts: _________________
+
+---
+
+### Question 2: First Edition vs. Second Edition Trade-offs
+**Philosophy question:** Some items can be deferred to a second edition. Others should be addressed before any readers see the book.
+
+**Question:** How do you think about first edition publication?
+
+**Your philosophy:**
+- [ ] "Ship it" mentality - get it to readers, iterate based on feedback
+- [ ] "Quality gate" approach - address all high-priority items before publishing
+- [ ] Hybrid - critical items now, polish items can wait
+- [ ] Other approach: _________________
+
+---
+
+### Question 3: Most Important Feedback from Rounds 1-3
+**Reflection question:** Across three rounds of editorial feedback, what has been most valuable to you?
+
+**Your thoughts:** *(open response)*
+
+---
+
+### Question 4: Biggest Remaining Concern
+**Gut-check question:** What's your biggest concern or uncertainty about the manuscript as it currently stands?
+
+**Your concern:** *(open response)*
+
+---
+
+## Next Steps
+
+Once I receive your answers to these questions, I will:
+
+1. **Create focused revision plan** based on your priorities and timeline
+2. **Execute verification pass** for critical consistency items
+3. **Coordinate with specialist editors** on any remaining work
+4. **Prepare publication roadmap** with clear milestones
+
+**Timeline estimate after your input:**
+- If Fast Track: 1-2 weeks to publication-ready
+- If Standard: 3-4 weeks to publication-ready
+- If Quality-First: 6-8 weeks to publication-ready
+
+---
+
+## Summary Statistics
+
+**Progress Since Round 2:**
+- ✅ 15 critical/high priority items COMPLETED
+- ⚠️ 7 items requiring VERIFICATION
+- ❌ 2 items NOT COMPLETED (glossary voice, em-dashes)
+- 🤔 18 medium-priority items awaiting YOUR DECISION
+
+**Current Assessment:** Manuscript is 85-90% publication-ready. Remaining work is primarily verification and polish.
+
+---
+
+**Please respond to this issue with your answers.** You can:
+- Check the boxes inline
+- Number your responses
+- Request a 30-minute call to discuss
+- Ask clarifying questions on any item
+
+Thank you for your exceptional responsiveness to editorial feedback. This manuscript has evolved beautifully through this collaborative process.
+
+— Morgan (The Conductor)

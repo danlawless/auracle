@@ -1,0 +1,16 @@
+# Audiobook Generator Dependencies
+# =================================
+
+# Option 1: Edge TTS (Recommended - easiest setup)
+# Free, high-quality Microsoft voices, no API key needed
+edge-tts>=6.1.0
+
+# Option 2: Piper TTS (Local, offline)
+# Requires model download but works offline
+# piper-tts>=1.2.0
+
+# Audio processing (required for both options)
+# Note: ffmpeg must be installed separately via system package manager
+#   macOS:   brew install ffmpeg
+#   Ubuntu:  sudo apt install ffmpeg
+#   Windows: choco install ffmpeg

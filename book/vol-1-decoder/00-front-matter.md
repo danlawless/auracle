@@ -46,9 +46,7 @@ Chapter 1: The Opening Manifesto — What This Book Is Really About ............
 
 Chapter 2: The Energetic Signature — How to Recognize Control Before Your Mind Catches Up .................... [pg. XX]
 
-Chapter 3A: The Narcissist Playbook Part 1 — Tactics 1-19: Control, Validation & Psychological Manipulation .................... [pg. XX]
-
-Chapter 3B: The Narcissist Playbook Part 2 — Tactics 20-38: Sexual, Energetic & Post-Encounter Manipulation .................... [pg. XX]
+Chapter 3: The Narcissist Playbook — 38 Tactics of Control, Named and Decoded .................... [pg. XX]
 
 **Part II: Understanding Origins**
 
@@ -257,21 +255,37 @@ Chapter 8 (Parental Wounds) and Chapter 11 (Romantic Manipulation) include notes
 
 While examples in this book often center heterosexual dynamics, these patterns appear in all relationship types and affect people of all genders, sexual orientations, races, abilities, and backgrounds. LGBTQ+ survivors, BIPOC survivors, disabled survivors, and others face unique barriers and dynamics not always explicitly addressed here.
 
-Some readers may not have access to resources this book assumes: the ability to leave immediately, financial independence, safe housing, or affordable therapy. If you are currently unable to leave due to finances, disability, immigration status, custody concerns, or other constraints, please know: **survival strategies while remaining in an unsafe situation are valid.** This book is not about judging your timeline—it's about giving you tools for whatever phase you're in.
+**On race and intersectionality:** This book doesn't fully address how race, class, disability, and other identities intersect with narcissistic abuse. BIPOC survivors may face additional gaslighting about their experiences, may encounter racial dynamics within abusive relationships, and may find mainstream resources less culturally attuned. These intersections deserve dedicated treatment beyond what this book provides. Your experiences at these intersections are real and valid.
 
-This book primarily draws from Western, individualistic psychological frameworks. Other cultural frameworks for understanding family, healing, and relationships exist and may be more relevant to your experience. Collectivist cultures where family estrangement carries severe social consequences, religious communities where divorce is stigmatized, and communities where cultural communication norms differ all deserve acknowledgment. Adapt these concepts to fit your cultural context.
+Some readers may not have access to resources this book assumes: the ability to leave immediately, financial independence, safe housing, or affordable therapy. If you are currently unable to leave due to finances, disability, immigration status, custody concerns, or other constraints, please know: **survival strategies while remaining in an unsafe situation are valid.** This book is not about judging your timeline—it's about giving you tools for whatever phase you're in. "Emotional distance while maintaining physical presence" can be a valid protection strategy when leaving isn't possible.
+
+This book speaks from a Western, individualist perspective. Readers in collectivist cultures may need to adapt "leaving" strategies to "boundary-within-family" approaches. Religious communities where divorce is stigmatized, cultures where family estrangement carries severe social consequences, and communities where communication norms differ all deserve acknowledgment. Adapt these concepts to fit your cultural context.
 
 What remains universal: your right to safety, your right to be treated with respect, and your right to trust your own perception.
 
 ---
 
-## A Note on Diagnosis
+## A Note on Diagnosis and Terminology
 
 This book does not diagnose anyone with Narcissistic Personality Disorder (NPD). That's a clinical diagnosis that requires professional evaluation.
 
-What this book *does* do is describe behavioral patterns—patterns that cause real harm regardless of their clinical origin. You don't need a diagnosis to protect yourself from behavior that hurts you. You don't need permission to set boundaries. You have the right to trust what your body knows, even while seeking professional support.
+What this book *does* do is describe behavioral patterns—patterns that cause real harm regardless of their clinical origin. When we say "narcissist" in these pages, we mean someone who consistently exhibits these patterns, not necessarily someone with a clinical diagnosis.
+
+**Important distinction:** "Narcissist" here refers to patterns of behavior, not a fixed identity. People can change. Some people with narcissistic traits do genuine healing work. The purpose of naming patterns is not to condemn individuals but to recognize dynamics so you can protect yourself.
+
+You don't need a diagnosis to protect yourself from behavior that hurts you. You don't need permission to set boundaries. You have the right to trust what your body knows, even while seeking professional support.
 
 If behavior causes harm, you have the right to name it, address it, and remove yourself from it.
+
+---
+
+## A Note on Access and Privilege
+
+Healing resources vary by access. Some readers will have private therapists, supportive families, and financial independence. Others will navigate recovery with none of these.
+
+This book provides tools that don't require financial privilege—many techniques need only your attention and time: grounding practices, journaling, body awareness, and the 3-3-3 rule cost nothing. Support groups (online and in-person), crisis hotlines, and community resources exist for those without private therapy access.
+
+If you don't have the resources to leave right now, that doesn't mean you can't begin healing. You can build internal strength while navigating external constraints. Your timeline is valid.
 
 ---
 

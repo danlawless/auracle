@@ -25,6 +25,19 @@ This chapter is about learning to trust that signal.
 
 ---
 
+> **FIRST AID: If This Chapter Activates You**
+>
+> Reading about body signals can itself trigger body signals. If you feel flooded, groundless, or activated:
+>
+> 1. **Ground yourself:** Press your feet into the floor. Feel the surface beneath you.
+> 2. **Breathe:** Inhale for 4 counts, hold for 4, exhale for 6. Repeat three times.
+> 3. **Orient:** Look around the room. Name five things you can see.
+> 4. **Remember:** You are safe right now, reading words on a page.
+>
+> **A note on dissociation:** If you struggle to feel your body's signals—if there's numbness, blankness, or a sense of being "above" your body—that's a trauma response too. Your body learned to go quiet to survive. That disconnection is information, not a failure. Some readers may need to rebuild body awareness gradually, perhaps with professional support. Be patient with yourself.
+
+---
+
 ## The Body as Early Warning System
 
 Humans are wired for survival. Long before we developed language, our ancestors survived by reading subtle cues in their environment and in each other. We still have this capacity, we've just been trained to ignore it.
@@ -400,6 +413,14 @@ The controlling response is: "You're too sensitive."
 One takes responsibility. The other deflects it back onto you.
 
 From now on, when someone tells you you're too sensitive, hear it as confirmation that you're perceiving accurately.
+
+### A Note for Neurodivergent Readers
+
+If you're neurodivergent—autistic, ADHD, or otherwise neurologically different—your sensitivity is real and valid. The "too sensitive" label may have been weaponized against traits that are part of who you are, not deficits to overcome.
+
+Neurodivergent people often experience sensory processing differences that can look like "over-sensitivity" to neurotypical observers. This is not a flaw—it's a different way of being in the world. The challenge is distinguishing between: (1) your natural neurodivergent sensitivity, which is part of your authentic self, and (2) the weaponization of that sensitivity by controlling people.
+
+Both can be true at once. You can be naturally more sensitive AND have that sensitivity exploited. Your neurodivergence doesn't invalidate your perception of harm—if anything, it may make you more attuned to subtle dynamics others miss.
 
 ### Variations of the Same Dismissal
 

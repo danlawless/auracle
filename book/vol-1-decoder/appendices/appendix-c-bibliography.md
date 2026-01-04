@@ -149,6 +149,9 @@ The foundational text on IFS, a therapy model that works with different "parts" 
 
 ## Neuroscience and Psychology
 
+**Winnicott, D.W. "Ego Distortion in Terms of True and False Self." In *The Maturational Processes and the Facilitating Environment: Studies in the Theory of Emotional Development* (1965)**
+Foundational work on the development of the "False Self"—a defensive psychological structure that replaces authentic identity. Essential for understanding how narcissistic defenses form and operate.
+
 **Porges, Stephen W. *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation* (2011)**
 Technical but influential work on how the nervous system responds to safety and threat. Explains the body-level responses to trauma.
 

@@ -10,6 +10,8 @@ You'll find resources here for both crisis moments and long-term recovery. Save 
 
 ## Crisis Resources
 
+**Important:** Crisis lines change. Please verify current numbers at your local crisis center or RAINN.org for U.S. resources. For international resources, if any number is unreachable, consult HotPeachPages.net for the most current directory.
+
 ### Immediate Help (24/7)
 
 **If you are in immediate danger, call 911 or your local emergency number.**

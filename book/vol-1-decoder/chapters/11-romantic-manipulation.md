@@ -1,7 +1,5 @@
 # Chapter 11: Romantic Manipulation
 
-> **Content Warning:** This chapter contains detailed discussions of domestic violence, sexual coercion, physical intimidation, trauma bonding, and suicide threats. If you are currently experiencing intimate partner violence or are in an unsafe relationship, please ensure you have support available before continuing. Crisis resources are available in Appendix A, including the National Domestic Violence Hotline: 1-800-799-7233.
-
 ## How Control Adapts to Intimacy
 
 ---

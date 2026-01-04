@@ -97,6 +97,24 @@ A flinch when sharing good news. The impulse to minimize your accomplishments so
 
 Suffocated. Obligated. A sense of owing them attention you don't want to give.
 
+---
+
+### Field Note: The Friendship You Can't Name
+
+You're at brunch. She's been talking for forty-five minutes.
+
+You nod. You ask questions. You watch her face light up as she tells another story about herself. At some point you stop listening and start wondering: When was the last time she asked about your life?
+
+You think back. The promotion you mentioned that got a "that's nice" before she pivoted to her own news. The breakup you were going through while she texted about a guy who wasn't texting back. The grief you carried quietly because somehow her smaller disappointments always felt more urgent.
+
+You love her. You've known her forever.
+
+But sitting here, watching her talk, you feel something clarify: *This isn't mutual. It never was.*
+
+The realization doesn't feel like anger. It feels like exhaustion finally allowed to name itself.
+
+---
+
 ### Why We Stay in Bad Friendships
 
 - History ("We've known each other forever")
@@ -174,6 +192,28 @@ Then slowly: confused. Something is off but you can't name it. When you try, the
 
 A split. Part of you feels expanded by the practices. Part of you is contracting around something wrong. Your intuition speaks, but you've been trained to distrust it. You feel crazy for questioning what everyone else seems to accept.
 
+---
+
+### Field Note: The Doubt You Were Taught to Shame
+
+The teacher says something that lands wrong. You feel it in your stomach—a quick contraction.
+
+You look around. Everyone else is nodding. Some are crying, moved. The woman next to you whispers "so powerful."
+
+You wonder what's wrong with you.
+
+Later, in private, you mention your hesitation to another student. She tilts her head with compassion you didn't ask for. "That sounds like resistance," she says gently. "Have you considered that this might be exactly what your ego is trying to avoid?"
+
+You nod. You apologize for your doubt.
+
+But driving home, you feel it again—that same stomach clench. Something off. Something hidden beneath the incense and the sacred framing.
+
+You don't say anything to anyone else. You've already learned: questioning feels like betrayal. Your intuition has been rebranded as spiritual inadequacy.
+
+The doubt stays. You just stop trusting it.
+
+---
+
 ### Protecting Yourself in Spiritual Settings
 
 - **Trust your body over their words.** If something feels wrong, it is wrong—regardless of how it's framed.
@@ -231,6 +271,26 @@ Confusion. You came for help and you're getting worse—but are you? Maybe you'r
 
 You feel dependent on them. Seeing them is the only time you feel okay. In between sessions, you spiral. This isn't healing—this is the creation of need.
 
+---
+
+### Field Note: When the Healer Needs You to Need Them
+
+You came to her broken. She held space so well.
+
+For months, you felt seen in ways you'd never been seen. She understood things no one else did. She reflected your patterns back to you with such precision.
+
+Then—slowly—the sessions started feeling different.
+
+She shares her own story now. More than feels appropriate. You find yourself holding space for *her*. When you mention progress, she reminds you of how far you still have to go. When you talk about ending treatment, she expresses concern: "I'm not sure you're ready."
+
+You leave each session feeling worse than when you arrived, but somehow convinced you need to come back.
+
+One day you realize: you've stopped trusting your own judgment entirely. Every decision runs through "What would she say?"
+
+You went seeking help. You found a new kind of dependence. And the bill comes monthly.
+
+---
+
 ### What to Do
 
 - **Trust your discomfort.** Good professionals welcome your questions.
@@ -285,6 +345,26 @@ Narcissists often thrive in groups—spiritual communities, workplaces, social c
 - Maintain relationships outside the narcissist's awareness
 - Trust the exhaustion you feel after interactions
 - You don't have to engage with everyone equally
+
+---
+
+### Field Note: Watching It Happen to Someone Else
+
+The book club meets monthly. You've noticed her—the one who always steers conversation back to herself. Who interrupts to share a tangentially related story. Who compliments you in ways that feel like assessments.
+
+Tonight, there's a new member. Young. Eager. A little unsure.
+
+You watch it happen in real time.
+
+The established one zeroes in. "Oh my god, I *love* your perspective. You and I think so alike." She asks probing questions—where do you work, where do you live, are you seeing anyone? The new one answers, flattered by the attention.
+
+Later, over wine, you hear the established one telling another member: "She seems nice, but I'm not sure she's really getting the books. Kind of surface-level, you know?"
+
+You say nothing. You're not sure why. Maybe because naming it would make you the difficult one. Maybe because you're not entirely sure you're seeing what you think you're seeing.
+
+But driving home, the exhaustion sits heavy in your chest. You've been watching this woman operate for months. And you've just seen her acquire a new target.
+
+---
 
 ### When Group Leaders Are Narcissistic
 
@@ -344,6 +424,28 @@ The power imbalance makes this particularly difficult:
 
 Dread on Sunday nights. Anxiety before meetings. Second-guessing yourself constantly. Feeling like you're failing even when you're performing. Exhaustion that doesn't make sense given the actual work.
 
+---
+
+### Field Note: Sunday Night Dread
+
+It's 7 PM on Sunday. You're fine. You were fine all weekend.
+
+Then your stomach drops. Tomorrow exists.
+
+You run through the week ahead. The meeting where he'll interrupt your presentation. The email chain where your suggestion will be ignored, then rephrased by him and praised. The one-on-one where the goalposts will move again.
+
+You did everything right last week. You still left Friday feeling like a failure. You can't explain it to your partner—"He didn't *do* anything specific"—but your body knows. Your body has been keeping score.
+
+You open your laptop to get ahead. Maybe if you're more prepared. Maybe if you're better.
+
+The knot in your stomach doesn't care about your preparation. It knows what your mind hasn't admitted yet: the problem isn't your performance. The problem is the game is rigged.
+
+You close the laptop. You pour a glass of wine. You tell yourself it's not that bad.
+
+Your body doesn't believe you.
+
+---
+
 ### Protecting Yourself at Work
 
 - Document everything—emails, agreements, your contributions
@@ -397,6 +499,28 @@ Narcissistic patterns have found new expression in digital spaces.
 - Having others surveil you
 - Hacking your accounts
 
+---
+
+### Field Note: The Read Receipt at 2 AM
+
+You post something innocuous. A sunset photo. Nothing meaningful.
+
+Twenty minutes later, the text arrives: "Nice view. Who were you with?"
+
+Your stomach flips. You weren't with anyone. But now you're explaining yourself—again—to someone who shouldn't need an explanation.
+
+Later, you notice he knows things. That you liked your coworker's photo. That you were active at 1 AM. That you haven't posted in three days. He doesn't say *how* he knows. He just knows.
+
+You start to feel watched. Because you are.
+
+You think about changing your privacy settings, but he'll notice. He'll ask why. And then there'll be a conversation you don't have the energy for.
+
+So you perform. You post things that won't trigger questions. You avoid liking certain accounts. You become a curated version of yourself, managed for an audience of one.
+
+This isn't connection. This is surveillance dressed as love.
+
+---
+
 ### Protecting Yourself Digitally
 
 - Review your privacy settings
@@ -431,6 +555,26 @@ Narcissism isn't gendered, but it can show up differently when women target othe
 - When you speak directly, you're "harsh"
 - Tone-policing to keep you accommodating
 - Reframing your clarity as aggression
+
+---
+
+### Field Note: The Compliment That Wasn't
+
+She hugs you at the party. "You look *so* good! Have you lost weight?"
+
+You haven't lost weight. You've actually gained a few pounds. But you say thank you anyway, already wondering what she means.
+
+Later, you overhear her talking to someone else about how "brave" it is that you wear sleeveless dresses. The word "brave" hangs in the air, doing its real work.
+
+When you mention this to a mutual friend, she waves it away. "Oh, that's just how she is. She doesn't mean anything by it."
+
+But your body remembers. Your body has been cataloging all the "compliments" that left you feeling smaller. The observations framed as concern. The questions that were really judgments. The sweetness that somehow always leaves you second-guessing yourself.
+
+This is the hardest kind to name—because when you try, *you* become the problem. Too sensitive. Reading into things. Making drama.
+
+But you know what you felt. And you trust it.
+
+---
 
 ### What This Teaches You
 

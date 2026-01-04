@@ -268,6 +268,30 @@ Years later, she realizes: that wasn't loyalty. That was forced allegiance dress
 
 ---
 
+### Field Note: The Boat Departure
+
+The boat engine starts. The child slips from her seat—she wants a snack from below deck.
+
+Her father's hand shoots out, grabs her arm, yanks her back into place. Not gently. Not with explanation. Just force.
+
+"Sit. Down."
+
+She sits. Eyes forward. Body stiff.
+
+The boat pulls away. Everyone watches the horizon. No one mentions what just happened.
+
+But something registered:
+
+*His need for control found permission in safety. Her body learned: wanting something costs.*
+
+The arm grab wasn't about the boat. It was about the pattern—how "protection" becomes cover for something harder. How roughness gets justified by context. How a child learns her desires create inconvenience that gets corrected with force.
+
+She won't remember wanting a snack. She'll remember the grip.
+
+**One-Line Decoder:** When safety requires harshness, it's not about safety.
+
+---
+
 ## Volume 7: The Return — Field Notes
 
 ### Field Note: The Business Partner Who Couldn't Leave
@@ -347,6 +371,7 @@ Just the assumption: "We're connected, so what's yours is partially mine."
 | Mediator Childhood | Vol 5 | Ch 3 |
 | Ridicule as Bonding | Vol 5 | Ch 12 |
 | Letter to Court | Vol 5 | Ch 10 |
+| The Boat Departure | Vol 5 | Ch 3 or Ch 4 |
 | Business Partner Promises | Vol 7 | Business chapter |
 | Unearned Stake | Vol 7 | Business chapter |
 

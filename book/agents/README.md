@@ -116,6 +116,17 @@ Invoke to coordinate the overall editing process. Use for:
 | Beta Reader | `beta-reader.md` | Reader response simulation |
 | Managing Editor | `managing-editor.md` | Workflow coordination |
 
+## Review Workflow Template
+
+Use [`review-workflow-template.md`](review-workflow-template.md) to track progress through any review round. The template provides:
+
+- **Phase-by-phase workflow** with the correct order for addressing feedback
+- **Parallel work guide** showing which reviews can be done simultaneously
+- **Progress tracking** with checkboxes for each stage
+- **Implementation notes** section for documenting decisions
+
+Copy the template to your review folder (e.g., `review-01/`, `review-02/`) and fill in the issue numbers for that round.
+
 ## Cost Expectations
 
 Different editing passes have different scope and cost:

@@ -292,29 +292,34 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 
 ## Morgan's Managing Editor Questions (10 Questions)
 
+**Source:** GitHub Issue #221 - Author responses to Morgan's managing editor questions
+
 ### Critical Decisions
 
 **Q1: Final Part Structure**
-- [ ] A) Confirm 5-part structure
+- [x] A) Confirm 5-part structure as shown
 - [ ] B) Revise to 4-part structure
 - [ ] C) Other: _______________
 
+**Reasoning:** Author confirmed the 5-part structure as shown in the current TOC. This provides optimal organization with Part I (Recognition), Part II (Understanding Origins), Part III (Patterns in Context), Part IV (Decoder Tools), and Part V (Recovery & Response).
 
 ---
 
 **Q2: Chapter 10 Placement**
-- [ ] A) Keep after Chapter 9
+- [x] A) Keep current placement after Chapter 9
 - [ ] B) Move after Chapter 8
 - [ ] C) Other: _______________
 
+**Reasoning:** Author confirmed current placement. Chapter 10 (Understanding Your Childhood Patterns) remains after Chapter 9 (Breaking Free from Family Systems), completing the family section before moving to romantic/contextual patterns.
 
 ---
 
 **Q3: Publication Timeline**
 - [ ] A) Rush (1-2 weeks)
 - [ ] B) Normal (1-2 months)
-- [ ] C) Quality-first (2-3 months)
+- [x] C) Quality-first (2-3 months) — All recommended improvements
 
+**Reasoning:** Author chose Path C (Quality-First, 6-8 weeks) with comprehensive verification and all polish improvements included. This prioritizes editorial excellence over speed to publication.
 
 ---
 
@@ -322,18 +327,20 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 
 **Q4: Mother-Father Balance**
 - [ ] A) Intentional, keep as-is
-- [ ] B) Should be balanced
+- [x] B) Should be balanced — willing to expand Father Wound section
 - [ ] C) Acknowledge imbalance
 
+**Reasoning:** Author acknowledged the imbalance and committed to expanding the Father Wound section to create more balanced coverage between mother and father narcissism dynamics.
 
 ---
 
 **Q5: Medium Priority Items**
-- [ ] A) All 18 items
+- [x] A) All 18 items (extends timeline)
 - [ ] B) Selected items: _______________
 - [ ] C) None
 - [ ] D) Defer to second edition
 
+**Reasoning:** Author chose to pursue all 18 medium-priority polish items, accepting the extended timeline. This aligns with the quality-first publication approach selected in Q3.
 
 ---
 
@@ -343,16 +350,26 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 - [ ] A) Already present
 - [ ] B) Needs to be added
 - [ ] C) Unsure
+- [x] D) CUSTOM: Remove all content warnings
 
+**Reasoning:** Author decided to remove all content warnings from the manuscript. This reflects author preference for treating readers as capable adults who can navigate difficult material.
 
 ---
 
 **Q7: Fact-Check Corrections**
 - [ ] A) All 4 applied
-- [ ] B) Some applied: _______________
+- [x] B) Custom directives (see below)
 - [ ] C) None applied
 - [ ] D) Unsure
 
+**Author's Specific Directives:**
+1. **72-hour neurochemistry timeline:** Keep the disclaimer as-is
+2. **Frog boiling water:** No longer exists in the text (already removed)
+3. **Gloria Steinem quote:** Adjustment needed (verify attribution)
+4. **"Ancient fable":** Add "ancient ?" or leave as-is (author uncertain)
+5. **Page references:** Remove ALL page references for now (new directive)
+
+**Reasoning:** Author provided nuanced responses rather than blanket approval/rejection. These specific directives require individual implementation.
 
 ---
 
@@ -360,8 +377,9 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 - [ ] A) Comprehensively updated
 - [ ] B) Partial update
 - [ ] C) No systematic update
-- [ ] D) Unsure
+- [x] D) Unsure, please verify
 
+**Reasoning:** Author requested verification. A systematic cross-reference audit is needed after the major chapter renumbering (18→10, Chapter 5 split, etc.).
 
 ---
 
@@ -372,65 +390,92 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 - [ ] B) Nice to have
 - [ ] C) Defer to second edition
 - [ ] D) Keep mixed approach
+- [x] E) CUSTOM: Create glossary in clinical passive voice
 
+**Reasoning:** Author chose a specific voice direction—clinical passive—rather than the second-person active voice recommended in Round 2. This maintains professional/clinical tone in reference material while the main text uses more direct voice.
 
 ---
 
 **Q10: Em-Dash Reduction**
-- [ ] A) Reduce by 50%
+- [x] A) Important — reduce by 50%
 - [ ] B) Not a priority
 - [ ] C) Compromise
 - [ ] D) Defer to second edition
+
+**Reasoning:** Author agreed that em-dash reduction is important and endorsed the 50% reduction target. This will improve rhythmic variety throughout the manuscript.
 
 
 ---
 
 ## Summary of Decisions
 
-### Structural Decisions Made:
+### Structural Decisions Made (Diana):
 1. Part structure: **Five distinct parts** (as current TOC shows)
 2. Chapter 10 placement: **Move earlier in Part II** (remove "advanced" label)
 3. Decoder cards structure: **One comprehensive chapter** with internal divisions
 4. Exposure questions placement: **Move much earlier** in manuscript
 5. Crisis path design: **Dual design** (serves both crisis and sequential readers)
 
-### Theme/Arc Decisions Made:
+### Theme/Arc Decisions Made (Diana):
 1. Primary organizing principle: **"Body Knows First" as supporting motif** (not central)
 2. Sovereignty arc approach: **Develop progressively** throughout
 3. Healing vs. recognition balance: **RECOGNITION + RESPONSE**
 
-### Content Scope Decisions Made:
+### Content Scope Decisions Made (Diana):
 1. Family section: **Keep all four chapters**
 2. Romantic manipulation: **Add healthy romance AND mid-level narcissism content**
 3. Co-parenting: **Add section or chapter**
 4. Workplace: **Expand Chapter 12**
 5. Discernment: **Add chapter/section on non-narcissistic dynamics**
 
-### Reader Experience Decisions Made:
+### Reader Experience Decisions Made (Diana):
 1. Pause files: **Integrate into chapter endings**
 2. Chapter length: **Embrace variation**
 3. Spiritual language: **Stay balanced**
 4. Recovery timeline: **Phase-based not time-based**
 
-### Reader/Market Decisions Made:
+### Reader/Market Decisions Made (Diana):
 1. Primary reader: **Multiple personas** (mild crisis, confusion, recovery, learning)
 2. Tone: **Voice consistency while preserving purpose shifts**
 3. Teaching vs. testimony: **Teaching primary**
 4. Series relationship: **Modular approach**
 5. Market positioning: **Clinical-quality self-help**
 
-### Timeline & Scope:
-1. Publication timeline: _(Pending Morgan's questions)_
-2. Medium priority items scope: _(Pending Morgan's questions)_
-3. Polish work priorities: _(Pending Morgan's questions)_
+### Timeline & Scope (Morgan):
+1. Publication timeline: **Quality-first (6-8 weeks)** — comprehensive approach
+2. Medium priority items scope: **All 18 items** — extends timeline
+3. Part structure confirmation: **5-part structure confirmed**
+4. Chapter 10 placement: **Keep after Chapter 9** (current position)
+
+### Structural Balance (Morgan):
+1. Mother-Father balance: **Expand Father Wound section** for balance
+
+### Verification Decisions (Morgan):
+1. Content warnings: **Remove all** content warnings
+2. Fact-check corrections: **Custom directives** (see Q7 details above)
+3. Cross-references: **Verification needed** — systematic audit required
+4. Page references: **Remove all** for now
+5. Decoder card count: **52 tactical elements** confirmed
+
+### Polish Preferences (Morgan):
+1. Glossary voice: **Clinical passive** (custom choice)
+2. Em-dash reduction: **Reduce by 50%** before publication
 
 ### Outstanding Items:
-⚠️ **FLAG:** Decoder card count discrepancy—clarify whether playbook contains 38 or 50 tactical elements
+✅ **RESOLVED:** Decoder card count—playbook contains **52 tactical elements** (author confirmed)
+✅ **RESOLVED:** Content warnings—**remove all** (author decision)
+⚠️ **ACTION:** Cross-reference audit needed after chapter renumbering
+⚠️ **ACTION:** Gloria Steinem quote attribution needs verification
 
 ### Next Steps After Phase 1:
 - [x] Document structural decisions (Diana's 25 questions)
-- [ ] Complete Morgan's 10 questions
+- [x] Complete Morgan's 10 questions
 - [ ] Implement structural changes based on decisions
+- [ ] Conduct cross-reference audit
+- [ ] Expand Father Wound section
+- [ ] Apply em-dash reduction (50%)
+- [ ] Convert glossary to clinical passive voice
+- [ ] Address all 18 medium-priority items
 - [ ] Proceed to Phase 2 reviewers
 
 ---
@@ -438,22 +483,45 @@ Use this document to record your decisions on Phase 1 questions from Diana (Deve
 ## Phase 1 Completion
 
 **Date Diana's Questions Completed:** January 4, 2026
+**Date Morgan's Questions Completed:** January 4, 2026
 
-**Ready to proceed to Phase 2:** [ ] Yes / [x] No — Morgan's questions still pending
+**Ready to proceed to Phase 2:** [x] Yes
 
 **Notes:**
-Author responses integrated from GitHub Issue #220. Key structural changes identified:
-- Move Chapter 10 earlier (remove "advanced" label)
+Author responses integrated from GitHub Issues #220 (Diana) and #221 (Morgan).
+
+**Key structural changes identified:**
+- Move Chapter 10 earlier (remove "advanced" label) — *Confirmed in current position after Ch 9*
 - Consolidate decoder cards into single chapter
 - Move exposure questions earlier
 - Add co-parenting section
 - Expand workplace content in Chapter 12
 - Add discernment chapter/section on non-narcissistic dynamics
 - Expand romantic manipulation chapter with healthy romance and mid-level narcissism
+- Expand Father Wound section for balance
+
+**Key editorial decisions from Morgan's questions:**
+- Publication path: **Quality-first (6-8 weeks)** with all 18 medium-priority items
+- Content warnings: **Remove all** content warnings
+- Glossary voice: **Clinical passive** (author's custom preference)
+- Em-dash reduction: **50% reduction** approved
+- Cross-references: **Systematic audit required**
+- Page references: **Remove all** for now
+- Decoder card count: **52 tactical elements** (resolved)
+
+**✅ All Phase 1 Items Resolved**
+Author clarifications received on content warnings and decoder card count.
 
 ---
 
-*Once Morgan's questions are complete, create Phase 2 GitHub issues for:*
+## Next Phase: Phase 2 Reviewers
+
+*Phase 1 is COMPLETE. Create Phase 2 GitHub issues for:*
 - Bailey (Beta Reader) - 56 questions
 - Sage (Sensitivity Reader) - 18 questions
 - Felix (Fact-Checker) - 6 questions
+
+*Before Phase 2, prioritize:*
+1. Cross-reference audit (critical after chapter renumbering)
+2. Remove all content warnings from manuscript
+3. Begin implementation of confirmed structural changes

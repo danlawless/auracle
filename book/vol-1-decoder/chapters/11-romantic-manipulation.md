@@ -34,6 +34,28 @@ This intensity feels like proof of connection. It's actually proof of speed.
 - Questions that feel more like data-gathering
 - The sense that you're being studied rather than known
 
+---
+
+### Field Note: The Beginning
+
+Three weeks in, and he already knows your coffee order, your childhood fears, the name of your first pet.
+
+He remembers everything. He texts good morning before you wake. He calls you brave for things you never thought were brave. He says: *I've never met anyone like you.*
+
+Your friends say it's fast. You think they're jealous.
+
+Your body is electric. You can't sleep. You can't eat. You check your phone constantly. When he doesn't text back immediately, your chest tightens. When he does, you feel yourself exhale.
+
+You don't notice that you've stopped calling your friends. That your world has narrowed to the width of his attention. That the electricity feels less like excitement and more like vigilance.
+
+You think this is love.
+
+Your nervous system thinks it's survival.
+
+Later, you'll recognize the difference. But not yet. Not while the dopamine is still flooding. Not while being seen feels better than being safe.
+
+---
+
 **Phase 2: Devaluation**
 
 The shift happens. Sometimes suddenly, sometimes gradually. The person who adored you now criticizes, distances, compares, withdraws.
@@ -51,6 +73,26 @@ You start managing yourself to manage them. Your needs shrink. Your voice gets s
 - Being confused about what changed
 - Working harder and harder with diminishing returns
 - Feeling like you're going crazy
+
+---
+
+### Field Note: The Shift
+
+You can't say when it changed.
+
+One day he looked at you like you were the answer. Now he looks through you like you're the problem.
+
+You replay conversations. You search for the moment you said the wrong thing, made the wrong face, failed to be whatever he needed. There must be a reason. There must be something you did.
+
+You try harder. You become smaller. You edit yourself mid-sentence, watching his face for the flicker of irritation that tells you you've said too much.
+
+The worst part isn't his coldness. It's the moments when he's warm again—just long enough to make you think you imagined the rest. Just long enough to keep you reaching.
+
+You start to wonder if you're crazy.
+
+You're not. You're being trained.
+
+---
 
 **Phase 3: Discard (or Intermittent Cycling)**
 
@@ -133,6 +175,28 @@ Many people struggle to name what happened because:
 
 **The truth:**
 Sexuality in a narcissistic relationship is rarely clean. It carries the same patterns as everything else: control disguised as connection, pressure disguised as passion, and relief mistaken for intimacy.
+
+---
+
+### Field Note: The Confusion
+
+He wants you. You don't want him. Not tonight. Not like this.
+
+But saying no feels harder than saying yes. His disappointment fills the room. His silence afterward would last for days. You've learned the cost of refusal.
+
+So you don't refuse.
+
+Your body responds anyway—it does what bodies do. And afterward, you feel something you can't name. Not quite violation. Not quite consent. Something in between that has no word.
+
+You tell yourself: *I said yes.* You don't add: *because no wasn't safe.*
+
+Years later, you'll struggle to explain why you can't relax during intimacy. Why you leave your body sometimes. Why you need so much reassurance that you're allowed to stop.
+
+This is why.
+
+Your body learned that sex was about managing someone else's needs. It will take time to teach it something different.
+
+---
 
 ### Red Flags to Trust
 
@@ -369,6 +433,28 @@ Mid-level narcissists aren't terrible all the time. They:
 
 This makes it harder. If they were terrible 100% of the time, leaving would be obvious. But they're maybe 60% problematic and 40% wonderful, and you keep hoping the ratio will shift.
 
+---
+
+### Field Note: Not Bad Enough
+
+Your friend asks why you don't leave.
+
+You don't have an answer. Or you have too many. He's not hitting you. He remembers your birthday. He's good with your parents. Last month he planned that trip, and it was perfect—almost perfect—until the comment about your dress that you're still thinking about.
+
+You make lists in your head. Reasons to stay. Reasons to go. The lists keep changing. Nothing is ever quite bad enough to tip the balance.
+
+But here's what you notice: you're exhausted. Not from working too hard or sleeping too little. From the constant monitoring. From being ready. From the low hum of vigilance that never quite stops.
+
+You can't name what's wrong because nothing is wrong *enough*. But you haven't felt like yourself in years. You can't remember the last time you laughed without checking his face first.
+
+Your friends say you seem different. Quieter. Smaller.
+
+You tell them you're fine.
+
+You're not sure you're lying. You're not sure you're not.
+
+---
+
 ### Signs You're in a Mid-Level Narcissistic Relationship
 
 Check how many of these resonate:
@@ -418,6 +504,32 @@ You don't need their behavior to escalate for your unhappiness to be valid. Mid-
 When a narcissist senses they're losing control—when you're pulling away, setting boundaries, or planning to leave—they often escalate dramatically. This is sometimes called the "extinction burst": a final, desperate attempt to reassert dominance before losing access to their supply.
 
 This phase is the most dangerous time in the relationship. The tactics combine and intensify. What was psychological becomes physical. What was private becomes public. The stakes feel life-or-death because, to them, they are—losing control feels like annihilation.
+
+---
+
+### Field Note: The Night You Decided
+
+You don't announce it. You don't even say it to yourself clearly. But something shifts.
+
+Maybe it's the way he looked at you yesterday. Maybe it's what he said to your friend. Maybe it's nothing you can name—just a quiet knowing that settles in your chest like a stone.
+
+You're leaving.
+
+You don't pack a bag. You don't call anyone. But he knows. He senses it the way a predator senses movement in still water.
+
+That night, he's different. Too attentive. Too watchful. He asks questions that feel like tests. He stands too close. He mentions, casually, how fragile you are. How he worries about you. How he doesn't know what he'd do if you ever left.
+
+The words sound like love. They feel like a cage door closing.
+
+You lie awake, calculating. How to leave without him knowing. Where to go. What to take. Whether you're overreacting. Whether you're making it up. Whether the way your heart races when he enters the room is fear or love or both.
+
+In the morning, he brings you coffee. Kisses your forehead. Smiles like nothing happened.
+
+And you think: *Maybe I imagined it. Maybe I'm the problem. Maybe I should stay.*
+
+You almost believe it. Almost.
+
+---
 
 ### Case Study: When Leaving Triggers Everything at Once
 

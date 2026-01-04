@@ -415,6 +415,19 @@ You don't need their behavior to escalate for your unhappiness to be valid. Mid-
 
 ## The Exit Phase Escalation
 
+> ⚠️ **PAUSE BEFORE READING**
+>
+> This section describes intense exit-phase dynamics including physical intimidation and threats. If you are currently planning to leave a relationship, assess your safety first:
+> - Are you in a safe location right now?
+> - Do you have a trusted person you can reach if this content activates you?
+> - Consider reading this section with support rather than alone.
+>
+> **Crisis Resources:** National Domestic Violence Hotline: 1-800-799-7233 | Crisis Text Line: Text HOME to 741741
+>
+> When you're ready, continue.
+
+---
+
 When a narcissist senses they're losing control—when you're pulling away, setting boundaries, or planning to leave—they often escalate dramatically. This is sometimes called the "extinction burst": a final, desperate attempt to reassert dominance before losing access to their supply.
 
 This phase is the most dangerous time in the relationship. The tactics combine and intensify. What was psychological becomes physical. What was private becomes public. The stakes feel life-or-death because, to them, they are—losing control feels like annihilation.
@@ -573,6 +586,18 @@ If you're reading this and recognizing your situation but aren't ready to leave 
 - Trust that you'll know when it's time
 
 The fact that you're reading this means part of you knows. Listen to that part. It's trying to protect you.
+
+---
+
+> **PAUSE AND GROUND**
+>
+> You just read intense material. Before continuing:
+> - Take three slow breaths (inhale 4 counts, exhale 6 counts)
+> - Feel your feet on the floor
+> - Look around the room and name three things you can see
+> - Remind yourself: You are safe right now, reading words on a page
+>
+> *Many who read these words have already begun to heal. You are not alone in this.*
 
 ---
 

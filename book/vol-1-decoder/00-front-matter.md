@@ -76,11 +76,11 @@ Chapter 13: The Exposure Questions — Questions That Make Narcissists Reveal Th
 
 **Part IV: Decoder Tools**
 
-Chapter 14: Decoder Cards — Core Patterns — Quick-Reference Guides for Real-Time Recognition .................... [pg. XX]
-
-Chapter 15: Decoder Cards — Advanced Patterns — Recognizing Sophisticated Control Tactics .................... [pg. XX]
-
-Chapter 16: Decoder Cards — Emergency Protocol — When You Need Clarity Now .................... [pg. XX]
+Chapter 14: The Decoder Cards — 52 Quick-Reference Guides for Real-Time Pattern Recognition .................... [pg. XX]
+- *Card 0: The Master Card (Wolf in Sheep's Clothing)*
+- *Cards 1-27: Core Patterns*
+- *Cards 28-51: Advanced Patterns*
+- *Emergency Protocol: When You Need Clarity Now*
 
 **Part V: Recovery & Response**
 
@@ -206,11 +206,20 @@ If you're in danger, don't start at the beginning. Start here:
 
 ## How to Use This Book
 
-### If You're in Crisis
+### If You're in Immediate Crisis
 See the emergency resources above. Start with **Chapter 18: Practical Responses** for scripts you can use immediately, then **Chapter 17: Energetic Remapping** for grounding tools.
 
-### If You're Trying to Understand
-Read the book in order. The chapters build on each other, taking you from recognition through understanding origins to recovery.
+### If You're Still in the Relationship (Crisis Path)
+**Start here if you need practical help now:**
+1. **[Chapter 18: Practical Responses](./chapters/18-practical-responses.md)** — Scripts for immediate use
+2. **[Chapter 2: Energetic Signature](./chapters/02-energetic-signature.md)** — Trust your body's signals
+3. **[Chapter 11: Romantic Manipulation—Exit Phase](./chapters/11-romantic-manipulation.md)** — If you're planning to leave
+4. **[Decoder Cards, Chapter 14](./chapters/14-decoder-cards.md)** — Real-time pattern recognition
+
+*Skip ahead. Come back later. Your safety comes first.*
+
+### If You're Out and Trying to Understand (Sequential Path)
+Read the book in order. The chapters build on each other, taking you from recognition through understanding origins to recovery. This path is for readers who have the space to process deeply.
 
 ### If You're Healing
 **Recommended Healing Path:**
@@ -221,11 +230,13 @@ Read the book in order. The chapters build on each other, taking you from recogn
 5. **[Volume 2: The Bridge](../vol-2-bridge/README.md)** — Continue your healing journey with attachment repair
 
 ### If You're Helping Others
-The **Decoder Cards** in Chapters 14, 15, and 16 are designed to be shared. Use them as conversation starters or teaching tools.
+The **Decoder Cards** in Chapter 14 are designed to be shared. Use them as conversation starters or teaching tools.
 
 **Understanding the Decoder Cards:**
-- **Core Cards (Chapter 14):** 19 foundational patterns you'll encounter most often—gaslighting, triangulation, shame-dumping, and other common tactics. Start here for pattern recognition basics.
-- **Advanced Cards (Chapter 15):** 18 sophisticated tactics that are harder to identify, often more dangerous, and frequently appear during high-stakes moments like relationship exits, custody battles, or when you're threatening to leave. Read these after you've internalized the core patterns.
+- **Card 0 (Master Card):** The Wolf in Sheep's Clothing—the foundational metaphor that ties all patterns together
+- **Cards 1-27 (Core Patterns):** Foundational patterns you'll encounter most often—gaslighting, triangulation, shame-dumping, and other common tactics
+- **Cards 28-51 (Advanced Patterns):** Sophisticated tactics that are harder to identify, often more dangerous, and frequently appear during high-stakes moments
+- **Emergency Protocol:** When you need clarity now—quick-reference decision tools
 
 ### If You're Creating Content
 **Appendix A** provides a structure for turning this material into videos, posts, and educational content.

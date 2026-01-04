@@ -40,6 +40,18 @@ All of this is normal. You're not falling apart—you're rearranging. The founda
 
 ---
 
+> **QUICK TOOL: When This Chapter Activates You**
+>
+> Family material often hits harder than other content. If you feel flooded, overwhelmed, or groundless:
+>
+> 1. **4-7-8 Breath:** Inhale for 4 counts, hold for 7, exhale for 8. Repeat three times.
+> 2. **Name it:** "I'm reading about family patterns and it's activating my nervous system. This is normal."
+> 3. **Ground:** Feel your feet. Feel the book or device in your hands. You are here, now, safe.
+>
+> You can pause anytime. The book will wait.
+
+---
+
 ## Assigned Roles in the Narcissistic Family
 
 Narcissistic family systems assign roles. These roles serve the narcissist's needs and maintain the family's dysfunctional balance. They're not chosen; they're imposed—often in childhood before you could understand what was happening.
@@ -109,6 +121,8 @@ And it worked—you weren't attacked. But you also weren't seen. The neglect was
 **Adult patterns:** Difficulty asserting needs, feeling invisible in groups and relationships, isolation, depression. May recreate the invisibility in adult life. Relationships where you're taken for granted. Struggle to believe you matter.
 
 **The liberation:** You exist. You matter. Your needs are valid. The invisibility was a survival strategy, not your identity. You're allowed to take up space now.
+
+*If you're the Lost Child, you may notice this section felt brief—perhaps even too brief. That invisibility you're sensing right now? That's the very pattern this role creates. You've just experienced what you've lived: being overlooked, given less space, noticed less. Your noticing is valid. You deserved more.*
 
 ---
 

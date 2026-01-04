@@ -136,7 +136,13 @@ Grounded compassion supports your growth. False compassion keeps you entangled.
 
 You've been through a lot. You've survived patterns that were designed to diminish you. And you're still here.
 
-Here's a statement to claim as your own—modify it to fit your truth:
+Here's a statement to claim as your own—modify it to fit your truth.
+
+**Before you read it:**
+1. Stand up if you're able (seated works too)
+2. Place one hand on your heart
+3. Take three deep breaths
+4. Read this aloud—your voice reclaiming your truth is part of the healing
 
 ---
 

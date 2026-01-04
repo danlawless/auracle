@@ -1,4 +1,4 @@
-# Chapter 17: Energetic Remapping ,  Recovery Tools
+# Chapter 17: Energetic Remapping — Recovery Tools
 
 ## Rewiring Your Nervous System for Freedom
 
@@ -108,7 +108,7 @@ Instead of: *Analyzing whether they were right*
 Try: "That was comparison as control."
 
 This does two things:
-1. **Interrupts the loop**, You give your brain something to do besides replay
+1. **Interrupts the loop**—You give your brain something to do besides replay
 2. **Consolidates learning**—Each translation strengthens your pattern recognition
 
 *Every time you name the pattern instead of reliving it, your nervous system learns a new route home.*
@@ -171,7 +171,20 @@ Let the witness's perspective inform your own.
 
 ## Protecting Yourself in Required Interactions
 
-When you must interact with a narcissist due to co-parenting, work, family events, or other circumstances, specific communication strategies can help protect your energy. For the Gray Rock communication strategy and detailed scripts for managing these interactions, see Chapter 18: Practical Responses & Scripts.
+When you must interact with a narcissist due to co-parenting, work, family events, or other circumstances, specific communication strategies can help protect your energy.
+
+**The Gray Rock Method (Brief Overview):**
+
+The core idea is simple: become so boring that you're not worth manipulating. You offer nothing they can use—no emotional reactions, no interesting information, no drama to feed on.
+
+- Keep responses short and factual
+- Avoid sharing personal news, feelings, or opinions
+- Don't take the bait when they provoke
+- Be the conversational equivalent of a gray rock: present but uninteresting
+
+This isn't about being rude—it's about being unrewarding. Narcissists need supply. When you stop providing it, interactions become less appealing to them.
+
+*For detailed scripts and advanced communication strategies, see Chapter 18: Practical Responses & Scripts.*
 
 ---
 
@@ -249,7 +262,9 @@ Think of it like adjusting to cold water: you wade in slowly rather than jumping
 
 ## Quick Grounding When Activated
 
-For moments when you need immediate regulation, use the grounding techniques from Chapter 16: Decoder Cards, Emergency Protocol. The key techniques include:
+**A note on Chapter 16 vs. Chapter 17:** Chapter 16 provides grounding techniques for crisis moments—when you're caught off guard and need immediate help. This chapter uses those same techniques as part of ongoing recovery practice. Same tools, different context: there, you're surviving the moment; here, you're building long-term resilience.
+
+For moments when you need immediate regulation, the key techniques include:
 
 - **The 3-3-3 Rule** — Name three things you see, hear, and move three body parts
 - **The Squeeze-Release** — Clench all muscles tight, then release completely
@@ -258,8 +273,6 @@ For moments when you need immediate regulation, use the grounding techniques fro
 - **The Vocal Release** — Sigh, hum, or vocalize to engage the vagus nerve
 
 *For detailed instructions on each technique, see Chapter 16's Quick Grounding Techniques section.*
-
-These same techniques work both in crisis moments (Chapter 16) and as part of your ongoing recovery practice (this chapter). The difference is context: Chapter 16 is for when you're caught off guard in the moment; here, you're building a daily practice of nervous system regulation.
 
 ---
 

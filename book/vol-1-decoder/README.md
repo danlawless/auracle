@@ -36,9 +36,11 @@
 
 | Appendix | Title | Description |
 |----------|-------|-------------|
-| [Appendix A](./appendices/appendix-a-resources.md) | Resources | Books, hotlines, and further reading |
-| [Appendix B](./appendices/appendix-b-glossary.md) | Glossary | Key terms defined |
-| [Appendix C](./appendices/appendix-c-bibliography.md) | Bibliography | Sources and references |
+| [Appendix A](./appendices/appendix-a-resources.md) | Resources | Support, information, and next steps |
+| [Appendix B](./appendices/appendix-b-glossary.md) | Glossary of Terms | Key concepts and definitions |
+| [Appendix C](./appendices/appendix-c-bibliography.md) | Bibliography & Further Reading | Sources, influences, and recommended reading |
+| [Appendix D](./appendices/appendix-d-techniques.md) | Core Techniques Reference | Quick access guide for grounding, response, and protection |
+| [Appendix E](./appendices/appendix-e-index.md) | Index | Quick reference to key concepts and terms |
 
 ---
 
@@ -156,25 +158,29 @@ PART II: UNDERSTANDING ORIGINS
 ├── Chapter 7 ............. Family Roles & Triangulation
 ├── Chapter 8 ............. Parental Wounds
 ├── Chapter 9 ............. Breaking Free from Family Systems
-├── Chapter 10 ............ Understanding Your Childhood Patterns (Advanced)
+└── Chapter 10 ............ Understanding Your Childhood Patterns (Advanced)
+
+PART III: PATTERNS IN CONTEXT
 ├── Chapter 11 ............ Romantic Manipulation
 ├── Chapter 12 ............ Manipulation Across Contexts
-└── Chapter 13 ............ Diagnostic Questions for Confirming Patterns
+└── Chapter 13 ............ The Exposure Questions
 
-PART III: TOOLS
+PART IV: DECODER TOOLS
 ├── Chapter 14 ............ Decoder Cards — Core (19 patterns)
 ├── Chapter 15 ............ Decoder Cards — Advanced (18 patterns)
 └── Chapter 16 ............ Decoder Cards — Protocol
 
-PART IV: RESPONSE & RECOVERY
+PART V: RECOVERY & RESPONSE
 ├── Chapter 17 ............ Energetic Remapping (nervous system tools)
 ├── Chapter 18 ............ Practical Responses & Scripts
 └── Chapter 19 ............ Moving Forward
 
 APPENDICES
 ├── Appendix A ............ Resources
-├── Appendix B ............ Glossary
-└── Appendix C ............ Bibliography
+├── Appendix B ............ Glossary of Terms
+├── Appendix C ............ Bibliography & Further Reading
+├── Appendix D ............ Core Techniques Reference
+└── Appendix E ............ Index
 ```
 
 ---

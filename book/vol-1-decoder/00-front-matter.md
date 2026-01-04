@@ -38,7 +38,7 @@ First Edition
 - A Note on Language
 - A Note on Diagnosis
 - The Promise
-- Tactical Foundation: The 3-3-3 Rule
+- Tactical Foundation: The Core Tools (3-3-3 Rule, 72-Hour Test, Master Question)
 
 **Part I: Recognition**
 
@@ -72,7 +72,7 @@ Chapter 11: Romantic Manipulation — How Control Adapts to Intimacy ...........
 
 Chapter 12: Manipulation Across Contexts — Beyond Romance: Recognizing Patterns Everywhere .................... [pg. XX]
 
-Chapter 13: Diagnostic Questions — Questions That Make Narcissists Reveal Themselves .................... [pg. XX]
+Chapter 13: The Exposure Questions — Questions That Make Narcissists Reveal Themselves .................... [pg. XX]
 
 **Part IV: Decoder Tools**
 
@@ -271,17 +271,20 @@ By the end of this book, you will:
 1. **Recognize** the tactics of control disguised as care
 2. **Understand** why these patterns hook your nervous system
 3. **Decode** manipulation in real-time instead of days later
-4. **Respond** from a place of power rather than reaction
-5. **Recover** your sense of self and your trust in your own perception
-6. **Reclaim** your sovereignty and your right to peace
+4. **Expose** narcissistic patterns through strategic questions
+5. **Respond** from a place of power rather than reaction
+6. **Recover** your sense of self and your trust in your own perception
+7. **Reclaim** your sovereignty and your right to peace
 
 The confusion ends here.
 
 ---
 
-## Tactical Foundation: The 3-3-3 Rule
+## Tactical Foundation: The Core Tools
 
-Throughout this book, you'll encounter situations where you need to respond in the moment. Before we begin, memorize this framework:
+Throughout this book, you'll encounter situations where you need to respond in the moment. Before we begin, memorize these frameworks:
+
+### The 3-3-3 Rule
 
 **3 Seconds:** Pause before responding. Count silently. This interrupts the automatic reaction they're counting on.
 
@@ -290,6 +293,22 @@ Throughout this book, you'll encounter situations where you need to respond in t
 **3 Words (or fewer):** Keep initial responses short. "I'll think about that." "Interesting perspective." "Not for me." The less you say, the less they have to twist.
 
 This book will teach you *what* to say. This rule teaches you *how* to buy time to say it.
+
+### The 72-Hour Test
+
+Before making any major decision about someone, wait 72 hours:
+
+- Love-bombing neurochemistry needs time to settle
+- Patterns invisible in excitement become visible in calm
+- Trust the version of yourself that emerges after the intensity fades
+
+### The Master Question
+
+If you could only ask one question to expose a narcissist:
+
+> *"When was the last time you were genuinely wrong, admitted it without being forced to, and changed your behavior as a result?"*
+
+Healthy people produce a specific, recent example with genuine reflection. Narcissists struggle, deflect, reverse, or produce an example where they were actually right all along.
 
 ---
 

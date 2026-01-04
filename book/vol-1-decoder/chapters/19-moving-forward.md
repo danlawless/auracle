@@ -202,7 +202,15 @@ This isn't failure. It's extremely common.
 
 Every time you catch yourself and choose differently, you strengthen the new patterns. Recovery isn't linear, but direction matters more than perfection.
 
-**For detailed post-exit protocols including the 90-Day Stabilization Plan and Red-Yellow-Green System, see Appendix A: Resources.**
+### Structured Support for Early Recovery
+
+The first 90 days after leaving are often the hardest. Your nervous system is recalibrating, old habits are pulling at you, and the temptation to return can be intense. Two frameworks can help:
+
+**The 90-Day Stabilization Plan** provides a structured approach to the critical first three months—daily practices, weekly milestones, and clear markers of progress to anchor you when things feel chaotic.
+
+**The Red-Yellow-Green System** helps you quickly assess your state and know what action to take. Red means you're in crisis and need immediate support. Yellow means you're activated but managing. Green means you're stable and can focus on growth. Knowing your color tells you what you need.
+
+*For detailed protocols on both systems, see Appendix A: Resources.*
 
 ---
 

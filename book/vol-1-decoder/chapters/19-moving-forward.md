@@ -80,24 +80,6 @@ These feelings can coexist. You can be relieved AND grieving. Angry AND grateful
 
 Don't try to resolve them into a single clean emotion. Let them all be here.
 
-### The Strange Gratitude
-
-You might feel an odd impulse: "I want to thank them for what they taught me." This is more common than you'd think.
-
-What it's about:
-- Genuine recognition that you learned and grew
-- Your mind trying to make meaning from pain
-- A desire for closure or clean resolution
-- Sometimes, still seeking their validation even after leaving
-
-What to do with it:
-- You don't have to communicate it to them. Gratitude can be held internally.
-- If you feel compelled to express it, examine why. Is it for you, or are you still hoping they'll respond in a certain way?
-- You can be grateful for the lessons while still being clear that the behavior was harmful.
-- Write it in a letter you don't send if you need to express it.
-
-The gift of awareness doesn't require thanking the person who hurt you. Your growth belongs to you.
-
 ---
 
 ## Grounded Compassion vs. False Compassion
@@ -123,6 +105,24 @@ As you move forward, you may feel pulled back toward the narcissist through comp
 **Releasing the need for them to receive your compassion.** You don't have to communicate it. You don't need them to feel it. It exists in you, independent of them.
 
 **Prioritizing your own wellbeing.** Real compassion includes self-compassion. Protecting yourself is not cruelty—it's basic self-care.
+
+### The Strange Gratitude
+
+You might feel an odd impulse: "I want to thank them for what they taught me." This is more common than you'd think.
+
+What it's about:
+- Genuine recognition that you learned and grew
+- Your mind trying to make meaning from pain
+- A desire for closure or clean resolution
+- Sometimes, still seeking their validation even after leaving
+
+What to do with it:
+- You don't have to communicate it to them. Gratitude can be held internally.
+- If you feel compelled to express it, examine why. Is it for you, or are you still hoping they'll respond in a certain way?
+- You can be grateful for the lessons while still being clear that the behavior was harmful.
+- Write it in a letter you don't send if you need to express it.
+
+The gift of awareness doesn't require thanking the person who hurt you. Your growth belongs to you.
 
 ### The Test
 
@@ -162,9 +162,9 @@ Here's a statement to claim as your own—modify it to fit your truth:
 
 *Read this aloud if it helps. Return to it when you forget. Make it your own.*
 
----
+That declaration is about who you are now. But sovereignty is also about where you're headed.
 
-## The Sovereignty You're Building Toward
+### The Sovereignty You're Building Toward
 
 As you heal, you're creating space for what you deserve. This might look like:
 
@@ -176,6 +176,33 @@ As you heal, you're creating space for what you deserve. This might look like:
 You may not have all of this yet. But you're moving toward it. Each boundary held, each pattern recognized, each moment of choosing yourself—you're building this reality.
 
 *Write your own version. Read it when you forget where you're headed.*
+
+---
+
+## A Word on Relapse
+
+You may find yourself sliding back into old patterns—with the same person or with someone new who carries the same energy.
+
+This isn't failure. It's extremely common.
+
+### Why It Happens
+
+- The neural pathways are well-worn
+- Familiar feels safe, even when it isn't
+- Love-bombing feels good after the work of recovery
+- Old parts of you still need healing
+
+### What to Do
+
+- Don't shame yourself
+- Get curious: "What's this showing me about what still needs attention?"
+- Return to the basics: body signals, pattern recognition, grounding
+- Reach out to support
+- Recommit to your healing
+
+Every time you catch yourself and choose differently, you strengthen the new patterns. Recovery isn't linear, but direction matters more than perfection.
+
+**For detailed post-exit protocols including the 90-Day Stabilization Plan and Red-Yellow-Green System, see Appendix A: Resources.**
 
 ---
 
@@ -220,7 +247,7 @@ Your wound becomes medicine for others when you're ready. No pressure on timing.
 
 ### Create Your Support Architecture
 
-Don't just recover—build structures that support your new life:
+Recovery isn't just internal work. It's also about building a life that holds you. Don't just heal—create structures that support your new reality:
 
 **Inner Circle (2-3 people):**
 - Know your full story
@@ -244,33 +271,6 @@ Don't just recover—build structures that support your new life:
 - Documentation and journaling
 - Physical health basics
 - Financial independence (or path toward it)
-
----
-
-## A Word on Relapse
-
-You may find yourself sliding back into old patterns—with the same person or with someone new who carries the same energy.
-
-This isn't failure. It's extremely common.
-
-### Why It Happens
-
-- The neural pathways are well-worn
-- Familiar feels safe, even when it isn't
-- Love-bombing feels good after the work of recovery
-- Old parts of you still need healing
-
-### What to Do
-
-- Don't shame yourself
-- Get curious: "What's this showing me about what still needs attention?"
-- Return to the basics: body signals, pattern recognition, grounding
-- Reach out to support
-- Recommit to your healing
-
-Every time you catch yourself and choose differently, you strengthen the new patterns. Recovery isn't linear, but direction matters more than perfection.
-
-**For detailed post-exit protocols including the 90-Day Stabilization Plan and Red-Yellow-Green System, see Appendix A: Resources.**
 
 ---
 
@@ -304,7 +304,7 @@ A relationship entered from wholeness is different from a relationship entered f
 
 ---
 
-## Closing Reflection
+## Closing
 
 You picked up this book because something was wrong and you wanted to understand it.
 
@@ -319,8 +319,6 @@ The sensitivity that made you vulnerable is the same sensitivity that will guide
 You are not broken by what happened. You are **informed** by what happened. There's a difference.
 
 ---
-
-## The Final Word
 
 Here's what I want you to take from this book:
 

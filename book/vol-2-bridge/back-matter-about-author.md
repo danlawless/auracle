@@ -28,7 +28,7 @@ She now lives in Costa Rica, where she offers aura readings, integration session
 
 - Website: lightfield.institute
 - Instagram: @jae.lawless
-- Email: lightfieldpress@gmail.com
+- Email: lightwavesenergy@gmail.com
 
 ---
 

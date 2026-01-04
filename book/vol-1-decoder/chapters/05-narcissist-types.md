@@ -46,7 +46,7 @@ The narcissist genuinely believes—or desperately needs to believe—that they 
 - More special than they are
 - Superior to others in ways that matter to them
 
-Psychoanalyst Donald Winnicott called this the **False Self**—a defensive facade that replaces authentic identity. The narcissist presents this constructed persona to the world and demands that others affirm it as real. Their entire psychological stability depends on this affirmation.
+British pediatrician and psychoanalyst Donald Winnicott called this the **False Self**—a defensive facade that replaces authentic identity. The narcissist presents this constructed persona to the world and demands that others affirm it as real. Their entire psychological stability depends on this affirmation.
 
 ### The Fantasy Bubble
 

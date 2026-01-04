@@ -20,7 +20,7 @@ Read through all of them, or use this chapter as a reference guide when you enco
 
 **For documentation:** After incidents, note which tactic(s) were used. Patterns across time reveal the larger picture.
 
-**For preparation:** Before interactions with known narcissists, review likely tactics. Preemptive awareness reduces their effectiveness by 80%.
+**For preparation:** Before interactions with known narcissists, review likely tactics. In clinical practice, preemptive awareness substantially reduces their effectiveness.
 
 **The Master Key:** Most tactics share the same counter-move: **non-reactive acknowledgment followed by holding your position.** Learn to say "I hear that" while doing what you were going to do anyway.
 

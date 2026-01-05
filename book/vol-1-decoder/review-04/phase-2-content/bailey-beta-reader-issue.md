@@ -24,6 +24,8 @@ For each question, please provide:
 1. Your decision or perspective
 2. Brief reasoning if helpful
 
+**Response Location:** `review-04/phase-2-content/author-decisions-phase-2.md`
+
 **Note:** Phase 2 reviewers (Bailey, Sage, Felix) can run in parallel since we address different concerns.
 
 ---
@@ -43,10 +45,13 @@ For each question, please provide:
 - [ ] D) Prefer single chapter with clear internal structure
 
 **Editor Comments:**
-_[Space for editor feedback]_
+In Round 3, readers consistently reported hitting a wall around Tactic 20 of 38. The 3A/3B split was implemented to address this. However, I want to verify this addressed the root cause. The original issue wasn't just length—it was cognitive load from cataloguing manipulation patterns back-to-back. If readers are still skimming by Tactic 12-15, the split alone may not be sufficient. Consider whether the break point aligns with natural thematic clusters or feels arbitrary.
+
+**Editor Reasoning:**
+The goal is sustained engagement, not just shorter chapters. A split at the wrong point could feel like arbitrary interruption rather than natural breathing room. The split should feel like "end of Act 1" rather than "commercial break."
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -63,10 +68,13 @@ _[Space for author response]_
 - [ ] D) Cards work as comprehensive reference, fatigue is acceptable
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted Cards 1-27 were riveting while Cards 28-51 blurred together. The author chose to keep all 52 cards in Chapter 14 but add visual differentiation for essential cards. I need to verify this visual approach effectively guides readers to high-priority content without making other cards feel "skippable" in a way that undermines comprehension. Category G (Substance-Related, Cards 48-51) specifically felt clinical rather than emotionally resonant—did the suggested field notes or examples get added?
+
+**Editor Reasoning:**
+Decoder Cards serve dual purposes: educational reference AND emotional validation. If later cards lose the validation quality, readers may miss crucial patterns that apply to their situation. Visual hierarchy should guide, not gatekeep.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -83,10 +91,13 @@ _[Space for author response]_
 - [ ] D) Could use fewer, more impactful pauses
 
 **Editor Comments:**
-_[Space for editor feedback]_
+The original review noted pause-and-integrate sections were "few and far between given how heavy this material is." Round 3 added mid-chapter pauses for longer chapters and made existing pauses more prominent. The concern: pause points work only if readers honor them. If they're formatted as just another paragraph, readers will blow past them. Consider whether pauses have sufficient visual distinction (white space, different formatting, explicit "stop here" language) to actually interrupt the reading flow.
+
+**Editor Reasoning:**
+Trauma survivors reading recognition content often get activated and push through rather than pausing. Effective pause points need to feel like permission, not instruction.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -103,10 +114,13 @@ _[Space for author response]_
 - [ ] D) Distribution is fine, but variety could improve
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 identified that Chapters 6 and 11 had beautifully integrated field notes while other chapters felt like "pure theory." The author decision was to add field notes to chapters lacking them. I want to verify: Did Chapters 7-11 (the emotionally brutal sequence) receive adequate field notes to ground the heavy content? Did Chapter 17 (Recovery Tools) get success story examples to help readers believe recovery is possible?
+
+**Editor Reasoning:**
+Field notes transform "this is how narcissists operate" into "you're not crazy—someone else experienced this too." Chapters without them risk feeling academic rather than validating.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -123,10 +137,13 @@ _[Space for author response]_
 - [ ] D) Current balance is appropriate
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted repetition sometimes felt like "helpful reinforcement" and other times "redundant." The author chose to add more cross-references rather than repeat content. The balance here is delicate—trauma survivors often need repetition because information doesn't stick when you're activated. But redundancy can feel patronizing. Consider whether cross-references successfully point readers back to foundational content without making them flip pages during emotional reading.
+
+**Editor Reasoning:**
+Repetition and cross-referencing serve different cognitive functions. Repetition works for readers in crisis (they can't remember what they read yesterday). Cross-references work for linear readers building understanding. The book needs both.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -145,10 +162,13 @@ _[Space for author response]_
 - [ ] D) Need a cross-reference index
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 flagged that references like "Chapter 3, Tactic 4" and "Chapter 11, Exit Phase Escalation" weren't immediately clear about WHAT to look for. The author chose to add brief context to references. Example of what I'm looking for: "See Chapter 3, Tactic 4 (Silent Treatment) for how withdrawal reinforces compliance" rather than just "See Chapter 3, Tactic 4." Also verify that Chapter 14/15/16 references were updated since those chapters were consolidated.
+
+**Editor Reasoning:**
+Cross-references should enrich understanding, not create homework. If readers have to flip to another chapter to understand the current one, the reference has failed.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -165,10 +185,13 @@ _[Space for author response]_
 - [ ] D) Specific concepts to adjust: _____________
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 flagged that the "false ideal" concept in Chapter 5 felt suddenly introduced—like foundational material that belonged earlier. The author chose to briefly introduce it in Chapter 1 and expand in Chapter 5. I want to verify this works. Similarly, Card 0 (Wolf in Sheep's Clothing) appears AFTER Chapter 1 already used this metaphor. Check whether Chapter 1 now references Card 0 ("as you'll see in Card 0") to create forward momentum.
+
+**Editor Reasoning:**
+Concept timing affects comprehension. Introducing something "suddenly" breaks the reader's developing mental model. Forward references ("as we'll explore in Chapter X") create anticipation rather than confusion.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -185,30 +208,36 @@ _[Space for author response]_
 - [ ] D) Some specific terms need more explanation: _____________
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted sophisticated vocabulary (neuroception, cognitive dissonance, intermittent reinforcement, somatic) and asked whether this was intentional for clinical legitimacy or a barrier to crisis readers. The author confirmed clinical language is intentional but enhanced the glossary with simpler definitions. Verify the glossary voice is working—Round 3 specified "clinical passive" as the chosen voice. Key question: Can a reader in crisis who doesn't know these terms still follow the content?
+
+**Editor Reasoning:**
+Clinical language validates survivors ("there's a name for what I experienced"). But it fails if readers feel talked over rather than talked to.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
-### Q9: Chapter 10 Comprehension
+### Q9: Triangulation Examples Clarity
 
-**Context:** Chapter 10 (Childhood Patterns) was repositioned.
+**Context:** Chapter 7 triangulation section could be confusing.
 
-**The Question:** In its new position, does Chapter 10 flow naturally and make sense?
+**The Question:** Are the different triangulation types clearly distinguished?
 
 **Options:**
-- [ ] A) Flows naturally and enhances understanding
-- [ ] B) Feels disconnected from surrounding chapters
-- [ ] C) Content is good but needs stronger transitions
-- [ ] D) Position works but chapter itself needs revision
+- [ ] A) Types are clearly distinguished
+- [ ] B) Still need more explicit delineation
+- [ ] C) Subheaders help but examples need strengthening
+- [ ] D) Current presentation works
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted confusion between "children as messengers," "children as weapons," and "projection through the triangle." The author chose to add subheaders for each triangulation type. Verify these subheaders actually exist and that the examples under each clearly illustrate that specific type. A reader should be able to identify which triangulation pattern applies to their situation without cross-referencing all three.
+
+**Editor Reasoning:**
+Chapter 7 (Family) was noted as "gutting"—readers had to stop multiple times. If they're also confused about which pattern they're reading, the cognitive load doubles.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -225,10 +254,13 @@ _[Space for author response]_
 - [ ] D) Digital version would benefit from search functionality
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted that Chapter 14 is 1,784 lines—"essentially a book within a book." For reference use (which is the cards' primary function), readers need to find specific cards quickly. Check whether: (1) Appendix E (Index) is complete and useful, (2) Decoder Cards have clear category headers, (3) The numbering system (Card 0, Card 1-52) is intuitive for jumping to specific content.
+
+**Editor Reasoning:**
+A survivor in crisis needs to find "what tactic is this?" in under 30 seconds. The reference architecture must support that urgency.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -247,10 +279,13 @@ _[Space for author response]_
 - [ ] D) Intensity is appropriate for the material
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 described Chapters 7-11 as "emotionally brutal with little relief." The original question: Was there consideration to intersperse a practical/tool chapter earlier? The author chose to add "Quick Tool" boxes in Chapters 7-11 and "First Aid" callout boxes in early chapters. Verify these boxes exist and provide genuine relief—not just "here's a grounding exercise" but "here's something you can DO with what you're feeling right now."
+
+**Editor Reasoning:**
+The core tension: readers need recognition (which is heavy) before they can use tools effectively, but they may not survive the recognition phase without tools. The "Quick Tool" approach addresses this by embedding mini-tools without disrupting the recognition narrative.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -267,10 +302,13 @@ _[Space for author response]_
 - [ ] D) Field note would help ground this experience
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted: "The Golden Child and Scapegoat roles hit HARD emotionally. The Lost Child role felt less developed and didn't land with the same impact." The author acknowledged the pattern of invisibility mirrored in the text but asked whether this was intentional meta-commentary or accidental neglect. If intentional, it needs explicit acknowledgment. If not, Lost Child readers deserve equal emotional recognition.
+
+**Editor Reasoning:**
+Lost Children learned to be invisible to survive. If the book also makes them invisible, it reinforces their wound rather than healing it.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -287,10 +325,13 @@ _[Space for author response]_
 - [ ] D) Save recovery focus for Volume 2
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted: "The recovery chapter provides excellent tools but no examples of people who've successfully implemented them." The author chose to add recovery glimpses throughout heavy chapters rather than standalone success stories. Verify these glimpses exist and feel authentic—not like "here's a random positive person" but like "here's what's possible once you've done this work." The book should end with readers feeling heavy AND hopeful.
+
+**Editor Reasoning:**
+Hope without recognition is denial. Recognition without hope is despair. The book must hold both, and the balance shifts as chapters progress—more recognition early, more hope late.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -307,10 +348,13 @@ _[Space for author response]_
 - [ ] D) Format (standalone statement) works well
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted: "This declaration is powerful, but it's presented as a monologue. Did you consider having this as a call-and-response, or including a recording link, or making it more interactive?" The author chose to add ritual instructions. Verify these instructions create actual reader engagement—not just "read this aloud" but guidance on when, where, how to make this a sacred moment. The declaration should feel like a graduation ceremony, not a paragraph.
+
+**Editor Reasoning:**
+Sovereignty can't be handed to someone—they have to claim it. The format should support active claiming, not passive reading.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -327,10 +371,13 @@ _[Space for author response]_
 - [ ] D) Both before and after need enhancement
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 flagged: "The combined tactics in the 'When Leaving Triggers Everything at Once' section are appropriately terrifying, but there's no pause point before or after. This section could trigger crisis for readers actively in this situation." The author chose to add safety pauses both before and after. Verify: (1) Warning is prominent and specific (not buried in paragraph), (2) Post-section grounding is practical and immediate, (3) Crisis resources are immediately accessible without flipping to appendix.
+
+**Editor Reasoning:**
+Readers currently in exit phase are in genuine danger. The book must acknowledge this without triggering paralysis, and provide actionable safety without being preachy.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -349,10 +396,13 @@ _[Space for author response]_
 - [ ] D) Front matter is essential as-is
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted front matter is 296 lines—"essentially a short chapter." Questions about moving "A Note on Memory" or "A Note on Field Experience" to afterword. The author kept front matter but added a "Quick Start" option. Verify the Quick Start actually works—readers in crisis should be able to skip to Chapter 1 without missing safety-critical information. All safety content (resources, disclaimers, crisis guidance) must be in the Quick Start path.
+
+**Editor Reasoning:**
+Front matter serves different audiences: careful readers want context, activated readers want to start NOW. Both should be served.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -369,10 +419,13 @@ _[Space for author response]_
 - [ ] D) Variation creates inconsistent reading experience
 
 **Editor Comments:**
-_[Space for editor feedback]_
+This is less about word count and more about perceived density. Chapter 14 at 1,784 lines might be appropriate if it's scannable reference material. Chapter 7 at 800 lines might feel endless if it's emotionally dense recognition content. The question is whether readers can predict their reading experience. Consider whether chapter headings or front-of-chapter notes set appropriate expectations: "This is a longer chapter—consider breaking at the marked pauses."
+
+**Editor Reasoning:**
+Reader stamina management is part of the book's job. Readers shouldn't be surprised by how long something takes.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -389,10 +442,13 @@ _[Space for author response]_
 - [ ] D) Create alternate reading path for those who want theory first
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted: "Part I (Chapters 1-3 + pause) is 75% recognition/naming and only reaches 'understanding origins' in Part II. This means readers spend a long time in identification mode before getting to 'why.'" The author chose current pacing as intentional. However, verify that readers don't feel "stuck" in recognition. Some readers need the "why" to process the "what." Consider whether Part I includes any forward-pointing content like "we'll explore why this happens in Part II."
+
+**Editor Reasoning:**
+"Name it to tame it" is the therapeutic logic. But some readers can't tame it without understanding it. The book serves both by signaling that "why" is coming.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -409,10 +465,13 @@ _[Space for author response]_
 - [ ] D) Front matter crisis resources are sufficient for early needs
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted: "Readers might need grounding techniques WAY earlier (around Chapter 3 or 4 when they're getting activated by recognition)." The author chose to add "First Aid" callout boxes in early chapters with full protocols in Chapter 17. Verify: (1) First Aid boxes appear where readers are likely to get activated (Chapter 3 tactics, Chapter 7 family), (2) Boxes are immediately usable without needing Chapter 17, (3) Clear pathway from "emergency help now" to "full recovery later."
+
+**Editor Reasoning:**
+You can't tell someone in crisis "wait until Chapter 17." They need something NOW, with a promise that more comprehensive help is coming.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -427,10 +486,13 @@ _[Space for author response]_
 - [ ] D) Specific pacing issues: _____________
 
 **Editor Comments:**
-_[Space for editor feedback]_
+This is the holistic assessment. Consider: Does the book respect the reader's time? Does it earn its length? Are there sections that feel padded, or sections that feel cut short? Round 3 noted the core tension: "This book needs to be comprehensive AND digestible." If Round 4 shows the same tension, we may need to accept it as inherent rather than solvable. But if specific sections consistently feel "off," we should address them.
+
+**Editor Reasoning:**
+A well-paced book feels like the right length even if it's long. A poorly-paced book feels long even if it's short.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -447,10 +509,13 @@ _[Space for author response]_
 - [ ] D) Crisis readers well-served by front matter + specific chapters
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Crisis readers don't read linearly—they search for validation and immediate help. Check whether: (1) Index includes crisis-relevant terms (safety planning, emergency contact, leaving), (2) Crisis-specific chapters can stand alone without prior context, (3) Crisis resources appear in multiple places, not just front matter.
+
+**Editor Reasoning:**
+A reader googling "is my partner a narcissist" at 2am needs different support than someone reading cover-to-cover.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -465,10 +530,13 @@ _[Space for author response]_
 - [ ] D) Volume 2 serves recovery readers — this is recognition focus
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Recovery readers want understanding and validation, not crisis intervention. Check whether: (1) Recovery reader path is clear (potentially different chapter sequence), (2) "Past tense" content acknowledges readers who've already left, (3) Integration/meaning-making content exists alongside recognition.
+
+**Editor Reasoning:**
+A reader 5 years post-relationship needs the book to acknowledge their current reality, not assume they're still in it.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -483,10 +551,13 @@ _[Space for author response]_
 - [ ] D) Helpers can translate survivor focus to professional use
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Round 3 noted: "The front matter mentions 'therapists, coaches, healers, and friends who support survivors' as an audience. But the book is written in second person to survivors throughout." The author kept survivor focus but noted helpers as secondary audience. Check whether helpers can use this book with clients without awkward translation, or whether a "For Helpers" appendix would add significant value.
+
+**Editor Reasoning:**
+Helpers are force multipliers—one therapist with this book can help hundreds of survivors. Supporting them is high-leverage.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -501,10 +572,13 @@ _[Space for author response]_
 - [ ] D) Book appropriately balances accessibility and depth
 
 **Editor Comments:**
-_[Space for editor feedback]_
+Learning readers (students, researchers, curious people) want comprehensive understanding. The bibliography is crucial for this audience. Check whether: (1) Bibliography is comprehensive and current (through 2025 publications), (2) Theoretical framework is clear, (3) Citations are sufficient for academic use without overwhelming general readers.
+
+**Editor Reasoning:**
+This book will be cited in papers and used in courses. It should support that use case without compromising its primary survivor audience.
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
@@ -519,16 +593,32 @@ _[Space for author response]_
 - [ ] D) Mixed reception likely without specific changes: _____________
 
 **Editor Comments:**
-_[Space for editor feedback]_
+This is the bottom-line assessment for Phase 2 reader experience review. Round 3 concluded: "This is an important book that will help thousands of people." If Round 4 concurs, we move forward confidently. If Round 4 identifies new concerns or unresolved Round 3 issues, we address them before publication.
+
+**Editor Reasoning:**
+The beta reader's job is to simulate how real readers will experience the book. This final question asks: did we succeed?
 
 **Author Response:**
-_[Space for author response]_
+_[Your decision and reasoning here]_
 
 ---
 
 ## What's Working Exceptionally Well
 
-_(To be populated during review)_
+### Strengths Identified in Round 3:
+- The body-based approach (Chapter 2 and throughout) is REVOLUTIONARY for this genre
+- Field notes bring everything to life—more of these would be incredible
+- The tactical precision (naming patterns, providing scripts) is exactly what readers need
+- The decoder card format is genius for quick reference
+- The sovereignty statement in Chapter 19 is powerful
+- The writing voice is compassionate without being soft, direct without being harsh
+
+### Preserve These Core Elements:
+1. **"You're not crazy" validation** — This thread throughout the book is essential
+2. **Body wisdom centering** — The somatic approach differentiates this from cognitive-only resources
+3. **Tactical specificity** — Readers need exact phrases and scripts, not just concepts
+4. **Archetype protection** — Using archetypes protects privacy while teaching patterns
+5. **Compassionate authority** — The voice holds expertise without being preachy
 
 ---
 

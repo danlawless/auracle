@@ -86,5 +86,16 @@ Phase 3 Ready (Lydia, Clara)
 
 ---
 
+## Quick Start
+
+To create Phase 2 issues only:
+
+```bash
+cd /home/user/auracle/book/vol-1-decoder/review-04/phase-2-content
+./initiate-phase-2.sh
+```
+
+---
+
 *Phase 2 Content Review - Review Round 4*
 *January 2026*

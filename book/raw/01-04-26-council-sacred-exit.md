@@ -32,19 +32,19 @@ Your body knows something is wrong. That discomfort you feel about continuing is
 
 ---
 
-## What the Steward of Exchange Sees
+## The Exchange Reality
 
-Looking at your situation through the lens of sacred economics:
+Looking at your situation through the lens of fair exchange:
 
-| What Happened | Steward's Reading |
-|---------------|-------------------|
+| What Happened | What It Actually Means |
+|---------------|------------------------|
 | Partner: $180k / You: $25k as lead developer | Severe extraction imbalance |
 | You created primary value | Your energy was extracted |
 | "Good leader" feeling | Classic covert narcissist pattern |
 
-The Steward's primary question cuts through:
+The clarifying question cuts through:
 
-> *"Is this price a true reflection of the energy involved?"*
+> *"Is what I'm receiving a true reflection of what I'm giving?"*
 
 The answer is clearly no. A 7:1 ratio for the person doing less work is not misalignment—it's exploitation.
 
@@ -194,7 +194,7 @@ The discomfort you feel is not your values objecting to your exit. It's the dyin
 
 ---
 
-> *"May this exchange be clean, kind, and in sacred balance."* — Invocation of the Steward of Exchange
+> **Your needs matter. Your worth is inherent. Leaving exploitation is not betrayal—it is sovereignty.**
 
 ---
 
@@ -221,7 +221,6 @@ The discomfort you feel is not your values objecting to your exit. It's the dyin
 **Relevant to:**
 - Vol. 1 Decoder: Covert narcissist patterns, 3-3-3 Rule, exploitation in partnerships
 - Vol. 3 Sovereignty: Sacred exit, honoring free will, breaking exploitative agreements
-- Steward of Exchange teachings: Sacred economics, fair value exchange
 
 **Key Teachings for Volume Integration:**
 1. Agreements obtained through manipulation are not sacred contracts

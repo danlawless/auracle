@@ -28,6 +28,19 @@ What matters in this book isn't diagnosis. What matters is **patterns of behavio
 
 ---
 
+> **BODY CHECK: Your Body Already Knows the Type**
+>
+> As you read about the different types of narcissism ahead, notice what happens in your body. When a particular type resonates—when you think *"That's them"*—pay attention to the physical response:
+>
+> - Does your jaw clench?
+> - Do your shoulders rise?
+> - Does your breath catch?
+> - Do you feel a knot in your stomach?
+>
+> This somatic recognition is your body remembering. Trust it. Your nervous system learned to read these patterns long before you had vocabulary for them.
+
+---
+
 ## The False Ideal: Understanding What Drives Narcissism
 
 Before exploring the types, you need to understand the engine that powers all of them: **the false ideal**.

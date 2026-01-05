@@ -63,6 +63,20 @@ Things are good again. The person you love is back. You question whether the bad
 
 ---
 
+> **BODY CHECK: Your Body Knows This Cycle**
+>
+> As you read about these phases, your body may already be responding. Perhaps your breathing shifted. Perhaps your shoulders tensed. Perhaps you felt a wave of exhaustion or a knot in your stomach.
+>
+> That recognition isn't just intellectual—it's somatic. Your body has logged every cycle, even the ones your mind minimized. Check in now:
+>
+> - Where do you feel the "tension building" phase in your body?
+> - What physical sensation accompanies the relief of reconciliation?
+> - What does your body do when it senses the cycle restarting?
+>
+> This body awareness is data. It's the same early warning system from Chapter 2. Your body knew you were in a cycle long before your mind could name it.
+
+---
+
 ## The Neuroscience of Intermittent Reinforcement
 
 Here's where it gets biological.
@@ -137,6 +151,26 @@ This is why relief feels like love: your system floods with neurochemicals after
 In healthy relationships, love doesn't require pain as its predecessor. Connection doesn't depend on recovery from disconnection. Warmth isn't notable because it follows coldness.
 
 If you can only feel close after conflict, you're in a relief cycle, not a love cycle.
+
+---
+
+> **FOR HELPERS: Therapists, Coaches, and Supporters**
+>
+> When working with clients in trauma bonds, understand that:
+>
+> **Don't pathologize the bond.** Trauma bonding is a normal neurobiological response to abnormal circumstances. Saying "just leave" ignores the biological hooks that make leaving feel impossible.
+>
+> **Expect ambivalence.** Clients may vacillate between wanting to leave and defending the relationship. This isn't weakness—it's the bond at work. Meet them where they are.
+>
+> **Focus on the nervous system.** Before cognitive interventions, prioritize somatic safety. A dysregulated nervous system can't process logical arguments for leaving.
+>
+> **Validate the love as real.** The attachment was real, even if the relationship was harmful. Clients need permission to grieve without judgment.
+>
+> **Avoid couples therapy.** When one partner is using control tactics, couples therapy often becomes another venue for manipulation. Individual work is safer until the pattern is broken.
+>
+> *For more on supporting clients through recovery, see Chapter 17: Energetic Remapping.*
+
+---
 
 ### The Repulsion-Attraction Confusion
 
@@ -483,6 +517,8 @@ If you do contact them (or they hoover you and you respond):
 5. **Add a barrier.** Block another avenue of contact.
 
 The goal isn't perfection. It's direction. Every time you choose yourself, the new neural pathways strengthen.
+
+Each choice to step back from the cycle is a small act of **sovereignty**—the reclaiming of your own nervous system, your own decisions, your own life.
 
 ---
 

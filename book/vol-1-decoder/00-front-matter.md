@@ -48,6 +48,8 @@ Chapter 2: The Energetic Signature — How to Recognize Control Before Your Mind
 
 Chapter 3: The Narcissist Playbook — 38 Tactics of Control, Named and Decoded .................... [pg. XX]
 
+*Interlude: Pause and Integrate* .................... [pg. XX]
+
 **Part II: Understanding Origins**
 
 Chapter 4: The Psychology of Trauma Bonds — Why You Got Hooked, and Why Leaving Is So Hard .................... [pg. XX]
@@ -60,9 +62,11 @@ Chapter 7: Family Roles & Triangulation — When Manipulation Is Your Origin Sto
 
 Chapter 8: Parental Wounds — The Mother Wound and Father Wound .................... [pg. XX]
 
-Chapter 9: Breaking Free from Family Systems — Siblings, Shame, and Sovereignty .................... [pg. XX]
+Chapter 9: Understanding Your Childhood Patterns — How Early Experiences Shape Adult Vulnerability .................... [pg. XX]
 
-Chapter 10: Understanding Your Childhood Patterns — How Early Experiences Shape Adult Vulnerability .................... [pg. XX]
+Chapter 10: Breaking Free from Family Systems — Siblings, Shame, and Sovereignty .................... [pg. XX]
+
+*Interlude: Pause and Integrate* .................... [pg. XX]
 
 **Part III: Patterns in Context**
 
@@ -72,6 +76,8 @@ Chapter 12: Manipulation Across Contexts — Beyond Romance: Recognizing Pattern
 
 Chapter 13: The Exposure Questions — Questions That Make Narcissists Reveal Themselves .................... [pg. XX]
 
+*Interlude: Pause and Integrate* .................... [pg. XX]
+
 **Part IV: Decoder Tools**
 
 Chapter 14: The Decoder Cards — 52 Quick-Reference Guides for Real-Time Pattern Recognition .................... [pg. XX]
@@ -79,6 +85,8 @@ Chapter 14: The Decoder Cards — 52 Quick-Reference Guides for Real-Time Patter
 - *Cards 1-27: Core Patterns*
 - *Cards 28-51: Advanced Patterns*
 - *Emergency Protocol: When You Need Clarity Now*
+
+*Interlude: Pause and Integrate* .................... [pg. XX]
 
 **Part V: Recovery & Response**
 
@@ -223,7 +231,7 @@ Read the book in order. The chapters build on each other, taking you from recogn
 **Recommended Healing Path:**
 1. **[Chapter 17: Energetic Remapping](./chapters/17-energetic-remapping.md)** — Nervous system repair and grounding
 2. **[Chapter 19: Moving Forward](./chapters/19-moving-forward.md)** — Roadmap for recovery
-3. **[Chapter 10: Understanding Your Childhood Patterns](./chapters/10-childhood-patterns.md)** — Understanding vulnerability roots *(advanced—read when ready)*
+3. **[Chapter 9: Understanding Your Childhood Patterns](./chapters/09-childhood-patterns.md)** — Understanding vulnerability roots
 4. **[Chapter 4: Trauma Bonds](./chapters/04-trauma-bonds.md)** — The biology of what happened
 5. **[Volume 2: The Bridge](../vol-2-bridge/README.md)** — Continue your healing journey with attachment repair
 

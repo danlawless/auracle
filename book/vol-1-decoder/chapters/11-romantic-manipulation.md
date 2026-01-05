@@ -393,6 +393,24 @@ Your nervous system is giving you data:
 - Needing more time alone to "recover" from time together
 - Physical symptoms without medical cause (headaches, digestive issues, fatigue)
 
+---
+
+> **PRACTICAL TOOL: The Weekly Body Check**
+>
+> Your body is giving you relationship data. Track it:
+>
+> **Every Sunday, rate 1-10:**
+> - How relaxed do I feel around my partner? ___
+> - How much do I edit myself with them? ___
+> - How exhausted am I from emotional labor? ___
+> - How much of "me" do I recognize this week? ___
+>
+> **Track for 4 weeks.** If the numbers stay low or drop, that's diagnostic information. Your body is telling you something your mind may be minimizing.
+>
+> *Low scores don't mean your partner is a narcissist. They mean something in this relationship isn't working for you. That's enough to pay attention to.*
+
+---
+
 ### What to Do If This Is Your Relationship
 
 You don't have to wait for it to get worse to leave. "Not extreme" doesn't mean "worth staying."

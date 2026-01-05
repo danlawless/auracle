@@ -1,7 +1,7 @@
 # Author Decisions - Phase 3 Review Round 3
 
 **Volume:** Vol. 1: The Narcissism Decoder
-**Date:** [DATE]
+**Date:** January 5, 2026
 **Author:** lightwavesenergy
 
 ---
@@ -9,7 +9,7 @@
 ## Instructions
 
 This document records decisions on Phase 3 questions from:
-- Lydia (Line Editor) - 18 questions
+- Lydia (Line Editor) - 18 questions ✅ COMPLETED
 - Clara (Copy Editor) - 28 questions
 
 **Note:** Complete Lydia's questions first, then Clara's. Line editing decisions may affect copy editing choices.
@@ -18,35 +18,37 @@ This document records decisions on Phase 3 questions from:
 
 ## Lydia's Line Editor Questions (18 Questions)
 
+*Author responses provided via GitHub Issue #233 comment on January 5, 2026*
+
 ### Category A: Voice & Consistency
 
 **Q1: Intentional "we" usage**
-- [ ] A) Keep "we" shifts as intentional solidarity moments
+- [x] A) Keep "we" shifts as intentional solidarity moments
 - [ ] B) Standardize to "you" throughout
 - [ ] C) Review case-by-case and decide
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** The "we" shifts serve as intentional moments of solidarity with the reader, reinforcing that they are not alone in this work. These shifts create connection while maintaining the primary second-person address.
 
 ---
 
 **Q2: Field Notes voice shift**
 - [ ] A) Keep third person in Field Notes (intentional distance)
-- [ ] B) Convert to second person for consistency
+- [x] B) Convert to second person for consistency
 - [ ] C) Keep third person but add framing note
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Converting Field Notes to second person maintains voice consistency throughout the manuscript and keeps the intimate connection with the reader unbroken.
 
 ---
 
 **Q3: Clinical vs. conversational tone**
-- [ ] A) Variation is intentional — clinical for science, conversational for support
+- [x] A) Variation is intentional — clinical for science, conversational for support
 - [ ] B) Lean more clinical throughout
 - [ ] C) Lean more conversational throughout
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** The tonal variation serves the content—clinical language grounds the scientific explanations while conversational tone provides warmth during supportive sections. This rhythm is intentional and effective.
 
 ---
 
@@ -55,20 +57,20 @@ This document records decisions on Phase 3 questions from:
 **Q4: Rhythm variation in lists**
 - [ ] A) Keep current density (reference format)
 - [ ] B) Add subsection breaks for longer cards
-- [ ] C) Review longest cards individually
+- [x] C) Review longest cards individually
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** A case-by-case review allows for targeted improvements to the longest cards without disrupting the effective density of others that work well as reference material.
 
 ---
 
 **Q5: Pause Points effectiveness**
 - [ ] A) Yes, add Pause Points to Chapter 3 and other dense chapters
 - [ ] B) Chapter 3 pause points already planned (Phase 2 decision)
-- [ ] C) Current distribution is sufficient
+- [x] C) Current distribution is sufficient
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** The current pause point distribution effectively balances the dense material. Additional pause points are not needed at this time.
 
 ---
 
@@ -77,52 +79,52 @@ This document records decisions on Phase 3 questions from:
 **Q6: "Here's" as transition**
 - [ ] A) Intentional voice marker — keep as-is
 - [ ] B) Reduce frequency, vary transitions
-- [ ] C) Review and vary only where repetitive
+- [x] C) Review and vary only where repetitive
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** "Here's" is an effective voice marker, but reviewing for repetitive instances allows for natural variation where it would improve flow without losing the conversational tone.
 
 ---
 
 **Q7: Contraction consistency**
-- [ ] A) Intentional pattern — contractions conversational, full forms clinical
+- [x] A) Intentional pattern — contractions conversational, full forms clinical
 - [ ] B) Standardize to contractions throughout
 - [ ] C) Standardize to full forms throughout
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** The distinction between contractions (conversational sections) and full forms (clinical sections) is intentional and reinforces the tonal variation strategy.
 
 ---
 
 **Q8: Em-dash frequency**
 - [ ] A) Current frequency is intentional
-- [ ] B) Reduce to 1-2 per page (50% reduction per Phase 1)
+- [x] B) Reduce to 1-2 per page (50% reduction per Phase 1)
 - [ ] C) Reduce further
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Honoring the Phase 1 decision to reduce em-dash frequency by 50% will improve readability while maintaining the conversational rhythm.
 
 ---
 
 ### Category D: Metaphor & Imagery
 
 **Q9: Extended metaphors**
-- [ ] A) Intentional — core metaphors extended, others quick illustrations
+- [x] A) Intentional — core metaphors extended, others quick illustrations
 - [ ] B) Extend more metaphors for consistency
 - [ ] C) Reduce extended metaphors
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Core metaphors like "The Gradual Dimming" receive extended development as teaching tools, while other metaphors serve as quick illustrations. This variation is purposeful.
 
 ---
 
 **Q10: Frequency/energy language**
 - [ ] A) Intentional — resonates with target audience
 - [ ] B) Reduce spiritual/energy language
-- [ ] C) Add brief grounding note for skeptical readers
+- [x] C) Add brief grounding note for skeptical readers
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Adding a brief grounding note acknowledges that some readers may be skeptical of energy/frequency language while keeping the vocabulary that resonates with the target audience.
 
 ---
 
@@ -131,20 +133,20 @@ This document records decisions on Phase 3 questions from:
 **Q11: Chapter 19 ending**
 - [ ] A) "Welcome home" is the intentional ending
 - [ ] B) Add brief forward-looking paragraph
-- [ ] C) Add epilogue
+- [x] C) Add epilogue
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** An epilogue provides additional closure and a forward-looking perspective after the emotionally dense final chapter, giving readers a bridge to their continued journey.
 
 ---
 
 **Q12: "Pause after Part X" chapters**
 - [ ] A) Yes, integrate into chapter endings (per Phase 1 decision)
 - [ ] B) Keep as separate interlude chapters
-- [ ] C) Remove from manuscript
+- [x] C) Remove from manuscript
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** The "Pause after Part X" chapters should be removed from the manuscript. The current chapter structure provides sufficient pacing without separate interlude files.
 
 ---
 
@@ -152,21 +154,21 @@ This document records decisions on Phase 3 questions from:
 
 **Q13: Script variety**
 - [ ] A) Intentional — some situations have one best response
-- [ ] B) Add options where currently single response
+- [x] B) Add options where currently single response
 - [ ] C) Reduce to single best response throughout
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Adding response options empowers readers with flexibility and acknowledges that different situations may call for different approaches based on context and personal style.
 
 ---
 
 **Q14: Bracketed placeholders**
 - [ ] A) All placeholders have been replaced
 - [ ] B) Some intentional placeholders remain (specify locations)
-- [ ] C) Review and replace any remaining
+- [x] C) Review and replace any remaining
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** A systematic review will ensure all bracketed placeholders are replaced with specific, concrete examples before publication.
 
 ---
 
@@ -174,12 +176,12 @@ This document records decisions on Phase 3 questions from:
 
 **Q15: Pull quote selection**
 - [ ] A) Most important/memorable concepts
-- [ ] B) Most quotable/shareable phrases
+- [x] B) Most quotable/shareable phrases
 - [ ] C) Emotional emphasis moments
 - [ ] D) Combination of above
 - [ ] E) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Pull quotes should prioritize the most quotable and shareable phrases, maximizing their impact for readers who may share excerpts and for visual emphasis within the text.
 
 ---
 
@@ -187,10 +189,10 @@ This document records decisions on Phase 3 questions from:
 - [ ] A) Case studies — showing patterns in action
 - [ ] B) Emotional anchors — grounding abstract concepts
 - [ ] C) Pattern illustrations — varied examples
-- [ ] D) All of the above, depending on chapter
+- [x] D) All of the above, depending on chapter
 - [ ] E) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Field Notes serve multiple purposes depending on context—as case studies, emotional anchors, and pattern illustrations—and this flexibility is intentional to best serve each chapter's needs.
 
 ---
 
@@ -199,21 +201,21 @@ This document records decisions on Phase 3 questions from:
 **Q17: "You may have" softening**
 - [ ] A) Intentional validation pattern — keep as-is
 - [ ] B) Vary with "You probably," "Perhaps you," etc.
-- [ ] C) Mix — keep some, vary others
+- [x] C) Mix — keep some, vary others
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** A mixed approach retains the validating "You may have" pattern where it's most effective while introducing variety where repetition becomes noticeable.
 
 ---
 
 **Q18: List structure preferences**
-- [ ] A) Vary based on context (current approach)
+- [x] A) Vary based on context (current approach)
 - [ ] B) Standardize to infinitives
 - [ ] C) Standardize to gerunds
 - [ ] D) Standardize to present tense
 - [ ] E) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Varying list structure based on context maintains natural flow and allows each list to best serve its specific purpose. Rigid standardization would reduce flexibility.
 
 ---
 
@@ -511,31 +513,38 @@ Mark all that should be capitalized:
 
 ## Phase 3 Completion
 
-**Date Lydia's Questions Completed:** ____________
+**Date Lydia's Questions Completed:** January 5, 2026
 **Date Clara's Questions Completed:** ____________
 
-**Ready to proceed to Phase 4:** [ ] Yes
+**Ready to proceed to Phase 4:** [ ] Yes (pending Clara's questions)
 
-**Notes:**
+**Notes:** Author responses received via GitHub Issue #233 comment.
 
 ---
 
 ## Implementation Summary
 
-### Line Edit Changes Required:
-1.
-2.
-3.
+### Line Edit Changes Required (from Lydia's Questions):
+1. **Q2:** Convert Chapter 10 Field Notes from third person to second person for voice consistency
+2. **Q4:** Review longest Decoder Cards individually for potential subsection breaks
+3. **Q6:** Review and vary "Here's" transitions only where repetitive
+4. **Q8:** Reduce em-dash frequency to 1-2 per page (50% reduction per Phase 1)
+5. **Q10:** Add brief grounding note for skeptical readers regarding frequency/energy language (Chapter 2)
+6. **Q11:** Add epilogue after Chapter 19 (beyond "Welcome home" ending)
+7. **Q12:** Remove "Pause after Part X" chapters from manuscript
+8. **Q13:** Add response options where Power Moves currently have single response
+9. **Q14:** Review and replace any remaining bracketed placeholders
+10. **Q17:** Mix "You may have" pattern — keep some, vary others for reduced repetition
 
 ### Copy Edit Changes Required:
-1.
+1. *(Pending Clara's questions)*
 2.
 3.
 
 ### Style Sheet Updates:
-1.
-2.
-3.
+1. **Contractions:** Document intentional pattern — contractions in conversational sections, full forms in clinical sections
+2. **Pull Quotes:** Selection criteria = most quotable/shareable phrases
+3. **List Structure:** Vary verb form based on context (no standardization)
 
 ---
 

@@ -12,6 +12,24 @@ This chapter provides practical tools for rewiring your responses, for teaching 
 
 ---
 
+> **FOR HELPERS: Supporting Nervous System Recovery**
+>
+> When supporting survivors through the recovery phase:
+>
+> **Go slow.** Nervous system work moves at its own pace. Pushing for "progress" can retraumatize. Follow the client's body, not their calendar.
+>
+> **Normalize the timeline.** Many survivors expect to be "over it" quickly. Educate them that rewiring automatic responses takes months or years, not weeks. This isn't pathology—it's neurobiology.
+>
+> **Watch for spiritual bypass.** Clients may want to jump to forgiveness or "moving on" before completing somatic processing. Premature cognitive closure often masks unprocessed activation.
+>
+> **Resource before processing.** Before exploring difficult material, ensure the client has adequate grounding skills. Can they return to baseline after activation? If not, focus on resourcing first.
+>
+> **Recognize the window of tolerance.** Recovery work should stay within the zone where clients feel challenged but not overwhelmed. Flooding is counterproductive.
+>
+> *These tools can be used in session or assigned as homework. Consistency matters more than duration.*
+
+---
+
 ## Why Your Body Still Reacts
 
 You've done the intellectual work. You can name the tactics. You understand the psychology. Yet:

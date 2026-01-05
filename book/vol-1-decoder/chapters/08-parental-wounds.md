@@ -12,6 +12,20 @@
 
 ---
 
+> **BODY CHECK: Parental Material Hits Deep**
+>
+> This chapter may activate your body before your mind catches up. As you read about parental wounds, notice:
+>
+> - Is your breathing shallow or held?
+> - Has your chest tightened?
+> - Do you feel a pull to stop reading, minimize, or defend them?
+>
+> These responses are your nervous system recognizing something. The urge to protect them, even now, was installed when you were small and dependent. Your body learned that criticizing them felt dangerous—because, for a child, it was.
+>
+> You're safe now. You can look at this. Breathe. Keep going at whatever pace works for you.
+
+---
+
 ## The Mother Wound: Parental Narcissism
 
 When the narcissist is your parent, the wound runs particularly deep.

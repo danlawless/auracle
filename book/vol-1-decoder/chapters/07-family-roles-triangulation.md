@@ -200,6 +200,24 @@ Triangulation serves the narcissist because:
 - **It creates confusion.** You're never sure who to trust or what's true.
 - **It generates supply.** Family drama is a reliable source of attention and involvement.
 
+---
+
+> **PRACTICAL TOOL: The Direct Communication Practice**
+>
+> When you suspect triangulation, try this:
+>
+> 1. **Go direct:** Instead of responding to what you "heard" someone said, reach out to them directly. "Hey, Mom mentioned you were upset with me. What's going on?"
+>
+> 2. **Verify before reacting:** Before defending yourself against reported accusations, check the source. "Did you actually say X?"
+>
+> 3. **Name the pattern:** If it's safe, call out the triangulation gently. "I'd prefer we talk directly rather than through Mom."
+>
+> 4. **Refuse the messenger role:** When asked to pass along messages, decline. "I think that's a conversation for the two of you."
+>
+> *Breaking triangulation doesn't require confrontation. It requires building direct lines of communication that bypass the hub.*
+
+---
+
 ### The Trap
 
 In a triangulated family, you may find yourself:

@@ -1,6 +1,6 @@
 # Pause and Integrate
 
-You've completed **Part II: Understanding Origins** (Chapters 5–12)
+You've completed **Part II: Understanding Origins** (Chapters 4–10)
 
 ---
 

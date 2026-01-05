@@ -1,4 +1,4 @@
-# Chapter 9: Breaking Free from Family Systems
+# Chapter 10: Breaking Free from Family Systems
 
 ## Siblings, Shame, and Sovereignty
 

@@ -20,8 +20,8 @@
 | [Chapter 6](./chapters/06-narcissist-roles.md) | The Masks They Wear: 12 Identity Roles | Strategic personas narcissists adopt for control |
 | [Chapter 7](./chapters/07-family-roles-triangulation.md) | Family Roles & Triangulation | Scapegoats, golden children, and the games narcissists play |
 | [Chapter 8](./chapters/08-parental-wounds.md) | Parental Wounds | When your parent is the narcissist |
-| [Chapter 9](./chapters/09-family-breaking-free.md) | Breaking Free from Family Systems | Exit strategies and ongoing contact management |
-| [Chapter 10](./chapters/10-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
+| [Chapter 9](./chapters/09-childhood-patterns.md) | Understanding Your Childhood Patterns | How early experiences shape adult vulnerability |
+| [Chapter 10](./chapters/10-family-breaking-free.md) | Breaking Free from Family Systems | Exit strategies and ongoing contact management |
 | [Chapter 11](./chapters/11-romantic-manipulation.md) | Romantic Manipulation | How narcissism operates in intimate relationships |
 | [Chapter 12](./chapters/12-manipulation-across-contexts.md) | Manipulation Across Contexts | Workplace, friendships, and other arenas |
 | [Chapter 13](./chapters/13-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |
@@ -85,7 +85,7 @@ Read the book in order starting from the [Front Matter](./00-front-matter.md). T
 **Recommended Healing Path:**
 1. **[Chapter 17: Energetic Remapping](./chapters/17-energetic-remapping.md)** — Nervous system repair and grounding
 2. **[Chapter 19: Moving Forward](./chapters/19-moving-forward.md)** — Roadmap for recovery
-3. **[Chapter 10: Understanding Your Childhood Patterns](./chapters/10-childhood-patterns.md)** — Understanding vulnerability roots *(advanced—read when ready)*
+3. **[Chapter 9: Understanding Your Childhood Patterns](./chapters/09-childhood-patterns.md)** — Understanding vulnerability roots
 4. **[Chapter 4: Trauma Bonds](./chapters/04-trauma-bonds.md)** — The biology of what happened
 5. **[Volume 2: The Bridge](../vol-2-bridge/README.md)** — Continue your healing journey with attachment repair
 
@@ -155,8 +155,8 @@ PART II: UNDERSTANDING ORIGINS
 ├── Chapter 6 ............. The Masks They Wear: 12 Identity Roles
 ├── Chapter 7 ............. Family Roles & Triangulation
 ├── Chapter 8 ............. Parental Wounds
-├── Chapter 9 ............. Breaking Free from Family Systems
-├── Chapter 10 ............ Understanding Your Childhood Patterns (Advanced)
+├── Chapter 9 ............. Understanding Your Childhood Patterns
+├── Chapter 10 ............ Breaking Free from Family Systems
 ├── Chapter 11 ............ Romantic Manipulation
 ├── Chapter 12 ............ Manipulation Across Contexts
 └── Chapter 13 ............ Diagnostic Questions for Confirming Patterns

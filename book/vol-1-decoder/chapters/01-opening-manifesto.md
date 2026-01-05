@@ -56,6 +56,8 @@ The difference between genuine care and control disguised as care isn't always i
 
 That's the only test you need.
 
+And here's the promise at the heart of this book: *You get to reclaim yourself.* Every pattern you name, every manipulation you recognize, every boundary you hold—these are steps toward something the final chapters will call **sovereignty**. The right to your own perception. The authority over your own life. The freedom that comes when you stop needing their approval to know your own truth.
+
 ### The Wolf in Sheep's Clothing
 
 There's an old fable you already know, dating at least to medieval times, though the precise origins are uncertain. A wolf, hungry and clever, realizes it cannot get close to the sheep by being what it is. So it wraps itself in wool. It walks among the flock. It gains trust. And only when it's close enough to consume does it reveal its teeth.

@@ -63,6 +63,95 @@ If healing isn't possible:
 
 ---
 
+## Two Modes: What Sibling Exchange Actually Looks Like
+
+The same sibling relationship can hold both dysregulated and regulated patterns. This isn't about labeling your sibling as "healthy" or "unhealthy"—it's about recognizing *which mode is active* and responding accordingly.
+
+### The Dysregulated Pattern: Rupture → Guilt → Re-entry Without Repair
+
+**The setup:** You set a clear, neutral boundary about availability.
+
+**Their response:**
+> "Fine. Don't have fun with me. I didn't want to go anyway."
+> "I'll keep all the fun secrets I was gonna tell you to myself."
+
+**What's happening underneath:**
+- Passive-aggressive withdrawal disguised as humor
+- Guilt-induction as leverage ("I'll punish the connection")
+- Protest of connection, not a request for it
+- Your boundary gets reframed as *your wrongdoing*
+
+**Then, hours later:**
+> "you up?"
+> "I have an idea, and I need to know if it's genius or nuts."
+
+**The pattern:** Rupture → guilt → re-entry *without repair*
+
+Instead of "Hey, I felt hurt" or "Can we reset?"—they switch to novelty, intellectual engagement, access to your attention. The emotional loop stays unfinished. You're expected to act like nothing happened.
+
+**Why it drains you:** You're in adult-with-limits mode. They're in emotional-proximity-seeking mode *without taking responsibility for their reactions*. This is frame mismatch—you're not speaking from the same mode of relating.
+
+---
+
+### The Regulated Pattern: Share → Ask → Respond → Complete
+
+**The setup:** They share creative work they're excited about.
+
+> [Shows you something they made]
+> "I could do a normal version. Or I could do an insane over-the-top one."
+> "What do you think?"
+
+**Your response:**
+> "Over the top. I like it."
+> "So dumb it's good."
+
+**What's happening underneath:**
+- Direct ask, no subtext
+- Sharing something they made, inviting genuine input
+- Your response is brief, warm, actually answers the question
+- No emotional labor required
+- The exchange is *complete*
+
+**The pattern:** Share → ask → respond → done
+
+No guilt. No repair needed. No late-night re-entry. Both people leave the interaction without residue.
+
+---
+
+### The Contrast
+
+| Dysregulated Exchange | Regulated Exchange |
+|----------------------|-------------------|
+| Boundary → passive-aggression → guilt bid → re-entry without repair | Share → ask → respond → complete |
+| "Fine. Don't have fun with me." | "What do you think?" |
+| Requires you to manage their feelings | Requires only your honest opinion |
+| Frame mismatch (logistical vs emotional) | Same frame (creative collaboration) |
+| Feels draining even when "nothing happened" | Feels easy even when brief |
+| You second-guess your response | You respond and move on |
+
+---
+
+### The Key Insight
+
+**You don't owe the same response to both modes.**
+
+When they're in creative-sharing mode: brief warmth works.
+When they're in guilt-access mode: boundaries work.
+
+This isn't coldness—it's discernment. You're responding to *what's actually happening*, not performing connection regardless of the energy coming toward you.
+
+**The grief underneath:**
+
+Sometimes the hardest part isn't the dysregulated exchanges—it's realizing you're no longer in the same developmental chapter. You want them to recognize your adulthood without collapsing into protest. That recognition may never come in the way you hope.
+
+And that's sad—without anyone being bad.
+
+> *"I can stay kind without staying available."*
+
+*For practical scripts on navigating sibling exchanges, see Chapter 18.*
+
+---
+
 ## Shame Programming from Family Dynamics
 
 **The mechanism:** In narcissistic or emotionally immature family systems, shame becomes the primary tool for maintaining roles and preventing individuation.

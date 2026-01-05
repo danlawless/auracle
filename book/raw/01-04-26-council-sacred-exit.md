@@ -293,7 +293,6 @@ The discomfort you feel is not your values objecting to your exit. It's the dyin
 ## Integration Notes
 
 **Relevant to:**
-- Vol. 1 Decoder: Covert narcissist patterns, 3-3-3 Rule, exploitation in partnerships
 - Vol. 3 Sovereignty: Sacred exit, honoring free will, breaking exploitative agreements
 
 **Key Teachings for Volume Integration:**

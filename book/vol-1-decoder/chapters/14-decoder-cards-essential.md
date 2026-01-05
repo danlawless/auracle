@@ -1,10 +1,12 @@
-# Chapter 14: Decoder Cards — Core Patterns
+# Chapter 14: Decoder Cards — Essential Patterns
+
+> **[ESSENTIAL]** These foundational patterns appear most frequently. Master these first.
 
 ## Quick-Reference Guides for Real-Time Recognition
 
 ---
 
-This chapter contains decoder cards: compressed, practical guides for recognizing and responding to specific manipulation patterns in real time.
+This chapter contains decoder cards: compressed, practical guides for recognizing and responding to specific manipulation patterns in real time. These **Essential Patterns** (Cards 0-22) represent the most common manipulation tactics you'll encounter—the ones that appear across virtually every toxic dynamic.
 
 **Why these exist:**
 

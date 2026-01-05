@@ -106,15 +106,15 @@ export const volumes: Volume[] = [
         type: 'chapter',
       },
       {
-        slug: 'decoder-cards-core',
-        title: 'Decoder Cards — Core Patterns',
-        filename: '14-decoder-cards-core.md',
+        slug: 'decoder-cards-essential',
+        title: 'Decoder Cards — Essential Patterns',
+        filename: '14-decoder-cards-essential.md',
         type: 'chapter',
       },
       {
-        slug: 'decoder-cards-advanced',
-        title: 'Decoder Cards — Advanced Patterns',
-        filename: '15-decoder-cards-advanced.md',
+        slug: 'decoder-cards-specialized',
+        title: 'Decoder Cards — Specialized Patterns',
+        filename: '15-decoder-cards-specialized.md',
         type: 'chapter',
       },
       {
@@ -169,6 +169,12 @@ export const volumes: Volume[] = [
         slug: 'appendix-index',
         title: 'Appendix E: Index',
         filename: 'appendix-e-index.md',
+        type: 'appendix',
+      },
+      {
+        slug: 'appendix-substance-patterns',
+        title: 'Appendix F: Substance-Related Patterns',
+        filename: 'appendix-f-substance-patterns.md',
         type: 'appendix',
       },
       {

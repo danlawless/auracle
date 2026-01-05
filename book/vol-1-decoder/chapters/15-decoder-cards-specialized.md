@@ -1,10 +1,12 @@
-# Chapter 15: Decoder Cards — Advanced Patterns
+# Chapter 15: Decoder Cards — Specialized Patterns
+
+> **[SPECIALIZED]** These patterns appear in specific contexts. Reference as needed.
 
 ## Recognizing Sophisticated Control Tactics
 
 ---
 
-These cards cover more complex manipulation patterns—tactics that are harder to name, often more dangerous, and frequently appear during high-stakes moments like relationship exits.
+These cards cover more complex manipulation patterns—tactics that are harder to name, often more dangerous, and frequently appear during high-stakes moments like relationship exits. These **Specialized Patterns** (Cards 23-38) require context-specific recognition and may not appear in every dynamic, but when they do, they're particularly harmful.
 
 ---
 

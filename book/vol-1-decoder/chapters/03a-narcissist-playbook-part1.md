@@ -136,7 +136,7 @@ These tactics are about establishing dominance: who has power, who sets the agen
 
 ---
 
-## ⏸️ Pause Point: Grounding Exercise
+## Pause Point: Grounding Exercise
 
 You've just read about 8 tactics of control and power. Before continuing, take a moment to ground:
 
@@ -300,7 +300,7 @@ This often appears with trivial demands that become tests of compliance. They de
 
 ---
 
-## ⏸️ Pause Point: Integration Break
+## Pause Point: Integration Break
 
 You've now learned 19 tactics across three categories: Control, Validation, and Psychological Manipulation.
 

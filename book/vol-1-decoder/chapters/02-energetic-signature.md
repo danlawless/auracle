@@ -349,7 +349,7 @@ There's a fourth response pattern not always included in traditional nervous sys
 - Abandoning your own needs to please them
 - Becoming hyperattuned to what they want
 - Losing track of what you want
-- Prioritizing their comfort over your wellbeing
+- Prioritizing their comfort over your well-being
 
 The fawn response is particularly common among people who grew up with controlling or emotionally volatile caregivers. It becomes the default way of navigating threatening relationships.
 

@@ -347,7 +347,7 @@ Complete cessation of relationship. May be necessary if:
 
 ### The Permission You May Need
 
-You are allowed to prioritize your wellbeing.
+You are allowed to prioritize your well-being.
 You are allowed to grieve the family you deserved but didn't get.
 You are allowed to build a new family of choice.
 You are allowed to change your mind.
@@ -370,7 +370,7 @@ This guilt isn't evidence that you're doing something wrong. It's evidence that 
 
 - **Name its source:** "This guilt was installed by a system that needed me to stay compliant."
 - **Distinguish guilt from grief:** You can grieve what you're losing without feeling guilty for protecting yourself.
-- **Accept that they won't understand:** Their validation is not the goal; your wellbeing is.
+- **Accept that they won't understand:** Their validation is not the goal; your well-being is.
 - **Build support outside the system:** You need people who see clearly and support your growth.
 
 ### The Body Work of Guilt Release

@@ -89,7 +89,7 @@ When you're confused about any interaction, ask:
 5. **Am I explaining myself more than once?**
 6. **Do I feel smaller after this interaction?**
 
-If the answers consistently point away from your wellbeing, you're dealing with a pattern—whether or not you can name the specific card.
+If the answers consistently point away from your well-being, you're dealing with a pattern—whether or not you can name the specific card.
 
 ---
 

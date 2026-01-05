@@ -104,7 +104,7 @@ As you move forward, you may feel pulled back toward the narcissist through comp
 
 **Releasing the need for them to receive your compassion.** You don't have to communicate it. You don't need them to feel it. It exists in you, independent of them.
 
-**Prioritizing your own wellbeing.** Real compassion includes self-compassion. Protecting yourself is not cruelty—it's basic self-care.
+**Prioritizing your own well-being.** Real compassion includes self-compassion. Protecting yourself is not cruelty—it's basic self-care.
 
 ### The Strange Gratitude
 
@@ -126,7 +126,7 @@ The gift of awareness doesn't require thanking the person who hurt you. Your gro
 
 ### The Test
 
-Ask yourself: "Is this impulse moving me toward my own healing and wellbeing, or away from it?"
+Ask yourself: "Is this impulse moving me toward my own healing and well-being, or away from it?"
 
 Grounded compassion supports your growth. False compassion keeps you entangled.
 

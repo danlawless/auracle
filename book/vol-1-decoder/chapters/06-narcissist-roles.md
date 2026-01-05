@@ -247,7 +247,7 @@ These shifts serve to:
 
 Confusion. Vertigo. You think you finally understand them, and then they become someone else. You adjust to one pattern, and it changes. You're always catching up, never finding solid ground.
 
-Watch for the pattern across roles rather than getting lost in any single one. The common thread is that **every role serves their need for control, validation, or supply**, never your genuine wellbeing.
+Watch for the pattern across roles rather than getting lost in any single one. The common thread is that **every role serves their need for control, validation, or supply**, never your genuine well-being.
 
 ---
 
@@ -300,7 +300,7 @@ You've probably experienced this split. You were amazing until you weren't. You 
 - Narcissists adopt twelve distinct roles (identity masks) that serve their needs in specific situations
 - Roles include: The Victim, The Hero/Savior, The Martyr, The Judge/Critic, The Child, The Guru, The Seducer/Charmer, The Ghost/Withholder, The Peacemaker, The Protector, The Saboteur, and The Truth-Teller
 - These roles shift constantly—the same person may play victim, then hero, then protector, all in one day
-- Every role serves control, supply, or perception management—never your genuine wellbeing
+- Every role serves control, supply, or perception management—never your genuine well-being
 - Underneath all roles is fragile self-worth, need for external regulation, and empathy deficits
 
 **The Unifying Principle:**

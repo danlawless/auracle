@@ -368,7 +368,7 @@ You feel cruel ignoring emergencies. You drop your plans because what if this ti
 
 ---
 
-## ⏸️ Pause Point: Grounding After Category A
+## Pause Point: Grounding After Category A
 
 You've just read about 10 tactics of control and power. Before continuing:
 
@@ -791,7 +791,7 @@ Brief acknowledgment: "That's great." Then silence. You don't have to provide ad
 
 ---
 
-## ⏸️ Pause Point: Integration Break
+## Pause Point: Integration Break
 
 You've now learned 27 tactics across three categories: Control, Validation, and Psychological Manipulation.
 
@@ -964,7 +964,7 @@ Notice if you feel more or less seen after their "me too." Real resonance expand
 
 ---
 
-## ⏸️ Pause Point: Body Check
+## Pause Point: Body Check
 
 Tactics involving sexuality and the body can activate deep responses. Before continuing:
 
@@ -1162,7 +1162,7 @@ If they were genuinely suicidal, they need professional help you cannot provide.
 
 ---
 
-## ⏸️ Pause Point: Grounding After Heavy Content
+## Pause Point: Grounding After Heavy Content
 
 Cards 37 and 38 can be particularly triggering. Please pause here if needed.
 

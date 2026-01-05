@@ -30,7 +30,7 @@ Deliberately provoking you to get an emotional reaction, which the abuser can th
 Deflecting responsibility for one's behavior by redirecting focus to you. Instead of addressing their own actions, the narcissist makes the conversation about something you did wrong.
 
 ### Boundaries
-Limits you set to protect your physical, emotional, mental, and spiritual wellbeing. Healthy boundaries define what you will and won't accept in relationships. Narcissists typically resist, test, and violate boundaries.
+Limits you set to protect your physical, emotional, mental, and spiritual well-being. Healthy boundaries define what you will and won't accept in relationships. Narcissists typically resist, test, and violate boundaries.
 
 ### Breadcrumbing
 Giving you just enough attention or affection to keep you interested without any intention of following through. Like leaving a trail of breadcrumbs that leads nowhere.

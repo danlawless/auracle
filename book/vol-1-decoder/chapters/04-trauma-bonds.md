@@ -275,7 +275,7 @@ Trauma bonds often coexist with what's traditionally been called "codependency"â
 
 ### How They Intertwine
 
-**Codependency provides:** The belief that your job is to fix, save, or manage someone else's emotions. The feeling that their wellbeing is your responsibility.
+**Codependency provides:** The belief that your job is to fix, save, or manage someone else's emotions. The feeling that their well-being is your responsibility.
 
 **Trauma bond provides:** The neurological hook that keeps you attached despite harm. The addiction to the cycle.
 

@@ -1,6 +1,6 @@
 # Chapter 5: Understanding Narcissist Types
 
-## Understanding the Different Faces of Narcissism
+## The Different Faces of Narcissism
 
 ---
 
@@ -438,7 +438,7 @@ But sobriety doesn't cure narcissism. It removes one coping mechanism, often rev
 If someone is both narcissistic and addicted:
 - Their addiction is not yours to cure
 - Their narcissism is not yours to heal
-- Your wellbeing is not secondary to their recovery
+- Your well-being is not secondary to their recovery
 - You are allowed to leave even if they're struggling
 
 ---

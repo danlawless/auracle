@@ -1,12 +1,59 @@
 # Implementation Action Checklist
 ## Volume 1: The Narcissism Decoder
 
-**Document Purpose:** Consolidated actionable tracker derived from chapter-by-chapter analysis, structural recommendations, and editorial feedback.
+**Document Purpose:** Consolidated actionable tracker derived from chapter-by-chapter analysis, structural recommendations, editorial feedback, and author decisions.
 
 **Source Documents:**
 - `chapter-analysis-notes.md`
 - `structural-recommendations.md`
 - `editorial-letter.md`
+- `review-03-phase-1/author-decisions.md` (GitHub Issues #220, #221)
+
+**Last Updated:** January 5, 2026
+
+---
+
+## Author Notes & Key Decisions (Review Round 3)
+
+> **Source:** Author responses from GitHub Issues #220 (Diana) and #221 (Morgan)
+> **Date:** January 4, 2026
+
+### Publication Approach
+- **Timeline:** Quality-first (6-8 weeks) — comprehensive approach with all polish items
+- **Medium Priority Items:** All 18 items approved — extends timeline but prioritizes excellence
+
+### Critical Author Directives
+| Decision | Author Choice | Impact |
+|----------|--------------|--------|
+| Content Warnings | **REMOVE ALL** | No content warnings in manuscript |
+| Page References | **REMOVE ALL** | Remove all page references for now |
+| Glossary Voice | **Clinical passive** | NOT second-person active as originally recommended |
+| Em-dash Reduction | **50% reduction** approved | Address rhythmic monotony |
+| Part Structure | **5 parts confirmed** | Current TOC structure is final |
+| Decoder Card Count | **52 tactical elements** | Resolved discrepancy |
+
+### Structural Decisions from Diana (Developmental Editor)
+| Item | Decision | Notes |
+|------|----------|-------|
+| Decoder Cards | Consolidate to **one chapter** | Internal divisions, easier reference |
+| Exposure Questions | **Move much earlier** | Functions as confirmation tool early |
+| Chapter 10 Placement | **Keep after Chapter 9** | Current position confirmed |
+| Co-parenting | **Add section/chapter** | Many readers share children with narcissists |
+| Workplace Content | **Expand Chapter 12** | Deeper coverage within existing structure |
+| Discernment Section | **Add chapter/section** | Help readers identify non-narcissistic dynamics |
+| Romantic Manipulation | **Add BOTH** healthy romance AND mid-level narcissism | Readers in mid-level relationships should feel seen |
+| Family Section | **Keep all four chapters** | Family narcissism deserves deep coverage |
+| Pause Files | **Integrate into chapter endings** | More natural, less skippable |
+
+### Morgan (Managing Editor) Verification Decisions
+| Item | Decision | Action Required |
+|------|----------|-----------------|
+| Cross-references | Unsure, verify needed | **Systematic audit required** after renumbering |
+| Mother-Father Balance | Expand Father Wound | Create balance between sections |
+| Fact-check: Gloria Steinem | Verify attribution | "Popularized by" adjustment may be needed |
+| Fact-check: Frog metaphor | Already removed | No action needed |
+| Fact-check: 72-hour timeline | Keep disclaimer as-is | No change |
+| Fact-check: "Ancient fable" | Author uncertain | Consider "ancient?" or leave as-is |
 
 ---
 
@@ -48,20 +95,26 @@
 
 ---
 
-### 1.4 Reposition Chapter 17 (Exposure Questions)
-**Decision Required:** Choose Option A or B
+### 1.4 Reposition Exposure Questions
+**Author Decision (Diana Q4):** ✅ Move exposure questions MUCH EARLIER in manuscript — functions as confirmation tool before readers dive deep into specific dynamics.
 
-**Option A (Preferred): Move to Part II**
-- [ ] Move `17-exposure-questions.md` to position after `10-manipulation-across-contexts.md`
-- [ ] Rename to `11-exposure-questions.md`
-- [ ] Renumber decoder cards: 11→12, 12→13, 13→14
+- [ ] Move `17-exposure-questions.md` to earlier position
+- [ ] Renumber affected chapters
 - [ ] Add bridge text connecting diagnosis to tools
 
-**Option B: Keep in Part III with Triage**
-- [ ] Add explicit triage guidance at Part III opening
-- [ ] Position before decoder cards as Chapter 11
+**Status:** Author Decision Made — Ready for Implementation
 
-**Status:** Awaiting Decision
+---
+
+### 1.5 Consolidate Decoder Cards
+**Author Decision (Diana Q3):** ✅ Consolidate decoder cards into ONE comprehensive chapter with internal divisions — easier to reference while maintaining organization.
+
+- [ ] Merge Chapters 14, 15, 16 into single chapter
+- [ ] Create internal divisions (Core, Advanced, Emergency Protocol)
+- [ ] Update all cross-references to decoder cards
+- [ ] Verify card numbering: 52 tactical elements confirmed
+
+**Status:** Author Decision Made — Ready for Implementation
 
 ---
 
@@ -72,8 +125,9 @@
   - [ ] Add Father Shock Realization section
   - [ ] Add father-specific healing frameworks
   - [ ] Include father wound patterns
-- [ ] OR acknowledge imbalance explicitly with author note
 - [ ] Add "When Both Parents Are Narcissistic" section
+
+**Author Decision (Q4):** ✅ Expand Father Wound section for balance — author approved expansion over acknowledgment note.
 
 **Status:** Not Started
 
@@ -100,14 +154,16 @@
 
 ---
 
-### 2.4 Add Processing Breaks
-- [ ] Create "Pause and Integrate" page template
-- [ ] Add break: After Part I (Recognition) before Part II
-- [ ] Add break: After Part II (Understanding) before Part III
-- [ ] Add break: After Part III (Tools) before Part IV
-- [ ] Include reflection questions and grounding exercises
+### 2.4 Integrate Pause Content into Chapter Endings
+**Author Decision (Diana Q14):** ✅ Integrate pause files INTO chapter endings rather than separate files — more natural, less skippable.
 
-**Status:** Not Started
+- [ ] Review existing pause file content
+- [ ] Integrate pause content into each chapter's ending section
+- [ ] Include reflection questions and grounding exercises
+- [ ] Ensure breathing room at natural chapter breaks
+- [ ] Remove separate pause files after integration
+
+**Status:** Author Decision Made — Ready for Implementation
 
 ---
 
@@ -149,7 +205,11 @@
   - [ ] Contrast table: Healthy vs. Narcissistic
   - [ ] Body signals of healthy connection
 - [ ] Add mid-level relationship content (~50 lines)
+  - [ ] Include mid-level narcissism perspectives
+  - [ ] Readers in harmful-but-not-dangerous relationships should feel seen
 - [ ] Consider multiple shorter case examples instead of one 160-line study
+
+**Author Decision (Diana Q13):** ✅ Add BOTH healthy romance AND mid-level narcissism content — author approved both expansions.
 
 **Status:** Not Started
 
@@ -160,6 +220,16 @@
 - [ ] Add Co-Parenting with a Narcissist (Chapter 8 or Appendix)
 - [ ] Add Economic Abuse content (Chapter 9)
 - [ ] Add Breaking the Cycle as a Parent (Chapter 8)
+- [ ] Add "Not Everything Is Narcissism" discernment section/chapter
+  - [ ] Help readers calibrate and discern
+  - [ ] Prevent over-identification
+  - [ ] Maintain pattern recognition skills
+- [ ] Expand workplace content in Chapter 12
+
+**Author Decisions:**
+- ✅ Co-parenting section approved (Diana Q17)
+- ✅ Discernment section/chapter approved (Diana Q16)
+- ✅ Expand Chapter 12 workplace content (Diana Q18)
 
 **Status:** Not Started
 
@@ -173,9 +243,12 @@
 - [ ] Integrate 90-Day Protocol and Red-Yellow-Green System (from Chapter 16)
 
 **Appendix B (Glossary):**
-- [ ] Add page references
+- [ ] ~~Add page references~~ **REMOVED per author decision** — remove all page references
 - [ ] Create quick-reference version (term + one sentence)
 - [ ] Highlight core terms vs. advanced concepts
+- [ ] Convert to clinical passive voice (author's custom choice)
+
+**Author Decision (Morgan Q9):** ⚠️ Glossary voice should be **clinical passive**, NOT second-person active as originally recommended. This maintains professional/clinical tone in reference material.
 
 **Appendix C (Bibliography):**
 - [ ] Note publication dates for older works
@@ -199,8 +272,38 @@
 
 ## Phase 4: Final Polish
 
-- [ ] Update all cross-references after restructuring
-- [ ] Verify page numbers in all references
+### 4.1 Cross-Reference Audit (CRITICAL)
+- [ ] Systematic search for all "Chapter X" references
+- [ ] Verify each points to correct content after renumbering
+- [ ] Special attention to:
+  - [ ] References to decoder cards (now Chapters 14-16)
+  - [ ] References to childhood patterns (now Chapter 10, was 18)
+  - [ ] References to narcissist types/roles (now Chapters 5-6, was single Chapter 5)
+- [ ] Update any remaining inconsistencies
+
+**Author Decision (Morgan Q8):** Verification requested — systematic audit required after chapter renumbering.
+
+### 4.2 Em-Dash Reduction
+- [ ] Full manuscript search for em-dashes (~200+ instances)
+- [ ] Reduce by 50% to address rhythmic monotony
+- [ ] Prioritize most egregious sections first
+- [ ] Maintain em-dashes where essential for voice
+
+**Author Decision (Morgan Q10):** ✅ 50% reduction approved — author agreed em-dash reduction is important.
+
+### 4.3 Content Warning Removal
+- [ ] Remove ALL content warnings from manuscript
+- [ ] Verify no content warnings remain in any chapter
+
+**Author Decision (Morgan Q6):** ✅ Remove all content warnings — author treats readers as capable adults who can navigate difficult material.
+
+### 4.4 Page Reference Removal
+- [ ] Remove ALL page references throughout manuscript
+- [ ] Verify no page references remain
+
+**Author Decision (Morgan Q7):** ✅ Remove all page references for now.
+
+### 4.5 Final Quality Checks
 - [ ] Final read-through for flow
 - [ ] Reader beta testing
 - [ ] Proofread all new/modified content
@@ -273,13 +376,49 @@ BACK MATTER
 
 ## Summary
 
-**Total Action Items:** 67
+**Total Action Items:** 85 (updated with author-directed additions)
 **Critical (Phase 1):** 18
 **High Priority (Phase 2):** 15
-**Medium Priority (Phase 3):** 29
-**Final Polish (Phase 4):** 5
+**Medium Priority (Phase 3):** 35 (expanded per author decisions)
+**Final Polish (Phase 4):** 17 (expanded with verification tasks)
+
+---
+
+## Author Decision Summary
+
+### ✅ Approved Actions
+| Decision | Source | Impact |
+|----------|--------|--------|
+| Remove all content warnings | Morgan Q6 | Manuscript-wide removal |
+| Remove all page references | Morgan Q7 | Manuscript-wide removal |
+| Em-dash reduction 50% | Morgan Q10 | Style polish required |
+| Expand Father Wound section | Morgan Q4 | Chapter 7/8 expansion |
+| Add co-parenting section | Diana Q17 | New content required |
+| Add discernment section | Diana Q16 | New chapter/section required |
+| Expand workplace content | Diana Q18 | Chapter 12 expansion |
+| Add healthy romance content | Diana Q13 | Chapter 9 expansion |
+| Add mid-level narcissism content | Diana Q13 | Chapter 9 expansion |
+| Consolidate decoder cards | Diana Q3 | Structural change |
+| Move exposure questions earlier | Diana Q4 | Structural change |
+| Integrate pause files into chapters | Diana Q14 | Structural change |
+| Quality-first timeline (6-8 weeks) | Morgan Q3 | All 18 medium items |
+
+### ⚠️ Modified from Original Recommendations
+| Original Recommendation | Author Decision |
+|------------------------|-----------------|
+| Glossary: second-person active | Clinical passive voice |
+| Add content warnings | Remove all content warnings |
+| Add page references to glossary | Remove all page references |
+
+### 🔍 Verification Required
+| Item | Status |
+|------|--------|
+| Cross-reference audit | Required after renumbering |
+| Gloria Steinem quote attribution | Verify "popularized by" |
+| Decoder card count | Confirmed: 52 tactical elements |
 
 ---
 
 *Generated from developmental editing analysis*
-*Date: December 31, 2025*
+*Updated: January 5, 2026*
+*Integrated: Author decisions from GitHub Issues #220, #221 (Review Round 3)*

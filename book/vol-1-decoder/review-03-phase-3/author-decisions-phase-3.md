@@ -226,21 +226,21 @@ This document records decisions on Phase 3 questions from:
 **Q1: Numbers in Titles and Section Headers**
 - [ ] A) All time-based tools/techniques qualify as "frameworks" — keep numerals
 - [ ] B) Only "Rules" are frameworks — spell out others
-- [ ] C) Keep numerals for all named techniques regardless of type
+- [x] C) Keep numerals for all named techniques regardless of type
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** All time-based tools and techniques qualify as frameworks. Numerals are clearer and more scannable for practical application.
 
 ---
 
 **Q2: Parenthetical Research Notes Format**
-- [ ] A) Standardize to "(Note: ...)" format for all research caveats
+- [x] A) Standardize to "(Note: ...)" format for all research caveats
 - [ ] B) Integrate caveats into sentences without "Note:" label
 - [ ] C) Move longer caveats to footnotes
 - [ ] D) Keep current mixed approach based on context
 - [ ] E) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Standardizing to "(Note: ...)" format creates consistency and clearly signals when research caveats are being provided.
 
 ---
 
@@ -248,38 +248,38 @@ This document records decisions on Phase 3 questions from:
 - [ ] A) Confirm ### (h3) is correct header level
 - [ ] B) Change to #### (h4) for Field Notes
 - [ ] C) Add visual marker (icon/emoji) before "Field Note:"
-- [ ] D) Current format is correct — no changes
+- [x] D) Current format is correct — no changes
 
-**Reasoning:**
+**Reasoning:** Current field note formatting is working well and maintains consistency throughout.
 
 ---
 
 **Q4: Quotation Attribution Format**
-- [ ] A) Yes, em dash no spaces separate line is correct
+- [x] A) Yes, em dash no spaces separate line is correct
 - [ ] B) Add space after em dash
 - [ ] C) Use different format: _____________
 
-**Reasoning:**
+**Reasoning:** Em dash with no spaces on a separate line is the correct format for quotation attribution.
 
 ---
 
 **Q5: Crisis Resource Formatting**
-- [ ] A) Current formatting is correct — maintain throughout
+- [x] A) Current formatting is correct — maintain throughout
 - [ ] B) Add "(24/7)" descriptor to applicable lines
 - [ ] C) Add TTY numbers where available
 - [ ] D) Add international resources
 - [ ] E) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Current USA crisis resource formatting is clear and appropriate for the primary audience.
 
 ---
 
 **Q6: Compound Modifier Hyphenation Rule**
 - [ ] A) Apply this rule to ALL psychological compound modifiers
 - [ ] B) Establish exceptions for specific terms: _____________
-- [ ] C) Current application is correct — no changes
+- [x] C) Current application is correct — no changes
 
-**Reasoning:**
+**Reasoning:** Current hyphenation application is consistent and follows standard style.
 
 ---
 
@@ -287,30 +287,30 @@ This document records decisions on Phase 3 questions from:
 
 **Q7: Gray Rock Capitalization**
 - [ ] A) Capitalize "Gray Rock" as proper noun always
-- [ ] B) Capitalize noun form, lowercase verb form (current approach)
+- [x] B) Capitalize noun form, lowercase verb form (current approach)
 - [ ] C) Lowercase throughout
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** "Gray Rock Method" capitalized as a proper noun technique name, but "gray rocking" lowercase as a verb form.
 
 ---
 
 **Q8: Decoder Cards Numbering System**
-- [ ] A) Confirm 0-51 numbering is intentional (Card 0 as "master")
+- [x] A) Confirm 0-51 numbering is intentional (Card 0 as "master")
 - [ ] B) Change to 1-52 numbering
 - [ ] C) Rename Card 0 to "Master Card" without number
 - [ ] D) Current system is correct — no changes
 
-**Reasoning:**
+**Reasoning:** 0-51 numbering is intentional with Card 0 serving as the master/overview card.
 
 ---
 
 **Q9: Volume Reference Format**
-- [ ] A) Conduct systematic review to verify all volume references match format
+- [x] A) Conduct systematic review to verify all volume references match format
 - [ ] B) Current references are verified correct
 - [ ] C) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Systematic review will ensure consistency of volume reference formatting throughout.
 
 ---
 
@@ -320,121 +320,121 @@ This document records decisions on Phase 3 questions from:
 - [ ] C) Field notes should use ### headers
 - [ ] D) Field notes should use #### headers
 - [ ] E) Avoid ##### headers entirely
-- [ ] F) Current hierarchy is correct
+- [x] F) Current hierarchy is correct
 
-**Reasoning:**
+**Reasoning:** Current header hierarchy structure is working well and maintains logical document flow.
 
 ---
 
 **Q11: "Narcissist" Terminology**
-- [ ] A) Yes, this distinction is intentional and correctly applied
+- [x] A) Yes, this distinction is intentional and correctly applied
 - [ ] B) Standardize capitalization approach: _____________
 - [ ] C) Review for consistency
 
-**Reasoning:**
+**Reasoning:** The distinction between "The Narcissist" (archetype), "the narcissist" (specific person), and "narcissists" (general plural) is intentional and correctly applied.
 
 ---
 
 **Q12: Nervous System Terminology**
 - [ ] A) Current varied usage is intentional for readability
 - [ ] B) Add more technical precision
-- [ ] C) Simplify to "nervous system" more often
+- [x] C) Simplify to "nervous system" more often
 - [ ] D) Current usage is correct
 
-**Reasoning:**
+**Reasoning:** Simplifying to "nervous system" where appropriate improves accessibility for general readers while preserving technical precision where needed.
 
 ---
 
 **Q13: "Manipulation" vs "Control" vs "Abuse"**
 - [ ] A) These are intentional synonyms
 - [ ] B) They represent different levels — add glossary clarification
-- [ ] C) "Narcissistic abuse" is umbrella term encompassing both
+- [x] C) "Narcissistic abuse" is umbrella term encompassing both
 - [ ] D) Review for more precise usage
 - [ ] E) Other: _____________
 
-**Reasoning:**
+**Reasoning:** "Narcissistic abuse" serves as the umbrella term that encompasses manipulation, control, and related dynamics.
 
 ---
 
 ### Section 3: Terminology Standardization
 
 **Q14: Style Sheet Correction - 72-Hour Test**
-- [ ] A) Update style sheet to reflect correct location
+- [x] A) Update style sheet to reflect correct location
 - [ ] B) No action needed — already noted
 
-**Reasoning:**
+**Reasoning:** Style sheet should be corrected to accurately reflect that "The 72-Hour Test" appears in Chapter 1.
 
 ---
 
 **Q15: Method/Technique Capitalization**
 Mark all that should be capitalized:
-- [ ] Gray Rock Method
-- [ ] The 3-3-3 Rule
-- [ ] The 72-Hour Test
-- [ ] The 24-Hour Rule
-- [ ] Decoder Cards
-- [ ] Power Move
+- [x] Gray Rock Method
+- [x] The 3-3-3 Rule
+- [x] The 72-Hour Test
+- [x] The 24-Hour Rule
+- [x] Decoder Cards
+- [x] Power Move
 - [ ] Other: _____________
 
-**Reasoning:**
+**Reasoning:** All named methods, techniques, rules, and book-specific concepts are capitalized as proper nouns.
 
 ---
 
 **Q16: Consistency Check - "wellbeing" spelling**
 - [ ] A) Verify "wellbeing" is consistent throughout
 - [ ] B) Already verified correct
-- [ ] C) Change to "well-being" (hyphenated)
+- [x] C) Change to "well-being" (hyphenated)
 
-**Reasoning:**
+**Reasoning:** Changing to "well-being" (hyphenated) for improved readability and alignment with common style guides.
 
 ---
 
 **Q17: Consistency Check - "toward" vs "towards"**
-- [ ] A) Verify "toward" is consistent throughout
+- [x] A) Verify "toward" is consistent throughout
 - [ ] B) Already verified correct
 - [ ] C) Allow both forms
 
-**Reasoning:**
+**Reasoning:** "Toward" (American English) should be verified and used consistently throughout.
 
 ---
 
 **Q18: Consistency Check - "judgment" spelling**
-- [ ] A) Verify "judgment" is consistent throughout
+- [x] A) Verify "judgment" is consistent throughout
 - [ ] B) Already verified correct
 
-**Reasoning:**
+**Reasoning:** "Judgment" (no 'e') should be verified and used consistently throughout.
 
 ---
 
 ### Section 4: Ambiguous Passages
 
 **Q19: Chapter 2 - Texture Exercise Depth**
-- [ ] A) Depth is intentional — keep as-is
+- [x] A) Depth is intentional — keep as-is
 - [ ] B) Move to appendix as extended practice
 - [ ] C) Condense for main text
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** The depth of the texture exercise is intentional for comprehensive body-based learning.
 
 ---
 
 **Q20: Chapter 4 - Repulsion-Attraction Section**
-- [ ] A) Current wording is clear — no changes
+- [x] A) Current wording is clear — no changes
 - [ ] B) Add example for clarity
 - [ ] C) Expand explanation
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Current wording effectively explains the repulsion-attraction confusion concept.
 
 ---
 
 **Q21: Chapter 14 - Card 47 (Magician Tactics)**
-- [ ] A) Length is appropriate for importance/complexity
+- [x] A) Length is appropriate for importance/complexity
 - [ ] B) Split into multiple cards
 - [ ] C) Condense to match other card lengths
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** The Magician Tactics card length is appropriate given its importance and complexity as a pattern.
 
 ---
 
@@ -442,83 +442,83 @@ Mark all that should be capitalized:
 
 **Q22: Pause Points Formatting**
 - [ ] A) All pause points should use pause emoji consistently
-- [ ] B) Remove emoji from pause points
+- [x] B) Remove emoji from pause points
 - [ ] C) Current mixed approach is fine
 - [ ] D) Establish minimum/maximum frequency for pause points
 
-**Reasoning:**
+**Reasoning:** Removing emoji from pause points creates a cleaner, more professional presentation.
 
 ---
 
 **Q23: Table Formatting**
-- [ ] A) Page number placeholders will be filled before publication
+- [x] A) Page number placeholders will be filled before publication
 - [ ] B) Keep placeholders for digital versions
 - [ ] C) All tables should follow same markdown style
 - [ ] D) Current table formatting is correct
 
-**Reasoning:**
+**Reasoning:** Page number placeholders will be filled during final publication layout.
 
 ---
 
 **Q24: Blockquote Usage**
-- [ ] A) Current distinction is clear — no changes
+- [x] A) Current distinction is clear — no changes
 - [ ] B) Add formatting differentiation between types
 - [ ] C) Standardize all blockquote usage
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Current blockquote usage clearly distinguishes between quotes, pullquotes, and dialogue.
 
 ---
 
 **Q25: Chapter 5 Redundant Subtitle**
 - [ ] A) Repetition is intentional for emphasis
-- [ ] B) Change subtitle to "The Different Faces of Narcissism"
+- [x] B) Change subtitle to "The Different Faces of Narcissism"
 - [ ] C) Change subtitle to different concept
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Removing redundant "Understanding" improves readability without losing meaning.
 
 ---
 
 ### Section 6: Pronoun and Gender Language
 
 **Q26: Pronoun Variation Audit**
-- [ ] A) Conduct systematic review to verify pronoun variation
+- [x] A) Conduct systematic review to verify pronoun variation
 - [ ] B) Current variation is verified balanced
 - [ ] C) Adjust specific sections for better balance: _____________
 
-**Reasoning:**
+**Reasoning:** Systematic pronoun variation audit will ensure inclusive representation throughout.
 
 ---
 
 **Q27: Decoder Cards Pronoun Variation**
-- [ ] A) Yes, ensure variety across cards
+- [x] A) Yes, ensure variety across cards
 - [ ] B) Use "they/them" throughout cards for neutrality
 - [ ] C) Current approach is correct
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Varied pronouns across Decoder Cards provides inclusive representation.
 
 ---
 
 **Q28: Parental Wound Terminology**
-- [ ] A) Current note is sufficient
+- [x] A) Current note is sufficient
 - [ ] B) Add note at beginning of each major section using gendered terms
 - [ ] C) Change terminology to "Primary/Secondary Caregiver Wound"
 - [ ] D) Other: _____________
 
-**Reasoning:**
+**Reasoning:** Current note adequately addresses that patterns aren't limited to biological parents of specific genders.
 
 ---
 
 ## Phase 3 Completion
 
 **Date Lydia's Questions Completed:** January 5, 2026
-**Date Clara's Questions Completed:** ____________
+**Date Clara's Questions Completed:** 2026-01-05
 
 **Ready to proceed to Phase 4:** [ ] Yes (pending Clara's questions)
 
-**Notes:** Author responses received via GitHub Issue #233 comment.
+**Notes:** Author responses received via GitHub Issue #233 (Lydia) and Issue #234 (Clara) comments by lightwavesenergy.
 
 ---
 
@@ -536,15 +536,17 @@ Mark all that should be capitalized:
 9. **Q14:** Review and replace any remaining bracketed placeholders
 10. **Q17:** Mix "You may have" pattern — keep some, vary others for reduced repetition
 
-### Copy Edit Changes Required:
-1. *(Pending Clara's questions)*
-2.
-3.
+### Copy Edit Changes Required (from Clara's Questions):
+1. Change "wellbeing" to "well-being" throughout all chapters (Q16) ✅ DONE
+2. Remove ⏸️ emoji from pause points (Q22) ✅ DONE
+3. Change Chapter 5 subtitle to "The Different Faces of Narcissism" (Q25) ✅ DONE
 
 ### Style Sheet Updates:
 1. **Contractions:** Document intentional pattern — contractions in conversational sections, full forms in clinical sections
 2. **Pull Quotes:** Selection criteria = most quotable/shareable phrases
 3. **List Structure:** Vary verb form based on context (no standardization)
+4. Update 72-Hour Test location in style sheet (Q14)
+5. Update "wellbeing" to "well-being" in style sheet (Q16)
 
 ---
 

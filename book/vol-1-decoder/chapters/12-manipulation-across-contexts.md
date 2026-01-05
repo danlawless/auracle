@@ -591,7 +591,7 @@ Across all these contexts, the fundamental pattern is the same:
 
 **Their needs consistently eclipse yours.**
 
-The flavor changes. The specific tactics adapt. But the core dynamic—where your wellbeing, needs, and reality are subordinate to theirs—remains constant.
+The flavor changes. The specific tactics adapt. But the core dynamic—where your well-being, needs, and reality are subordinate to theirs—remains constant.
 
 Recognition works the same way everywhere:
 1. Notice how your body feels

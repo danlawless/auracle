@@ -98,7 +98,7 @@ But her body knows the truth: the kiss wasn't connection. It was a reset button 
 
 ---
 
-## ⏸️ Pause Point: Body Check
+## Pause Point: Body Check
 
 Tactics involving sexuality and the body can activate deep responses. Before continuing:
 
@@ -234,7 +234,7 @@ Withdraw emotional labor. That is the real boundary.
 
 ---
 
-## ⏸️ Pause Point: Grounding After Heavy Content
+## Pause Point: Grounding After Heavy Content
 
 Tactics 28 and 29 can be particularly triggering. Please pause here if needed.
 

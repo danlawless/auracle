@@ -32,7 +32,7 @@ If your parent's mood was unpredictable, you learned to scan constantly, watchin
 
 ### That Your Job Is to Manage Others' Emotions
 
-If you were parentified, made responsible for a parent's emotional wellbeing, you learned that love means caretaking. This makes you a magnet for people who want emotional labor without reciprocity.
+If you were parentified, made responsible for a parent's emotional well-being, you learned that love means caretaking. This makes you a magnet for people who want emotional labor without reciprocity.
 
 ### That Chaos Is Home
 

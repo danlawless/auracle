@@ -187,7 +187,7 @@ Document everything. Tell trusted people. Seek professional support. Take threat
 "I'll use your conscience as a prison."
 
 **The function:**
-Makes you responsible for their wellbeing. Traps you through guilt.
+Makes you responsible for their well-being. Traps you through guilt.
 
 **Your response:**
 Take it seriously: contact their support system or crisis services. But don't stay because of it. Their mental health is not your responsibility to manage through captivity.

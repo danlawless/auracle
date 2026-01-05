@@ -680,7 +680,7 @@ Inconvenience disrupts their comfort, which they prioritize. The question surfac
 ### Question 7.4: "What do you think I need that I haven't asked for?"
 
 **Why it exposes:**
-Tests if they're tracking your wellbeing proactively or only reactively when directly asked.
+Tests if they're tracking your well-being proactively or only reactively when directly asked.
 
 **Healthy response:** Thoughtful. "You've seemed tired lately, maybe you need a break? Or someone to take something off your plate?"
 

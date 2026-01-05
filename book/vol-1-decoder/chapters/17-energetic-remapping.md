@@ -190,7 +190,7 @@ This isn't about being rude—it's about being unrewarding. Narcissists need sup
 
 ## Detaching with Love
 
-Sometimes you need to disconnect from someone without anger or vengeance, simply stepping back from a situation that doesn't serve your wellbeing.
+Sometimes you need to disconnect from someone without anger or vengeance, simply stepping back from a situation that doesn't serve your well-being.
 
 ### What Detaching with Love Looks Like
 

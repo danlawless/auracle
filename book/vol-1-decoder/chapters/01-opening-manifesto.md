@@ -385,7 +385,7 @@ You don't need anyone's permission to:
 - Trust your own perception
 - Set boundaries without explanation
 - Walk away from relationships that harm you
-- Prioritize your wellbeing over someone else's comfort
+- Prioritize your well-being over someone else's comfort
 - Never speak to someone again
 - Change your mind about forgiveness
 - Protect yourself in ways that feel "selfish" to others

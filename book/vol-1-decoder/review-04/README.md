@@ -89,45 +89,99 @@ Next Edition Ready
 
 ## GitHub Issue Creation
 
-To create GitHub issues for this round:
+### Automated Script (Recommended)
+
+Run the provided script to create all 11 issues at once:
 
 ```bash
-# Phase 1
-gh issue create --title "[Review Round 4 - Phase 1] Diana (Developmental Editor): Questions - Vol. 1" \
+cd /home/user/auracle/book/vol-1-decoder/review-04
+./create-github-issues.sh
+```
+
+**Prerequisites:**
+1. Install GitHub CLI: https://cli.github.com/
+2. Authenticate: `gh auth login`
+
+The script creates all issues with proper labels and displays issue URLs.
+
+### Manual Creation (Alternative)
+
+If you prefer to create issues manually or in phases:
+
+**Phase 1 - Strategic Decisions:**
+```bash
+gh issue create --title "[Review Round 4 - Phase 1] Diana (Developmental Editor): 20 Strategic Questions - Vol. 1" \
   --label "review-round-4,phase-1-strategic,author-input-required" \
   --body-file phase-1-strategic/diana-developmental-editor-issue.md
 
-gh issue create --title "[Review Round 4 - Phase 1] Morgan (Managing Editor): Questions - Vol. 1" \
+gh issue create --title "[Review Round 4 - Phase 1] Morgan (Managing Editor): 15 Coordination Questions - Vol. 1" \
   --label "review-round-4,phase-1-strategic,author-input-required" \
   --body-file phase-1-strategic/morgan-managing-editor-issue.md
+```
 
-# Phase 2 (can create in parallel)
-gh issue create --title "[Review Round 4 - Phase 2] Bailey (Beta Reader): Questions - Vol. 1" \
+**Phase 2 - Content & Experience:**
+```bash
+gh issue create --title "[Review Round 4 - Phase 2] Bailey (Beta Reader): 25 Reader Experience Questions - Vol. 1" \
   --label "review-round-4,phase-2-content,author-input-required" \
   --body-file phase-2-content/bailey-beta-reader-issue.md
 
-gh issue create --title "[Review Round 4 - Phase 2] Sage (Sensitivity Reader): Questions - Vol. 1" \
+gh issue create --title "[Review Round 4 - Phase 2] Sage (Sensitivity Reader): 20 Representation Questions - Vol. 1" \
   --label "review-round-4,phase-2-content,author-input-required" \
   --body-file phase-2-content/sage-sensitivity-reader-issue.md
 
-gh issue create --title "[Review Round 4 - Phase 2] Felix (Fact-Checker): Questions - Vol. 1" \
-  --label "review-round-4,phase-2-content,author-input-required" \
+gh issue create --title "[Review Round 4 - Phase 2] Felix (Fact-Checker): 15 Verification Questions - Vol. 1" \
+  --label "review-round-4,phase-2-content,author-input-required,fact-check" \
   --body-file phase-2-content/felix-fact-checker-issue.md
+```
 
-# Phase 3
-gh issue create --title "[Review Round 4 - Phase 3] Lydia (Line Editor): Questions - Vol. 1" \
+**Phase 3 - Polish:**
+```bash
+gh issue create --title "[Review Round 4 - Phase 3] Lydia (Line Editor): 18 Prose Craft Questions - Vol. 1" \
   --label "review-round-4,phase-3-polish,author-input-required" \
   --body-file phase-3-polish/lydia-line-editor-issue.md
 
-gh issue create --title "[Review Round 4 - Phase 3] Clara (Copy Editor): Questions - Vol. 1" \
+gh issue create --title "[Review Round 4 - Phase 3] Clara (Copy Editor): 15 Style Consistency Questions - Vol. 1" \
   --label "review-round-4,phase-3-polish,author-input-required" \
   --body-file phase-3-polish/clara-copy-editor-issue.md
+```
 
-# Phase 4
-gh issue create --title "[Review Round 4 - Phase 4] Petra (Proofreader): Questions - Vol. 1" \
+**Phase 4 - Final Pass:**
+```bash
+gh issue create --title "[Review Round 4 - Phase 4] Petra (Proofreader): 12 Final Questions - Vol. 1" \
   --label "review-round-4,phase-4-final,author-input-required" \
   --body-file phase-4-final/petra-proofreader-issue.md
+
+gh issue create --title "[Review Round 4 - Phase 4] Coherence Analysis: 10 Questions - Vol. 1" \
+  --label "review-round-4,phase-4-final,analysis,author-input-required" \
+  --body-file phase-4-final/coherence-analysis-issue.md
+
+gh issue create --title "[Review Round 4 - Phase 4] Flow Analysis: 10 Questions - Vol. 1" \
+  --label "review-round-4,phase-4-final,analysis,author-input-required" \
+  --body-file phase-4-final/flow-analysis-issue.md
+
+gh issue create --title "[Review Round 4 - Phase 4] Section Popularity Ranking: 8 Questions - Vol. 1" \
+  --label "review-round-4,phase-4-final,analysis,author-input-required" \
+  --body-file phase-4-final/popularity-ranking-issue.md
 ```
+
+---
+
+## Issue Summary
+
+| Phase | Editor | Questions | Labels |
+|-------|--------|-----------|--------|
+| **Phase 1** | Diana (Developmental Editor) | 20 | `review-round-4`, `phase-1-strategic` |
+| **Phase 1** | Morgan (Managing Editor) | 15 | `review-round-4`, `phase-1-strategic` |
+| **Phase 2** | Bailey (Beta Reader) | 25 | `review-round-4`, `phase-2-content` |
+| **Phase 2** | Sage (Sensitivity Reader) | 20 | `review-round-4`, `phase-2-content` |
+| **Phase 2** | Felix (Fact-Checker) | 15 | `review-round-4`, `phase-2-content`, `fact-check` |
+| **Phase 3** | Lydia (Line Editor) | 18 | `review-round-4`, `phase-3-polish` |
+| **Phase 3** | Clara (Copy Editor) | 15 | `review-round-4`, `phase-3-polish` |
+| **Phase 4** | Petra (Proofreader) | 12 | `review-round-4`, `phase-4-final` |
+| **Phase 4** | Coherence Analysis | 10 | `review-round-4`, `phase-4-final`, `analysis` |
+| **Phase 4** | Flow Analysis | 10 | `review-round-4`, `phase-4-final`, `analysis` |
+| **Phase 4** | Popularity Ranking | 8 | `review-round-4`, `phase-4-final`, `analysis` |
+| | **Total** | **168** | |
 
 ---
 

@@ -257,9 +257,172 @@ This document records decisions on Phase 1 questions from:
 
 ---
 
-## Morgan's Managing Editor Questions
+## Morgan's Managing Editor Questions (15 Questions)
 
-_Pending — awaiting Morgan's Round 4 Phase 1 issue_
+**Source:** GitHub Issue #265 - Author responses to Morgan's coordination questions
+
+### Section A: Edition Planning (Q1-Q4)
+
+**Q1: Current Edition Status**
+- [ ] A) Publication-ready after Issue #243 resolution
+- [x] B) Needs this Round 4 review before publication
+- [ ] C) Publication imminent — Round 4 is for future edition
+- [ ] D) Already published — Round 4 informs next edition
+
+**Reasoning:** Manuscript needs Round 4 review before publication to ensure quality.
+
+---
+
+**Q2: Round 4 Scope Definition**
+- [ ] A) Quality assurance — verify Round 3 implementations
+- [ ] B) Enhancement identification — note improvements for future
+- [x] C) Comprehensive re-review — fresh eyes on everything
+- [ ] D) Focused review — specific areas only
+
+**Reasoning:** Comprehensive re-review with fresh perspective on entire manuscript.
+
+---
+
+**Q3: Future Edition Planning**
+- [ ] A) Yes, within 6 months
+- [ ] B) Yes, within 1-2 years
+- [ ] C) Possibly, based on reader feedback
+- [x] D) No plans currently
+- [ ] E) Depends on sales/reception
+
+**Reasoning:** No revised/expanded edition currently planned.
+
+---
+
+**Q4: Round 4 Priority Level**
+- [x] A) Critical — implement before next print run
+- [ ] B) High — implement for next edition
+- [ ] C) Medium — consider for future revisions
+- [ ] D) Low — document for reference only
+
+**Reasoning:** Critical findings should be implemented before next print run.
+
+---
+
+### Section B: Implementation Verification (Q5-Q8)
+
+**Q5: Issue #243 Resolution Status**
+- [x] A) All corrections applied, all questions answered
+- [ ] B) Corrections applied, questions pending
+- [ ] C) Both pending
+- [ ] D) Partially complete
+
+**Reasoning:** All corrections from Petra's proofreading review applied, all questions answered.
+
+---
+
+**Q6: Round 3 Cross-Reference Audit**
+- [x] A) Yes — comprehensive audit completed
+- [ ] B) Partially — spot checks done
+- [ ] C) Not yet — needs full audit
+- [ ] D) Unknown — needs verification
+
+**Reasoning:** Comprehensive audit completed systematically after chapter renumbering.
+
+---
+
+**Q7: Content Warning Verification**
+- [ ] A) Yes — all verified
+- [ ] B) Mostly — minor gaps possible
+- [ ] C) Needs review
+- [x] D) Unknown — needs verification
+
+**Reasoning:** Content warning status unknown; requires verification in Phase 2.
+
+**⚠️ VERIFICATION REQUIRED:** Felix (Fact-Checker) to verify content warnings in Phase 2.
+
+---
+
+**Q8: Resource Currency**
+- [ ] A) Verified within last 30 days
+- [ ] B) Verified within last 90 days
+- [ ] C) Verified during Round 3
+- [x] D) Needs re-verification
+
+**Reasoning:** Crisis hotlines and resources need re-verification for currency.
+
+**⚠️ VERIFICATION REQUIRED:** Felix (Fact-Checker) to verify all resources in Phase 2.
+
+---
+
+### Section C: Workflow Coordination (Q9-Q12)
+
+**Q9: Review Phase Sequencing**
+- [x] A) Follow recommended sequencing
+- [ ] B) Modified sequencing
+- [ ] C) All phases can run in parallel
+- [ ] D) Prioritize specific phases
+
+**Reasoning:** Follow recommended sequential approach (Phase 1 → Phase 2 parallel → Phase 3 sequential → Phase 4).
+
+---
+
+**Q10: Editor Review Depth**
+- [x] A) Comprehensive — full manuscript review
+- [ ] B) Targeted — focus on Round 3 implementation areas
+- [ ] C) Spot-check — sample chapters only
+- [ ] D) Varies by editor
+
+**Reasoning:** Comprehensive full manuscript review for all editors.
+
+---
+
+**Q11: Author Response Timeline**
+- [x] A) Within 1 week per phase
+- [ ] B) Within 2 weeks per phase
+- [ ] C) As time permits
+- [ ] D) Batched response after all phases complete
+- [ ] E) Other
+
+**Reasoning:** Target timeline of 1 week per phase for author responses.
+
+---
+
+**Q12: Decision Documentation**
+- [ ] A) Author-decisions files in each phase folder (current approach)
+- [ ] B) Single consolidated decisions document
+- [x] C) GitHub issue comments
+- [ ] D) Combination approach
+
+**Reasoning:** GitHub issue comments as primary documentation method.
+
+---
+
+### Section D: Outstanding Items (Q13-Q15)
+
+**Q13: Round 3 Deferred Items**
+- [x] A) No deferred items
+- [ ] B) Yes — list attached
+- [ ] C) Unknown — need to compile
+- [ ] D) Deferred items are for future edition only
+
+**Reasoning:** No deferred items remaining from Round 3.
+
+---
+
+**Q14: Known Issues Inventory**
+- [ ] A) No — all issues are documented
+- [ ] B) Yes — new issues
+- [x] C) Possible — need review
+- [ ] D) Will surface during Round 4 reviews
+
+**Reasoning:** Possible undocumented issues; review needed during Round 4 phases.
+
+---
+
+**Q15: Success Criteria for Round 4**
+- [ ] A) All questions answered, decisions documented
+- [ ] B) Critical items addressed, others logged for future
+- [x] C) Comprehensive review completed regardless of implementation
+- [ ] D) Manuscript declared "edition complete"
+- [ ] E) Other
+
+**Reasoning:** Comprehensive review completion defines Round 4 success.
 
 ---
 
@@ -292,9 +455,22 @@ _Pending — awaiting Morgan's Round 4 Phase 1 issue_
 ## Phase 1 Completion
 
 **Date Diana's Questions Completed:** January 5, 2026
-**Date Morgan's Questions Completed:** ____________
+**Date Morgan's Questions Completed:** January 5, 2026
 
-**Ready to proceed to Phase 2:** [ ] Yes (pending Morgan completion)
+**Ready to proceed to Phase 2:** [x] Yes
+
+### Morgan's Key Decisions Summary
+
+| Section | Key Decisions |
+|---------|---------------|
+| Edition Planning | Round 4 required before publication; critical priority; no future edition planned |
+| Implementation | Issue #243 resolved; cross-refs audited; content warnings & resources need verification |
+| Workflow | Follow recommended sequencing; comprehensive review; 1-week response target |
+| Outstanding | No deferred items; possible unknown issues to surface in review |
+
+**⚠️ Flags for Phase 2:**
+- Content warnings need verification (Q7) → Felix
+- Resource currency needs verification (Q8) → Felix
 
 ---
 

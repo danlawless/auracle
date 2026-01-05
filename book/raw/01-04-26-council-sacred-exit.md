@@ -175,6 +175,50 @@ These are lessons that, once learned, will protect you for life.
 
 ---
 
+## Field Note: The Agreement I Never Should Have Made
+
+**Before (Under the Influence):**
+
+He was a good leader. That's what I told myself. He had vision, confidence, the ability to talk to anyone. I was just the developer—the one who built things, not the one who sold them.
+
+When he laid out the split—$180k for him, $25k for me—I felt something tighten in my chest. But he explained it: the business risk was his, the relationships were his, the strategy was his. I was "just" executing.
+
+I said yes. I signed the agreement. I told myself this was how partnerships worked.
+
+But the dissonance never left. Every late night writing code, every feature I shipped, every problem I solved—the tightness returned. My body knew what my mind refused to see: I was the one creating the value. He was the one extracting it.
+
+When I finally saw the patterns—the subtle put-downs, the "you'd be nowhere without me" implications, the way my contributions were minimized while his were celebrated—I recognized the playbook. Covert narcissism. I'd been reading about it. I was living it.
+
+But I had *agreed*. I had *promised*. What kind of person breaks their word?
+
+**After (Sovereign Integration):**
+
+I asked myself the question that changed everything: *"Is what I'm receiving a true reflection of what I'm giving?"*
+
+The math was simple. 7:1. For the person doing less work.
+
+That wasn't partnership. That was extraction with a handshake.
+
+I realized: the agreement itself was the manipulation. He got my commitment before I understood the full picture. The terms felt "off" from the start—my body told me so—but I overrode my own knowing because he seemed so confident, so certain this was fair.
+
+An agreement obtained under incomplete information, under the influence of someone skilled at manipulation, is not a sacred contract. It's a trap that looks like a promise.
+
+I named what was true: "The financial split was not fair."
+I took responsibility: "I agreed to terms that didn't serve me. I'm correcting that now."
+I offered what was fair: documentation, transition, a clean handoff.
+I exited with grace: "This isn't working for me."
+
+The guilt came—waves of it. *You're a promise-breaker. You're unreliable. Who does this?*
+
+But I breathed through it. I recognized the voice. It wasn't my integrity talking. It was the pattern—the one that taught me my needs don't matter, that my worth is measured by what I produce for others, that keeping exploitative agreements is somehow noble.
+
+It's not noble. It's self-abandonment dressed up as virtue.
+
+I am not a person who breaks promises.
+I am a person who finally stopped breaking myself.
+
+---
+
 ## Final Word from the Council
 
 **You are not violating your values by leaving.**

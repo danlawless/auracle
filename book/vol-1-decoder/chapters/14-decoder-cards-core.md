@@ -242,7 +242,49 @@ Don't chase. "I notice you're withdrawn. I'm here when you're ready to talk dire
 
 ---
 
-## Card 8: The Moving Target
+## Card 8: The Unfinished Loop
+
+**The Pattern:** Rupture → guilt → re-entry without repair
+
+**What They Say/Do:**
+
+*After you set a boundary:*
+- "Fine. Don't have fun with me. I didn't want to go anyway."
+- "I'll keep all the fun secrets I was gonna tell you to myself."
+
+*Then, hours later (often late at night):*
+- "you up?"
+- "I have an idea, and I need to know if it's genius or nuts."
+- Random topic change as if nothing happened
+
+**What's Really Happening:**
+This is a repair attempt that avoids accountability. Instead of saying "Hey, I felt hurt" or "Can we reset?"—they switch to novelty, intellectual engagement, or casual access. The emotional loop stays unfinished. You're expected to act like nothing happened.
+
+The first phase (passive-aggression after your boundary) is guilt-induction as leverage: *"If you don't soften your boundary, I'll punish the connection."*
+
+The second phase (late-night re-entry) is access-seeking without responsibility for what came before.
+
+**How It Hooks You:**
+You feel relief that they're "back to normal." You engage with the new topic to avoid confrontation. You start to doubt whether the earlier exchange was actually a big deal. The guilt flickers: *Maybe I overreacted. Maybe I should just be glad they're reaching out.*
+
+But your body knows. The tension remains. The loop never closed.
+
+**Your Power Move:**
+
+You don't owe engagement just because they re-entered. The unfinished loop is not yours to close.
+
+Options:
+- "I'm not available late at night. Hope you're well."
+- "Can you send it tomorrow? I'm offline now."
+- [No response until your grounded hours—this is complete and valid]
+
+**The deeper move:** Change the *rhythm*, not just the words. Don't respond to late-night messages. Respond only during your grounded hours. This teaches the nervous system: "Access to me happens in regulated space."
+
+*See also: Chapter 9, Two Modes: What Sibling Exchange Actually Looks Like; Chapter 18, Sibling Scripts*
+
+---
+
+## Card 9: The Moving Target
 
 **The Pattern:** Nothing is ever enough
 
@@ -264,7 +306,7 @@ You keep trying, believing success is possible. You exhaust yourself meeting dem
 
 ---
 
-## Card 9: Righteous Cruelty
+## Card 10: Righteous Cruelty
 
 **The Pattern:** "I'm just being honest"
 
@@ -286,7 +328,7 @@ Real feedback is given with care, at appropriate times, for your benefit. If it 
 
 ---
 
-## Card 10: The Comparison Trap
+## Card 11: The Comparison Trap
 
 **The Pattern:** References to others you should be more like
 
@@ -308,7 +350,7 @@ You feel like you're auditioning, not belonging. You try to be more like the ref
 
 ---
 
-## Card 11: Pity as Permission
+## Card 12: Pity as Permission
 
 **The Pattern:** Using their wounds to excuse behavior
 
@@ -330,7 +372,7 @@ Pain explains; it doesn't excuse. "I'm sorry you went through that. And I still 
 
 ---
 
-## Card 12: The Guilt Ledger
+## Card 13: The Guilt Ledger
 
 **The Pattern:** Reminders of past kindness
 
@@ -352,7 +394,7 @@ You feel indebted. You minimize current harm because of past help. Leaving feels
 
 ---
 
-## Card 13: Volume as Victory
+## Card 14: Volume as Victory
 
 **The Pattern:** Getting loud to win
 
@@ -374,7 +416,7 @@ Lower your voice or stop speaking entirely. "I'm pausing until we can both speak
 
 ---
 
-## Card 14: Weaponized Vulnerability
+## Card 15: Weaponized Vulnerability
 
 **The Pattern:** Emotional flooding to avoid accountability
 
@@ -396,7 +438,7 @@ You shift into caretaking. You feel cruel for causing their distress. You drop y
 
 ---
 
-## Card 15: Reality Revision
+## Card 16: Reality Revision
 
 **The Pattern:** Changing what was said or agreed
 
@@ -418,7 +460,7 @@ Trust your perception. "I know what I experienced." You don't need their agreeme
 
 ---
 
-## Card 16: Mother Betrayal
+## Card 17: Mother Betrayal
 
 **The Pattern:** The protector becomes the threat
 
@@ -440,7 +482,7 @@ Accept that her limitations are not your fault and not yours to fix. Seek safety
 
 ---
 
-## Card 17: "You're Being Mean"
+## Card 18: "You're Being Mean"
 
 **The Pattern:** Reframing boundaries as cruelty
 
@@ -462,7 +504,7 @@ You soften your position. You apologize for how you said something instead of st
 
 ---
 
-## Card 18: Excessive Compliments
+## Card 19: Excessive Compliments
 
 **The Pattern:** Flattery that feels draining
 
@@ -484,7 +526,7 @@ Trust the drain. Genuine appreciation energizes; manipulation depletes. "Thank y
 
 ---
 
-## Card 19: The Future Promise
+## Card 20: The Future Promise
 
 **The Pattern:** Dangling tomorrow to control today
 
@@ -506,7 +548,7 @@ You've seen glimpses of who they could be. The potential feels so real. You stay
 
 ---
 
-## Card 20: The Substance Shield
+## Card 21: The Substance Shield
 
 **The Pattern:** "I was drunk—I didn't mean it"
 
@@ -532,7 +574,7 @@ You minimize harm because "they weren't themselves." You wait for the sober vers
 
 ---
 
-## Card 21: Lowering Your Guard
+## Card 22: Lowering Your Guard
 
 **The Pattern:** Important conversations when you've been drinking
 

@@ -522,6 +522,113 @@ Family relationships carry unique guilt and obligation scripts. Here's how to ho
 
 ---
 
+### Sibling Scripts: Navigating the Rupture-Guilt-Re-entry Pattern
+
+Siblings from dysregulated family systems often repeat a specific cycle: boundary → passive-aggression → guilt bid → re-entry without repair. Here's how to respond without collapsing or escalating.
+
+---
+
+#### When they respond to your boundary with passive-aggression:
+
+**Them:** "Fine. Don't have fun with me. I didn't want to go anyway."
+
+**Your options (choose based on your energy):**
+
+🟢 **Minimal (recommended):**
+- "Hope you have a good night."
+- [No response—this is complete and valid]
+
+🟡 **Warm but closing:**
+- "I hear you. Let's catch up another time."
+
+🔴 **Pattern interrupt (only if needed):**
+- "When I set a boundary and it turns into sarcasm, it makes me pull back. I'd rather keep things simple."
+
+**Don't:** Explain your workload again. Reassure their worth. Argue about whether they're joking.
+
+---
+
+#### When they re-enter late at night without addressing what happened:
+
+**Them:** "you up?" / "I have an idea, and I need to know if it's genius or nuts."
+
+**Your options:**
+
+- "Can you send it tomorrow? I'm offline now."
+- "If it's logistical, feel free to text it. Otherwise let's catch up another time."
+- "I'm not in a place for big ideas tonight."
+- [No response until your grounded hours]
+
+**The principle:** You don't owe engagement just because they re-entered. The unfinished loop isn't yours to close.
+
+---
+
+#### When you're in different modes of relating:
+
+Sometimes the issue isn't what you said—it's that you're in a logistical/practical frame and they're in an emotional/access frame. Every factual response feels "cold" to them; every emotionally soothing response feels "costly" to you.
+
+**Try naming the mode difference:**
+
+- "I think we're talking from different places right now. I'm in a really practical season and not very available socially."
+- "I'm pretty heads-down these days."
+
+This doesn't argue, soothe, or invite debate. It re-anchors reality.
+
+---
+
+#### When you want to close without moral weight:
+
+Humor can work here—not sarcasm, but closing the curtain gently:
+
+- "Ha—future ideas can wait. I'm pretty offline these days."
+- "My bandwidth is extremely unsexy right now."
+- "I'm in a monk phase. No genius assessments available."
+
+This removes intensity, doesn't reward guilt bids, doesn't escalate, and ends the interaction without anyone being wrong.
+
+---
+
+### Rhythm Control: The Most Important Sibling Strategy
+
+Sometimes the discomfort isn't *what* to say—it's that they keep re-entering your field at moments that dysregulate you (late night, emotional undertone, "you up?" energy).
+
+**Instead of crafting the perfect message, change the rhythm:**
+
+- Do not respond to late-night messages
+- Respond only during your grounded hours
+- Keep responses short but warm
+
+This teaches the nervous system—yours and theirs:
+
+> "Access to me happens in regulated space."
+
+No confrontation needed. You're not setting a boundary with words—you're setting it with timing.
+
+---
+
+### Mantras for Sibling Dynamics
+
+Hold these when you feel the guilt flicker:
+
+- "I can stay kind without staying available."
+- "I can care without compensating."
+- "I don't owe access to manage someone else's disappointment."
+- "Connection doesn't require immediacy."
+- "Rupture without repair is not my job to fix."
+
+**What you did NOT do (and that's why it worked):**
+- You did not defend your boundary
+- You did not soothe their disappointment
+- You did not correct their sarcasm
+- You did not over-clarify logistics
+- You did not escalate into emotional processing
+
+That's why the guilt didn't get fed.
+
+*See also: Chapter 9, Two Modes: What Sibling Exchange Actually Looks Like*
+
+---
+
 ## Scripts for Declining Symbolic Contact
 
 After setting boundaries or ending relationships, they may send minimal, symbolic contact that keeps the door slightly open without offering real connection.

@@ -8,6 +8,7 @@
 - `structural-recommendations.md`
 - `editorial-letter.md`
 - `review-03-phase-1/author-decisions.md` (GitHub Issues #220, #221)
+- `review-03-phase-4/issue-246-integration.md` (GitHub Issue #246)
 
 **Last Updated:** January 5, 2026
 
@@ -15,8 +16,8 @@
 
 ## Author Notes & Key Decisions (Review Round 3)
 
-> **Source:** Author responses from GitHub Issues #220 (Diana) and #221 (Morgan)
-> **Date:** January 4, 2026
+> **Source:** Author responses from GitHub Issues #220 (Diana), #221 (Morgan), and #246 (Metrics Improvements)
+> **Date:** January 4-5, 2026
 
 ### Publication Approach
 - **Timeline:** Quality-first (6-8 weeks) — comprehensive approach with all polish items
@@ -31,6 +32,13 @@
 | Em-dash Reduction | **50% reduction** approved | Address rhythmic monotony |
 | Part Structure | **5 parts confirmed** | Current TOC structure is final |
 | Decoder Card Count | **52 tactical elements** | Resolved discrepancy |
+
+### Metrics Improvement Directives (Issue #246)
+| Metric | Target | Author Choice | Impact |
+|--------|--------|---------------|--------|
+| Coherence (4.2→4.5) | +0.3 | **All C1-C4** | Cross-refs, voice, concept audit, theme markers |
+| Flow (3.9→4.5) | +0.6 | **F1-F5 (skip F6)** | Pause points, Ch.3 restructure, breathing room, time estimates |
+| Popularity (4.5→4.7) | +0.2 | **P1-P3, P5 (skip P4)** | Shareable content, Tier 4 enhancement, interactive elements, hooks |
 
 ### Structural Decisions from Diana (Developmental Editor)
 | Item | Decision | Notes |
@@ -312,6 +320,225 @@
 
 ---
 
+## Phase 5: Metrics Improvements (Issue #246)
+
+> **Source:** Author decisions from GitHub Issue #246
+> **Goal:** Improve Coherence (4.2→4.5), Flow (3.9→4.5), Popularity (4.5→4.7)
+
+### 5.1 Coherence Improvements (C1-C4)
+
+#### 5.1.1 Cross-Reference Consolidation (C1)
+**Author Decision (Issue #246):** ✅ Implement cross-references when concepts repeat.
+
+- [ ] Identify cross-chapter concept repetitions
+- [ ] Add explicit references to primary treatment locations
+- [ ] Focus areas:
+  - [ ] Triangulation → point to Ch. 7
+  - [ ] Trauma bonding → point to Ch. 4
+  - [ ] Gray Rock → point to Ch. 15
+
+**Status:** Not Started
+
+---
+
+#### 5.1.2 Voice Consistency Pass (C2)
+**Author Decision (Issue #246):** ✅ Convert Chapter 10 Field Notes to second person.
+
+- [ ] Review all Field Notes in Chapter 10
+- [ ] Convert third-person narration to second person
+- [ ] Ensure consistent voice throughout chapter
+
+**Status:** Not Started
+
+---
+
+#### 5.1.3 Concept Introduction Audit (C3)
+**Author Decision (Issue #246):** ✅ Verify all key terms introduced before reference.
+
+- [ ] Audit key terms for first mention:
+  - [ ] Trauma bonding
+  - [ ] Gray Rock
+  - [ ] Triangulation
+  - [ ] Golden Child/Scapegoat
+  - [ ] Supply
+- [ ] Create first-mention tracking document
+- [ ] Ensure terms are defined before first use
+
+**Status:** Not Started
+
+---
+
+#### 5.1.4 Thematic Throughline Markers (C4)
+**Author Decision (Issue #246):** ✅ Add visual/textual markers for core themes.
+
+- [ ] Define marker format (icon, sidebar, or textual)
+- [ ] Identify key moments for each theme:
+  - [ ] 🎯 Recognition
+  - [ ] 💡 Understanding
+  - [ ] 🛡️ Response
+  - [ ] 💪 Recovery
+- [ ] Add markers at appropriate locations
+
+**Status:** Not Started
+
+---
+
+### 5.2 Flow Improvements (F1-F5)
+
+#### 5.2.1 Strategic Pause Points (F1)
+**Author Decision (Issue #246):** ✅ Add "Pause and Integrate" sections at density peaks.
+
+- [ ] Add pause points at:
+  - [ ] After Tactic 12 in Chapter 3A
+  - [ ] After Tactic 25 in Chapter 3A
+  - [ ] After Tactic 32 in Chapter 3B
+  - [ ] Between Chapter 9 and 10
+  - [ ] After Card 15 in Chapter 14
+  - [ ] After Card 35 in Chapter 15
+
+**Template:**
+```markdown
+### ⏸️ Pause and Integrate
+
+Take a moment to breathe. You've just encountered [X] patterns.
+
+**Grounding check:**
+- How is your body feeling right now?
+- What's one pattern that resonated most?
+- Is there someone specific who came to mind?
+
+When you're ready, continue.
+```
+
+**Status:** Not Started
+
+---
+
+#### 5.2.2 Chapter 3 Restructuring (F2)
+**Author Decision (Issue #246):** ✅ Organize 38 tactics into 4 category sections.
+
+- [ ] Create category sections with headers:
+  - [ ] Control Tactics (1-10)
+  - [ ] Validation Tactics (11-19)
+  - [ ] Sexual/Energetic Tactics (20-28)
+  - [ ] Post-Encounter Tactics (29-38)
+- [ ] Add visual breathing room between categories
+- [ ] Add category introductions
+
+**Status:** Not Started
+
+---
+
+#### 5.2.3 Decoder Cards Split Coordination (F3)
+**Author Decision (Issue #246):** ✅ Coordinate with separate decoder cards issue.
+
+- [ ] Verify alignment with decoder cards split implementation
+- [ ] See `review-03-phase-4/github-issue-decoder-cards-split.md`
+
+**Status:** Not Started — Tracked in Separate Issue
+
+---
+
+#### 5.2.4 Family Chapters Breathing Room (F4)
+**Author Decision (Issue #246):** ✅ Add mid-chapter reflection prompts in Chapters 7-10.
+
+- [ ] Add "Your Turn" reflection boxes in:
+  - [ ] Chapter 7 (Family Roles & Triangulation)
+  - [ ] Chapter 8 (Parental Wounds)
+  - [ ] Chapter 9 (Breaking Free from Family Systems)
+  - [ ] Chapter 10 (Childhood Patterns)
+
+**Template:**
+```markdown
+> **Your Turn:** Before we explore [next section], take a moment to notice what came up for you in [previous section]. What patterns feel familiar? What surprised you?
+```
+
+**Status:** Not Started
+
+---
+
+#### 5.2.5 Reading Time Estimates (F5)
+**Author Decision (Issue #246):** ✅ Add estimated reading time to chapter headers.
+
+- [ ] Calculate reading time for each chapter
+- [ ] Add time estimates to chapter headers
+- [ ] Include content density warnings where appropriate
+
+**Format:** `*Reading time: ~25 minutes | Heavy content — pace yourself*`
+
+**Status:** Not Started
+
+---
+
+### 5.3 Popularity Improvements (P1, P2, P3, P5)
+
+#### 5.3.1 Feature Shareable Content (P1)
+**Author Decision (Issue #246):** ✅ Identify and highlight quotable passages.
+
+- [ ] Identify top shareable passages:
+  - [ ] "The Master Question" (Ch. 13)
+  - [ ] "The 3-3-3 Rule" (Front Matter)
+  - [ ] "The 72-Hour Test" (Ch. 1)
+  - [ ] "Control disguised as care" (title concept)
+  - [ ] Key Field Notes moments
+- [ ] Add pull quote styling or markers
+
+**Status:** Not Started
+
+---
+
+#### 5.3.2 Tier 4 Section Enhancement (P2)
+**Author Decision (Issue #246):** ✅ Improve engagement of lowest-ranked sections.
+
+**Chapter 3A/3B Enhancements:**
+- [ ] Add "Most Common" badges to top 10 tactics
+- [ ] Include self-assessment: "Check which you've experienced"
+- [ ] Add personal stories/Field Notes for impactful tactics
+
+**Cards 28-51 Enhancements:**
+- [ ] Add "When to use this card" practical guidance
+- [ ] Coordinate with decoder cards split
+
+**Status:** Not Started
+
+---
+
+#### 5.3.3 Interactive Elements (P3)
+**Author Decision (Issue #246):** ✅ Add checklists, self-assessments, and reflection prompts.
+
+- [ ] Add interactive elements:
+  - [ ] Tactics checklist: "Mark each tactic you've experienced"
+  - [ ] Decoder Card tracker: "Cards that apply to your situation"
+  - [ ] Recovery progress markers
+- [ ] Select priority sections for implementation
+
+**Status:** Not Started
+
+---
+
+#### 5.3.4 Chapter Engagement Hooks (P5)
+**Author Decision (Issue #246):** ✅ Add compelling opening hooks to lower-ranked chapters.
+
+- [ ] Add engagement hooks to:
+  - [ ] Chapter 3 (currently dense opening)
+  - [ ] Other lower-ranked chapters as needed
+
+**Example Hook (Ch. 3):**
+> "You're about to learn the 38 tactics that have been used against you—and once you see them, you'll never unsee them."
+
+**Status:** Not Started
+
+---
+
+### 5.4 Deferred Items (Issue #246)
+
+| Item | Reason | Future Edition |
+|------|--------|----------------|
+| F6: Progressive Disclosure | High effort | Consider for digital edition |
+| P4: Success Stories Integration | Requires gathering testimonials | Future edition |
+
+---
+
 ## Proposed New Chapter Structure
 
 After all restructuring, the book should be organized:
@@ -376,11 +603,12 @@ BACK MATTER
 
 ## Summary
 
-**Total Action Items:** 85 (updated with author-directed additions)
+**Total Action Items:** 117 (updated with Issue #246 improvements)
 **Critical (Phase 1):** 18
 **High Priority (Phase 2):** 15
 **Medium Priority (Phase 3):** 35 (expanded per author decisions)
 **Final Polish (Phase 4):** 17 (expanded with verification tasks)
+**Metrics Improvements (Phase 5):** 32 (from Issue #246)
 
 ---
 
@@ -402,6 +630,9 @@ BACK MATTER
 | Move exposure questions earlier | Diana Q4 | Structural change |
 | Integrate pause files into chapters | Diana Q14 | Structural change |
 | Quality-first timeline (6-8 weeks) | Morgan Q3 | All 18 medium items |
+| Coherence improvements (C1-C4) | Issue #246 | All 4 items approved |
+| Flow improvements (F1-F5) | Issue #246 | 5 of 6 items (F6 deferred) |
+| Popularity improvements (P1-P3, P5) | Issue #246 | 4 of 5 items (P4 deferred) |
 
 ### ⚠️ Modified from Original Recommendations
 | Original Recommendation | Author Decision |
@@ -422,3 +653,4 @@ BACK MATTER
 *Generated from developmental editing analysis*
 *Updated: January 5, 2026*
 *Integrated: Author decisions from GitHub Issues #220, #221 (Review Round 3)*
+*Integrated: Author decisions from GitHub Issue #246 (Metrics Improvements)*

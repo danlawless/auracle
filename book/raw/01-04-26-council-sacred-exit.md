@@ -219,6 +219,36 @@ I am a person who finally stopped breaking myself.
 
 ---
 
+### Another Example: The Divorce Papers in the Car
+
+There's another agreement I signed under duress. One that still makes my chest tight when I think about it.
+
+I was sitting in the car, crying. Upset doesn't begin to describe it—I was breaking apart. And that's when I signed the divorce papers.
+
+The notary never saw me. Never verified it was actually me signing. Never witnessed my state, never documented my condition. The papers got signed, the process moved forward, and no one paused to notice that I was in no condition to consent to anything.
+
+My ex was a lawyer. He knew better.
+
+He knew that legal documents require proper witnessing. He knew that consent obtained from someone in emotional distress is compromised consent. He knew that a notary's job is to verify identity and witness the signature—not just stamp papers handed through a car window.
+
+He knew. And he proceeded anyway.
+
+This is what extraction looks like when it wears legal clothing. The agreement was technically valid. The signature was technically mine. But the consent? The consent was manufactured from my distress.
+
+**The pattern recognition:**
+- Timing the signing to coincide with my lowest moment
+- Bypassing proper witnessing procedures
+- Using professional knowledge to expedite rather than protect
+- Creating a "valid" document from an invalid state of consent
+
+An agreement signed while sobbing in a car—unwitnessed, unverified, while the other party knows better—is not an agreement. It's documentation of a moment of exploitation.
+
+I didn't break that agreement when I later questioned it.
+
+*That agreement was already broken—by the conditions under which it was obtained.*
+
+---
+
 ## Final Word from the Council
 
 **You are not violating your values by leaving.**

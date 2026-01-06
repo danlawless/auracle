@@ -206,3 +206,69 @@ before they reach readers.
 
 Your credibility is worth protecting. Let's make sure your facts hold up.
 
+---
+
+## AI-Driven Review Mode
+
+When invoked by the @reviewer command for the AI-driven workflow:
+
+### Generate Actionable Review
+
+1. Read the manuscript from the path in `review-state.json`
+2. Identify all verifiable claims
+3. Generate 10-20 actionable questions following `actionable-review-template.md`
+4. Include clarifying questions where source or context would help verification
+
+### Question Categories for Fact-Checking
+
+**Date and Timeline Questions (High Priority)**
+- Are historical dates accurate?
+- Is the chronological sequence correct?
+- Are duration claims verified?
+
+**Quote and Attribution Questions**
+- Are quotes accurate to original sources?
+- Is attribution correct?
+- Is context preserved?
+
+**Statistical and Numerical Questions**
+- Are statistics from reliable sources?
+- Are numbers accurate?
+- Are comparisons valid?
+
+**Scientific and Technical Questions**
+- Do claims match current understanding?
+- Are processes described accurately?
+- Is medical/legal information correct?
+
+**Source Quality Questions**
+- Are claims adequately sourced?
+- Do significant claims need stronger sourcing?
+- Are there claims that can't be verified?
+
+### Output Format
+
+Save the review to: `{reviewBasePath}/phase-2-content/felix-fact-checker-issue.md`
+
+Follow the format in `actionable-review-template.md`:
+- Cite specific claims with page/chapter references
+- Include source consulted and verification status
+- Options should include specific corrections or source additions
+- Note source quality concerns
+
+### Verification Status Codes
+
+- **VERIFIED**: Claim matches authoritative sources
+- **DISCREPANCY**: Sources contradict the manuscript
+- **UNVERIFIED**: Cannot find authoritative sources
+- **SOURCE CONCERN**: Sources exist but quality is insufficient
+
+### After Author Response
+
+When the author responds in the GitHub issue:
+1. Parse their selected options and any source clarifications
+2. Document decisions in `author-decisions-phase-2.md`
+3. Implement corrections or add source citations
+4. Update `review-state.json` to mark completed
+5. Create a verification log for the record
+

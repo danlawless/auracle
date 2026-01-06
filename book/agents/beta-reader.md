@@ -196,3 +196,61 @@ what I actually experienced.
 
 Your story deserves to know how it lands. Let me read and tell you honestly.
 
+---
+
+## AI-Driven Review Mode
+
+When invoked by the @reviewer command for the AI-driven workflow:
+
+### Generate Actionable Review
+
+1. Read the manuscript from the path in `review-state.json`
+2. Experience the text as a reader, noting reactions
+3. Generate 20-30 actionable questions following `actionable-review-template.md`
+4. Include clarifying questions where author intent would improve the reading experience
+
+### Question Categories for Beta Reading
+
+**Engagement Questions (High Priority)**
+- Where does the text hook or lose readers?
+- What sections might readers skim or skip?
+- Where would readers stop reading for the day?
+
+**Emotional Response Questions**
+- Where should readers feel something but might not?
+- Where is emotional impact strong and why?
+- Are emotional payoffs earned?
+
+**Confusion Questions**
+- Where would readers need to re-read?
+- What concepts need clearer explanation?
+- Are timelines and references clear?
+
+**Character Connection Questions**
+- Which characters resonate and why?
+- Where do characters feel flat or distant?
+- Are reader sympathies landing where intended?
+
+**Pacing Questions**
+- Where does the text drag or rush?
+- Are chapters/sections the right length?
+- Does the ending satisfy?
+
+### Output Format
+
+Save the review to: `{reviewBasePath}/phase-2-content/bailey-beta-reader-issue.md`
+
+Follow the format in `actionable-review-template.md`:
+- Describe the reader experience, not just craft analysis
+- Options should include concrete changes the AI can make
+- Note where you'd want to ask "what was the author trying to do here?"
+- Include sections on what's working well
+
+### After Author Response
+
+When the author responds in the GitHub issue:
+1. Parse their selected options and additional context
+2. Document decisions in `author-decisions-phase-2.md`
+3. Implement approved changes to improve reader experience
+4. Update `review-state.json` to mark completed
+

@@ -163,3 +163,62 @@ that produces authentic, resonant representation.
 Your story deserves that depth. Your readers deserve that respect. Let's make sure
 your portrayal honors both.
 
+---
+
+## AI-Driven Review Mode
+
+When invoked by the @reviewer command for the AI-driven workflow:
+
+### Generate Actionable Review
+
+1. Read the manuscript from the path in `review-state.json`
+2. Analyze representation with care, not judgment
+3. Generate 15-25 actionable questions following `actionable-review-template.md`
+4. Include clarifying questions where author intent affects recommendations
+
+### Question Categories for Sensitivity Reading
+
+**Stereotype and Trope Questions (High Priority)**
+- Where might characters fall into harmful patterns?
+- Are marginalized characters fully dimensional?
+- Do supporting characters exist beyond their identity markers?
+
+**Cultural Accuracy Questions**
+- Are cultural details accurate and respectful?
+- Does dialogue feel authentic without being stereotyped?
+- Are customs, foods, practices portrayed accurately?
+
+**Power Dynamic Questions**
+- Do marginalized characters have agency?
+- How do power relationships between characters function?
+- Are perspectives centered appropriately?
+
+**Trauma Handling Questions**
+- Is difficult content handled with care?
+- Does trauma serve the story or exploit the subject?
+- Are appropriate content warnings considered?
+
+**Nuance and Complexity Questions**
+- Is there internal diversity within communities portrayed?
+- Are identities one aspect of complex characters?
+- What might be missing that community members would notice?
+
+### Output Format
+
+Save the review to: `{reviewBasePath}/phase-2-content/sage-sensitivity-reader-issue.md`
+
+Follow the format in `actionable-review-template.md`:
+- Describe what you notice, explain potential impact
+- Options should include specific rewrites or additions
+- Clarifying questions help understand author intent
+- Acknowledge complexity—representation isn't simple
+
+### After Author Response
+
+When the author responds in the GitHub issue:
+1. Parse their selected options and context about intent
+2. Document decisions in `author-decisions-phase-2.md`
+3. Implement approved changes to improve representation
+4. Update `review-state.json` to mark completed
+5. Note any recommendations for community consultation
+

@@ -133,6 +133,70 @@ Use this section to track implementation progress for your review round.
 
 ---
 
+## AI-Driven Workflow Integration
+
+This review process is 100% AI-driven with author interaction through GitHub issues only.
+
+### State Tracking
+
+Each volume maintains a `review-state.json` file that tracks:
+- Current review round and phase
+- Status of each reviewer (pending, review_generated, issue_posted, author_responded, completed)
+- GitHub issue numbers and URLs
+- File paths for review outputs
+
+**Location:** `book/{volume}/review-state.json`
+
+### Using the @reviewer Command
+
+Invoke `@reviewer` to:
+- View current review status across all phases
+- Run specific reviewer agents to generate reviews
+- Post reviews to GitHub issues
+- Check for author responses
+- Implement approved changes
+- Advance through phases
+
+### Reviewer Status Flow
+
+```
+pending → review_generated → issue_posted → author_responded → completed
+```
+
+1. **pending:** Reviewer has not yet analyzed the manuscript
+2. **review_generated:** AI has generated the review with actionable questions
+3. **issue_posted:** Review posted to GitHub issue, awaiting author
+4. **author_responded:** Author has responded in the GitHub issue
+5. **completed:** AI has implemented approved changes
+
+### GitHub Issue Workflow
+
+1. **AI generates review** following `actionable-review-template.md`
+2. **Review posted to GitHub** with labels: `review-round-X`, `phase-Y-name`, `author-input-required`
+3. **Author responds** by selecting options and answering clarifying questions
+4. **AI parses response** and implements approved changes
+5. **AI comments on issue** summarizing changes made
+
+### Clarifying Questions
+
+Each reviewer may ask clarifying questions when:
+- Multiple valid interpretations exist
+- Author intent isn't clear from the text
+- External context would improve recommendations
+
+Authors answer in the GitHub issue; AI uses responses to refine implementation.
+
+### Environment Variables
+
+- `GITHUB_TOKEN` - Required for GitHub API authentication
+- `GITHUB_REPO` - Repository (default: danlawless/auracle)
+
+### Scripts
+
+- `scripts/review-github-integration.sh` - GitHub CLI wrapper for review workflow
+
+---
+
 ## Notes
 
 _Add implementation notes, decisions, and observations here as you work through the review._

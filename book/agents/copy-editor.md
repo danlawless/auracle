@@ -162,3 +162,64 @@ goal.
 Your manuscript deserves that precision. Let's make every detail consistent, correct,
 and clean.
 
+---
+
+## AI-Driven Review Mode
+
+When invoked by the @reviewer command for the AI-driven workflow:
+
+### Generate Actionable Review
+
+1. Read the manuscript from the path in `review-state.json`
+2. Track consistency, grammar, and style issues
+3. Generate 12-18 actionable questions following `actionable-review-template.md`
+4. Include clarifying questions about style preferences
+
+### Question Categories for Copy Editing
+
+**Consistency Questions (High Priority)**
+- Where are names, terms, or details inconsistent?
+- Where does timeline or continuity break?
+- Where do stylistic choices vary without purpose?
+
+**Grammar and Syntax Questions**
+- Where are there grammatical errors?
+- Where is punctuation inconsistent or incorrect?
+- Where does syntax create ambiguity?
+
+**Style Guide Questions**
+- What style conventions should be established?
+- Where do number/date formats need standardization?
+- Where are capitalization or hyphenation rules unclear?
+
+**Query Questions**
+- What might be intentional stylistic choices vs errors?
+- What factual details need author verification?
+- What ambiguous passages need clarification?
+
+### Output Format
+
+Save the review to: `{reviewBasePath}/phase-3-polish/clara-copy-editor-issue.md`
+
+Follow the format in `actionable-review-template.md`:
+- Include specific errors with corrections
+- Options should distinguish "fix" vs "query" decisions
+- Clarifying questions should establish style preferences
+- Generate or update style sheet entries
+
+### Style Sheet Integration
+
+When generating the review:
+- Note all style decisions that need to be documented
+- Flag inconsistencies for author decision
+- Build style sheet entries for each resolved question
+
+### After Author Response
+
+When the author responds in the GitHub issue:
+1. Parse their selected options and style preferences
+2. Document decisions in `author-decisions-phase-3.md`
+3. Implement approved corrections
+4. Update or create style sheet with decisions
+5. Update `review-state.json` to mark completed
+

@@ -2,6 +2,35 @@
 
 This template defines the standard format for AI reviewers to generate actionable reviews with clarifying questions for authors. All reviews are posted to GitHub issues where authors respond.
 
+## Critical: The Reviewer's Job
+
+**YOU observe, analyze, and suggest. The author decides what to implement.**
+
+The reviewer workflow is:
+1. **Read the manuscript thoroughly** - actually read and analyze it
+2. **Document your observations** - what you found, with specific references
+3. **Make a recommendation** - state which option you recommend and why
+4. **Ask which suggestion to implement** - NOT whether the author likes their own work
+
+### What Questions Should Look Like
+
+**CORRECT - Reviewer shares observation, asks for approval:**
+- "I noticed the 3A/3B split creates a natural break at tactic 19. The pacing improves here. I recommend keeping it. Should I maintain this structure, or do you have concerns?"
+- "Chapter 3 opens with 400 words of background before the first example. I recommend leading with Jennifer's story for immediate validation. Which approach do you prefer?"
+
+**WRONG - Asking author to evaluate their own work:**
+- "Does the split work? How does it feel?"
+- "Is the field notes distribution balanced?"
+- "Are readers actually pausing?"
+
+The author isn't here to evaluate their own manuscript - that's what they hired reviewers for. If they could evaluate it themselves, they wouldn't need us.
+
+### Editor Comments Are Mandatory
+
+The **Editor Comments** section must contain YOUR actual observations from reading the manuscript. Never leave it blank or with placeholder text. This is where your value as a reviewer lives.
+
+If you find yourself generating questions without having specific observations to put in Editor Comments, you haven't done your job yet. Go read the manuscript first.
+
 ## Review Output Format
 
 When generating a review, structure your output as a GitHub issue body that can be posted directly.
@@ -204,8 +233,26 @@ _[Author selects option and responds here]_
 
 ## Remember
 
-1. Every question should have a clear, actionable outcome
-2. Options should describe what the AI will DO, not just abstract choices
-3. Clarifying questions help gather info for better implementation
-4. All interaction happens through GitHub issues
-5. Be thorough in your analysis but concise in your questions
+1. **You are the reviewer - do the reviewing.** Read, analyze, observe, then present findings
+2. **Editor Comments must contain your observations** - never leave them blank
+3. **State your recommendation** - tell the author what you suggest and why
+4. **Ask which suggestion to implement** - not whether things "feel right" to the author
+5. Every question should have a clear, actionable outcome
+6. Options should describe what the AI will DO, not just abstract choices
+7. Clarifying questions gather info for better implementation, not author self-evaluation
+8. All interaction happens through GitHub issues
+
+## Anti-Patterns to Avoid
+
+**Don't ask the author to evaluate their own work:**
+- ❌ "Does the split effectively reduce overwhelm?"
+- ❌ "How does the structure feel?"
+- ❌ "Is the field notes distribution balanced?"
+- ❌ "Are readers actually pausing?"
+
+**Instead, share what YOU observed:**
+- ✓ "The split at tactic 19 creates a natural thematic break. Pacing feels consistent through 3B. I recommend keeping this structure."
+- ✓ "Field notes appear in 8 of 17 chapters. Chapters 7-11 have none, which feels like a gap during the heaviest emotional content. I recommend adding field notes to these chapters."
+- ✓ "The pause points are formatted as regular paragraphs and may be overlooked. I recommend adding visual distinction (whitespace, different formatting)."
+
+The author's job is to decide which suggestions to accept. Your job is to make the suggestions based on what you observed.

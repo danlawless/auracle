@@ -2,7 +2,7 @@
   "volume": "vol-1-decoder",
   "volumeTitle": "The Narcissism Decoder",
   "reviewRound": 4,
-  "currentPhase": 3,
+  "currentPhase": 4,
   "startedAt": "2026-01-05T00:00:00Z",
   "repository": "danlawless/auracle",
   "manuscriptPath": "book/vol-1-decoder/manuscript",
@@ -104,46 +104,47 @@
     "3": {
       "name": "Polish",
       "description": "Prose craft, voice, style consistency",
-      "status": "in_progress",
+      "status": "completed",
       "startedAt": "2026-01-06T00:00:00Z",
+      "completedAt": "2026-01-06T00:00:00Z",
       "reviewers": {
         "lydia": {
           "agentFile": "book/agents/line-editor.md",
           "displayName": "Lydia (Line Editor)",
           "focus": "Prose craft, voice, rhythm",
           "questionCount": 18,
-          "status": "review_generated",
+          "status": "completed",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-04/phase-3-polish/lydia-line-editor-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-3-polish/author-decisions-phase-3.md",
-          "implementationComplete": false
+          "implementationComplete": true
         },
         "clara": {
           "agentFile": "book/agents/copy-editor.md",
           "displayName": "Clara (Copy Editor)",
           "focus": "Style consistency, terminology",
           "questionCount": 15,
-          "status": "review_generated",
+          "status": "completed",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-04/phase-3-polish/clara-copy-editor-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-3-polish/author-decisions-phase-3.md",
-          "implementationComplete": false
+          "implementationComplete": true
         }
       }
     },
     "4": {
       "name": "Final Pass",
       "description": "Typos, formatting, final errors, analysis",
-      "status": "blocked",
-      "blockedBy": "Phase 3 completion required",
+      "status": "in_progress",
+      "startedAt": "2026-01-06T00:00:00Z",
       "reviewers": {
         "petra": {
           "agentFile": "book/agents/proofreader.md",

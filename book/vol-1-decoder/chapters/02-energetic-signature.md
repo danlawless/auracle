@@ -180,7 +180,7 @@ After interactions with controlling people, you may notice:
 
 This mental fog is a nervous system response. When your system detects threat, it can shift resources away from higher cognitive functions toward survival responses. You're not stupid or losing your mind, you're in a physiological state that impairs clear thinking.
 
-The headaches that accompany this fog are your body's physical protest. The mental energy required to track their shifting moods, decode their double messages, and suppress your authentic responses creates genuine neurological strain. Many people report these headaches appearing within hours of an interaction—sometimes during it—and find that no amount of pain relief fully addresses them. The headache resolves only when your nervous system finally processes the encounter and returns to safety.
+The headaches that accompany this fog are your body's physical protest. The mental energy required to track their shifting moods, decode their double messages, and suppress your authentic responses creates genuine neurological strain. Many people report these headaches appearing within hours of an interaction—sometimes during it. No amount of pain relief fully addresses them. The headache resolves only when your nervous system finally processes the encounter and returns to safety.
 
 The fog often lifts once you're away from them. That tells you something important.
 
@@ -193,7 +193,9 @@ Even short interactions might leave you disproportionately tired. This exhaustio
 - Process double messages
 - Protect yourself emotionally
 
-You may find yourself needing to sleep after encounters with controlling people—not just wanting rest, but being pulled into sleep as if your body is shutting down. This isn't laziness or weakness. Sleep is your nervous system's reset button. When you've been in a state of hypervigilance, tracking every micro-expression and calibrating every word, your system needs to discharge that activation. Sleep allows your brain to process what just happened without the added burden of staying alert.
+You may find yourself needing to sleep after encounters with controlling people—not just wanting rest, but being pulled into sleep as if your body is shutting down. This isn't laziness or weakness. Sleep is your nervous system's reset button.
+
+When you've been hypervigilant—tracking every micro-expression, calibrating every word—your system needs to discharge that activation. Sleep allows your brain to process what just happened without the added burden of staying alert.
 
 Many people describe needing to lie down immediately after interactions—whether it's a business meeting, a family dinner, or even a brief phone call. The conversation might have been only twenty minutes, but the recovery requires hours. You might wake up still tired, your body still processing the encounter.
 
@@ -620,6 +622,10 @@ Sensations are rarely static:
 - **Rhythm**: Does it have a beat? Is it steady or erratic?
 
 Sometimes a sensation that seemed solid will begin to move or shift when you give it attention. This is often a sign that something is ready to release or transform.
+
+---
+
+You've now explored the landscape of a sensation. But why go to this trouble? Why map what hurts?
 
 ### Why This Matters
 

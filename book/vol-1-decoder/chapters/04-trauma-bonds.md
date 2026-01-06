@@ -4,16 +4,18 @@
 
 ---
 
-If you've ever wondered:
+If you've ever wondered why you can't just leave—the answer isn't weakness. It's neuroscience.
+
+You're not stupid. You're not pathological. You're not addicted to pain.
+
+You're experiencing a biological response that evolution designed to be powerful.
 
 - "Why can't I just leave?"
 - "Why do I miss someone who hurt me?"
 - "Why do I keep going back?"
 - "Am I addicted to this person?"
 
-You're asking the right questions. And the answer isn't weakness, stupidity, or pathology.
-
-It's neuroscience.
+These are the right questions. This chapter answers them.
 
 This chapter explains the biological mechanisms that create trauma bonds: why your nervous system gets hooked on harmful relationships and why breaking free takes more than willpower alone.
 

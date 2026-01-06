@@ -28,7 +28,7 @@ The objectification often continues after the eruption. When he reaches for inti
 
 **How it hooks you:** You conflate intensity with passion. You mistake dominance for desire. You may comply to restore peace or prove your attractiveness. The objectification is harder to name because it wears the mask of wanting you—but your body knows the difference between being *wanted* and being *used*.
 
-**Your power move:** Real desire doesn't feel like demand. Real passion doesn't feel like punishment. Trust the difference your body knows. If intimacy follows an eruption with no acknowledgment of what was said, that's not reconciliation—it's erasure.
+**Your Power Move:** Real desire doesn't feel like demand. Real passion doesn't feel like punishment. Trust the difference your body knows. If intimacy follows an eruption with no acknowledgment of what was said, that's not reconciliation—it's erasure.
 
 ---
 

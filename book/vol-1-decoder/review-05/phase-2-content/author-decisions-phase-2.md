@@ -32,9 +32,9 @@
 ---
 
 ### Q4: Module 6 (Advanced Recognition) Absence
-**Selected Option:** C (Add note: "Module 6 coming in Course 2: The Bridge")
-**Reasoning:** Keep Vol 1 focused on core recognition; save advanced content for Course 2
-**Implementation Notes:** Add forward reference to Course 2 in Module 5 closing
+**Selected Option:** B (Move current 4.4 to become Module 6 and expand)
+**Reasoning:** We have not published yet so can do Module 6 now. Move Advanced Decoder Cards to become Module 6 and expand it with additional advanced recognition content.
+**Implementation Notes:** Restructure course to 6 modules - move 4.4 content to new Module 6, expand with advanced recognition patterns
 
 ---
 
@@ -92,30 +92,30 @@
 ---
 
 ### Q12: The "Window of Tolerance" Graphic Missing
-**Selected Option:** A (Create simple diagram)
-**Reasoning:** Visual learners need visual support for spatial concepts
-**Implementation Notes:** Create diagram showing zones with examples in each
+**Selected Option:** A + B (Create diagram AND text-based visual)
+**Reasoning:** Both approaches serve different readers and contexts
+**Implementation Notes:** Create diagram showing zones with examples, plus ASCII/formatted text version for accessibility
 
 ---
 
 ### Q13: JADE Acronym Needs Earlier Introduction
-**Selected Option:** A (Introduce in Lesson 1.4 with 3-3-3 Rule)
-**Reasoning:** JADE connects directly to why brief responses matter
-**Implementation Notes:** Add "Don't JADE" concept to 3-3-3 Rule lesson
+**Selected Option:** A + C (Introduce in 1.4, expand definition in 5.2 if needed)
+**Reasoning:** JADE connects directly to why brief responses matter; reinforce in later use
+**Implementation Notes:** Add "Don't JADE" concept to 3-3-3 Rule lesson; ensure clear definition when used in 5.2
 
 ---
 
 ### Q14: The "Flying Monkeys" Term Appears Suddenly
-**Selected Option:** A (Add brief etymology)
-**Reasoning:** Brief explanation grounds unfamiliar readers without patronizing insiders
-**Implementation Notes:** Add: "Flying monkeys (from Wizard of Oz)—people who do the manipulator's bidding..."
+**Selected Option:** A (Add brief inline etymology)
+**Reasoning:** Inline explanation maintains flow - no footnotes currently in book, want to keep it in flow
+**Implementation Notes:** Add inline: "Flying monkeys (from Wizard of Oz)—people who do the manipulator's bidding..."
 
 ---
 
 ### Q15: The Decoder Protocol Steps Feel Like Two Processes
-**Selected Option:** C (Reframe steps for clarity)
-**Reasoning:** Notice → Pause → Name the Pattern → Apply the Decoder → Respond feels more intuitive
-**Implementation Notes:** Rename/reframe 5 steps for clearer distinction
+**Selected Option:** A (Combine into 4-step model)
+**Reasoning:** C (reframe) is better achieved through A - combining steps 3-4 creates clearer distinction
+**Implementation Notes:** Combine "Identify" and "Remember" into single step; reframe as 4-step protocol: Notice → Pause → Decode → Respond
 
 ---
 
@@ -136,16 +136,16 @@
 ---
 
 ### Q18: Module 4 Card Lessons Need Different Energy
-**Selected Option:** B (Add practice scenarios between cards)
-**Reasoning:** Vary format without major restructuring
-**Implementation Notes:** Add pattern practice scenarios every 5-6 cards
+**Selected Option:** B + A (Add practice scenarios AND break into shorter lessons)
+**Reasoning:** Both approaches together maximize engagement variety
+**Implementation Notes:** Break 30-min lessons into 15-min segments AND add pattern practice scenarios every 5-6 cards
 
 ---
 
 ### Q19: The Passive-Aggressive Protest Lesson (5.2b) Feels Displaced
-**Selected Option:** B (Place as bonus/supplementary content)
-**Reasoning:** Valuable content but interrupts main flow
-**Implementation Notes:** Reposition after 5.4 as supplementary deep-dive
+**Selected Option:** A (Move to Module 4 as Advanced Decoder Card)
+**Reasoning:** Better fit with card content; becomes part of the decoder toolkit
+**Implementation Notes:** Integrate passive-aggressive protest content into Module 4/6 as specialized decoder card
 
 ---
 
@@ -159,23 +159,23 @@
 ## READER CONNECTION DECISIONS (Q21-Q25)
 
 ### Q21: Need More Relationship Diversity in Examples
-**Selected Option:** A (Add friendship examples to 2.3, 2.5, 3.5)
-**Reasoning:** Friendship narcissism deserves explicit representation
-**Implementation Notes:** Add 2-3 friendship-specific examples to each noted lesson
+**Selected Option:** A + B + C (All three approaches)
+**Reasoning:** Comprehensive friendship coverage through multiple methods
+**Implementation Notes:** Add friendship examples to 2.3, 2.5, 3.5 + create "Friendship Narcissism" subsection in Module 3 + add sidebar examples throughout
 
 ---
 
 ### Q22: The "Master Question" Needs More Buildup
-**Selected Option:** A (Preview in 1.1, explore in 5.3)
-**Reasoning:** Scaffolded introduction increases impact
-**Implementation Notes:** Add preview reference in 1.1: "a question you'll learn that changes everything"
+**Selected Option:** A + B + C (All three approaches)
+**Reasoning:** Maximum scaffolding for this powerful tool
+**Implementation Notes:** Preview in 1.1, add to Decoder Cards as reference, create application exercises throughout course
 
 ---
 
 ### Q23: Body-Based Practices Need More Encouragement
 **Selected Option:** A + C (Normalizing language AND "Why Somatic Works" intro)
 **Reasoning:** Address both the awkwardness and the rationale
-**Implementation Notes:** Add intro section before first practice and "this may feel weird" acknowledgments
+**Implementation Notes:** Add intro section before first practice and "this may feel weird—that's normal" acknowledgments
 
 ---
 
@@ -210,20 +210,38 @@
 **High Priority (Core Experience):**
 - Q2: Author's story in Welcome
 - Q3: Sync 52 cards with book
+- Q4: Create Module 6 (Advanced Recognition)
 - Q6: "Three Things You Need to Hear" section
 - Q8: Male examples including baby trap scenario
 
 **Medium Priority (Structure):**
 - Q1: Module 2 restructuring
+- Q15: Simplify to 4-step Decoder Protocol
 - Q17: Split Trauma Bonds lesson
+- Q18: Break up card lessons + add scenarios
+- Q19: Move 5.2b to Module 4
 - Q20: Split closing lesson
 
 **Lower Priority (Enhancement):**
 - Q5: Visual watermarks
-- Q12: Window of Tolerance diagram
+- Q12: Window of Tolerance diagram + text
+- Q21-22: Friendship examples + Master Question buildup
 - Q24: Reader testimonials
 - Q25: Quick Read summaries
 
 ---
 
+## Key Structural Changes Summary
+
+Based on Bailey decisions, the course structure will change:
+- **Module 1:** Foundation (expanded with bridge lesson)
+- **Module 2:** Tactics (restructured into shorter segments with scenarios)
+- **Module 3:** Context (split 3.1, add friendship content)
+- **Module 4:** Core Decoder Cards (includes 5.2b content)
+- **Module 5:** Integration & Response (split closing)
+- **Module 6:** Advanced Recognition (expanded from 4.4)
+
+---
+
 *Document updated: January 6, 2026*
+*Bailey decisions complete - Sage and Felix pending*

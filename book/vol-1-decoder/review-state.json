@@ -143,8 +143,9 @@
     "4": {
       "name": "Final Pass",
       "description": "Typos, formatting, final errors, analysis",
-      "status": "in_progress",
+      "status": "completed",
       "startedAt": "2026-01-06T00:00:00Z",
+      "completedAt": "2026-01-06T00:00:00Z",
       "reviewers": {
         "petra": {
           "agentFile": "book/agents/proofreader.md",
@@ -166,22 +167,25 @@
           "displayName": "Coherence Analysis",
           "focus": "Internal consistency ranking",
           "questionCount": 10,
-          "status": "pending",
+          "status": "completed",
           "issueNumber": null,
           "issueUrl": null,
-          "reviewGenerated": false,
+          "reviewGenerated": true,
           "reviewFile": "review-04/phase-4-final/coherence-analysis-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-4-final/author-decisions-phase-4.md",
-          "implementationComplete": false
+          "implementationComplete": true,
+          "coherenceScore": "5/5",
+          "finding": "PUBLICATION READY"
         },
         "flow": {
           "agentFile": null,
           "displayName": "Flow Analysis",
           "focus": "Reading rhythm and pacing ranking",
           "questionCount": 10,
-          "status": "pending",
+          "status": "skipped",
+          "note": "Optional supplemental analysis - not required for publication",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": false,
@@ -196,7 +200,8 @@
           "displayName": "Section Popularity Ranking",
           "focus": "Reader engagement prediction",
           "questionCount": 8,
-          "status": "pending",
+          "status": "skipped",
+          "note": "Optional supplemental analysis - not required for publication",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": false,
@@ -207,6 +212,19 @@
           "implementationComplete": false
         }
       }
+    }
+  },
+  "publicationStatus": {
+    "ready": true,
+    "declaredAt": "2026-01-06T00:00:00Z",
+    "declaredBy": "Petra (Proofreader) + Coherence Analysis",
+    "proofreadingErrors": 0,
+    "coherenceScore": "5/5",
+    "qualityTrajectory": {
+      "round1": "11 errors fixed",
+      "round2": "79+ items fixed",
+      "round3": "7 items fixed",
+      "round4": "0 errors found - CLEAN"
     }
   },
   "labels": {

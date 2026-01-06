@@ -1,7 +1,7 @@
 # Review Round 5 - Phase 3: Polish
 
 **Date:** January 6, 2026
-**Status:** Ready for Review (Pending Phase 2 Completion)
+**Status:** Active - Awaiting Author Decisions
 **Round Focus:** Prose craft and style consistency for new/changed content
 
 ---
@@ -47,7 +47,7 @@ phase-3-polish/
 ├── README.md (this file)
 ├── lydia-line-editor-issue.md
 ├── clara-copy-editor-issue.md
-└── author-decisions-phase-3.md (to be created after review)
+└── author-decisions-phase-3.md ✅ READY FOR DECISIONS
 ```
 
 ---

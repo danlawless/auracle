@@ -64,16 +64,19 @@ This round focuses on strategic planning for:
 - `author-decisions-sage-sensitivity.md` - Template ready for Sage decisions
 - `author-decisions-felix-factcheck.md` - Template ready for Felix decisions
 
-### Phase 3: Polish 📋 READY (Pending Phase 2)
+### Phase 3: Polish 🔄 ACTIVE
 
 | Reviewer | Focus | Status | Questions |
 |----------|-------|--------|-----------|
-| Lydia (Line Editor) | Prose craft for new content | Ready | 18 |
-| Clara (Copy Editor) | Style consistency for updates | Ready | 15 |
+| Lydia (Line Editor) | Prose craft for new content | ⏳ Awaiting Response | 18 |
+| Clara (Copy Editor) | Style consistency for updates | ⏳ Awaiting Response | 15 |
 
-**Phase 3 Total:** 33 questions prepared
+**Phase 3 Total:** 33 questions awaiting author decisions
 
-**Review Issues Created:**
+**Decision Template Ready:**
+- `author-decisions-phase-3.md` - Combined Lydia + Clara decisions with preferences
+
+**Review Issues:**
 - `lydia-line-editor-issue.md` - Voice, rhythm, emotional calibration
 - `clara-copy-editor-issue.md` - Terminology, formatting, structural consistency
 
@@ -135,9 +138,9 @@ Review Round 5 Phase 2 (Content) ← CURRENT
   - Sage: ⏳ Awaiting Response
   - Felix: ⏳ Awaiting Response
          ↓
-Review Round 5 Phase 3 (Polish) [Ready]
-  - Lydia: 18 questions prepared
-  - Clara: 15 questions prepared
+Review Round 5 Phase 3 (Polish) ← ACTIVE
+  - Lydia: ⏳ 18 questions awaiting response
+  - Clara: ⏳ 15 questions awaiting response
          ↓
 Review Round 5 Phase 4 (Final)
          ↓
@@ -148,6 +151,8 @@ Second Edition / Enhanced Format Ready
 
 ## Next Actions
 
+### Phase 2 (Remaining)
+
 1. **Author:** Complete Sage sensitivity decisions (22 questions)
    - File: `phase-2-content/author-decisions-sage-sensitivity.md`
    - Critical: Q2, Q7 (baby trap framing, language/immigration)
@@ -156,11 +161,18 @@ Second Edition / Enhanced Format Ready
    - File: `phase-2-content/author-decisions-felix-factcheck.md`
    - Critical: Q1 (38/37 discrepancy), Q15 (hotline verification)
 
-3. **Coordinator:** Once Phase 2 complete, initiate Phase 3 implementation
-   - Lydia reviews prose quality of new/changed content
-   - Clara reviews consistency across all changes
+### Phase 3 (Active)
 
-4. **Implementation:** Apply Phase 2 decisions before Phase 3 review
+3. **Author:** Complete Lydia line editor decisions (18 questions)
+   - File: `phase-3-polish/author-decisions-phase-3.md`
+   - Focus: Voice consistency, rhythm, emotional calibration
+
+4. **Author:** Complete Clara copy editor decisions (15 questions)
+   - File: `phase-3-polish/author-decisions-phase-3.md`
+   - Focus: Terminology, formatting, structural consistency
+   - Critical: Q1-Q3 (card count, module count, protocol steps)
+
+5. **Implementation:** Apply decisions and prepare for Phase 4
 
 ---
 
@@ -184,11 +196,23 @@ review-05/
 ├── phase-1-strategic/
 │   ├── diana-developmental-editor-issue.md
 │   ├── morgan-managing-editor-issue.md
-│   └── author-decisions.md (to be created)
+│   ├── author-decisions.md ✅
+│   ├── decoder-cards-analysis.md
+│   ├── course-materials-sync-report.md
+│   └── male-example-implementation.md
 ├── phase-2-content/
-│   └── (pending Phase 1 completion)
+│   ├── README.md
+│   ├── bailey-beta-reader-issue.md
+│   ├── sage-sensitivity-reader-issue.md
+│   ├── felix-fact-checker-issue.md
+│   ├── author-decisions-phase-2.md ✅ (Bailey complete)
+│   ├── author-decisions-sage-sensitivity.md ⏳
+│   └── author-decisions-felix-factcheck.md ⏳
 ├── phase-3-polish/
-│   └── (pending Phase 2 completion)
+│   ├── README.md
+│   ├── lydia-line-editor-issue.md
+│   ├── clara-copy-editor-issue.md
+│   └── author-decisions-phase-3.md ⏳
 └── phase-4-final/
     └── (pending Phase 3 completion)
 ```

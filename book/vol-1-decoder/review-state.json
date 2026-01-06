@@ -2,8 +2,10 @@
   "volume": "vol-1-decoder",
   "volumeTitle": "The Narcissism Decoder",
   "reviewRound": 4,
+  "roundStatus": "completed",
   "currentPhase": 4,
   "startedAt": "2026-01-05T00:00:00Z",
+  "completedAt": "2026-01-06T00:00:00Z",
   "repository": "danlawless/auracle",
   "manuscriptPath": "book/vol-1-decoder/manuscript",
   "reviewBasePath": "book/vol-1-decoder/review-04",
@@ -236,5 +238,16 @@
       "4": "phase-4-final"
     },
     "common": ["author-input-required"]
+  },
+  "roundSummary": {
+    "round": 4,
+    "status": "CLOSED",
+    "outcome": "PUBLICATION READY",
+    "completedAt": "2026-01-06T00:00:00Z",
+    "phasesCompleted": 4,
+    "reviewersCompleted": 9,
+    "errorsFoundThisRound": 0,
+    "coherenceScore": "5/5",
+    "nextAction": "Start fresh Round 5 if additional review needed, or proceed to publication"
   }
 }

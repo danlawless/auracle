@@ -48,6 +48,8 @@ But now the environment has changed. The responses haven't caught up. Your body 
 
 **Energetic remapping** is the process of teaching your nervous system that it's safe now, that new responses are possible, that you can return to baseline without hypervigilance.
 
+Remember the gradual dimming from Chapter 1? How the lights went down so slowly you forgot what brightness felt like? This is how we bring them back up. Not all at once—that would blind you. But steadily, degree by degree, until you remember what full wattage feels like.
+
 ---
 
 ## When the Loop Replays in Your Body

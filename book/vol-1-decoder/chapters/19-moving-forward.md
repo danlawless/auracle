@@ -332,6 +332,8 @@ The sensitivity that made you vulnerable is the same sensitivity that will guide
 
 You are not broken by what happened. You are **informed** by what happened. There's a difference.
 
+And the lights? They're coming back on. You can see clearly now. The gradual dimming has reversed. You remember what brightness feels like—and you'll never let it fade that slowly again.
+
 ---
 
 Here's what I want you to take from this book:

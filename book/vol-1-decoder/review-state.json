@@ -151,15 +151,15 @@
           "displayName": "Petra (Proofreader)",
           "focus": "Typos, formatting, final errors",
           "questionCount": 12,
-          "status": "pending",
+          "status": "completed",
           "issueNumber": null,
           "issueUrl": null,
-          "reviewGenerated": false,
+          "reviewGenerated": true,
           "reviewFile": "review-04/phase-4-final/petra-proofreader-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-4-final/author-decisions-phase-4.md",
-          "implementationComplete": false
+          "implementationComplete": true
         },
         "coherence": {
           "agentFile": null,

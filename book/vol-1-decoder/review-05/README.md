@@ -1,6 +1,6 @@
 # Review Round 5 - Vol. 1: The Narcissism Decoder
 
-**Status:** Phase 1 In Progress
+**Status:** Phase 1 Author Decisions Complete - Ready for Phase 2
 **Date Started:** January 6, 2026
 **Round Focus:** Post-Publication Refinement & Second Edition Considerations
 
@@ -34,14 +34,20 @@ This round focuses on strategic planning for:
 
 ## Phase Structure
 
-### Phase 1: Strategic Decisions (Current)
+### Phase 1: Strategic Decisions (Complete)
 
 | Reviewer | Focus | Status | Questions |
 |----------|-------|--------|-----------|
-| Diana (Developmental Editor) | Format expansion, content opportunities | ✅ Generated | 15 |
-| Morgan (Managing Editor) | Workflow priorities, coordination | ✅ Generated | 12 |
+| Diana (Developmental Editor) | Format expansion, content opportunities | ✅ Author Responded | 15 |
+| Morgan (Managing Editor) | Workflow priorities, coordination | ✅ Author Responded | 12 |
 
-**Phase 1 Total:** 27 questions
+**Phase 1 Total:** 27 questions answered
+
+**Additional Deliverables:**
+- `author-decisions.md` - Complete responses to all 27 questions
+- `decoder-cards-analysis.md` - Review of 52 cards, gap analysis
+- `course-materials-sync-report.md` - Identified discrepancies (37 → 52 cards)
+- `male-example-implementation.md` - Draft content for gender-balanced examples
 
 ### Phase 2: Content & Experience (Blocked - Awaiting Phase 1)
 

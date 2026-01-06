@@ -23,30 +23,37 @@
           "displayName": "Diana (Developmental Editor)",
           "focus": "Structure, format, expansion opportunities",
           "questionCount": 15,
-          "status": "in_progress",
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-05/phase-1-strategic/diana-developmental-editor-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-1-strategic/author-decisions.md",
-          "implementationComplete": false
+          "implementationComplete": false,
+          "additionalFiles": [
+            "review-05/phase-1-strategic/decoder-cards-analysis.md",
+            "review-05/phase-1-strategic/male-example-implementation.md"
+          ]
         },
         "morgan": {
           "agentFile": "book/agents/managing-editor.md",
           "displayName": "Morgan (Managing Editor)",
           "focus": "Workflow optimization, format priorities",
           "questionCount": 12,
-          "status": "in_progress",
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-05/phase-1-strategic/morgan-managing-editor-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-1-strategic/author-decisions.md",
-          "implementationComplete": false
+          "implementationComplete": false,
+          "additionalFiles": [
+            "review-05/phase-1-strategic/course-materials-sync-report.md"
+          ]
         }
       }
     },

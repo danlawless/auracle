@@ -2,7 +2,7 @@
   "volume": "vol-1-decoder",
   "volumeTitle": "The Narcissism Decoder",
   "reviewRound": 4,
-  "currentPhase": 2,
+  "currentPhase": 3,
   "startedAt": "2026-01-05T00:00:00Z",
   "repository": "danlawless/auracle",
   "manuscriptPath": "book/vol-1-decoder/manuscript",
@@ -11,99 +11,101 @@
     "1": {
       "name": "Strategic Decisions",
       "description": "Big-picture structure, themes, narrative arc, priorities",
-      "status": "in_progress",
+      "status": "completed",
       "startedAt": "2026-01-06T00:00:00Z",
+      "completedAt": "2026-01-06T00:00:00Z",
       "reviewers": {
         "diana": {
           "agentFile": "book/agents/developmental-editor.md",
           "displayName": "Diana (Developmental Editor)",
           "focus": "Structure, themes, narrative arc",
           "questionCount": 20,
-          "status": "awaiting_response",
+          "status": "completed",
           "issueNumber": 275,
           "issueUrl": "https://github.com/danlawless/auracle/issues/275",
           "reviewGenerated": true,
           "reviewFile": "review-04/phase-1-strategic/diana-developmental-editor-issue.md",
           "issuePosted": true,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-1-strategic/author-decisions.md",
-          "implementationComplete": false
+          "implementationComplete": true
         },
         "morgan": {
           "agentFile": "book/agents/managing-editor.md",
           "displayName": "Morgan (Managing Editor)",
           "focus": "Priorities, conflicts, coordination",
           "questionCount": 15,
-          "status": "awaiting_response",
+          "status": "completed",
           "issueNumber": 276,
           "issueUrl": "https://github.com/danlawless/auracle/issues/276",
           "reviewGenerated": true,
           "reviewFile": "review-04/phase-1-strategic/morgan-managing-editor-issue.md",
           "issuePosted": true,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-1-strategic/author-decisions.md",
-          "implementationComplete": false
+          "implementationComplete": true
         }
       }
     },
     "2": {
       "name": "Content & Experience",
       "description": "Reader engagement, representation, fact verification",
-      "status": "in_progress",
+      "status": "completed",
       "startedAt": "2026-01-05T00:00:00Z",
+      "completedAt": "2026-01-06T00:00:00Z",
       "reviewers": {
         "bailey": {
           "agentFile": "book/agents/beta-reader.md",
           "displayName": "Bailey (Beta Reader)",
           "focus": "Reader engagement, pacing, clarity - UNIFIED DECODER STRUCTURE",
           "questionCount": 25,
-          "status": "awaiting_response",
+          "status": "completed",
           "issueNumber": 280,
           "issueUrl": "https://github.com/danlawless/auracle/issues/280",
           "reviewGenerated": true,
           "reviewFile": "review-04/phase-2-content/bailey-beta-reader-issue.md",
           "issuePosted": true,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-2-content/author-decisions-phase-2.md",
-          "implementationComplete": false
+          "implementationComplete": true
         },
         "sage": {
           "agentFile": "book/agents/sensitivity-reader.md",
           "displayName": "Sage (Sensitivity Reader)",
           "focus": "Representation, inclusion, trauma-informed",
           "questionCount": 20,
-          "status": "awaiting_response",
+          "status": "completed",
           "issueNumber": 278,
           "issueUrl": "https://github.com/danlawless/auracle/issues/278",
           "reviewGenerated": true,
           "reviewFile": "review-04/phase-2-content/sage-sensitivity-reader-issue.md",
           "issuePosted": true,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-2-content/author-decisions-phase-2.md",
-          "implementationComplete": false
+          "implementationComplete": true
         },
         "felix": {
           "agentFile": "book/agents/fact-checker.md",
           "displayName": "Felix (Fact-Checker)",
           "focus": "Sources, accuracy, verification",
           "questionCount": 15,
-          "status": "awaiting_response",
+          "status": "completed",
           "issueNumber": 279,
           "issueUrl": "https://github.com/danlawless/auracle/issues/279",
           "reviewGenerated": true,
           "reviewFile": "review-04/phase-2-content/felix-fact-checker-issue.md",
           "issuePosted": true,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-04/phase-2-content/author-decisions-phase-2.md",
-          "implementationComplete": false
+          "implementationComplete": true
         }
       }
     },
     "3": {
       "name": "Polish",
       "description": "Prose craft, voice, style consistency",
-      "status": "blocked",
-      "blockedBy": "Phase 2 completion required",
+      "status": "in_progress",
+      "startedAt": "2026-01-06T00:00:00Z",
       "reviewers": {
         "lydia": {
           "agentFile": "book/agents/line-editor.md",

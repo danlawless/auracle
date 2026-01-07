@@ -13,8 +13,7 @@
 | [Front Matter](./00-front-matter.md) | *About This Book* | Who this book is for, how to use it, and what you'll gain |
 | [Chapter 1](./chapters/01-opening-manifesto.md) | The Opening Manifesto | What this book is really about—the invisible architecture of control |
 | [Chapter 2](./chapters/02-energetic-signature.md) | The Energetic Signature | How to recognize control in your body before your mind catches up |
-| [Chapter 3A](./chapters/03a-narcissist-playbook-part1.md) | The Narcissist Playbook — Part 1 | Tactics 1-19: Control, Validation & Psychological Manipulation |
-| [Chapter 3B](./chapters/03b-narcissist-playbook-part2.md) | The Narcissist Playbook — Part 2 | Tactics 20-38: Sexual, Energetic & Post-Encounter Manipulation |
+| [Chapter 3](./chapters/03-decoder-playbook.md) | The Decoder Playbook | 56 manipulation patterns named and decoded—the complete reference |
 | [Chapter 4](./chapters/04-trauma-bonds.md) | The Psychology of Trauma Bonds | Why you got hooked, and why leaving is so hard |
 | [Chapter 5](./chapters/05-narcissist-types.md) | Understanding Narcissist Types | The spectrum from grandiose to covert to malignant |
 | [Chapter 6](./chapters/06-narcissist-roles.md) | The Masks They Wear: 12 Identity Roles | Strategic personas narcissists adopt for control |
@@ -25,9 +24,7 @@
 | [Chapter 11](./chapters/11-romantic-manipulation.md) | Romantic Manipulation | How narcissism operates in intimate relationships |
 | [Chapter 12](./chapters/12-manipulation-across-contexts.md) | Manipulation Across Contexts | Workplace, friendships, and other arenas |
 | [Chapter 13](./chapters/13-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |
-| [Chapter 14](./chapters/14-decoder-cards-core.md) | Decoder Cards — Core Patterns | 19 quick-reference cards for common patterns |
-| [Chapter 15](./chapters/15-decoder-cards-advanced.md) | Decoder Cards — Advanced Patterns | 18 cards for sophisticated and exit-related tactics |
-| [Chapter 16](./chapters/16-decoder-cards-protocol.md) | Decoder Cards — Emergency Protocol | How to use decoder cards in real-time |
+| [Chapter 14](./chapters/14-decoder-protocol.md) | Decoder Protocol | Emergency quick-reference for using the decoder in real-time |
 | [Chapter 17](./chapters/17-energetic-remapping.md) | Energetic Remapping — Recovery Tools | Rewiring your nervous system for freedom |
 | [Chapter 18](./chapters/18-practical-responses.md) | Practical Responses & Scripts | What to actually say and do |
 | [Chapter 19](./chapters/19-moving-forward.md) | Moving Forward | Closing chapters and beginning new ones |
@@ -61,7 +58,8 @@ Save these numbers now. You may need them later when you can't think clearly.
 4. **[Chapter 11: Romantic Manipulation — Exit Phase](./chapters/11-romantic-manipulation.md)** — If you're planning to leave
 
 ### Step 3: Quick Reference Tools
-- **Decoder Cards 27 & 36** (Chapters 14-15) — For real-time pattern recognition
+- **[Chapter 3: The Decoder Playbook](./chapters/03-decoder-playbook.md)** — For real-time pattern recognition (Cards 0-51 plus S-1 to S-4)
+- **[Chapter 14: Decoder Protocol](./chapters/14-decoder-protocol.md)** — Emergency quick-reference
 - **The 3-3-3 Rule** (below) — For buying time in confrontations
 
 ---
@@ -93,11 +91,12 @@ Read the book in order starting from the [Front Matter](./00-front-matter.md). T
 **[Chapter 13: Diagnostic Questions](./chapters/13-exposure-questions.md)** — Questions designed to reveal narcissistic patterns. Healthy people answer these easily; narcissists cannot.
 
 ### 🤝 If You're Helping Others
-The **Decoder Cards** in Chapters [14](./chapters/14-decoder-cards-core.md), [15](./chapters/15-decoder-cards-advanced.md), and [16](./chapters/16-decoder-cards-protocol.md) are designed to be shared—use them as conversation starters or teaching tools.
+**[Chapter 3: The Decoder Playbook](./chapters/03-decoder-playbook.md)** contains 56 patterns designed to be shared—screenshot individual cards, print them, or use them as conversation starters.
 
-**Understanding the Decoder Cards:**
-- **Core Cards (Chapter 14):** 19 foundational patterns you'll encounter most often—gaslighting, triangulation, shame-dumping, and other common tactics. Start here for pattern recognition basics.
-- **Advanced Cards (Chapter 15):** 18 sophisticated tactics that are harder to identify, often more dangerous, and frequently appear during high-stakes moments like relationship exits, custody battles, or when you're threatening to leave. Read these after you've internalized the core patterns.
+**Understanding the Decoder:**
+- **Core Patterns (Cards 0-27):** The foundational patterns you'll encounter most often—gaslighting, triangulation, shame-dumping, and other common tactics. Start here.
+- **Advanced Patterns (Cards 28-51):** Sophisticated tactics that appear during high-stakes moments like relationship exits, custody battles, or when you're threatening to leave.
+- **Substance Patterns (Cards S-1 to S-4):** Patterns involving alcohol, drugs, or intoxication as manipulation tools.
 
 ---
 
@@ -146,8 +145,7 @@ PART I: RECOGNITION
 ├── Front Matter .......... Introduction & how to use this book
 ├── Chapter 1 ............. The Opening Manifesto
 ├── Chapter 2 ............. The Energetic Signature (body awareness)
-├── Chapter 3A ............ The Narcissist Playbook Part 1 (Tactics 1-19)
-└── Chapter 3B ............ The Narcissist Playbook Part 2 (Tactics 20-38)
+└── Chapter 3 ............. The Decoder Playbook (56 patterns)
 
 PART II: UNDERSTANDING ORIGINS
 ├── Chapter 4 ............. Trauma Bonds (neuroscience)
@@ -162,9 +160,7 @@ PART II: UNDERSTANDING ORIGINS
 └── Chapter 13 ............ Diagnostic Questions for Confirming Patterns
 
 PART III: TOOLS
-├── Chapter 14 ............ Decoder Cards — Core (19 patterns)
-├── Chapter 15 ............ Decoder Cards — Advanced (18 patterns)
-└── Chapter 16 ............ Decoder Cards — Protocol
+└── Chapter 14 ............ Decoder Protocol (emergency reference)
 
 PART IV: RESPONSE & RECOVERY
 ├── Chapter 17 ............ Energetic Remapping (nervous system tools)

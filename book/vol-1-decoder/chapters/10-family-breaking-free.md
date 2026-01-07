@@ -46,6 +46,11 @@ This is painful. You want them to see what you see. You want validation from som
 
 But their timeline isn't yours. Their awakening—if it comes—will happen when it happens. You can't wake someone up by shaking them harder.
 
+**What to say when they defend the parent:**
+- "I understand you see it differently. I'm not asking you to agree—just to respect that this is my experience."
+- "We were in the same house but had different childhoods. Both can be true."
+- "I'm not trying to change your relationship with them. I'm just protecting mine."
+
 ### Healing Sibling Relationships
 
 If healing is possible:
@@ -65,7 +70,7 @@ If healing isn't possible:
 
 ## Two Modes: What Sibling Exchange Actually Looks Like
 
-The same sibling relationship can hold both dysregulated and regulated patterns. This isn't about labeling your sibling as "healthy" or "unhealthy"—it's about recognizing *which mode is active* and responding accordingly.
+The roles assigned in Chapter 7—Golden Child, Scapegoat, Lost Child, Mascot—don't disappear in adulthood. They show up in *how* siblings communicate. The same sibling relationship can hold both dysregulated and regulated patterns. This isn't about labeling your sibling as "healthy" or "unhealthy"—it's about recognizing *which mode is active* and responding accordingly.
 
 ### The Dysregulated Pattern: Rupture → Guilt → Re-entry Without Repair
 
@@ -224,6 +229,8 @@ This loop reinforces dependency and prevents healthy separation.
 
 ## The Intergenerational Pattern
 
+In Chapter 9, you explored how childhood patterns shaped your vulnerabilities. Now we zoom out further: those patterns didn't start with your parents either.
+
 Narcissism doesn't appear from nowhere. There's almost always a story before the story.
 
 Your narcissistic parent likely had a narcissistic parent. Or an absent one. Or an abusive one. The wounds travel down through generations until someone stops the transmission.
@@ -334,7 +341,7 @@ Complete cessation of relationship. May be necessary if:
 - No calls, texts, emails, or visits
 - Blocking on social media and phone
 - Potentially moving without sharing your address
-- Having plans for Flying Monkeys (people sent to contact you on their behalf)
+- Having plans for Flying Monkeys—people recruited (often unknowingly) to do the narcissist's bidding, like the Wicked Witch's minions sent to retrieve you
 - Grieving the relationship as if they died (because functionally, they have)
 
 ### What No Contact Isn't
@@ -388,22 +395,20 @@ Guilt lives in the body. To release it:
 ## Chapter Summary
 
 **Key Insights:**
-- Family narcissism shapes development in foundational ways
-- Children are assigned roles (Golden Child, Scapegoat, Lost Child, Mascot) that serve the narcissist, not the child
-- Triangulation prevents alliances and maintains control
-- Maternal and paternal narcissism create distinct but equally significant wounds
-- Sibling relationships are often damaged by the competitive system
-- Shame is the enforcement mechanism that keeps the system intact
-- Healing breaks intergenerational patterns
+- Sibling relationships are often damaged by the competitive system—you were set against allies
+- Dysregulated vs. regulated exchanges require different responses: discernment, not coldness
+- Shame programming is the enforcement mechanism that keeps the family system intact
+- The intergenerational pattern can be broken—you can be the one who stops the transmission
+- Contact decisions (low contact, no contact) are personal—there's no universal right answer
+- Guilt is installed by the system to maintain compliance, not evidence of wrongdoing
 
 **The Way Forward:**
-- Recognize that roles were assigned, not chosen
-- Break triangulation by communicating directly
-- Grieve the parents you needed but didn't have
-- You are not destined to repeat the pattern
-- Contact decisions are personal—there's no universal right answer
-- Guilt is a control mechanism, not evidence of wrongdoing
-- You can be the pattern-breaker
+- Recognize which mode a sibling exchange is operating in before responding
+- Break shame by becoming aware: "This is conditioning, not truth"
+- Ask the sovereignty question: "What would I choose if guilt and shame were not factors?"
+- You are not destined to repeat the pattern—awareness is the antidote
+- Detach without guilt by naming its source
+- Use the Family Event Survival Protocol when you must attend
 
 ---
 
@@ -443,7 +448,7 @@ When you must attend family events where the narcissist will be present:
 
 ## What's Next
 
-You've now seen how narcissistic family systems operate—the roles, the wounds, the patterns. But there's a deeper question: Why were you vulnerable in the first place? Before you can fully break free, it helps to understand what was programmed before you could choose. Let's explore your earliest conditioning.
+You've now seen how narcissistic family systems operate—the roles, the wounds, the patterns—and how to break free from them. But family isn't the only context where these dynamics appear. The same tactics that controlled you in childhood often reappear in adult intimate relationships, adapted for the vulnerability of romance. Let's examine how manipulation operates when love is involved.
 
 ---
 

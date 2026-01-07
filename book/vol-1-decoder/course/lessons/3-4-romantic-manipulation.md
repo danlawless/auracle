@@ -22,6 +22,8 @@ We don't consciously choose partners who remind us of our narcissistic parent. B
 
 In this lesson, we'll decode how narcissistic manipulation operates specifically in intimate relationships.
 
+These patterns occur across all romantic relationships—regardless of gender or sexual orientation. A woman manipulating her female partner uses the same tactics as a man manipulating his wife. The dynamics we're exploring are about power and control, not about any specific type of relationship.
+
 **The relationship timeline**
 
 Narcissistic romantic relationships tend to follow a predictable arc:
@@ -91,6 +93,25 @@ Let's look at how the 38 tactics show up specifically in intimate relationships:
 **Financial control** creates dependency. Joint accounts they control. Sabotaging your job. Making you financially reliant.
 
 **Jealousy and monitoring** is framed as love but is actually control. Constant check-ins. Reading messages. Accusations that keep you defensive and grateful.
+
+**Reproductive coercion** uses children and pregnancy as control tactics. This manipulation affects all genders:
+
+- Sabotaging birth control to create pregnancy
+- Using pregnancy to lock in a relationship or access to resources
+- Threatening to leave if partner doesn't have children
+- Using children as leverage after separation
+
+> **For Men Reading This**
+>
+> Being manipulated says nothing about your masculinity, strength, or worth as a man.
+>
+> Men experience reproductive coercion too. A partner who deliberately becomes pregnant to secure financial support, citizenship, or to "lock in" the relationship is using manipulation tactics—the same tactics we've been decoding throughout this course.
+>
+> One pattern looks like this: A man in his forties, having never maintained a long-term relationship, meets someone who mirrors his interests perfectly. She talks about "divine union" and spiritual connection. He believes he's finally found what he was looking for. Within months, she's pregnant. What seemed like fate was strategy.
+>
+> The details vary. The pattern is the same. Isolation, future faking, and creating dependency—whether through emotional manipulation, pregnancy, or both.
+>
+> If this resonates with your experience, you belong here. This course is for you too.
 
 **Why you didn't see it**
 

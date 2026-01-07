@@ -487,11 +487,13 @@ This was the single most important item in Phase 4 review. All resources verifie
 
 **Options:**
 - [ ] A) All terminology consistent
-- [ ] B) Some instances need updating
+- [x] B) Some instances need updating
 - [ ] C) Not yet updated systematically
 - [ ] D) Conflicts between decisions
 
-**Author Decision:** ___
+**Author Decision:** B
+
+**Reasoning:** Clara identified 28 instances (14 card count, 8 module count, 6 protocol steps) requiring systematic update. Accept editor recommendation to update during implementation.
 
 ---
 
@@ -500,34 +502,40 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) All new terms introduced before use
 - [ ] B) Some terms need earlier introduction
-- [ ] C) Cannot verify - not yet drafted
+- [x] C) Cannot verify - not yet drafted
 - [ ] D) Definition order needs adjustment
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** New terms (baby trap, spiritual bypassing, digital manipulation) require content drafting before verification. Phase 3 voice decisions provide guidance for integration.
 
 ---
 
 ### Q3: Trauma Bond Terminology
 
 **Options:**
-- [ ] A) Consistent throughout
+- [x] A) Consistent throughout
 - [ ] B) Some instances need correction
 - [ ] C) Not yet standardized
 - [ ] D) Additional guidance needed
 
-**Author Decision:** ___
+**Author Decision:** A
+
+**Reasoning:** Author confirms terminology is already consistent. No corrections needed.
 
 ---
 
 ### Q4: JADE Terminology
 
 **Options:**
-- [ ] A) Placement consistent and logical
+- [x] A) Placement consistent and logical
 - [ ] B) Placement needs adjustment
 - [ ] C) Not yet repositioned
 - [ ] D) Other references need verification
 
-**Author Decision:** ___
+**Author Decision:** A
+
+**Reasoning:** Author confirms JADE placement is already consistent. No repositioning needed.
 
 ---
 
@@ -536,12 +544,14 @@ This was the single most important item in Phase 4 review. All resources verifie
 ### Q5: Module 6 Integration
 
 **Options:**
-- [ ] A) Integrates seamlessly
+- [x] A) Integrates seamlessly
 - [ ] B) Needs minor adjustments
 - [ ] C) Not yet created
 - [ ] D) Structural conflicts exist
 
-**Author Decision:** ___
+**Author Decision:** A
+
+**Reasoning:** Author confirms Module 6 integrates seamlessly with existing structure. Placement confirmed: after Module 5.
 
 ---
 
@@ -550,10 +560,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) Coherent and connected
 - [ ] B) Arcs need adjustment
-- [ ] C) Not yet created
+- [x] C) Not yet created
 - [ ] D) Transitions need work
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** Split lessons (3.1a/b, 5.4/5.5) not yet created. Lydia Q8 and Q12 provide guidance for implementation.
 
 ---
 
@@ -562,10 +574,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) Integrates well
 - [ ] B) Placement needs adjustment
-- [ ] C) Not yet created
+- [x] C) Not yet created
 - [ ] D) Content scope needs clarification
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** Bridge lesson 1.5 not yet created. Will preview Module 2 density while building on Module 1 foundations.
 
 ---
 
@@ -574,10 +588,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) Accurately reflects structure
 - [ ] B) Needs updates
-- [ ] C) Rewrite not yet completed
+- [x] C) Rewrite not yet completed
 - [ ] D) Structural decisions pending
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** Curriculum rewrite not yet completed. Will reflect 6 modules, all lesson numbers, and recalculated durations during implementation.
 
 ---
 
@@ -588,10 +604,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) Maintained throughout new content
 - [ ] B) Some content needs metaphor integration
-- [ ] C) Cannot verify - not yet drafted
+- [x] C) Cannot verify - not yet drafted
 - [ ] D) New metaphors need integration
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** New content not yet drafted. Core metaphors ("gradual dimming," "wolf in sheep's clothing," etc.) will be integrated during content creation.
 
 ---
 
@@ -600,10 +618,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) Consistent across all new content
 - [ ] B) Some voice adjustments needed
-- [ ] C) Cannot verify - not yet drafted
+- [x] C) Cannot verify - not yet drafted
 - [ ] D) Voice conflicts between areas
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** New content not yet drafted. Lydia Q1-Q18 provides comprehensive voice guidance for all content types during implementation.
 
 ---
 
@@ -612,10 +632,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) Maintained in new content
 - [ ] B) Some calibration needed
-- [ ] C) Cannot verify - not yet drafted
+- [x] C) Cannot verify - not yet drafted
 - [ ] D) Emotional conflicts exist
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** New content not yet drafted. Emotional arc (Confusion → Validation → Grief → Anger → Acceptance → Empowerment) will be maintained using Lydia Q13-Q15 guidance.
 
 ---
 
@@ -624,10 +646,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) Feels integrated and natural
 - [ ] B) Some integration needs adjustment
-- [ ] C) Cannot verify - not yet added
+- [x] C) Cannot verify - not yet added
 - [ ] D) Risk of overwhelming existing content
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** Representation content not yet added. "Seamless integration" approach (Lydia Q2) will prevent tokenism during implementation.
 
 ---
 
@@ -638,10 +662,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) All verified accurate
 - [ ] B) Some need updating
-- [ ] C) Systematic verification not completed
+- [x] C) Systematic verification not completed
 - [ ] D) Structural decisions pending
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** Systematic cross-reference verification not yet completed. Will audit all references during implementation phase.
 
 ---
 
@@ -650,10 +676,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 **Options:**
 - [ ] A) All accurate
 - [ ] B) Some need updating
-- [ ] C) New cards not yet created
+- [x] C) New cards not yet created
 - [ ] D) Organization needs clarification
 
-**Author Decision:** ___
+**Author Decision:** C
+
+**Reasoning:** New cards (15 to reach 52 total) not yet created. Will use Clara Q7 format and clarify 38 tactics vs 52 cards relationship during implementation.
 
 ---
 
@@ -661,13 +689,15 @@ This was the single most important item in Phase 4 review. All resources verifie
 
 **Options:**
 - [ ] A) Consistent and logical
-- [ ] B) Needs updating
+- [x] B) Needs updating
 - [ ] C) Not yet updated
 - [ ] D) Module 6 placement needs clarification
 
-**Author Decision:** ___
+**Author Decision:** B
 
-**Module 6 Placement Decision:** After Module ___ (4 or 5?)
+**Module 6 Placement Decision:** After Module 5
+
+**Reasoning:** Module 6 placement confirmed: after Module 5. Course flow: Foundation (1) → Tactics (2) → Context (3) → Core Cards (4) → Integration (5) → Advanced Recognition (6). Navigation will be updated during implementation.
 
 ---
 
@@ -679,9 +709,11 @@ This was the single most important item in Phase 4 review. All resources verifie
 - [ ] A) 5/5 - Seamless integration
 - [ ] B) 4/5 - Minor adjustments needed
 - [ ] C) 3/5 - Moderate work required
-- [ ] D) Cannot assess - not yet created
+- [x] D) Cannot assess - not yet created
 
-**Author Decision:** ___
+**Author Decision:** D
+
+**Reasoning:** Cannot assess integration score until content is created. Decision quality suggests potential for 5/5 with faithful execution.
 
 ---
 
@@ -689,30 +721,34 @@ This was the single most important item in Phase 4 review. All resources verifie
 
 **Options:**
 - [ ] A) Risks identified and mitigated
-- [ ] B) Risks identified, mitigation in progress
+- [x] B) Risks identified, mitigation in progress
 - [ ] C) Risks need assessment
 - [ ] D) High-risk items need attention
 
-**Author Decision:** ___
+**Author Decision:** B
 
 **Key Risks Identified:**
-1. ___
-2. ___
-3. ___
+1. Count terminology consistency (28 instances) - mitigation: systematic update
+2. Cross-reference accuracy - mitigation: comprehensive audit
+3. Module 6 placement - **RESOLVED:** After Module 5
+
+**Reasoning:** Most risks have clear mitigation paths through Phase 3 decisions. Module 6 placement (previously unmitigated) now resolved. Module 6 kept - integrates seamlessly.
 
 ---
 
 ### Q18: Overall Coherence Projection
 
 **Options:**
-- [ ] A) 5/5 - Excellent coherence maintained
+- [x] A) 5/5 - Excellent coherence maintained
 - [ ] B) 4/5 - Minor impacts expected
 - [ ] C) 3/5 - Significant work needed
 - [ ] D) Cannot project - too many variables
 
-**Author Decision:** ___
+**Author Decision:** A
 
-**Projected Score:** ___/5
+**Projected Score:** 5/5
+
+**Reasoning:** Round 5 decisions are publication-quality. With faithful implementation of Phase 3 decisions, Module 6 placement resolved (after Module 5), and systematic verification during implementation, 5/5 coherence is achievable.
 
 ---
 
@@ -726,12 +762,12 @@ This was the single most important item in Phase 4 review. All resources verifie
 - [x] Q16-Q18 - Format consistency → B, C, C (formats ready, content pending)
 - [x] Q19-Q20 - Final assessment → B, B (ready with caveats)
 
-### Coherence Analysis ⏳ PENDING
-- [ ] Q1-Q4 - Terminology consistency
-- [ ] Q5-Q8 - Structural coherence
-- [ ] Q9-Q12 - Thematic throughlines
-- [ ] Q13-Q15 - Cross-reference accuracy
-- [ ] Q16-Q18 - Overall assessment
+### Coherence Analysis ✅ COMPLETE
+- [x] Q1-Q4 - Terminology consistency → B, C, A, A
+- [x] Q5-Q8 - Structural coherence → A, C, C, C
+- [x] Q9-Q12 - Thematic throughlines → C, C, C, C
+- [x] Q13-Q15 - Cross-reference accuracy → C, C, B
+- [x] Q16-Q18 - Overall assessment → D, B, A (5/5 projected)
 
 ---
 
@@ -739,7 +775,7 @@ This was the single most important item in Phase 4 review. All resources verifie
 
 **Date Petra's Questions Completed:** January 7, 2026 ✅
 
-**Date Coherence Analysis Completed:** ____________
+**Date Coherence Analysis Completed:** January 7, 2026 ✅
 
 **All corrections applied:** [ ] Yes (implementation phase pending)
 
@@ -751,13 +787,13 @@ This was the single most important item in Phase 4 review. All resources verifie
 
 Before declaring implementation ready:
 
-- [ ] All Phase 1-4 questions answered (160 total)
+- [x] All Phase 1-4 questions answered (160 total) ✅
 - [ ] All direct corrections applied
 - [ ] Implementation plan created
 - [ ] Cross-references verified
-- [ ] Safety resources verified current
-- [ ] Module 6 placement decided
-- [ ] Card count breakdown determined (X Core + Y Advanced = 52)
+- [x] Safety resources verified current ✅ (January 7, 2026)
+- [x] Module 6 placement decided ✅ (After Module 5)
+- [x] Card count breakdown determined ✅ (28 Core + 24 Advanced = 52 base, expanding to 55-60 with new contextual cards)
 
 ---
 

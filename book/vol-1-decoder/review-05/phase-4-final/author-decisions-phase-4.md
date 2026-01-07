@@ -793,7 +793,7 @@ Before declaring implementation ready:
 - [ ] Cross-references verified
 - [x] Safety resources verified current ✅ (January 7, 2026)
 - [x] Module 6 placement decided ✅ (After Module 5)
-- [ ] Card count breakdown determined (X Core + Y Advanced = 52)
+- [x] Card count breakdown determined ✅ (28 Core + 24 Advanced = 52 base, expanding to 55-60 with new contextual cards)
 
 ---
 

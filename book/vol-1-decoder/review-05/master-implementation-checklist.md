@@ -14,7 +14,7 @@
 | # | Task | Source | Status |
 |---|------|--------|--------|
 | A1 | Verify safety hotlines active | Felix Q15, Petra Q15 | ✅ DONE |
-| A2 | Determine card breakdown (X Core + Y Advanced = 52) | Clara Q1 | ⏳ |
+| A2 | Determine card breakdown (X Core + Y Advanced = 52) | Clara Q1 | ✅ 28 Core + 24 Advanced = 52 base, expanding to 55-60 |
 | A3 | Confirm lesson numbering conventions | Clara Q12, Q13 | ✅ Decided |
 | A4 | Confirm card format template | Clara Q7 | ✅ Decided |
 | A5 | Confirm lesson template | Clara Q6 | ✅ Decided |

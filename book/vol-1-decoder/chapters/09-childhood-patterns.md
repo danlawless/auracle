@@ -28,7 +28,7 @@ If your reality was regularly denied ("That didn't happen." "You're making thing
 
 ### That Hypervigilance Is Survival
 
-If your parent's mood was unpredictable, you learned to scan constantly, watching faces, monitoring tone, anticipating explosions. This hypervigilance becomes familiar, almost comfortable. You may not recognize when you're in a calm, safe environment because calm feels... boring? Suspicious?
+If your parent's mood was unpredictable, you learned to scan constantly, watching faces, monitoring tone, anticipating explosions. This hypervigilance becomes familiar, almost comfortable. You may not recognize when you're in a calm, safe environment because calm feels boring—or suspicious.
 
 ### That Your Job Is to Manage Others' Emotions
 
@@ -48,7 +48,7 @@ Childhood patterns don't just live in your mind. They live in your body, your re
 
 **What it looks like:** You have trouble remembering childhood. Years are fuzzy. Specific incidents are vague. You know "something" was wrong but can't quite access it.
 
-**What it means:** Memory loss is often protective, your brain didn't want to store (or give you access to) experiences it couldn't process at the time. This is dissociation serving as a survival mechanism.
+**What it means:** Memory loss is often protective—your brain didn't want to store (or give you access to) experiences it couldn't process at the time. This is dissociation serving as a survival mechanism.
 
 **Moving forward:** Memory may return as you heal and feel safe enough to access it. Therapy can help. Also, you don't need complete memory to heal—you can work with what your body remembers even when your mind doesn't.
 
@@ -269,7 +269,7 @@ That matters.
 
 ## Part II: Sexuality and Early Survival Patterns
 
-The patterns explored so far, conditional love, needs as shameful, unreliable perception, shape how you relate to others. But childhood experiences also shape your relationship with your own body, desire, and intimacy.
+The patterns explored so far—conditional love, needs as shameful, unreliable perception—shape how you relate to others. But they don't stop at emotional boundaries. Childhood experiences also shape your relationship with your own body, desire, and intimacy.
 
 This section is optional but may offer important recognition for some readers. If you choose to skip it, the chapter summary below provides key insights.
 

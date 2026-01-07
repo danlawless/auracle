@@ -145,11 +145,11 @@ PART I: RECOGNITION
 ├── Front Matter .......... Introduction & how to use this book
 ├── Chapter 1 ............. The Opening Manifesto
 ├── Chapter 2 ............. The Energetic Signature (body awareness)
-└── Chapter 3 ............. The Decoder Playbook (56 patterns)
+├── Chapter 3 ............. The Decoder Playbook (56 patterns)
+├── Chapter 4 ............. Trauma Bonds (neuroscience)
+└── Chapter 5 ............. Understanding Narcissist Types
 
 PART II: UNDERSTANDING ORIGINS
-├── Chapter 4 ............. Trauma Bonds (neuroscience)
-├── Chapter 5 ............. Understanding Narcissist Types
 ├── Chapter 6 ............. The Masks They Wear: 12 Identity Roles
 ├── Chapter 7 ............. Family Roles & Triangulation
 ├── Chapter 8 ............. Parental Wounds

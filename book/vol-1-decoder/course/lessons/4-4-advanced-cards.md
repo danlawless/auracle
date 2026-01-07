@@ -364,9 +364,157 @@ Watch for behavior change, not strategic admissions.
 
 ---
 
+---
+
+## Digital Manipulation Cards
+
+---
+
+**CARD 38: BREADCRUMBING**
+
+**What they say:**
+Occasional likes on your posts—weeks of silence, then suddenly engaging.
+Sporadic "thinking of you" messages that lead nowhere.
+Vague plans that never materialize.
+
+**What they mean:**
+"I'll invest the minimum to keep you available without actual commitment."
+
+**The function:**
+Triggers intermittent reinforcement. Keeps you hoping. Prevents you from moving on.
+
+**Your response:**
+"Attention that confuses you isn't connection—it's manipulation."
+Stop interpreting crumbs as cake. Block, mute, or move on.
+
+---
+
+**CARD 39: GHOSTING AS PUNISHMENT**
+
+**What they say:**
+Vanishing mid-conversation after you set a boundary.
+Days or weeks of silence following a disagreement.
+Returning as if nothing happened.
+
+**What they mean:**
+"I'll disappear to train you not to have boundaries."
+
+**The function:**
+Punishes autonomy. Creates anxiety. Trains compliance through withdrawal.
+
+**Your response:**
+"Disappearing without explanation isn't something I accept."
+If they ghost after boundaries, the ghosting confirms the boundary was necessary.
+
+---
+
+**CARD 40: DIGITAL SURVEILLANCE**
+
+**What they say:**
+"I saw you were online at 2am."
+Questions about who liked your posts.
+Knowing where you are without being told.
+
+**What they mean:**
+"I'm watching everything. You have no privacy."
+
+**The function:**
+Creates self-censorship. Maintains control through visibility.
+
+**Your response:**
+"My online activity is mine."
+Review privacy settings. Your digital life deserves boundaries too.
+
+---
+
+**CARD 41: SCREENSHOT LEVERAGE**
+
+**What they say:**
+"I have the screenshots to prove it."
+"I'll show everyone what you said."
+"People would be interested in these texts."
+
+**What they mean:**
+"Your words are hostages. I'll use them to control you."
+
+**The function:**
+Weaponizes vulnerability. Creates fear of exposure.
+
+**Your response:**
+If intimate images are threatened, this is often illegal. Document threats. Tell someone trusted.
+"Using private conversations as threats tells me everything about this relationship."
+
+---
+
+## Spiritual Manipulation Cards
+
+---
+
+**CARD 42: SPIRITUAL BYPASSING**
+
+**What they say:**
+"Everything happens for a reason."
+"You need to forgive and let go."
+"Your ego is the problem."
+"If you were more evolved, this wouldn't bother you."
+
+**What they mean:**
+"I'll use spiritual concepts to dismiss your valid concerns and avoid accountability."
+
+**The function:**
+Weaponizes spirituality. Makes boundaries seem unenlightened.
+
+**Your response:**
+"Spiritual growth includes accountability, not just transcendence."
+Genuine spirituality makes space for boundaries, anger, and protection.
+
+---
+
+**CARD 43: DIVINE AUTHORITY CLAIMS**
+
+**What they say:**
+"God told me you should..."
+"I received a message that this is meant to be."
+"Your doubts are spiritual attack."
+
+**What they mean:**
+"I'll claim unchallengeable authority to override your judgment."
+
+**The function:**
+Positions them as divine channel. Makes questioning seem like spiritual failure.
+
+**Your response:**
+"My relationship with the divine doesn't require your interpretation."
+Anyone who needs you to trust their connection more than your own is serving themselves.
+
+---
+
+## Passive-Aggressive Cards
+
+---
+
+**CARD 44: THE SULK PROTEST**
+
+**What they say:**
+Going quiet after not getting their way.
+One-word answers, sighs, slammed doors.
+"Nothing's wrong" (said coldly).
+
+**What they mean:**
+"I'll punish you through atmosphere without having to say what I want."
+
+**The function:**
+Expresses displeasure with deniability. Trains you to anticipate and accommodate.
+
+**Your response:**
+"If something's bothering you, I'm open to hearing it directly. Otherwise, I'll assume we're okay."
+Then proceed as though you are okay. Don't chase or probe.
+
+---
+
 **The Complete Decoder**
 
-You now have all 37 Decoder Cards—19 Core and 18 Advanced.
+You now have all 44 Decoder Cards—19 Core, 18 Advanced, and 7 Contextual (digital, spiritual, passive-aggressive).
 
 These are your tools for seeing clearly. When confusion descends, when you're activated, when you can't think straight—the cards hold the pattern.
 
@@ -406,8 +554,15 @@ Rate each card by relevance to your situation (0 = not relevant, 5 = highly rele
 | 35. The Stalk | /5 | |
 | 36. The Reset | /5 | |
 | 37. The Truth Crumb | /5 | |
+| 38. Breadcrumbing | /5 | |
+| 39. Ghosting as Punishment | /5 | |
+| 40. Digital Surveillance | /5 | |
+| 41. Screenshot Leverage | /5 | |
+| 42. Spiritual Bypassing | /5 | |
+| 43. Divine Authority Claims | /5 | |
+| 44. The Sulk Protest | /5 | |
 
-**Safety check:** If cards 27, 28, 30, 32, 33, or 35 rated 3+, please consult with a professional about safety planning.
+**Safety check:** If cards 27, 28, 30, 32, 33, 35, 40, or 41 rated 3+, please consult with a professional about safety planning.
 
 ---
 

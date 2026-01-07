@@ -21,10 +21,7 @@ First Edition
 
 **Disclaimer:** This book is designed to provide information and education about narcissistic behavioral patterns and recovery strategies. It is sold with the understanding that the publisher and author are not engaged in rendering psychological, medical, or other professional services. If expert assistance or counseling is needed, the services of a competent professional should be sought. The author offers private counseling sessions online through Light Field Institute. The author and publisher shall have neither liability nor responsibility to any person or entity with respect to any loss or damage caused, or alleged to have been caused, directly or indirectly, by the information contained in this book.
 
-**Crisis Resources:**
-- National Domestic Violence Hotline: 1-800-799-7233 (24/7)
-- Crisis Text Line: Text HOME to 741741
-- National Suicide Prevention Lifeline: 988
+**Crisis Resources:** See [Appendix A: Resources](./appendices/appendix-a-resources.md) for 24/7 crisis hotlines, international resources, and specialized support services.
 
 ---
 
@@ -190,12 +187,14 @@ You don't need to have a clinical diagnosis for someone in your life. You don't 
 **STOP HERE FIRST if you are in immediate crisis.**
 
 ### Step 1: Emergency Resources (Save These NOW)
-- **National Domestic Violence Hotline:** 1-800-799-7233 (24/7, confidential)
-- **Crisis Text Line:** Text **HOME** to **741741**
-- **National Suicide Prevention Lifeline:** **988**
-- **Emergency Services:** **911**
 
-Save these numbers before you need them. Create a safety plan with a trusted friend.
+**Turn to [Appendix A: Resources](./appendices/appendix-a-resources.md) immediately** and save those numbers before you need them. The appendix contains:
+- 24/7 crisis hotlines (domestic violence, suicide prevention, text lines)
+- LGBTQ+-specific resources
+- International resources by country
+- Accessibility options for Deaf/hard of hearing individuals
+
+Create a safety plan with a trusted friend.
 
 ### Step 2: Crisis Reading Path
 If you're in danger, don't start at the beginning. Start here:

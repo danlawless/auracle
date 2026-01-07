@@ -201,11 +201,7 @@ While many examples in this chapter use heterosexual relationship dynamics, narc
 - Concerns about "making the community look bad"
 - Loss of chosen family who may side with the abuser
 
-**LGBTQ+-Specific Resources:**
-- **The Network/La Red:** 617-742-4911 — Partner abuse services for LGBTQ+, SM, and polyamorous communities
-- **FORGE:** 414-559-2123 — Transgender-specific anti-violence support
-- **GLBT National Hotline:** 1-888-843-4564 — Support and local resources
-- **LGBT National Help Center:** lgbthotline.org
+**LGBTQ+-Specific Resources:** See [Appendix A](../appendices/appendix-a-resources.md) for LGBTQ+-specific crisis lines, partner abuse services, and transgender support resources.
 
 If the dynamics in this chapter resonate but the specific examples don't match your experience, trust your perception. Abuse is abuse regardless of the genders involved.
 
@@ -440,7 +436,7 @@ You don't need their behavior to escalate for your unhappiness to be valid. Mid-
 > - Do you have a trusted person you can reach if this content activates you?
 > - Consider reading this section with support rather than alone.
 >
-> **Crisis Resources:** National Domestic Violence Hotline: 1-800-799-7233 | Crisis Text Line: Text HOME to 741741
+> **Crisis Resources:** See [Appendix A](../appendices/appendix-a-resources.md) for 24/7 crisis hotlines.
 >
 > When you're ready, continue.
 
@@ -543,7 +539,7 @@ If you're seeing these signs, you're in the danger zone:
 If you recognize exit-phase escalation, treat this as the dangerous situation it is:
 
 **1. Take the threats seriously**
-- Suicide threats: Call 911 or crisis services immediately. You are not qualified to manage this.
+- Suicide threats: Call emergency services or a crisis line immediately (see [Appendix A](../appendices/appendix-a-resources.md)). You are not qualified to manage this.
 - Physical threats: Document everything. Tell someone you trust. Contact domestic violence resources.
 - Don't try to be the hero or therapist. Professional intervention is required.
 
@@ -569,7 +565,7 @@ If you recognize exit-phase escalation, treat this as the dangerous situation it
 - Quietly prepare, then exit when they're not present if possible
 
 **5. Get professional support**
-- Domestic violence advocate (National Domestic Violence Hotline: 1-800-799-7233)
+- Domestic violence advocate (see [Appendix A](../appendices/appendix-a-resources.md) for hotlines)
 - Therapist who specializes in abuse recovery
 - Lawyer if needed for protection orders
 - Support group for survivors

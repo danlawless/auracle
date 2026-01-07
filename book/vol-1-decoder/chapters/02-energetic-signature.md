@@ -534,9 +534,7 @@ Your throat tightens. Words get stuck. You might clear your throat frequently or
 
 ### The Gut Churn
 
-Something in your stomach feels unsettled. Not quite nausea, but an unease. Your gut is processing information your conscious mind hasn't accepted yet.
-
-Sometimes this manifests as acid reflux—a burning sensation rising in your chest—or the feeling of your stomach crawling higher in your body. It's as if your digestive system is rejecting what it can't digest. And on an energetic level, that's exactly what's happening. The words, the tone, the implied meanings—your body is literally refusing to metabolize them.
+Something in your stomach feels unsettled. Not quite nausea, but an unease—sometimes manifesting as acid reflux or a churning sensation. Your gut is processing information your conscious mind hasn't accepted yet.
 
 ### The Eye Avoidance
 

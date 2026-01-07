@@ -1,8 +1,6 @@
-# The Narcissism Decoder
+# Control Disguised as Care
 
-## Control Disguised as Care
-
-> *A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns*
+## The Narcissism Decoder: 52 Patterns of Manipulation and How to Break Free
 
 ---
 

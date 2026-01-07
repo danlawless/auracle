@@ -1,6 +1,6 @@
-# Course 1: The Narcissism Decoder
+# Course 1: Control Disguised as Care
 
-## Control Disguised as Care — A Course in Pattern Recognition
+## The Narcissism Decoder — A Course in Pattern Recognition
 
 ---
 

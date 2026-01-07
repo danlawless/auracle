@@ -46,7 +46,7 @@ Module 1 gave you sight. Now we give you language.
 
 In Module 2, we go deeper into the playbook.
 
-You're going to learn the specific tactics manipulators use—not vague concepts, but named patterns with clear signatures. We'll cover 38 distinct tactics organized into five categories:
+You're going to learn the specific tactics manipulators use—not vague concepts, but named patterns with clear signatures. We'll cover 56 distinct tactics organized into five categories:
 
 - Tactics that attack your perception of reality
 - Tactics that hijack your emotions
@@ -140,7 +140,7 @@ My permission to pause: "I can stop at any time because _______________"
 
 - Module 1 established the foundation: seeing the architecture, trusting body signals, interrupting reactions
 - Naming brings patterns from shadow into light
-- Module 2 provides specific language for 38 manipulation tactics
+- Module 2 provides specific language for 56 manipulation tactics
 - Difficult material may activate you—that's normal
 - The 3-3-3 Rule works for managing your own responses to the course
 - Going at your own pace is wisdom, not weakness

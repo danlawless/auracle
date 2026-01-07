@@ -1,4 +1,4 @@
-# Lesson 5.4: Moving Forward — The Path Ahead
+# Lesson 5.4: Your Action Plan
 
 ## Video Script
 

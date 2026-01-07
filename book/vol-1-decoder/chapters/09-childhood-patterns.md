@@ -4,7 +4,7 @@
 
 ---
 
-Many people who find themselves in narcissistic relationships as adults grew up in environments where similar dynamics were present. This isn't coincidence, it's conditioning.
+Many people who find themselves in narcissistic relationships as adults grew up in environments where similar dynamics were present. This isn't coincidence—it's conditioning.
 
 Understanding how your childhood shaped your patterns isn't about blame. It's about freedom. When you see the roots of your vulnerabilities, you can finally address them.
 
@@ -50,7 +50,7 @@ Childhood patterns don't just live in your mind. They live in your body, your re
 
 **What it means:** Memory loss is often protective, your brain didn't want to store (or give you access to) experiences it couldn't process at the time. This is dissociation serving as a survival mechanism.
 
-**Moving forward:** Memory may return as you heal and feel safe enough to access it. Therapy can help. Also, you don't need complete memory to heal, you can work with what your body remembers even when your mind doesn't.
+**Moving forward:** Memory may return as you heal and feel safe enough to access it. Therapy can help. Also, you don't need complete memory to heal—you can work with what your body remembers even when your mind doesn't.
 
 ### Being Called "Too Sensitive"
 
@@ -215,9 +215,9 @@ The care you didn't receive as a child, you can now give yourself.
 
 **Speaking kindly to yourself:** The voice in your head can become the supportive parent you needed. "It's okay to feel this." "You're doing your best." "I'm proud of you."
 
-**Meeting your own needs:** Feeding yourself well, sleeping enough, resting when tired, seeking joy, these are parenting functions you now provide.
+**Meeting your own needs:** Feeding yourself well, sleeping enough, resting when tired, seeking joy—these are parenting functions you now provide.
 
-**Setting boundaries:** Protecting yourself from harm, saying no, limiting contact with toxic people, this is the protection your parents should have offered.
+**Setting boundaries:** Protecting yourself from harm, saying no, limiting contact with toxic people—this is the protection your parents should have offered.
 
 **Validating your experience:** "What happened to you was real. It was hard. Your feelings about it are valid."
 

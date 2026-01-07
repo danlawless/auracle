@@ -65,6 +65,36 @@ Things are good again. The person you love is back. You question whether the bad
 
 ---
 
+### Field Note: She Knows Before She Knows
+
+He's quiet at dinner. Not angry-quiet. Just... off.
+
+She finds herself talking more, filling the silence. Asking about his day twice. Laughing at something that isn't funny. She watches herself do this from somewhere outside her body.
+
+Later, loading the dishwasher, she realizes she's been holding her breath.
+
+*It's fine*, she tells herself. *He's just tired.*
+
+But her shoulders are climbing toward her ears. Her jaw is tight. She's already scanning — what did she say? What did she forget? What's coming?
+
+Two days later, it comes. A small thing — she mentioned plans with a friend without checking first. His voice goes cold, then hot. Words she'll replay for weeks. She cries. He leaves the room.
+
+That night, he pulls her close in bed. "I'm sorry," he murmurs. "I've just been stressed. You know I love you."
+
+She feels her whole body release. *There he is.* The man she fell for. She'd almost forgotten, in those two days of tension, that this version existed.
+
+The next morning, he makes her coffee. Kisses her forehead. She feels closer to him than she has in weeks.
+
+Three days later, he's quiet at dinner again.
+
+This time, she notices: the relief she felt wasn't love returning. It was the absence of fear. And now — she can feel the cycle beginning again.
+
+But she doesn't leave. Instead, she starts talking more. Filling the silence.
+
+**One-Line Decoder:** When your body knows it's coming before your mind admits it, you're not anxious — you're accurate.
+
+---
+
 > **BODY CHECK: Your Body Knows This Cycle**
 >
 > As you read about these phases, your body may already be responding. Perhaps your breathing shifted. Perhaps your shoulders tensed. Perhaps you felt a wave of exhaustion or a knot in your stomach.
@@ -364,6 +394,40 @@ Memory is selective. Your brain may edit out the worst moments and play highligh
 You're not just grieving the relationship; you're grieving the relationship you hoped it would become. The potential that was never realized. The good version of them that you kept waiting for.
 
 Missing them is normal. It's not a sign that you should go back. It's a sign that you're human and your brain is adjusting to life outside the cycle.
+
+---
+
+### Field Note: Three Weeks Out
+
+It's been twenty-two days since she blocked him. She knows because she counts.
+
+She's doing fine. She's eating. Sleeping, mostly. Her friends say she seems lighter. And she is — she knows she is.
+
+So why is she holding her phone at 2 a.m., thumb hovering over the blocked contacts list?
+
+*Just to see if he tried to call.*
+
+She doesn't unblock. But she imagines it. The voicemails he might have left. What he might have said. Maybe he finally understands. Maybe he's changed. Maybe he misses her the way she—
+
+She puts the phone down. Picks it up again.
+
+Her body aches like she has the flu. Her chest is heavy. She keeps remembering that weekend at the coast — how he looked at her across the restaurant, how he said she was the only person who really knew him. That was real. Wasn't it?
+
+She doesn't remember, right now, what he said the week after. What he called her. How small he made her feel. Those memories are there, somewhere, but they're muted. The good ones are in high definition.
+
+*I just want to hear his voice.*
+
+She knows this is withdrawal. She's read about it. Intermittent reinforcement, dopamine, slot machines, all of it. Knowing doesn't make her hands stop shaking.
+
+She texts her sister instead: *Having a hard night.*
+
+Her sister calls immediately. They don't talk about him. They talk about nothing. It's enough.
+
+At 3 a.m., she finally sleeps. The phone stays on the nightstand, his number still blocked.
+
+In the morning, she won't remember why it felt so urgent. But tonight, in the dark, her nervous system is screaming for a hit of something it was trained to need.
+
+**One-Line Decoder:** Craving someone who hurt you isn't proof you should go back — it's proof the bond was chemical, not logical.
 
 ---
 

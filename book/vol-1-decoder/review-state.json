@@ -162,15 +162,16 @@
           "displayName": "Petra (Proofreader)",
           "focus": "Final proofread of any changes",
           "questionCount": 20,
-          "status": "review_generated",
+          "status": "author_responded",
           "issueNumber": null,
           "issueUrl": null,
           "reviewGenerated": true,
           "reviewFile": "review-05/phase-4-final/petra-proofreader-issue.md",
           "issuePosted": false,
-          "authorResponded": false,
+          "authorResponded": true,
           "authorDecisionsFile": "review-05/phase-4-final/author-decisions-phase-4.md",
-          "implementationComplete": false
+          "implementationComplete": false,
+          "safetyResourcesVerified": "2026-01-07"
         },
         "coherence": {
           "agentFile": null,

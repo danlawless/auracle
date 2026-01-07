@@ -24,28 +24,33 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 ### Q1: Phase 1-3 Implementation Status
 
 **Options:**
-- [ ] A) All 122 questions have author decisions recorded
+- [x] A) All 122 questions have author decisions recorded
 - [ ] B) Some decisions still pending
 - [ ] C) Decisions recorded but implementation not started
 - [ ] D) Partial implementation in progress
 
-**Author Decision:** ___
+**Author Decision:** A
 
-**Reasoning:**
+**Reasoning:** Confirmed. All 122 questions across Phases 1-3 have complete author decisions:
+- Phase 1: Diana (15) + Morgan (12) = 27 ✅
+- Phase 2: Bailey (25) + Sage (22) + Felix (15) = 62 ✅
+- Phase 3: Lydia (18) + Clara (15) = 33 ✅
+
+All decision files are present with selections and reasoning documented.
 
 ---
 
 ### Q2: Decision Documentation Completeness
 
 **Options:**
-- [ ] A) All decision files complete and internally consistent
+- [x] A) All decision files complete and internally consistent
 - [ ] B) Minor formatting inconsistencies found
 - [ ] C) Conflicting decisions found between files
 - [ ] D) Missing decisions found
 
-**Author Decision:** ___
+**Author Decision:** A
 
-**Reasoning:**
+**Reasoning:** Verified. All five decision files are complete and internally consistent. Cross-referenced decisions align across reviewers (e.g., digital content decisions align between Sage Q20, Lydia Q18). No conflicting decisions found.
 
 ---
 
@@ -53,13 +58,13 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 
 **Options:**
 - [ ] A) Implementation checklist exists and is comprehensive
-- [ ] B) Implementation checklist exists but needs updates
+- [x] B) Implementation checklist exists but needs updates
 - [ ] C) No implementation checklist - needs creation
 - [ ] D) Decisions ready for direct implementation
 
-**Author Decision:** ___
+**Author Decision:** B
 
-**Reasoning:**
+**Reasoning:** Petra is correct—individual priority lists exist in each decision file but lack consolidation. A master implementation checklist should be created as first step before implementation begins. This will sequence all 122 decisions across phases into a unified roadmap.
 
 ---
 
@@ -70,12 +75,18 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content drafted but needs voice adjustment
-- [ ] C) Content not yet drafted
+- [x] C) Content not yet drafted
 - [ ] D) Content conflicts with other decisions
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Decisions are clear and aligned (Bailey Q2 + Lydia Q1), but content creation has not yet begun. This is expected—Round 5 was the decision phase; implementation follows.
+
+**Implementation Notes:**
+- Voice: Brief, impactful first person (Lydia Q1 Option A)
+- Example tone: "I know this path. I walked it for decades before I could see it clearly."
+- Placement: Early in Lesson 1.1 to establish connection
+- Keep concise, not extended narrative
 
 ---
 
@@ -84,12 +95,19 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content drafted but needs sensitivity revision
-- [ ] C) Content not yet drafted
+- [x] C) Content not yet drafted
 - [ ] D) Content conflicts between Bailey/Sage/Lydia decisions
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. All reviewer decisions align well (Bailey Q8, Sage Q2/Q6/Q7, Lydia Q2). No conflicts. Content creation pending.
+
+**Implementation Notes:**
+- Tone: Equal dignity and seriousness as female examples
+- Focus: Power imbalance, economic dependence, isolation tactics
+- Avoid: Demographic details, emasculation language
+- Format: Seamless integration + dedicated sidebars for key examples
+- Include: Explicit counter-narrative per Sage Q6
 
 ---
 
@@ -98,12 +116,18 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content partially drafted
-- [ ] C) Content not yet drafted
+- [x] C) Content not yet drafted
 - [ ] D) Scope unclear - needs clarification
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Scope is well-defined from Sage Q20 and Lydia Q18. Content creation pending.
+
+**Implementation Notes:**
+- Tactics: Ghosting, breadcrumbing, online surveillance, social media triangulation
+- Voice: Same warmth and pacing as all other content
+- Framing: "Same patterns, different arena"—emphasize continuity not novelty
+- Format: Section in appropriate lesson + updated examples + new decoder cards
 
 ---
 
@@ -112,12 +136,19 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content partially drafted
-- [ ] C) Content not yet drafted
+- [x] C) Content not yet drafted
 - [ ] D) Sensitive content - needs review before implementation
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Decisions are comprehensive (Sage Q10 - all three approaches A+B+C). Placement clear (Lesson 3.5). Content creation pending.
+
+**Implementation Notes:**
+- Subsection in Lesson 3.5 (Workplace and Social)
+- Spiritual bypassing decoder card
+- Religious authority figures in examples
+- Tone: Respectful, non-judgmental
+- Focus: Manipulation patterns in religious/spiritual contexts, not beliefs themselves
 
 ---
 
@@ -126,12 +157,18 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content partially drafted
-- [ ] C) Content not yet drafted
+- [x] C) Content not yet drafted
 - [ ] D) Requires community review
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Decisions are comprehensive and affirming (Sage Q21 - all three approaches). Content creation pending.
+
+**Implementation Notes:**
+- Acknowledgment note that neurodivergent people may need different strategies
+- Affirm that autistic individuals can learn pattern recognition systematically
+- Structured, systematic pattern checklists (explicit vs intuitive recognition)
+- Tone: Affirming, non-pathologizing throughout
 
 ---
 
@@ -142,12 +179,19 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) All lesson numbers accurate and consistent
 - [ ] B) Numbering updated but cross-references need verification
-- [ ] C) Numbering not yet updated
+- [x] C) Numbering not yet updated
 - [ ] D) Conflicts in numbering approach
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Numbering conventions are clearly decided (Clara Q12, Q13), but implementation has not begun. This is expected for decision phase.
+
+**Implementation Sequence:**
+1. Insert bridge lesson 1.5
+2. Rename 3.1 → 3.1a/3.1b
+3. Rename 5.4 → 5.4/5.5
+4. Create Module 6 lessons (6.1, 6.2, 6.3...)
+5. Verify all cross-references
 
 ---
 
@@ -157,11 +201,16 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 - [ ] A) All counts updated throughout
 - [ ] B) Most counts updated, some instances remain
 - [ ] C) Counts not yet updated
-- [ ] D) Count breakdown not yet determined
+- [x] D) Count breakdown not yet determined
 
-**Author Decision:** ___
+**Author Decision:** D
 
-**Reasoning:**
+**Reasoning:** Petra is correct. While we know the total is 52 cards, the Core vs Advanced breakdown has not been determined. Clara Q1 notes "Card Breakdown: To be determined based on final card audit."
+
+**Implementation Sequence:**
+1. FIRST: Conduct card audit to determine X Core + Y Advanced = 52
+2. THEN: Systematic search-replace for all count references
+3. Update: 52 cards, 6 modules, 4-step protocol throughout
 
 ---
 
@@ -170,12 +219,17 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) All cross-references accurate
 - [ ] B) Most accurate, some need updating
-- [ ] C) Not yet updated
+- [x] C) Not yet updated
 - [ ] D) Curriculum rewrite pending
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Cross-references cannot be accurate yet because structural changes (Q9) have not been implemented. This is blocked by Q9.
+
+**Implementation Sequence:**
+1. First: Implement structural changes (Q9)
+2. Then: Systematic cross-reference update
+3. Finally: Verify curriculum/TOC alignment (Clara Q15)
 
 ---
 
@@ -185,11 +239,17 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 - [ ] A) All durations recalculated and updated
 - [ ] B) Durations estimated but not finalized
 - [ ] C) Durations not yet recalculated
-- [ ] D) Wait until content is finalized
+- [x] D) Wait until content is finalized
 
-**Author Decision:** ___
+**Author Decision:** D
 
-**Reasoning:**
+**Reasoning:** Duration recalculation should wait until content is finalized. Both Felix Q14 and Clara Q11 called for recalculation, but accurate durations require completed content.
+
+**Implementation Sequence:**
+1. First: Create all new content (Q4-Q8)
+2. Then: Implement structural changes (Q9)
+3. Finally: Recalculate all lesson and module durations
+4. Expected total: 11-12 hours (per Clara's estimate)
 
 ---
 
@@ -200,12 +260,23 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) All citations verified and properly formatted
 - [ ] B) Citations drafted but need format verification
-- [ ] C) Citations not yet added
+- [x] C) Citations not yet added
 - [ ] D) Some citations need source verification
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. All 7 citations have been verified by Felix during Phase 2 review, but have not yet been added to the course content.
+
+**Citations to Add:**
+| Source | Topic | Implementation |
+|--------|-------|----------------|
+| Lenore Walker (1979) | Abuse cycle | Credit Walker + note evolution |
+| Stanford Medicine (2023) | Cyclic sighing | Both Stanford and PMC citations |
+| PMC | Prolonged exhalation | Both Stanford and PMC citations |
+| Patrick Carnes (1997) | Trauma bond | Bibliography reference |
+| Strutzenberg et al. (2017) | Love bombing | Add citation |
+| Joseph LeDoux | Dual pathway | Add citation |
+| Robin Dunbar | Dunbar's Number | Add citation |
 
 ---
 
@@ -214,28 +285,51 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) All footnotes accurate and consistently formatted
 - [ ] B) Footnotes drafted but need format verification
-- [ ] C) Footnotes not yet added
+- [x] C) Footnotes not yet added
 - [ ] D) Footnote format not yet established
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Two footnotes needed per Felix decisions, but not yet drafted. Note: Course currently has no footnotes—author preference is to maintain flow.
+
+**Footnotes to Add:**
+1. PFC "goes offline" - Technical explanation footnote (Felix Q3)
+2. Gaslighting origin - 1944 film reference (Felix Q7)
+
+**Format Decision:** Brief footnotes that maintain flow, not extensive academic citations.
 
 ---
 
 ### Q15: Safety Resource Verification ⚠️ CRITICAL
 
 **Options:**
-- [ ] A) All safety resources verified active
+- [x] A) All safety resources verified active
 - [ ] B) Resources need verification
 - [ ] C) Some resources need updating
 - [ ] D) Additional resources should be added
 
-**Author Decision:** ___
+**Author Decision:** A ✅
 
-**Verification Date:** ___
+**Verification Date:** January 7, 2026
 
-**Reasoning:**
+**Reasoning:** ALL FOUR SAFETY RESOURCES VERIFIED ACTIVE:
+
+| Resource | Contact | Status | Verified |
+|----------|---------|--------|----------|
+| National Domestic Violence Hotline | 1-800-799-7233 (SAFE) | ✅ ACTIVE | 24/7, free, confidential |
+| 988 Suicide & Crisis Lifeline | 988 | ✅ ACTIVE | 24/7, free, confidential |
+| Crisis Text Line | Text HOME to 741741 | ✅ ACTIVE | 24/7, free, confidential |
+| thehotline.org | Website | ✅ ACTIVE | Live chat available |
+
+**Additional Verified Options:**
+- Text LOVEIS to 22522 (NDVH)
+- Text START to 88788 (NDVH)
+- Veterans: Press 1 after dialing 988
+- Spanish support available on all services
+
+**CRITICAL BLOCKER RESOLVED** ✅
+
+This was the single most important item in Phase 4 review. All resources verified active as of January 7, 2026. Publication can proceed with confidence that crisis resources will connect readers to help.
 
 ---
 
@@ -245,13 +339,20 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 
 **Options:**
 - [ ] A) All box types consistently formatted
-- [ ] B) Format established but not yet applied
+- [x] B) Format established but not yet applied
 - [ ] C) Format not yet established
 - [ ] D) Multiple formats need standardization
 
-**Author Decision:** ___
+**Author Decision:** B
 
-**Reasoning:**
+**Reasoning:** Confirmed. Format is established per Clara Q8 (single callout box format with type labels). Ready to apply when content is created.
+
+**Box Types Ready:**
+- Quick Read: (lesson summaries)
+- Reader Voice: (testimonials)
+- Content Note: (warnings)
+- Resource: (crisis/support)
+- Practice Break: (IN PRACTICE: scenarios)
 
 ---
 
@@ -260,12 +361,27 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) All new cards match exact format
 - [ ] B) Most cards match, minor variations
-- [ ] C) New cards not yet drafted
+- [x] C) New cards not yet drafted
 - [ ] D) Format needs updating for new types
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Format is established per Clara Q7 (exact format match for all new cards). Ready to apply when cards are drafted.
+
+**Card Format:**
+```
+## Card XX: [Name]
+**Category:** [Category Name]
+**Pattern:** What they do
+**What They Say:** Example phrases
+**What They Mean:** Translation
+**Decoder Insight:** Your response
+```
+
+**New Cards Needed:**
+- Digital manipulation cards (from Sage Q20, Lydia Q18)
+- Spiritual bypassing card (from Sage Q10)
+- Additional cards to reach 52 total
 
 ---
 
@@ -274,12 +390,30 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 **Options:**
 - [ ] A) All new lessons follow template
 - [ ] B) Template followed with documented exceptions
-- [ ] C) New lessons not yet created
+- [x] C) New lessons not yet created
 - [ ] D) Template variations need documentation
 
-**Author Decision:** ___
+**Author Decision:** C
 
-**Reasoning:**
+**Reasoning:** Confirmed. Template is established per Clara Q6 (baseline with documented exceptions). Ready to apply when new lessons are created.
+
+**Lesson Template:**
+```
+# Lesson X.X: Title
+[Duration] | [Module Name]
+## Introduction
+## Main Content
+## Key Takeaways
+## Exercises
+## Next Steps
+```
+
+**New Lessons Needed:**
+- Lesson 1.5 (Bridge)
+- Lesson 3.1a (Biology of Attachment)
+- Lesson 3.1b (Trauma Bond Cycle)
+- Lesson 5.5 (Course Completion)
+- Module 6 lessons (6.1, 6.2, etc.)
 
 ---
 
@@ -289,16 +423,21 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 
 **Options:**
 - [ ] A) No known issues remaining
-- [ ] B) Minor issues remaining
+- [x] B) Minor issues remaining
 - [ ] C) Significant issues requiring author decision
 - [ ] D) Issues deferred to future rounds
 
-**Author Decision:** ___
+**Author Decision:** B
+
+**Reasoning:** All decisions are made. Remaining issues are implementation tasks, not decision gaps.
 
 **Issues List:**
-1. ___
-2. ___
-3. ___
+1. **Card Breakdown Not Determined** - Need card audit to determine Core vs Advanced split (52 total)
+2. **Master Implementation Checklist Missing** - Individual priority lists need consolidation
+3. **Content Creation Required** - All new content decisions made, drafting not started
+4. **Structural Implementation Required** - All numbering/cross-reference decisions made, not applied
+
+**Note:** These are implementation tasks, not blockers. With Q15 (safety resources) now verified, the critical blocker is resolved.
 
 ---
 
@@ -306,13 +445,37 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 
 **Options:**
 - [ ] A) YES - Ready for implementation
-- [ ] B) READY WITH CAVEATS - Minor items during implementation
+- [x] B) READY WITH CAVEATS - Minor items during implementation
 - [ ] C) NOT READY - Significant items need resolution
 - [ ] D) PARTIAL - Some phases ready, others need work
 
-**Author Decision:** ___
+**Author Decision:** B
 
-**Reasoning:**
+**Reasoning:** Round 5 Decision Phase is COMPLETE. Ready to proceed to Implementation Phase.
+
+**What's Complete:**
+- ✅ All 122 Phase 1-3 decisions documented
+- ✅ All 20 Petra questions answered
+- ✅ All formats and templates established
+- ✅ **CRITICAL: Safety resources verified active (January 7, 2026)**
+
+**Caveats for Implementation:**
+1. Create master implementation checklist first
+2. Conduct card audit (Core vs Advanced breakdown)
+3. Content creation before structural changes
+4. Duration recalculation after content finalized
+
+**Implementation Sequence:**
+1. **Immediate:** Create master implementation checklist
+2. **Immediate:** Card audit (determine 52 breakdown)
+3. **Phase 1:** Content creation (Q4-Q8 content)
+4. **Phase 2:** Structural implementation (numbering, cross-refs)
+5. **Phase 3:** Citations and footnotes
+6. **Phase 4:** Duration recalculation
+7. **Final:** Verification pass
+
+**DECISION PHASE: COMPLETE ✅**
+**IMPLEMENTATION PHASE: READY TO BEGIN**
 
 ---
 
@@ -555,13 +718,13 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 
 ## Summary Checklist
 
-### Petra (Proofreader) ⏳ PENDING
-- [ ] Q1-Q3 - Prior phase closure
-- [ ] Q4-Q8 - New content accuracy
-- [ ] Q9-Q12 - Structural accuracy
-- [ ] Q13-Q15 - Citation & safety (Q15 critical!)
-- [ ] Q16-Q18 - Format consistency
-- [ ] Q19-Q20 - Final assessment
+### Petra (Proofreader) ✅ COMPLETE
+- [x] Q1-Q3 - Prior phase closure → A, A, B
+- [x] Q4-Q8 - New content accuracy → C, C, C, C, C (all pending creation)
+- [x] Q9-Q12 - Structural accuracy → C, D, C, D (all pending implementation)
+- [x] Q13-Q15 - Citation & safety → C, C, **A** ✅ (Q15 CRITICAL RESOLVED!)
+- [x] Q16-Q18 - Format consistency → B, C, C (formats ready, content pending)
+- [x] Q19-Q20 - Final assessment → B, B (ready with caveats)
 
 ### Coherence Analysis ⏳ PENDING
 - [ ] Q1-Q4 - Terminology consistency
@@ -574,13 +737,13 @@ Phase 4 is the final quality gate for Round 5. Unlike Round 4 (which verified a 
 
 ## Phase 4 Completion
 
-**Date Petra's Questions Completed:** ____________
+**Date Petra's Questions Completed:** January 7, 2026 ✅
 
 **Date Coherence Analysis Completed:** ____________
 
-**All corrections applied:** [ ] Yes
+**All corrections applied:** [ ] Yes (implementation phase pending)
 
-**IMPLEMENTATION READY:** [ ] Yes
+**IMPLEMENTATION READY:** [x] Yes - with caveats (see Q20)
 
 ---
 

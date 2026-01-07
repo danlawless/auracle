@@ -34,12 +34,12 @@ This round focuses on strategic planning for:
 
 ## Phase Structure
 
-### Phase 1: Strategic Decisions (Complete)
+### Phase 1: Strategic Decisions ✅ COMPLETE
 
 | Reviewer | Focus | Status | Questions |
 |----------|-------|--------|-----------|
-| Diana (Developmental Editor) | Format expansion, content opportunities | ✅ Author Responded | 15 |
-| Morgan (Managing Editor) | Workflow priorities, coordination | ✅ Author Responded | 12 |
+| Diana (Developmental Editor) | Format expansion, content opportunities | ✅ Complete | 15 |
+| Morgan (Managing Editor) | Workflow priorities, coordination | ✅ Complete | 12 |
 
 **Phase 1 Total:** 27 questions answered
 
@@ -49,20 +49,36 @@ This round focuses on strategic planning for:
 - `course-materials-sync-report.md` - Identified discrepancies (37 → 52 cards)
 - `male-example-implementation.md` - Draft content for gender-balanced examples
 
-### Phase 2: Content & Experience (Blocked - Awaiting Phase 1)
+### Phase 2: Content & Experience 🔄 IN PROGRESS
 
-| Reviewer | Focus | Status |
-|----------|-------|--------|
-| Bailey (Beta Reader) | Format effectiveness, user experience | Pending |
-| Sage (Sensitivity Reader) | Accessibility, demographic expansion | Pending |
-| Felix (Fact-Checker) | Updated research, new claims | Pending |
+| Reviewer | Focus | Status | Questions |
+|----------|-------|--------|-----------|
+| Bailey (Beta Reader) | Format effectiveness, user experience | ✅ Complete | 25 |
+| Sage (Sensitivity Reader) | Accessibility, demographic expansion | ⏳ Awaiting Response | 22 |
+| Felix (Fact-Checker) | Updated research, new claims | ⏳ Awaiting Response | 15 |
 
-### Phase 3: Polish (Blocked - Awaiting Phase 2)
+**Phase 2 Total:** 62 questions (25 complete, 37 pending)
 
-| Reviewer | Focus | Status |
-|----------|-------|--------|
-| Lydia (Line Editor) | Prose craft for new content | Pending |
-| Clara (Copy Editor) | Style consistency for updates | Pending |
+**Decision Templates Ready:**
+- `author-decisions-phase-2.md` - Bailey decisions COMPLETE
+- `author-decisions-sage-sensitivity.md` - Template ready for Sage decisions
+- `author-decisions-felix-factcheck.md` - Template ready for Felix decisions
+
+### Phase 3: Polish 🔄 ACTIVE
+
+| Reviewer | Focus | Status | Questions |
+|----------|-------|--------|-----------|
+| Lydia (Line Editor) | Prose craft for new content | ⏳ Awaiting Response | 18 |
+| Clara (Copy Editor) | Style consistency for updates | ⏳ Awaiting Response | 15 |
+
+**Phase 3 Total:** 33 questions awaiting author decisions
+
+**Decision Template Ready:**
+- `author-decisions-phase-3.md` - Combined Lydia + Clara decisions with preferences
+
+**Review Issues:**
+- `lydia-line-editor-issue.md` - Voice, rhythm, emotional calibration
+- `clara-copy-editor-issue.md` - Terminology, formatting, structural consistency
 
 ### Phase 4: Final Pass (Blocked - Awaiting Phase 3)
 
@@ -109,17 +125,22 @@ This round focuses on strategic planning for:
 ## Workflow
 
 ```
-Round 4 Complete (Publication Ready)
+Round 4 Complete (Publication Ready) ✅
          ↓
-Review Round 5 Phase 1 (Strategic) ← CURRENT
+Review Round 5 Phase 1 (Strategic) ✅ COMPLETE
          ↓
-Author responds to Phase 1 questions
+Author responds to Phase 1 questions ✅ COMPLETE
          ↓
-Round 5 scope finalized
+Round 5 scope finalized ✅ COMPLETE
          ↓
-Review Round 5 Phase 2 (Content) [Targeted]
+Review Round 5 Phase 2 (Content) ← CURRENT
+  - Bailey: ✅ Complete
+  - Sage: ⏳ Awaiting Response
+  - Felix: ⏳ Awaiting Response
          ↓
-Review Round 5 Phase 3 (Polish) [New content only]
+Review Round 5 Phase 3 (Polish) ← ACTIVE
+  - Lydia: ⏳ 18 questions awaiting response
+  - Clara: ⏳ 15 questions awaiting response
          ↓
 Review Round 5 Phase 4 (Final)
          ↓
@@ -130,11 +151,28 @@ Second Edition / Enhanced Format Ready
 
 ## Next Actions
 
-1. **Author:** Review Diana's 15 questions and Morgan's 12 questions
-2. **Author:** Respond in `phase-1-strategic/author-decisions.md`
-3. **Author:** Define Round 5 scope (Morgan's Q1)
-4. **Coordinator:** Communicate scope to Phase 2-4 reviewers
-5. **Coordinator:** Initiate Phase 2 reviews based on defined scope
+### Phase 2 (Remaining)
+
+1. **Author:** Complete Sage sensitivity decisions (22 questions)
+   - File: `phase-2-content/author-decisions-sage-sensitivity.md`
+   - Critical: Q2, Q7 (baby trap framing, language/immigration)
+
+2. **Author:** Complete Felix fact-check decisions (15 questions)
+   - File: `phase-2-content/author-decisions-felix-factcheck.md`
+   - Critical: Q1 (38/37 discrepancy), Q15 (hotline verification)
+
+### Phase 3 (Active)
+
+3. **Author:** Complete Lydia line editor decisions (18 questions)
+   - File: `phase-3-polish/author-decisions-phase-3.md`
+   - Focus: Voice consistency, rhythm, emotional calibration
+
+4. **Author:** Complete Clara copy editor decisions (15 questions)
+   - File: `phase-3-polish/author-decisions-phase-3.md`
+   - Focus: Terminology, formatting, structural consistency
+   - Critical: Q1-Q3 (card count, module count, protocol steps)
+
+5. **Implementation:** Apply decisions and prepare for Phase 4
 
 ---
 
@@ -158,11 +196,23 @@ review-05/
 ├── phase-1-strategic/
 │   ├── diana-developmental-editor-issue.md
 │   ├── morgan-managing-editor-issue.md
-│   └── author-decisions.md (to be created)
+│   ├── author-decisions.md ✅
+│   ├── decoder-cards-analysis.md
+│   ├── course-materials-sync-report.md
+│   └── male-example-implementation.md
 ├── phase-2-content/
-│   └── (pending Phase 1 completion)
+│   ├── README.md
+│   ├── bailey-beta-reader-issue.md
+│   ├── sage-sensitivity-reader-issue.md
+│   ├── felix-fact-checker-issue.md
+│   ├── author-decisions-phase-2.md ✅ (Bailey complete)
+│   ├── author-decisions-sage-sensitivity.md ⏳
+│   └── author-decisions-felix-factcheck.md ⏳
 ├── phase-3-polish/
-│   └── (pending Phase 2 completion)
+│   ├── README.md
+│   ├── lydia-line-editor-issue.md
+│   ├── clara-copy-editor-issue.md
+│   └── author-decisions-phase-3.md ⏳
 └── phase-4-final/
     └── (pending Phase 3 completion)
 ```

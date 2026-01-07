@@ -548,6 +548,42 @@ While core strategies apply to all types, nuanced responses can be more effectiv
 
 **Exit line:** None verbal. Plan your exit silently and execute it.
 
+### For Cerebral Narcissists
+
+**Their weakness:** Their identity depends on being the smartest. They can't tolerate being intellectually irrelevant.
+
+**Don't do:** Try to out-debate them, prove them wrong publicly, or compete on their intellectual turf.
+
+**Do instead:** Don't engage in debates you didn't choose. You don't need to defend your intelligence. When they correct you, a simple "Thanks" without elaboration denies them the reaction they seek. Redirect to practical matters: "Interesting point. Here's what we need to decide."
+
+**The body practice:** Notice when you start rehearsing what you'll say, trying to make it bulletproof. That's your nervous system preparing for evaluation. You don't need to pass their test. Your thoughts are valid without their approval.
+
+**Exit line:** "You may be right. I'll think about it."
+
+### For Somatic Narcissists
+
+**Their weakness:** Their worth is tied to physical appearance, which time inevitably threatens.
+
+**Don't do:** Compete on appearance, seek their validation of your body, or let them define your physical worth.
+
+**Do instead:** Refuse to engage in body commentary—yours or others'. When they evaluate appearances, don't participate: "I don't really think about it that way." Your body is not a topic for their assessment.
+
+**The body practice:** Notice when you feel evaluated, when your posture changes or you become self-conscious. That's the objectifying gaze landing on you. You can reject it internally: *My body is my home, not my product.*
+
+**Exit line:** "I'm not interested in discussing bodies."
+
+### For Histrionic Narcissists
+
+**Their weakness:** They cannot tolerate being ignored. Lack of attention is experienced as annihilation.
+
+**Don't do:** Feed the drama, match their emotional intensity, or try to out-perform them.
+
+**Do instead:** Be boring. Respond to dramatic escalations with flat affect: "That sounds intense." Don't ask follow-up questions that fuel the performance. When they escalate for attention, don't reward it. Redirect to others in the group or excuse yourself.
+
+**The body practice:** Notice when you feel exhausted, when their energy is pulling all the oxygen from the room. You're allowed to conserve your energy. You don't have to be their audience.
+
+**Exit line:** "I need to step away for a bit."
+
 ---
 
 ## Navigating Different Types
@@ -606,23 +642,29 @@ If the answers are yes, the specific type is academic. What matters is what you 
 
 ## Chapter Summary
 
-This chapter explored the five primary narcissist types:
+This chapter explored the **three primary narcissist types**:
 
-1. **The Grandiose Narcissist** — Obvious, loud, openly superior. The classic image of narcissism.
+1. **The Grandiose Narcissist** — Obvious, loud, openly superior. The classic image of narcissism. Leaves you feeling invisible.
 
-2. **The Covert Narcissist** — Hidden superiority masked as victimhood, sensitivity, or humility. Harder to spot, equally draining.
+2. **The Covert Narcissist** — Hidden superiority masked as victimhood, sensitivity, or humility. Harder to spot, equally draining. Leaves you feeling responsible.
 
-3. **The Communal Narcissist** — Superiority through service. The helper who needs recognition more than they want to help.
+3. **The Communal Narcissist** — Superiority through service. The helper who needs recognition more than they want to help. Leaves you feeling ungrateful.
 
-4. **The Malignant Narcissist** — Where narcissism meets sadism. The most dangerous type, deriving pleasure from your pain.
+We also explored **four additional types**:
 
-5. **The Histrionic Narcissist** — Attention at all costs. Drama, emotion, and performance as supply-gathering mechanisms.
+4. **The Malignant Narcissist** — Where narcissism meets antisocial features, paranoia, and sadism. The most dangerous type, requiring safety-first responses.
 
-We also explored:
+5. **The Cerebral Narcissist** — Superiority through intelligence and expertise. Leaves you feeling stupid and silenced.
 
-6. **The Addiction-Narcissism Intersection** — How substance abuse and narcissistic patterns often co-occur, reinforce each other, and create specific wounds. Red flags include personality shifts when intoxicated, convenient amnesia, double standards around use, and blame transfer. The critical truth: sobriety doesn't cure narcissism.
+6. **The Somatic Narcissist** — Superiority through physical appearance and attractiveness. Leaves you feeling evaluated and inadequate.
 
-**Key insight:** All types share the same core wound, a fragile sense of self that requires constant external validation. The types are just different strategies for obtaining that supply.
+7. **The Histrionic Narcissist** — Attention at all costs. Drama, emotion, and performance as supply-gathering mechanisms. Leaves you feeling exhausted.
+
+Finally, we examined:
+
+**The Addiction-Narcissism Intersection** — How substance abuse and narcissistic patterns often co-occur, reinforce each other, and create specific wounds. Red flags include personality shifts when intoxicated, convenient amnesia, double standards around use, and blame transfer. The critical truth: sobriety doesn't cure narcissism.
+
+**Key insight:** All types share the same core wound—a fragile sense of self that requires constant external validation. The types are just different strategies for obtaining that supply.
 
 **Your takeaway:** Recognition is power. Now that you can see the patterns beneath the surface presentation, you're harder to manipulate. Trust your body's signals more than their words.
 

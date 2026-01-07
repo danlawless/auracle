@@ -35,6 +35,8 @@ This chapter is about learning to trust that signal.
 > 4. **Remember:** You are safe right now, reading words on a page.
 >
 > **A note on dissociation:** If you struggle to feel your body's signals—if there's numbness, blankness, or a sense of being "above" your body—that's a trauma response too. Your body learned to go quiet to survive. That disconnection is information, not a failure. Some readers may need to rebuild body awareness gradually, perhaps with professional support. Be patient with yourself.
+>
+> **A note on panic attacks:** If you're experiencing a panic attack—racing heart, shortness of breath, chest tightness, or overwhelming fear—know that this will pass. Calm yourself by noticing the symptoms without fighting them. Practice deep, controlled breathing with long exhales (inhale for 4 counts, exhale for 6-8 counts). These reactions typically subside within 15-20 minutes. You are not in danger; your nervous system is responding to perceived threat. Stay with the breathing until the wave passes.
 
 ---
 

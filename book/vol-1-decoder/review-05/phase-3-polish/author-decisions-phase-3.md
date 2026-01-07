@@ -359,7 +359,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 
 **Options:**
 - [ ] A) "52 Decoder Cards" everywhere, no subset breakdown
-- [ ] B) "52 Decoder Cards (X Core + Y Advanced)" with specific breakdown
+- [x] B) "52 Decoder Cards (X Core + Y Advanced)" with specific breakdown
 - [ ] C) "50+ Decoder Cards" for flexibility if count adjusts
 - [ ] D) Remove specific numbers: "Core and Advanced Decoder Cards"
 
@@ -368,8 +368,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** B
 **Clara's Reasoning:** Specific count with breakdown provides clarity for readers tracking progress.
 
-**Author Decision:** _____________
-**Card Breakdown (if B):** ___ Core + ___ Advanced = 52
+**Author Decision:** B
+**Card Breakdown:** To be determined based on final card audit (Core + Advanced = 52)
 
 ---
 
@@ -378,7 +378,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 creates Module 6. Course changes from 5 to 6 modules.
 
 **Options:**
-- [ ] A) Update all to "6 modules"
+- [x] A) Update all to "6 modules"
 - [ ] B) "6 modules" with note that Module 6 is advanced/optional
 - [ ] C) "5 core modules + 1 advanced module"
 - [ ] D) Remove specific count: "comprehensive curriculum"
@@ -388,8 +388,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Clean update maintains simplicity.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Clean "6 modules" throughout
 
 ---
 
@@ -398,7 +398,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 simplifies protocol: Notice → Pause → Decode → Respond.
 
 **Options:**
-- [ ] A) Update all to 4-step: Notice, Pause, Decode, Respond
+- [x] A) Update all to 4-step: Notice, Pause, Decode, Respond
 - [ ] B) Keep 5-step with clarification that 3-4 can be combined
 - [ ] C) Present as flexible: "4-5 steps depending on your preference"
 - [ ] D) Remove step numbers: "The Decoder Protocol" without enumeration
@@ -408,8 +408,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Clean 4-step standardization eliminates confusion.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** 4-step protocol: Notice → Pause → Decode → Respond
 
 ---
 
@@ -418,7 +418,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 (Bailey Q11) standardizes noun vs process.
 
 **Options:**
-- [ ] A) "Trauma bond" (noun for attachment), "trauma bonding" (verb/process)
+- [x] A) "Trauma bond" (noun for attachment), "trauma bonding" (verb/process)
 - [ ] B) "Trauma bond" consistently, "how trauma bonds form" for process
 - [ ] C) Define both in glossary, use contextually
 - [ ] D) Prefer "traumatic bonding" for academic consistency
@@ -428,8 +428,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Clear noun/verb distinction aids learning.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** "Trauma bond" (noun) vs "trauma bonding" (process)
 
 ---
 
@@ -438,7 +438,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 moves JADE introduction to Lesson 1.4, reinforces in 5.2.
 
 **Options:**
-- [ ] A) Full definition in 1.4, brief reminder in 5.2
+- [x] A) Full definition in 1.4, brief reminder in 5.2
 - [ ] B) Brief mention in 1.4, full definition in 5.2
 - [ ] C) Equal treatment in both: define each time
 - [ ] D) Definition in 1.4, link/reference in 5.2: "Remember JADE from Lesson 1.4"
@@ -446,8 +446,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Full definition early, reminder later supports learning progression.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Full JADE definition in 1.4, brief reminder in 5.2
 
 ---
 
@@ -470,15 +470,15 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 
 **Options:**
 - [ ] A) Strict adherence to existing template for all new lessons
-- [ ] B) Template as baseline, allow variation where pedagogically needed
+- [x] B) Template as baseline, allow variation where pedagogically needed
 - [ ] C) Create new template for split lessons (3.1a/b format)
 - [ ] D) Create new template for Module 6 advanced content
 
 **Clara's Preference:** B
 **Clara's Reasoning:** Template baseline with documented exceptions allows flexibility while maintaining consistency.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B
+**Reasoning:** Template baseline with documented exceptions for pedagogical needs
 
 ---
 
@@ -497,7 +497,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 ```
 
 **Options:**
-- [ ] A) Exact format match for all 15 new cards
+- [x] A) Exact format match for all 15 new cards
 - [ ] B) Format match with addition of new fields if needed
 - [ ] C) Simplified format for advanced cards
 - [ ] D) Review and potentially update format for all 52 cards
@@ -505,8 +505,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Exact match for consistency. Any format changes should apply to all cards.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Exact format match for all new cards - consistency is key
 
 ---
 
@@ -516,15 +516,15 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 
 **Options:**
 - [ ] A) Create distinct visual format for each box type
-- [ ] B) Single "callout box" format with type labels
+- [x] B) Single "callout box" format with type labels
 - [ ] C) Match existing exercise box format for all
 - [ ] D) Minimal formatting: just indentation/italics to distinguish
 
 **Clara's Preference:** B or D
 **Clara's Reasoning:** Current course uses minimal boxing. Heavy formatting could feel inconsistent.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B
+**Reasoning:** Single callout box format with type labels (Quick Read:, Reader Voice:, etc.)
 
 ---
 
@@ -535,7 +535,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Current Format:** "As we discussed in Lesson 2.3..." or "(see Lesson 4.5)"
 
 **Options:**
-- [ ] A) Continue current format: "Lesson 3.1a" or "Module 6, Lesson 6.1"
+- [x] A) Continue current format: "Lesson 3.1a" or "Module 6, Lesson 6.1"
 - [ ] B) Title-based: "As we discussed in The Biology of Attachment..."
 - [ ] C) Hybrid: Lesson number with title on first mention, number only after
 - [ ] D) Relative: "the previous lesson" / "the next lesson" where possible
@@ -543,8 +543,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A or C
 **Clara's Reasoning:** Number-based with possible title clarification maintains system.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Continue current number-based format for cross-references
 
 ---
 
@@ -554,15 +554,15 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 
 **Options:**
 - [ ] A) Diagram with figure number and caption: "Figure 1: The Window of Tolerance"
-- [ ] B) Inline visual without formal figure numbering
+- [x] B) Inline visual without formal figure numbering
 - [ ] C) Diagram + accessible text description following immediately
 - [ ] D) Text description primary, diagram as optional supplement
 
 **Clara's Preference:** B or C
 **Clara's Reasoning:** Current course has minimal visuals. Formal figure numbering may be unnecessary for single diagram.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B
+**Reasoning:** Inline visual without formal figure numbering - keeps it simple
 
 ---
 
@@ -573,7 +573,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Multiple changes affect module durations: splits, new lessons, restructuring.
 
 **Options:**
-- [ ] A) Recalculate all durations based on new lesson structure
+- [x] A) Recalculate all durations based on new lesson structure
 - [ ] B) Keep approximate durations, note they may vary
 - [ ] C) Remove duration estimates: "progress at your own pace"
 - [ ] D) Add Module 6 duration, adjust others as needed
@@ -583,8 +583,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Recalculate for accuracy—readers use these for planning.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Recalculate all durations for accuracy
 
 ---
 
@@ -593,7 +593,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Lesson 3.1 → 3.1a/3.1b. Lesson 5.4 → 5.4/5.5. New bridge lesson 1.5.
 
 **Options:**
-- [ ] A) Letter suffixes: 3.1a, 3.1b (preserves original numbering)
+- [x] A) Letter suffixes: 3.1a, 3.1b (preserves original numbering)
 - [ ] B) Renumber module: 3.1, 3.2, 3.3... (shifts all subsequent)
 - [ ] C) Decimal extension: 3.1.1, 3.1.2
 - [ ] D) Title-based: Remove numbers, use lesson titles as primary reference
@@ -601,8 +601,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Letter suffixes indicate related content that was split, minimize cross-reference updates.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Letter suffixes (3.1a, 3.1b) preserve numbering and show relationship
 
 ---
 
@@ -611,7 +611,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** New Module 6 (Advanced Recognition) needs lesson numbers.
 
 **Options:**
-- [ ] A) Continue sequence: 6.1, 6.2, 6.3...
+- [x] A) Continue sequence: 6.1, 6.2, 6.3...
 - [ ] B) Advanced designation: A.1, A.2, A.3...
 - [ ] C) Extension from 4.4: 4.4a, 4.4b...
 - [ ] D) Title-based: Module 6 lessons referenced by title only
@@ -619,8 +619,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Standard continuation maintains course structure.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Standard continuation (6.1, 6.2, 6.3) maintains course structure
 
 ---
 
@@ -629,7 +629,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** With splits and new lessons, end-of-lesson "Next" references need updating.
 
 **Options:**
-- [ ] A) Update all Next Lesson references to new structure
+- [x] A) Update all Next Lesson references to new structure
 - [ ] B) Remove Next Lesson references: Let course navigation handle it
 - [ ] C) Add Previous/Next lesson references to all lessons
 - [ ] D) Keep Next only, verify accuracy
@@ -637,8 +637,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A or D
 **Clara's Reasoning:** Update existing references for accuracy.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Update all Next Lesson references to reflect new structure
 
 ---
 
@@ -647,7 +647,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** All structural changes need reflection in course curriculum/TOC.
 
 **Options:**
-- [ ] A) Complete rewrite reflecting all changes
+- [x] A) Complete rewrite reflecting all changes
 - [ ] B) Incremental updates: add new lessons, adjust numbers
 - [ ] C) Version note: "Updated January 2026" with change summary
 - [ ] D) Full restructure with new organizational framework
@@ -655,8 +655,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Clara's Preference:** A
 **Clara's Reasoning:** Curriculum is the course's table of contents. Must accurately reflect structure.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Complete curriculum rewrite to accurately reflect all structural changes
 
 ---
 
@@ -682,22 +682,22 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 - [x] Q17 - Agency caveat framing → **D** (Trust framing)
 - [x] Q18 - Digital content voice → **A + D** (Consistent + "same patterns")
 
-### Clara (Copy Editor) - Consistency & Structure
-- [ ] Q1 - Card count standardization
-- [ ] Q2 - Module count update
-- [ ] Q3 - Protocol step standardization
-- [ ] Q4 - Trauma bond terminology
-- [ ] Q5 - JADE placement
-- [ ] Q6 - Lesson template
-- [ ] Q7 - Card format
-- [ ] Q8 - Box formats
-- [ ] Q9 - Cross-reference format
-- [ ] Q10 - Visual element format
-- [ ] Q11 - Duration recalculation
-- [ ] Q12 - Lesson numbering
-- [ ] Q13 - Module 6 numbering
-- [ ] Q14 - Navigation updates
-- [ ] Q15 - Curriculum update
+### Clara (Copy Editor) - Consistency & Structure ✅ COMPLETE
+- [x] Q1 - Card count standardization → **B** (52 cards with breakdown)
+- [x] Q2 - Module count update → **A** (Clean "6 modules")
+- [x] Q3 - Protocol step standardization → **A** (4-step protocol)
+- [x] Q4 - Trauma bond terminology → **A** (noun/verb distinction)
+- [x] Q5 - JADE placement → **A** (Full in 1.4, reminder in 5.2)
+- [x] Q6 - Lesson template → **B** (Template baseline with exceptions)
+- [x] Q7 - Card format → **A** (Exact format match)
+- [x] Q8 - Box formats → **B** (Single callout with type labels)
+- [x] Q9 - Cross-reference format → **A** (Number-based)
+- [x] Q10 - Visual element format → **B** (Inline without figure numbering)
+- [x] Q11 - Duration recalculation → **A** (Recalculate all)
+- [x] Q12 - Lesson numbering → **A** (Letter suffixes)
+- [x] Q13 - Module 6 numbering → **A** (Standard continuation)
+- [x] Q14 - Navigation updates → **A** (Update all Next Lesson references)
+- [x] Q15 - Curriculum update → **A** (Complete rewrite)
 
 ---
 

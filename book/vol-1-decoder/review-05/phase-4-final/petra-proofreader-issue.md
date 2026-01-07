@@ -58,14 +58,21 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **The Question:** Have all Phase 1-3 decisions been documented for implementation?
 
 **Options:**
-- [ ] A) All 122 questions (27+62+33) have author decisions recorded
+- [x] A) All 122 questions (27+62+33) have author decisions recorded
 - [ ] B) Some decisions still pending author response
 - [ ] C) Decisions recorded but implementation not yet started
 - [ ] D) Partial implementation in progress
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** VERIFIED - All 122 questions across Phases 1-3 have complete author decisions:
+- Phase 1 (Strategic): 27 questions (Diana: 15, Morgan: 12) ✅ COMPLETE
+- Phase 2 (Content): 62 questions (Bailey: 25, Sage: 22, Felix: 15) ✅ COMPLETE
+- Phase 3 (Polish): 33 questions (Lydia: 18, Clara: 15) ✅ COMPLETE
 
-**Petra's Recommendation:** _[To be completed during review]_
+All decision files are present with author selections and reasoning documented.
+
+**Petra's Recommendation:** Option A - All 122 questions have author decisions recorded
+
+**Status:** ✅ VERIFIED COMPLETE
 
 ---
 
@@ -81,14 +88,24 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 - `phase-3-polish/author-decisions-phase-3.md` (Lydia + Clara)
 
 **Options:**
-- [ ] A) All decision files complete and internally consistent
+- [x] A) All decision files complete and internally consistent
 - [ ] B) Minor formatting inconsistencies found (list below)
 - [ ] C) Conflicting decisions found between files (list below)
 - [ ] D) Missing decisions found (list below)
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** VERIFIED - All five decision files are complete and internally consistent:
 
-**Petra's Recommendation:** _[To be completed during review]_
+✅ `phase-1-strategic/author-decisions.md` - Complete with all 27 decisions documented
+✅ `phase-2-content/author-decisions-phase-2.md` - Bailey's 25 decisions complete
+✅ `phase-2-content/author-decisions-sage-sensitivity.md` - Sage's 22 decisions complete
+✅ `phase-2-content/author-decisions-felix-factcheck.md` - Felix's 15 decisions complete
+✅ `phase-3-polish/author-decisions-phase-3.md` - Lydia (18) + Clara (15) decisions complete
+
+Cross-referenced decisions align across reviewers (e.g., digital content decisions align between Sage Q20, Lydia Q18). No conflicting decisions found.
+
+**Petra's Recommendation:** Option A - All decision files complete and internally consistent
+
+**Status:** ✅ VERIFIED COMPLETE
 
 ---
 
@@ -98,13 +115,22 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 
 **Options:**
 - [ ] A) Implementation checklist exists and is comprehensive
-- [ ] B) Implementation checklist exists but needs updates
+- [x] B) Implementation checklist exists but needs updates
 - [ ] C) No implementation checklist - needs creation
 - [ ] D) Decisions are ready for direct implementation without checklist
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Implementation priority sections exist in each decision file but lack consolidation:
+- Phase 2 Bailey has "Implementation Priority" with High/Medium/Lower categories
+- Phase 2 Felix has "Implementation Priority" with Immediate/High/Medium/Lower
+- Phase 3 has "Implementation Priority" with Immediate/High/Medium/Lower
 
-**Petra's Recommendation:** _[To be completed during review]_
+However, there is NO consolidated master implementation checklist spanning all 122 decisions across all phases. The individual priority lists are helpful but need to be merged into a single comprehensive implementation roadmap.
+
+**Petra's Recommendation:** Option B - Implementation checklist exists but needs consolidation into comprehensive master checklist
+
+**Note:** Creating a consolidated implementation checklist should be a priority before implementation begins.
+
+**Status:** ⚠️ NEEDS CONSOLIDATION
 
 ---
 
@@ -126,12 +152,24 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content drafted but needs voice adjustment
-- [ ] C) Content not yet drafted - needs creation
+- [x] C) Content not yet drafted - needs creation
 - [ ] D) Content conflicts with other decisions (specify)
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Decisions are clear and aligned:
+- Bailey Q2: Story framework defined (childhood household → pattern recognition → breaking cycle)
+- Lydia Q1: Voice established (Option A - "Brief, impactful first person")
+- Placement confirmed: Lesson 1.1
 
-**Petra's Recommendation:** _[To be completed during review]_
+However, the actual story content has NOT been drafted yet. This is new content creation required.
+
+**Petra's Recommendation:** Option C - Content not yet drafted, needs creation
+
+**Implementation Guidance:**
+- Voice: "I know this path. I walked it for decades before I could see it clearly." (Lydia Q1 example)
+- Keep brief and impactful, not extended narrative
+- Place early in Lesson 1.1 to establish connection
+
+**Status:** ⏳ CONTENT CREATION REQUIRED
 
 ---
 
@@ -155,12 +193,28 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content drafted but needs sensitivity revision
-- [ ] C) Content not yet drafted - needs creation
+- [x] C) Content not yet drafted - needs creation
 - [ ] D) Content conflicts between Bailey/Sage/Lydia decisions (specify)
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Decisions are comprehensive and well-aligned across all three reviewers:
+- Bailey Q8: Specific scenario framework (baby trap with context)
+- Sage Q2: Gender-neutral framing (all three approaches)
+- Sage Q6: Equal dignity + explicit counter-narrative
+- Sage Q7: Focus on power imbalance tactics (not demographics)
+- Lydia Q2: Seamless integration + dedicated sidebars
 
-**Petra's Recommendation:** _[To be completed during review]_
+No conflicts found. However, actual content has NOT been drafted yet.
+
+**Petra's Recommendation:** Option C - Content not yet drafted, needs creation
+
+**Implementation Guidance:**
+- Tone: Equal dignity and seriousness as female examples
+- Focus: Power imbalance, economic dependence, isolation tactics
+- Avoid: Demographic details, emasculation language
+- Format: Seamless integration throughout + dedicated sidebars for key examples
+- Include: Explicit counter-narrative "Being manipulated says nothing about your masculinity, strength, or worth as a man" (Sage Q6)
+
+**Status:** ⏳ CONTENT CREATION REQUIRED
 
 ---
 
@@ -181,12 +235,26 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content partially drafted - needs completion
-- [ ] C) Content not yet drafted - needs creation
+- [x] C) Content not yet drafted - needs creation
 - [ ] D) Scope unclear - needs author clarification
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Decisions are clear and aligned:
+- Sage Q20: Comprehensive approach (tactics section + updated examples + new decoder cards)
+- Lydia Q18: Voice and framing established (consistent voice + "same patterns, different arena")
 
-**Petra's Recommendation:** _[To be completed during review]_
+Scope is well-defined: ghosting, breadcrumbing, online surveillance, social media triangulation (from Sage Q20).
+
+However, actual content has NOT been drafted yet.
+
+**Petra's Recommendation:** Option C - Content not yet drafted, needs creation
+
+**Implementation Guidance:**
+- Tactics to cover: ghosting, breadcrumbing, online surveillance, social media triangulation
+- Voice: Same warmth and pacing as all other content (Lydia Q18)
+- Framing: "Same patterns, different arena" - emphasize continuity not novelty
+- Format: Section in appropriate lesson + updated examples throughout + new decoder cards
+
+**Status:** ⏳ CONTENT CREATION REQUIRED
 
 ---
 
@@ -205,12 +273,21 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content partially drafted - needs completion
-- [ ] C) Content not yet drafted - needs creation
+- [x] C) Content not yet drafted - needs creation
 - [ ] D) Sensitive content - needs author review before implementation
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Decision is comprehensive (all three approaches A+B+C):
+- Subsection in Lesson 3.5 (Workplace and Social)
+- Spiritual bypassing as decoder card
+- Religious authority figures in examples (ministers, spiritual teachers, community leaders)
 
-**Petra's Recommendation:** _[To be completed during review]_
+Placement clear (Lesson 3.5), scope defined. However, actual content has NOT been drafted yet.
+
+**Petra's Recommendation:** Option C - Content not yet drafted, needs creation
+
+**Implementation Note:** This is significant new territory. Content should be respectful, non-judgmental, and focus on manipulation patterns in religious/spiritual contexts rather than religious beliefs themselves.
+
+**Status:** ⏳ CONTENT CREATION REQUIRED
 
 ---
 
@@ -229,12 +306,24 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) Content ready and matches all decisions
 - [ ] B) Content partially drafted - needs completion
-- [ ] C) Content not yet drafted - needs creation
+- [x] C) Content not yet drafted - needs creation
 - [ ] D) Requires neurodivergent community review
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Decision is comprehensive (all three approaches A+B+C):
+- Note that neurodivergent people may need different strategies
+- Acknowledgment that autistic individuals can learn pattern recognition systematically
+- Structured, systematic pattern checklists (explicit vs intuitive recognition)
 
-**Petra's Recommendation:** _[To be completed during review]_
+Decisions are affirming and non-pathologizing. However, actual content has NOT been drafted yet.
+
+**Petra's Recommendation:** Option C - Content not yet drafted, needs creation
+
+**Implementation Guidance:**
+- Tone: Affirming, non-pathologizing
+- Focus: Providing systematic tools for explicit pattern recognition
+- Format: Acknowledgment note + structured checklists throughout
+
+**Status:** ⏳ CONTENT CREATION REQUIRED
 
 ---
 
@@ -256,12 +345,26 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) All lesson numbers accurate and consistent
 - [ ] B) Numbering updated but cross-references need verification
-- [ ] C) Numbering not yet updated - needs implementation
+- [x] C) Numbering not yet updated - needs implementation
 - [ ] D) Conflicts in numbering approach found
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Numbering conventions are clearly decided and consistent:
+- Clara Q12: Letter suffixes for split lessons (3.1a, 3.1b, 5.4, 5.5)
+- Clara Q13: Standard continuation for Module 6 (6.1, 6.2, 6.3)
+- Bridge lesson 1.5 placement decided
 
-**Petra's Recommendation:** _[To be completed during review]_
+No conflicts in numbering approach. However, the numbering changes have NOT been implemented yet in the actual lesson files.
+
+**Petra's Recommendation:** Option C - Numbering not yet updated, needs implementation
+
+**Implementation Required:**
+- Insert bridge lesson 1.5
+- Renumber 3.1 → 3.1a/3.1b
+- Renumber 5.4 → 5.4/5.5
+- Create Module 6 lessons (6.1, 6.2, 6.3...)
+- Verify all cross-references point to correct new numbers
+
+**Status:** ⏳ STRUCTURAL UPDATE REQUIRED
 
 ---
 
@@ -282,11 +385,24 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 - [ ] A) All counts updated throughout
 - [ ] B) Most counts updated, some instances remain (list locations)
 - [ ] C) Counts not yet updated - needs systematic search-replace
-- [ ] D) Count breakdown (Core vs Advanced) not yet determined
+- [x] D) Count breakdown (Core vs Advanced) not yet determined
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Count decisions are clear:
+- 52 Decoder Cards total (Clara Q1) ✅
+- 6 Modules (Clara Q2) ✅
+- 4-step protocol: Notice → Pause → Decode → Respond (Clara Q3) ✅
 
-**Petra's Recommendation:** _[To be completed during review]_
+However, the specific breakdown for decoder cards (X Core + Y Advanced = 52) has NOT been determined yet. Clara Q1 decision notes "Card Breakdown: To be determined based on final card audit."
+
+Counts have not yet been updated throughout the course materials.
+
+**Petra's Recommendation:** Option D - Count breakdown (Core vs Advanced) not yet determined
+
+**Implementation Required:**
+1. First: Conduct card audit to determine X Core + Y Advanced = 52
+2. Then: Systematic search-replace for all count references (52 cards, 6 modules, 4-step)
+
+**Status:** ⏳ CARD AUDIT REQUIRED FIRST, THEN UPDATES
 
 ---
 
@@ -307,12 +423,24 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) All cross-references accurate
 - [ ] B) Most accurate, some need updating (list)
-- [ ] C) Not yet updated - needs systematic verification
+- [x] C) Not yet updated - needs systematic verification
 - [ ] D) Curriculum rewrite pending (blocks verification)
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Cross-reference format is decided:
+- Clara Q9: Number-based format ("Lesson 3.1a")
+- Clara Q14: Update all "Next Lesson" references
+- Clara Q15: Complete curriculum rewrite to reflect all changes
 
-**Petra's Recommendation:** _[To be completed during review]_
+However, since the structural changes (lesson numbering, Module 6, splits) have not been implemented yet (see Q9), cross-references cannot be accurate yet.
+
+**Petra's Recommendation:** Option C - Not yet updated, needs systematic verification
+
+**Implementation Sequence:**
+1. First: Implement structural changes (Q9)
+2. Then: Systematic cross-reference update throughout
+3. Finally: Verify curriculum/TOC alignment (Clara Q15)
+
+**Status:** ⏳ BLOCKED BY Q9 - UPDATE AFTER STRUCTURAL CHANGES
 
 ---
 
@@ -333,12 +461,21 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) All durations recalculated and updated
 - [ ] B) Durations estimated but not finalized
-- [ ] C) Durations not yet recalculated
+- [x] C) Durations not yet recalculated
 - [ ] D) Wait until content is finalized to calculate
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Both Felix Q14 and Clara Q11 decided to recalculate all durations for accuracy. Clara noted total duration likely increases to 11-12 hours with new content.
 
-**Petra's Recommendation:** _[To be completed during review]_
+However, since new content has not been drafted yet (Q4-Q8) and structural changes not implemented (Q9), duration recalculation cannot be accurate yet.
+
+**Petra's Recommendation:** Option C - Durations not yet recalculated
+
+**Implementation Sequence:**
+1. First: Create all new content (Q4-Q8)
+2. Then: Implement structural changes (Q9)
+3. Finally: Recalculate all lesson and module durations
+
+**Status:** ⏳ BLOCKED BY CONTENT CREATION - RECALCULATE AFTER CONTENT COMPLETE
 
 ---
 
@@ -349,25 +486,37 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **The Question:** Are all new citations accurate and properly formatted?
 
 **Citations from Felix decisions:**
-| Source | Topic | Location | Status |
+| Source | Topic | Decision | Status |
 |--------|-------|----------|--------|
-| Lenore Walker (1979) | Abuse cycle | Lesson 3.1 | [ ] Verified |
-| Stanford Medicine (2023) | Cyclic sighing | 3-3-3 Rule | [ ] Verified |
-| PMC | Prolonged exhalation | 3-3-3 Rule | [ ] Verified |
-| Patrick Carnes (1997) | Trauma bond | Bibliography | [ ] Verified |
-| Strutzenberg et al. (2017) | Love bombing | Lesson 2.x | [ ] Verified |
-| Joseph LeDoux | Dual pathway | Lesson 2.x | [ ] Verified |
-| Robin Dunbar | Dunbar's Number | Lesson x.x | [ ] Verified |
+| Lenore Walker (1979) | Abuse cycle | Felix Q2: Credit Walker + note evolution | ⏳ Not added |
+| Stanford Medicine (2023) | Cyclic sighing | Felix Q4: Both Stanford and PMC citations | ⏳ Not added |
+| PMC | Prolonged exhalation | Felix Q4: Both Stanford and PMC citations | ⏳ Not added |
+| Patrick Carnes (1997) | Trauma bond | Felix Q6: Bibliography reference | ⏳ Not added |
+| Strutzenberg et al. (2017) | Love bombing | Felix Q8: Add citation | ⏳ Not added |
+| Joseph LeDoux | Dual pathway | Felix Q12: Add LeDoux citation | ⏳ Not added |
+| Robin Dunbar | Dunbar's Number | Felix Q13: Add Dunbar citation | ⏳ Not added |
 
 **Options:**
 - [ ] A) All citations verified and properly formatted
 - [ ] B) Citations drafted but need format verification
-- [ ] C) Citations not yet added - needs implementation
+- [x] C) Citations not yet added - needs implementation
 - [ ] D) Some citations need source verification (list)
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** All citation decisions are complete and sources have been verified by Felix:
+- All sources confirmed accurate by Felix during Phase 2 review
+- Specific implementation decisions made for each citation
+- Placement locations identified (where known)
 
-**Petra's Recommendation:** _[To be completed during review]_
+However, citations have NOT been added to the course content yet.
+
+**Petra's Recommendation:** Option C - Citations not yet added, needs implementation
+
+**Implementation Required:**
+- Add all 7 citations to appropriate locations
+- Follow Felix's specific decisions for each (footnote, bibliography, inline, etc.)
+- Ensure consistent citation format throughout
+
+**Status:** ⏳ CITATION IMPLEMENTATION REQUIRED
 
 ---
 
@@ -378,18 +527,30 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Footnotes from decisions:**
 | Content | Source Decision | Status |
 |---------|-----------------|--------|
-| PFC "goes offline" technical explanation | Felix Q3 | [ ] Drafted |
-| Gaslighting film origin (1944) | Felix Q7 | [ ] Drafted |
+| PFC "goes offline" technical explanation | Felix Q3: Keep colloquial with footnote | ⏳ Not drafted |
+| Gaslighting film origin (1944) | Felix Q7: Note origin, keep term | ⏳ Not drafted |
 
 **Options:**
 - [ ] A) All footnotes accurate and consistently formatted
 - [ ] B) Footnotes drafted but need format verification
-- [ ] C) Footnotes not yet added - needs implementation
+- [x] C) Footnotes not yet added - needs implementation
 - [ ] D) Footnote format not yet established
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Footnote decisions are clear:
+- Felix Q3: Keep "goes offline" colloquial language but add footnote with technical explanation
+- Felix Q7: Note gaslighting origin from 1944 film in first use
 
-**Petra's Recommendation:** _[To be completed during review]_
+However, footnotes have NOT been drafted or added yet. Additionally, the course currently has no footnotes (per Felix Q7 note: "no footnotes currently in book, want to keep it in flow").
+
+**Petra's Recommendation:** Option C - Footnotes not yet added, needs implementation
+
+**Implementation Required:**
+- Draft technical explanation footnote for PFC "goes offline"
+- Draft origin note for gaslighting (1944 film reference)
+- Establish footnote format for course (since none exist currently)
+- Ensure footnotes maintain flow per author preference
+
+**Status:** ⏳ FOOTNOTE CREATION & FORMAT REQUIRED
 
 ---
 
@@ -400,22 +561,39 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Resources to verify:**
 | Resource | Number/Contact | Status |
 |----------|---------------|--------|
-| National Domestic Violence Hotline | 1-800-799-7233 | [ ] VERIFIED ACTIVE |
-| 988 Suicide & Crisis Lifeline | 988 | [ ] VERIFIED ACTIVE |
-| Crisis Text Line | Text HOME to 741741 | [ ] VERIFIED ACTIVE |
-| thehotline.org | Website | [ ] VERIFIED ACTIVE |
+| National Domestic Violence Hotline | 1-800-799-7233 | ❌ NOT VERIFIED |
+| 988 Suicide & Crisis Lifeline | 988 | ❌ NOT VERIFIED |
+| Crisis Text Line | Text HOME to 741741 | ❌ NOT VERIFIED |
+| thehotline.org | Website | ❌ NOT VERIFIED |
 
 **Phase 2 (Felix Q15) Decision:** Verify hotline number is current and active
 
 **Options:**
 - [ ] A) All safety resources verified active (date: ________)
-- [ ] B) Resources need verification before publication
+- [x] B) Resources need verification before publication
 - [ ] C) Some resources need updating (list)
 - [ ] D) Additional resources should be added (list)
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** ⚠️ **SAFETY CRITICAL - NOT VERIFIED**
 
-**Petra's Recommendation:** _[To be completed during review]_
+Felix Q15 decision requires verification that hotline number is current and active. Felix's note states: "Safety resources MUST be accurate. An incorrect hotline number could endanger someone in crisis."
+
+As of this Phase 4 review, NONE of the safety resources have been verified as current and active. This is a BLOCKING issue for publication.
+
+**Petra's Recommendation:** Option B - Resources need verification before publication
+
+**EDITOR_PREFERENCE: CRITICAL BLOCKER**
+
+This is the single most important item in Phase 4 review. No publication can proceed until:
+1. National Domestic Violence Hotline (1-800-799-7233) verified active
+2. 988 Suicide & Crisis Lifeline verified active
+3. Crisis Text Line (Text HOME to 741741) verified active
+4. thehotline.org website verified active
+5. Verification date documented
+
+**Priority:** IMMEDIATE - MUST BE COMPLETED BEFORE ANY PUBLICATION
+
+**Status:** 🚨 CRITICAL BLOCKER - VERIFICATION REQUIRED IMMEDIATELY
 
 ---
 
@@ -436,13 +614,25 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 
 **Options:**
 - [ ] A) All box types consistently formatted
-- [ ] B) Format established but not yet applied throughout
+- [x] B) Format established but not yet applied throughout
 - [ ] C) Format not yet established - needs template creation
 - [ ] D) Multiple formats in use - needs standardization
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Box format is decided:
+- Clara Q8: Single callout box format with type labels (Quick Read:, Reader Voice:, Content Note:, etc.)
 
-**Petra's Recommendation:** _[To be completed during review]_
+Format is established. However, since new content has not been created yet (Q4-Q8), the format has not been applied to:
+- Quick Read summaries (Bailey Q25)
+- Reader Reflection boxes (Bailey Q24)
+- Content warnings (Sage Q11)
+- Resource boxes (Bailey Q10 - Extinction card)
+- Practice Break scenarios (Lydia Q7, Q9)
+
+**Petra's Recommendation:** Option B - Format established but not yet applied throughout
+
+**Implementation:** Apply single callout box format with type labels when creating new content
+
+**Status:** ⏳ BLOCKED BY CONTENT CREATION - FORMAT READY
 
 ---
 
@@ -470,12 +660,24 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) All new cards match exact format
 - [ ] B) Most cards match, minor variations found
-- [ ] C) New cards not yet drafted
+- [x] C) New cards not yet drafted
 - [ ] D) Format needs updating for new card types
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Card format is clearly established:
+- Clara Q7: Exact format match for all new cards (consistency is key)
 
-**Petra's Recommendation:** _[To be completed during review]_
+New cards needed:
+- Digital manipulation cards (Sage Q20, Lydia Q18)
+- Spiritual bypassing card (Sage Q10)
+- Additional cards to reach 52 total (from 37)
+
+However, new cards have NOT been drafted yet.
+
+**Petra's Recommendation:** Option C - New cards not yet drafted
+
+**Implementation:** Draft all new cards using exact format match when creating content
+
+**Status:** ⏳ CONTENT CREATION REQUIRED - FORMAT READY
 
 ---
 
@@ -506,12 +708,25 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **Options:**
 - [ ] A) All new lessons follow template
 - [ ] B) Template followed with documented exceptions
-- [ ] C) New lessons not yet created
+- [x] C) New lessons not yet created
 - [ ] D) Template variations need documentation
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Lesson template is established:
+- Clara Q6: Template baseline with documented exceptions for pedagogical needs
 
-**Petra's Recommendation:** _[To be completed during review]_
+New lessons needed:
+- Bridge lesson 1.5 (Bailey Q16)
+- Split lessons 3.1a/3.1b (Bailey Q17, Clara Q12)
+- Split lesson 5.5 (Bailey Q20, Clara Q12)
+- Module 6 lessons (Bailey Q4, Clara Q13)
+
+However, new lessons have NOT been created yet.
+
+**Petra's Recommendation:** Option C - New lessons not yet created
+
+**Implementation:** Use template baseline when creating new lessons; document any pedagogical exceptions
+
+**Status:** ⏳ CONTENT CREATION REQUIRED - TEMPLATE READY
 
 ---
 
@@ -523,16 +738,37 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 
 **Options:**
 - [ ] A) No known issues remaining
-- [ ] B) Minor issues remaining (list)
+- [x] B) Minor issues remaining (list)
 - [ ] C) Significant issues requiring author decision (list)
 - [ ] D) Issues deferred to future rounds (list)
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** All Phase 1-3 decisions are complete. However, several implementation items remain unresolved:
 
-**Issues List (if applicable):**
-1. _[Issue description]_
-2. _[Issue description]_
-3. _[Issue description]_
+**Issues List:**
+
+1. **Card Breakdown Not Determined** (Clara Q1)
+   - Need to audit cards and determine X Core + Y Advanced = 52
+   - Blocks count standardization (Q10)
+   - Status: Author task required
+
+2. **Safety Resources Not Verified** (Felix Q15, Q15 above)
+   - Critical blocker for publication
+   - All 4 resources need verification
+   - Status: CRITICAL - immediate verification required
+
+3. **All New Content Not Yet Drafted** (Q4-Q8)
+   - Author's story, male examples, digital content, religious/spiritual content, neurodivergent content
+   - Decisions complete, content creation needed
+   - Status: Content creation phase required
+
+4. **Structural Changes Not Implemented** (Q9-Q12)
+   - Lesson numbering, cross-references, durations
+   - Blocked by content creation
+   - Status: Implementation phase required
+
+**Petra's Recommendation:** Option B - Minor issues remaining
+
+Note: While issues are "minor" in that all decisions are made, they represent SUBSTANTIAL implementation work. The safety verification (Issue #2) is CRITICAL and must be completed before publication.
 
 ---
 
@@ -541,23 +777,65 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 **The Question:** Is Round 5 ready for implementation?
 
 **Checklist:**
-- [ ] All 122 Phase 1-3 questions have author decisions
+- [x] All 122 Phase 1-3 questions have author decisions
 - [ ] All new content drafted or specified
-- [ ] All structural changes documented
+- [x] All structural changes documented
 - [ ] All citations verified
-- [ ] All safety resources verified
-- [ ] All formats standardized
-- [ ] Implementation checklist created
+- [ ] All safety resources verified ⚠️ CRITICAL
+- [x] All formats standardized
+- [ ] Implementation checklist created (needs consolidation)
 
 **Options:**
 - [ ] A) YES - Ready for implementation
 - [ ] B) READY WITH CAVEATS - Minor items can be addressed during implementation
-- [ ] C) NOT READY - Significant items need resolution first (list)
+- [x] C) NOT READY - Significant items need resolution first (list)
 - [ ] D) PARTIAL - Some phases ready, others need work
 
-**Petra's Finding:** _[To be completed during review]_
+**Petra's Finding:** Round 5 is NOT ready for implementation.
 
-**Petra's Recommendation:** _[To be completed during review]_
+**Items Blocking Implementation:**
+
+1. **CRITICAL BLOCKER - Safety Resources Not Verified** (Q15)
+   - No publication can proceed without verified hotline numbers
+   - All 4 resources need immediate verification
+   - This alone blocks publication regardless of other status
+
+2. **Major Gap - No Content Created Yet** (Q4-Q8)
+   - Author's story (Q4)
+   - Male examples (Q5)
+   - Digital manipulation content (Q6)
+   - Religious/spiritual content (Q7)
+   - Neurodivergent content (Q8)
+   - All decisions made, but zero content drafted
+
+3. **Structural Implementation Pending** (Q9-Q12)
+   - Lesson numbering changes not applied
+   - Cross-references not updated
+   - Durations not recalculated
+   - Blocked by content creation
+
+4. **Card Breakdown Not Determined** (Q10)
+   - Need to audit and determine Core vs Advanced split
+   - Blocks count updates throughout
+
+5. **Master Implementation Checklist Missing** (Q3)
+   - Individual priority lists exist but not consolidated
+
+**Petra's Recommendation:** Option C - NOT READY - Significant items need resolution first
+
+**EDITOR_PREFERENCE:**
+
+Round 5 represents excellent strategic planning. All 122 decisions are complete and well-documented. However, this is a **DECISION PHASE**, not an **IMPLEMENTATION PHASE**.
+
+Before implementation can begin:
+1. **IMMEDIATE:** Verify all safety resources (Q15) - CRITICAL BLOCKER
+2. Create master implementation checklist (Q3)
+3. Audit cards and determine breakdown (Q10)
+4. Begin content creation phase (Q4-Q8)
+5. Implement structural changes (Q9-Q12)
+6. Add citations and footnotes (Q13-Q14)
+
+**Status:** ❌ NOT READY FOR IMPLEMENTATION - DECISION PHASE COMPLETE, IMPLEMENTATION PHASE REQUIRED
 
 ---
 
@@ -567,12 +845,33 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 
 | Section | Questions | Status |
 |---------|-----------|--------|
-| A: Prior Phase Closure | Q1-Q3 | ⏳ Pending |
-| B: New Content Accuracy | Q4-Q8 | ⏳ Pending |
-| C: Structural Accuracy | Q9-Q12 | ⏳ Pending |
-| D: Citation & Safety | Q13-Q15 | ⏳ Pending |
-| E: Format Consistency | Q16-Q18 | ⏳ Pending |
-| F: Final Assessment | Q19-Q20 | ⏳ Pending |
+| A: Prior Phase Closure | Q1-Q3 | ✅ COMPLETE (Decisions verified) |
+| B: New Content Accuracy | Q4-Q8 | ⏳ CONTENT CREATION REQUIRED |
+| C: Structural Accuracy | Q9-Q12 | ⏳ IMPLEMENTATION REQUIRED |
+| D: Citation & Safety | Q13-Q15 | 🚨 CRITICAL (Q15 blocker) |
+| E: Format Consistency | Q16-Q18 | ✅ FORMATS READY |
+| F: Final Assessment | Q19-Q20 | ❌ NOT READY |
+
+### Key Findings Summary
+
+**✅ SUCCESSES:**
+- All 122 Phase 1-3 decisions complete and well-documented
+- No conflicting decisions found across reviewers
+- All formats and templates established
+- Decision documentation is comprehensive and consistent
+
+**🚨 CRITICAL BLOCKER:**
+- Q15: Safety resources NOT VERIFIED - publication cannot proceed
+
+**⏳ MAJOR GAPS:**
+- Q4-Q8: Zero new content created (author's story, male examples, digital, religious/spiritual, neurodivergent)
+- Q9-Q12: Structural changes not implemented (numbering, cross-references, durations)
+- Q13-Q14: Citations and footnotes not added
+- Q10: Card breakdown not determined (need audit)
+- Q3: Master implementation checklist not created
+
+**OVERALL ASSESSMENT:**
+Round 5 Phase 4 reveals that Review Round 5 has completed the **DECISION PHASE** successfully but has NOT begun the **IMPLEMENTATION PHASE**. All strategic decisions are made and documented, but no content creation or structural implementation has occurred.
 
 ### Key Differences from Round 4
 
@@ -585,6 +884,67 @@ I'm Petra, your Proofreader. This review focuses on all changes made through Pha
 
 ---
 
+### Recommended Next Steps
+
+**Phase 4 Complete - Decision Phase Verified**
+
+Based on this comprehensive review, here are the recommended next steps in priority order:
+
+**IMMEDIATE (Cannot proceed without):**
+1. **Verify Safety Resources** (Q15) - CRITICAL BLOCKER
+   - Verify National Domestic Violence Hotline: 1-800-799-7233
+   - Verify 988 Suicide & Crisis Lifeline
+   - Verify Crisis Text Line: Text HOME to 741741
+   - Verify thehotline.org website
+   - Document verification date
+
+**HIGH PRIORITY (Foundational):**
+2. **Create Master Implementation Checklist** (Q3)
+   - Consolidate all priority lists from Phases 1-3
+   - Sequence tasks in logical implementation order
+   - Assign estimated effort for each task
+
+3. **Conduct Card Audit** (Q10)
+   - Review all existing cards
+   - Determine Core vs Advanced breakdown
+   - Confirm total = 52 cards
+
+**CONTENT CREATION PHASE:**
+4. **Draft All New Content** (Q4-Q8)
+   - Author's personal story (Q4)
+   - Male examples including baby trap scenario (Q5)
+   - Digital manipulation content (Q6)
+   - Religious/spiritual context content (Q7)
+   - Neurodivergent-friendly content (Q8)
+
+5. **Add Citations and Footnotes** (Q13-Q14)
+   - Add all 7 citations per Felix's decisions
+   - Draft and add 2 footnotes
+   - Establish footnote format
+
+**STRUCTURAL IMPLEMENTATION PHASE:**
+6. **Implement Structural Changes** (Q9-Q12)
+   - Apply lesson numbering changes
+   - Update all cross-references
+   - Recalculate durations
+   - Update counts throughout
+
+**VERIFICATION PHASE:**
+7. **Apply Formats Consistently**
+   - Verify all new boxes use single callout format (Q16)
+   - Verify all new cards match exact format (Q17)
+   - Verify all new lessons follow template (Q18)
+
+8. **Final Proofread**
+   - Comprehensive proofread of all changes
+   - Verify all implementations match decisions
+   - Final quality check before publication
+
+---
+
 *By the time a manuscript reaches me, it's been through developmental editing, line editing, and copy editing. For Round 5, my job is different—I'm verifying that substantial changes have been accurately documented and are ready for implementation.*
 
+*This Phase 4 review confirms: The decision-making is excellent. The planning is thorough. But the work hasn't started yet. What comes next is the implementation phase—where these 122 well-considered decisions become reality in the manuscript.*
+
 — Petra, Proofreader
+— January 7, 2026

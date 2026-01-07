@@ -26,7 +26,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 adds author's personal story to Lesson 1.1 - raised in household leading to choosing narcissist/dysregulated husband, breaking pattern through awareness.
 
 **Options:**
-- [ ] A) Brief, impactful first person: "I know this path. I walked it for decades before I could see it clearly."
+- [x] A) Brief, impactful first person: "I know this path. I walked it for decades before I could see it clearly."
 - [ ] B) Extended narrative with emotional detail: "The first time I realized what was happening..."
 - [ ] C) Interwoven reflection: First person story woven through second person teaching
 - [ ] D) Separate clearly marked section: "Author's Note:" or similar framing
@@ -34,8 +34,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Lydia's Preference:** A or C
 **Lydia's Reasoning:** The existing voice is direct, validating, and authoritative. Personal story needs to enhance this rather than undercut it. Too much vulnerability could shift the power dynamic.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Brief, impactful - maintains authority while establishing connection
 
 ---
 
@@ -44,16 +44,16 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 adds male-specific examples including "baby trap" scenario.
 
 **Options:**
-- [ ] A) Seamless integration using same narrative patterns as existing examples
+- [x] A) Seamless integration using same narrative patterns as existing examples
 - [ ] B) Explicit framing: "For men reading this..." sections
 - [ ] C) Alternating pronoun use in new examples without calling attention to it
-- [ ] D) Dedicated male perspective sidebars with distinct but consistent voice
+- [x] D) Dedicated male perspective sidebars with distinct but consistent voice
 
 **Lydia's Preference:** A with elements of D
 **Lydia's Reasoning:** The best representation feels invisible—readers see themselves without needing to be told they're being included. Heavy-handed framing can feel patronizing.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A + D
+**Reasoning:** Seamless integration as default, with dedicated sidebars for key male-specific examples
 
 ---
 
@@ -64,14 +64,14 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Options:**
 - [ ] A) Gradual shift: More peer-to-peer, less hand-holding, acknowledge reader growth
 - [ ] B) Consistent voice: Same supportive tone throughout
-- [ ] C) Celebratory shift: "You've come so far. Now let's go deeper."
+- [x] C) Celebratory shift: "You've come so far. Now let's go deeper."
 - [ ] D) Technical shift: Slightly more clinical/precise language for advanced patterns
 
 **Lydia's Preference:** C
 **Lydia's Reasoning:** By Module 6, readers have absorbed significant content. Treating them exactly the same as Module 1 readers could feel condescending. But trauma doesn't heal linearly—acknowledge growth without assuming safety.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** C
+**Reasoning:** Celebrate reader journey while going deeper into advanced patterns
 
 ---
 
@@ -83,13 +83,13 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 - [ ] A) Declarative simplicity: Just the statements, no elaboration, space between
 - [ ] B) Brief expansion: Each statement followed by one sentence of context
 - [ ] C) Guided meditation style: Slower, more spacious, with breath cues
-- [ ] D) Repeating pattern: Each statement followed by "Let that land."
+- [x] D) Repeating pattern: Each statement followed by "Let that land."
 
 **Lydia's Preference:** A or D
 **Lydia's Reasoning:** These are the most emotionally vulnerable moments. Overwriting kills them. The space around the words matters more than the words themselves.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** D
+**Reasoning:** Repeating pattern with "Let that land." creates rhythm and impact
 
 ---
 
@@ -101,13 +101,13 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 - [ ] A) Bulleted, scannable, slightly more clinical than main text
 - [ ] B) Conversational preview: "In this lesson, we'll explore..."
 - [ ] C) Key takeaways format: "What you'll learn:" followed by outcomes
-- [ ] D) Ultra-brief headlines: Just the core concepts, 3-5 words each
+- [x] D) Ultra-brief headlines: Just the core concepts, 3-5 words each
 
 **Lydia's Preference:** A or D
 **Lydia's Reasoning:** Summaries serve readers in crisis who need quick access. Clarity and scanability trump warmth here.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** D
+**Reasoning:** Ultra-brief headlines for maximum scanability
 
 ---
 
@@ -119,13 +119,13 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 - [ ] A) Direct quotes in italics: *"After learning the decoder protocol, I could finally..."*
 - [ ] B) Paraphrased integration: "Readers often report feeling..."
 - [ ] C) Named archetypes: "Sarah, 34, recognized this pattern in her workplace..."
-- [ ] D) Minimal attribution: Brief quotes without extensive framing
+- [x] D) Minimal attribution: Brief quotes without extensive framing
 
 **Lydia's Preference:** A or D
 **Lydia's Reasoning:** Reader voices should feel authentic without overwhelming the narrator's authority. Too much framing makes testimonials feel like marketing.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** D
+**Reasoning:** Minimal attribution keeps focus on the content, not the framing
 
 ---
 
@@ -136,7 +136,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 adds "real-world scenario" breaks between tactics to vary format.
 
 **Options:**
-- [ ] A) Sharp transition: Clearly marked "IN PRACTICE:" section with different energy
+- [x] A) Sharp transition: Clearly marked "IN PRACTICE:" section with different energy
 - [ ] B) Gradual transition: Scenario emerges naturally from tactic description
 - [ ] C) Interspersed micro-stories: Brief scenarios woven throughout rather than distinct breaks
 - [ ] D) Interactive pause: "Imagine this scenario..." inviting reader reflection
@@ -144,8 +144,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Lydia's Preference:** A with moderation
 **Lydia's Reasoning:** The purpose is to prevent glazing-over during tactic after tactic. Sharp transitions might be most effective at resetting attention. Not after every tactic, but at strategic intervals.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Sharp "IN PRACTICE:" transitions at strategic intervals to reset attention
 
 ---
 
@@ -155,15 +155,15 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 
 **Options:**
 - [ ] A) Cliffhanger model: 3.1a ends with forward-looking question that 3.1b answers
-- [ ] B) Complete arcs: Each lesson stands alone with its own introduction/conclusion
+- [x] B) Complete arcs: Each lesson stands alone with its own introduction/conclusion
 - [ ] C) Bridge transition: 3.1a ends with preview paragraph setting up 3.1b
-- [ ] D) Integrated summary: 3.1b opens with brief recap connecting to 3.1a
+- [x] D) Integrated summary: 3.1b opens with brief recap connecting to 3.1a
 
 **Lydia's Preference:** B with elements of D
 **Lydia's Reasoning:** Split lessons risk feeling incomplete. Each needs a reason to exist on its own AND a reason to continue to the next.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B + D
+**Reasoning:** Complete standalone arcs with connecting recap in 3.1b
 
 ---
 
@@ -174,14 +174,14 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Options:**
 - [ ] A) Distinct sections: "PRACTICE BREAK" clearly marked, different visual treatment
 - [ ] B) Flowing integration: Scenarios feel like natural extensions of the cards
-- [ ] C) Interactive checkpoints: "Can you identify which card applies here?"
+- [x] C) Interactive checkpoints: "Can you identify which card applies here?"
 - [ ] D) Celebration moments: "You've learned 6 patterns. Let's see them in action."
 
 **Lydia's Preference:** C or D
 **Lydia's Reasoning:** Card lessons currently feel like studying. Practice scenarios should feel like doing. The shift in energy is desirable—but it shouldn't feel like the content stops.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** C
+**Reasoning:** Interactive checkpoints engage readers actively in pattern recognition
 
 ---
 
@@ -190,7 +190,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 combines "Identify" and "Remember" into single step: Notice → Pause → Decode → Respond.
 
 **Options:**
-- [ ] A) Clean replacement: 4-step throughout, no mention of previous structure
+- [x] A) Clean replacement: 4-step throughout, no mention of previous structure
 - [ ] B) Evolutionary explanation: "We've refined this to four steps for clarity..."
 - [ ] C) Footnote acknowledgment: Note that some materials may reference 5 steps
 - [ ] D) Emphasis on the change: "Notice we've combined Identify and Remember..."
@@ -198,8 +198,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Lydia's Preference:** A
 **Lydia's Reasoning:** The 4-step version is cleaner. Drawing attention to the change creates cognitive load.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Clean replacement - no need to reference previous structure
 
 ---
 
@@ -209,15 +209,15 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 
 **Options:**
 - [ ] A) Brief expansion + immediate resource: Don't linger, provide help quickly
-- [ ] B) Spacious validation: Let the moment breathe, then provide resources
+- [x] B) Spacious validation: Let the moment breathe, then provide resources
 - [ ] C) Action-forward: Acknowledge briefly, focus on what to do now
 - [ ] D) Layered support: Multiple levels of response from immediate crisis to ongoing recovery
 
 **Lydia's Preference:** B or D
 **Lydia's Reasoning:** Readers experiencing discard are in acute trauma. The rhythm needs to hold them while also showing the way through.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B
+**Reasoning:** Spacious validation - let the moment breathe before providing resources
 
 ---
 
@@ -227,15 +227,15 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 
 **Options:**
 - [ ] A) Building energy: 5.4 builds toward 5.5's celebration
-- [ ] B) Distinct energies: 5.4 is practical/grounded, 5.5 is celebratory/expansive
+- [x] B) Distinct energies: 5.4 is practical/grounded, 5.5 is celebratory/expansive
 - [ ] C) Integrated journey: 5.4 reflects on where you've been, 5.5 looks at where you're going
 - [ ] D) Emotional peak strategy: Place emotional high point deliberately in one or the other
 
 **Lydia's Preference:** B
 **Lydia's Reasoning:** Two lessons means two potential ending moments. The first ending (5.4) should feel complete but leave readers wanting the second (5.5).
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B
+**Reasoning:** Distinct energies - practical/grounded in 5.4, celebratory/expansive in 5.5
 
 ---
 
@@ -248,14 +248,14 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Options:**
 - [ ] A) Clinical/neutral: "This lesson addresses [topic]. Use grounding practices as needed."
 - [ ] B) Caring framing: "Before we go here together, I want you to know..."
-- [ ] C) Empowering: "This content may activate you. That's your nervous system doing its job."
+- [x] C) Empowering: "This content may activate you. That's your nervous system doing its job."
 - [ ] D) Brief acknowledgment: Just the topic flag without extensive framing
 
 **Lydia's Preference:** C or D
 **Lydia's Reasoning:** Warnings should prepare without alarming. The voice should feel like preparation, not prediction of harm.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** C
+**Reasoning:** Empowering framing normalizes activation as healthy nervous system response
 
 ---
 
@@ -267,13 +267,13 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 - [ ] A) Same words, different contexts: Let the surrounding content make it feel fresh
 - [ ] B) Varied phrasing: "This wasn't your fault" / "You didn't deserve this" / "The blame belongs elsewhere"
 - [ ] C) Context-specific: Tie each instance to the specific content of that lesson
-- [ ] D) Progressive depth: Each repetition adds a layer of meaning
+- [x] D) Progressive depth: Each repetition adds a layer of meaning
 
 **Lydia's Preference:** C or D
 **Lydia's Reasoning:** "This wasn't your fault" should feel like a friend reminding you of something you keep forgetting, not like a recorded message.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** D
+**Reasoning:** Progressive depth - each repetition builds on previous, adding new meaning
 
 ---
 
@@ -282,7 +282,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 strengthens hope language in darker lessons (Modules 2-3).
 
 **Options:**
-- [ ] A) Brief touchstones: One sentence of hope at the end of heavy sections
+- [x] A) Brief touchstones: One sentence of hope at the end of heavy sections
 - [ ] B) Integrated throughout: Weave hope into the teaching as you go
 - [ ] C) Explicit promise: "This darkness has an exit. Stay with me."
 - [ ] D) Forward reference: "In Module 5, we'll explore healing. For now, know it's possible."
@@ -290,8 +290,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Lydia's Preference:** A or C
 **Lydia's Reasoning:** Readers in Module 2 might not trust hope yet. Premature optimism can feel dismissive. The hope should feel true, not forced.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Brief touchstones of hope at the end of heavy sections - not forced, just present
 
 ---
 
@@ -300,7 +300,7 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 adds "This may feel weird—that's normal" acknowledgments to body-based practices.
 
 **Options:**
-- [ ] A) Once upfront: Normalize at the introduction of somatic work, then trust readers
+- [x] A) Once upfront: Normalize at the introduction of somatic work, then trust readers
 - [ ] B) Each practice: Brief acknowledgment with each new technique
 - [ ] C) Specific fears: Address specific concerns (feeling silly, not doing it right)
 - [ ] D) Minimal: Assume readers will engage; don't create resistance by addressing it
@@ -308,8 +308,8 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Lydia's Preference:** A or C
 **Lydia's Reasoning:** Over-normalizing can increase resistance. One good acknowledgment that readers can remember is probably enough.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Normalize once upfront, then trust readers to engage
 
 ---
 
@@ -321,13 +321,13 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 - [ ] A) Parenthetical: "(if you can safely do so)"
 - [ ] B) Separate section: "For Those in Dangerous Situations" boxed content
 - [ ] C) Integrated acknowledgment: "When possible... When not possible..."
-- [ ] D) Trust framing: "Trust your assessment of what's safe for your situation"
+- [x] D) Trust framing: "Trust your assessment of what's safe for your situation"
 
 **Lydia's Preference:** D
 **Lydia's Reasoning:** The caveat shouldn't undermine the advice. It should honor reader expertise about their own situation. The voice should feel like "I trust you."
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** D
+**Reasoning:** Trust framing honors reader expertise about their own safety
 
 ---
 
@@ -336,16 +336,16 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 **Context:** Phase 2 adds section on digital manipulation and decoder cards for digital patterns.
 
 **Options:**
-- [ ] A) Consistent voice: Same warmth and pacing as all other content
+- [x] A) Consistent voice: Same warmth and pacing as all other content
 - [ ] B) Updated feel: Slightly more contemporary language for digital contexts
 - [ ] C) Youth-aware: Acknowledge that younger readers may experience abuse primarily online
-- [ ] D) Same principles, new applications: Frame as "same patterns, different arena"
+- [x] D) Same principles, new applications: Frame as "same patterns, different arena"
 
 **Lydia's Preference:** A with D
 **Lydia's Reasoning:** Digital content shouldn't feel like a different author wrote it. The voice should feel current without trying too hard.
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A + D
+**Reasoning:** Consistent voice with "same patterns, different arena" framing
 
 ---
 
@@ -662,25 +662,25 @@ Phase 3 focuses on prose craft and style consistency for all new and changed con
 
 ## Summary Checklist
 
-### Lydia (Line Editor) - Voice & Rhythm
-- [ ] Q1 - Author's story voice
-- [ ] Q2 - Male example integration
-- [ ] Q3 - Module 6 voice maturity
-- [ ] Q4 - Validation section tone
-- [ ] Q5 - Quick Read voice
-- [ ] Q6 - Testimonial formatting
-- [ ] Q7 - Scenario break rhythm
-- [ ] Q8 - Split lesson arcs
-- [ ] Q9 - Practice scenario flow
-- [ ] Q10 - Protocol simplification
-- [ ] Q11 - Extinction card pacing
-- [ ] Q12 - Closure energy
-- [ ] Q13 - Content warning tone
-- [ ] Q14 - "Not your fault" variation
-- [ ] Q15 - Hope language placement
-- [ ] Q16 - Somatic normalization
-- [ ] Q17 - Agency caveat framing
-- [ ] Q18 - Digital content voice
+### Lydia (Line Editor) - Voice & Rhythm ✅ COMPLETE
+- [x] Q1 - Author's story voice → **A** (Brief, impactful)
+- [x] Q2 - Male example integration → **A + D** (Seamless + sidebars)
+- [x] Q3 - Module 6 voice maturity → **C** (Celebratory shift)
+- [x] Q4 - Validation section tone → **D** (Repeating pattern)
+- [x] Q5 - Quick Read voice → **D** (Ultra-brief headlines)
+- [x] Q6 - Testimonial formatting → **D** (Minimal attribution)
+- [x] Q7 - Scenario break rhythm → **A** (Sharp transitions)
+- [x] Q8 - Split lesson arcs → **B + D** (Complete arcs + recap)
+- [x] Q9 - Practice scenario flow → **C** (Interactive checkpoints)
+- [x] Q10 - Protocol simplification → **A** (Clean replacement)
+- [x] Q11 - Extinction card pacing → **B** (Spacious validation)
+- [x] Q12 - Closure energy → **B** (Distinct energies)
+- [x] Q13 - Content warning tone → **C** (Empowering)
+- [x] Q14 - "Not your fault" variation → **D** (Progressive depth)
+- [x] Q15 - Hope language placement → **A** (Brief touchstones)
+- [x] Q16 - Somatic normalization → **A** (Once upfront)
+- [x] Q17 - Agency caveat framing → **D** (Trust framing)
+- [x] Q18 - Digital content voice → **A + D** (Consistent + "same patterns")
 
 ### Clara (Copy Editor) - Consistency & Structure
 - [ ] Q1 - Card count standardization

@@ -99,12 +99,14 @@ This book does not diagnose anyone. It describes behavioral patterns that cause 
 
 <b>The Sovereignty Series:</b>
 
-This is Volume 1 of the 8-volume Sovereignty Series. The core healing journey (Volumes 1-4):
-• <i>The Bridge</i> (Volume 2) guides healing through secure attachment training
-• <i>Sovereignty</i> (Volume 3) teaches internal authority and self-trust
-• <i>Embodied Leadership</i> (Volume 4) shows how to live from your full presence
-
-The extended journey (Volumes 5-8) continues into parenting, service, thriving, and becoming.
+This is Volume 1 of the 8-volume Sovereignty Series:
+• <i>The Bridge</i> (Volume 2) — Healing through secure attachment
+• <i>Sovereignty</i> (Volume 3) — Internal authority and self-trust
+• <i>Embodied Leadership</i> (Volume 4) — Living from full presence
+• <i>The Lineage</i> (Volume 5) — Conscious parenting
+• <i>The Guide</i> (Volume 6) — Serving others
+• <i>The Return</i> (Volume 7) — Thriving beyond survival
+• <i>Quantum You</i> (Volume 8) — Becoming who you always were
 ```
 
 ---
@@ -457,13 +459,15 @@ The field around you is an extension of your nervous system state. When you regu
 
 <b>The Sovereignty Series:</b>
 
-This is Volume 4—the completion of the core healing journey in the 8-volume Sovereignty Series:
+This is Volume 4 of the 8-volume Sovereignty Series:
 • <i>The Narcissism Decoder</i> (Volume 1): Recognition
 • <i>The Bridge</i> (Volume 2): Liberation
 • <i>Sovereignty</i> (Volume 3): Empowerment
 • <i>Embodied Leadership</i> (Volume 4): Embodiment
-
-Volumes 5-8 continue the journey into parenting, service, thriving, and becoming—when you're ready.
+• <i>The Lineage</i> (Volume 5): Parenting
+• <i>The Guide</i> (Volume 6): Serving
+• <i>The Return</i> (Volume 7): Thriving
+• <i>Quantum You</i> (Volume 8): Becoming
 
 <i>My presence is erotic when it belongs to me.</i>
 ```

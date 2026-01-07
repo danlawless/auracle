@@ -1,8 +1,8 @@
-# Lesson 3.5: Workplace and Social Narcissism
+# Lesson 3.5: Workplace, Social, Digital, and Spiritual Contexts
 
 ## Video Script
 
-**Duration:** 20 minutes
+**Duration:** 30 minutes
 **Module:** 3 — The Systems
 **Type:** Context Application
 
@@ -16,9 +16,9 @@
 
 ### Script
 
-We've explored narcissism in family systems and romantic relationships. Now let's look at two other contexts where these patterns appear: the workplace and social relationships.
+We've explored narcissism in family systems and romantic relationships. Now let's look at four other contexts where these patterns appear: the workplace, social relationships, digital spaces, and spiritual communities.
 
-The tactics are the same. The contexts shape how they manifest.
+The tactics are the same. The contexts shape how they manifest. As we've said throughout this course: same patterns, different arena.
 
 **WORKPLACE NARCISSISM**
 
@@ -139,6 +139,69 @@ You may have friends you like individually who are difficult in the group contex
 **Trust slow.** Let people earn trust over time through consistent behavior.
 
 **Permit yourself to leave.** You don't owe anyone a friendship that drains you.
+
+**DIGITAL MANIPULATION**
+
+Same patterns, different arena.
+
+Everything we've learned about manipulation operates online too. The tactics aren't new—they're just adapted to digital environments where communication is constant and boundaries are harder to maintain.
+
+**Online relationship patterns**
+
+Digital spaces create unique vulnerabilities:
+- Constant availability creates pressure to respond immediately
+- Text lacks tone, enabling plausible deniability for hurtful messages
+- Social media provides tools for surveillance and triangulation
+- Online personas can differ dramatically from reality
+- The illusion of intimacy develops faster than trust should allow
+
+**Digital-specific tactics**
+
+**Breadcrumbing:** Sending just enough attention to keep you interested without real commitment. Occasional likes, sporadic messages, just enough to prevent you from moving on.
+
+**Ghosting as punishment:** Disappearing without explanation to punish, then returning as if nothing happened.
+
+**Social media surveillance:** Monitoring your activity, your friends, your likes. Knowing where you are without being told.
+
+**Digital triangulation:** Posting with others to provoke jealousy. Strategic likes and comments. Making sure you see their "amazing life" without you.
+
+**Screenshot threats:** Using recorded conversations as leverage. "I'll share this with everyone."
+
+**Love bombing via text:** Overwhelming messages, constant contact, creating a sense of intense connection before meeting in person.
+
+**Online smear campaigns:** Attacking your reputation in spaces where you can't defend yourself.
+
+**Digital protection strategies**
+
+**Delay responses.** You don't owe immediate replies. The 3-3-3 Rule works for texts too.
+
+**Trust slowly online.** Anyone can curate a persona. Look for consistency over time.
+
+**Protect your digital footprint.** Be intentional about what you share and who can see it.
+
+**Screenshot your own records.** Document concerning conversations.
+
+**Block without guilt.** You can remove access. It's not dramatic; it's boundaries.
+
+**Notice the feeling.** How do you feel after checking their social media? After reading their messages? Your body knows.
+
+**RELIGIOUS AND SPIRITUAL CONTEXTS**
+
+Narcissistic dynamics also appear in religious communities and spiritual relationships. These contexts add complexity because spiritual authority creates additional power imbalances.
+
+**Spiritual manipulation patterns**
+
+**Spiritual bypassing:** Using spiritual concepts to avoid accountability. "Everything happens for a reason." "You need to forgive and let go." "Your ego is the problem."
+
+**Divine authority claims:** "God told me..." "I received a message that you should..." Using claimed spiritual access to control others.
+
+**Conditional belonging:** Your place in the community depends on compliance. Questions are framed as lack of faith.
+
+**Confession as leverage:** Information shared in spiritual confidence used for control.
+
+**Shunning and exclusion:** Community rejection for boundary-setting or questioning.
+
+> **Note:** Healthy spirituality supports growth, questions, and individual discernment. If your spiritual community requires you to abandon critical thinking or punishes you for setting boundaries, the dynamic has become coercive.
 
 **The decoder in daily life**
 

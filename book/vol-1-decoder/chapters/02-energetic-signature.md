@@ -534,9 +534,7 @@ Your throat tightens. Words get stuck. You might clear your throat frequently or
 
 ### The Gut Churn
 
-Something in your stomach feels unsettled. Not quite nausea, but an unease. Your gut is processing information your conscious mind hasn't accepted yet.
-
-Sometimes this manifests as acid reflux—a burning sensation rising in your chest—or the feeling of your stomach crawling higher in your body. It's as if your digestive system is rejecting what it can't digest. And on an energetic level, that's exactly what's happening. The words, the tone, the implied meanings—your body is literally refusing to metabolize them.
+Something in your stomach feels unsettled. Not quite nausea, but an unease—sometimes manifesting as acid reflux or a churning sensation. Your gut is processing information your conscious mind hasn't accepted yet.
 
 ### The Eye Avoidance
 
@@ -678,6 +676,10 @@ Consider keeping a simple log after significant interactions:
 | | | | | | |
 
 Over time, patterns will become undeniable. You'll have documentation of how certain people consistently affect your body. This becomes evidence you can trust when your mind wants to minimize.
+
+> **Field Note:** *"I would often stub my toe and get headaches around her. I once even twisted my ankle."*
+
+Pay attention to the "accidents" that cluster around certain people. When your conscious mind won't acknowledge what's happening, your body finds other ways to speak. Headaches, clumsiness, minor injuries—these aren't random. Your attention is so consumed by managing the relationship that none remains for navigating the physical world. Or perhaps your body is trying to give you a reason to leave, an excuse your mind will accept. Either way, when you start hurting yourself around someone, your body is voting with its feet—even if that means tripping over them.
 
 ---
 

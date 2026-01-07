@@ -118,6 +118,8 @@ And it worked—you weren't attacked. But you also weren't seen. The neglect was
 
 > **Field Note:** I learned to make my own dinner by age seven. Not because anyone taught me—because no one noticed if I ate. My older brother got the attention for his sports. My younger sister got it for her tantrums. I got nothing because I needed nothing. Or that's what they thought. I taught myself not to need. I'd sit in my room reading for hours and no one checked on me. When I finally moved out at eighteen, my father said *"I didn't even realize you were gone."* He laughed like it was a joke. It wasn't. I'd practiced being invisible for so long I'd actually disappeared.
 
+> **Field Note:** I did my own laundry starting in elementary school. Years later, my parents remarked that I was *"always so good—we never had to worry about you."* Both things were true and neither canceled the other out. I was overlooked—no one checked if I needed help, no one noticed what I was handling alone. And I was praised—for being easy, for not making demands, for raising myself without complaint. The praise didn't undo the neglect. It just made it harder to name. How do you grieve being ignored when everyone keeps telling you how good you were?
+
 **Adult patterns:** Difficulty asserting needs, feeling invisible in groups and relationships, isolation, depression. May recreate the invisibility in adult life. Relationships where you're taken for granted. Struggle to believe you matter.
 
 **The liberation:** You exist. You matter. Your needs are valid. The invisibility was a survival strategy, not your identity. You're allowed to take up space now.

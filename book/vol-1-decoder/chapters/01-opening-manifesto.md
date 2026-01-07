@@ -352,7 +352,7 @@ This book contains 19 chapters organized into these key areas:
 
 **Part I: Recognition**
 - **The Energetic Signature** (Chapter 2): How to recognize control in your body before your mind catches up
-- **The Narcissist Playbook** (Chapters 3A & 3B): 38 specific tactics, named and decoded, with your power moves for each
+- **The Narcissist Playbook** (Chapter 3): 56 specific tactics, named and decoded, with your power moves for each
 
 **Part II: Understanding Origins**
 - **Trauma Bonds** (Chapter 4): The neuroscience of why you got hooked and why leaving is so hard

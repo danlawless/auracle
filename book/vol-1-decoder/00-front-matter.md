@@ -1,8 +1,6 @@
-# The Narcissism Decoder
+# You Were Never Crazy
 
-## Control Disguised as Care
-
-### A Guide to Recognizing, Understanding, and Breaking Free from Manipulation Patterns
+## The Narcissism Decoder: 52 Manipulation Patterns They Used Against You
 
 ---
 
@@ -43,7 +41,7 @@ Chapter 1: The Opening Manifesto — What This Book Is Really About ............
 
 Chapter 2: The Energetic Signature — How to Recognize Control Before Your Mind Catches Up .................... [pg. XX]
 
-Chapter 3: The Narcissist Playbook — 38 Tactics of Control, Named and Decoded .................... [pg. XX]
+Chapter 3: The Decoder Playbook — 56 Tactics of Control, Named and Decoded .................... [pg. XX]
 
 *Interlude: Pause and Integrate* .................... [pg. XX]
 
@@ -150,6 +148,24 @@ Maybe it was a relationship that left you questioning your own sanity. Maybe it 
 This book is your decoder ring.
 
 The tactics described in these pages aren't random acts of cruelty. They're patterns used by people who prioritize control over connection, dominance over intimacy, and their own needs over yours—every single time. Once you can name these patterns, they lose their power over you.
+
+---
+
+## Why I Wrote This Book
+
+I know this path. I walked it for decades before I could see it clearly.
+
+As a trauma-trained therapist, I spent years sitting across from people whose stories echoed my own—the confusion, the self-doubt, the desperate question: *Is it me?* I worked on locked psychiatric units, in family living rooms, in quiet offices where people finally said out loud what they'd never told anyone. I learned the clinical frameworks. I could name the patterns in my clients' lives with precision.
+
+But knowing the theory didn't protect me from living it.
+
+The same dynamics I recognized in session showed up in my own relationships—and I didn't see them. Not at first. Not for a long time. The person who teaches others about manipulation can still be manipulated. The therapist who helps clients trust their perception can still doubt her own.
+
+This book exists because I needed it before I could write it. Every chapter comes from both sides of the therapy room: the professional training that gave me language, and the lived experience that made me understand why that language matters.
+
+When you read these pages, you're not reading theory. You're reading what I wish someone had handed me when I was still asking, *Am I crazy?*
+
+You're not crazy. You never were.
 
 ---
 

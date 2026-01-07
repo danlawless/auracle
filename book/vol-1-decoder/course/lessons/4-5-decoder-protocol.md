@@ -16,7 +16,7 @@
 
 ### Script
 
-You have the 37 Decoder Cards. Now let's talk about how to use them in real-time.
+You have the 52 Decoder Cards. Now let's talk about how to use them in real-time.
 
 The Decoder Protocol is a step-by-step process for moving from confusion to clarity to response—in the moment, when you need it most.
 
@@ -30,7 +30,7 @@ This is why you recognize manipulation an hour later instead of in the moment. Y
 
 The Decoder Protocol is designed to work even when you're activated. It gives you a sequence that doesn't require complex thinking.
 
-**The Five Steps**
+**The Four Steps**
 
 **STEP 1: NOTICE**
 
@@ -59,9 +59,9 @@ The pause does two things: It interrupts the reaction pattern they're counting o
 
 If you can't think of what to do, the pause itself is doing something. You're not feeding the manipulation.
 
-**STEP 3: IDENTIFY**
+**STEP 3: DECODE**
 
-Now ask: Which card is this?
+Now ask: Which card is this? What does it mean?
 
 Scan through the categories:
 - Is this about my perception? (Gaslight, Shift, Deny)
@@ -70,28 +70,16 @@ Scan through the categories:
 - Is this punishment? (Threat, Wall, Scorecard)
 - Is this identity attack? (Comparison, Minimizer)
 
-You might not get it exactly right. That's okay. Any recognition is better than confusion.
+Name the pattern and recall what it means:
+- "This is the Flip—they're making themselves the victim to avoid accountability."
+- "This is the Goalpost—the target is moving so I can never succeed."
+- "This is the Guilt Hook—they're invoking debt I don't actually owe."
 
-Common identifications:
-- "This is the Flip—they're making themselves the victim."
-- "This is the Goalpost—the target is moving again."
-- "This is the Guilt Hook—they're invoking my debt."
+You might not get it exactly right. That's okay. Any recognition is better than confusion.
 
 Name it, even silently. Naming breaks the spell.
 
-**STEP 4: REMEMBER**
-
-What does the card say?
-
-Recall the translation: What does this tactic actually mean?
-Recall the function: What is this accomplishing for them?
-Recall the response: What are my options?
-
-If you've memorized your top patterns, this comes quickly. If not, even a partial memory helps.
-
-"Right, the Flip means they're avoiding accountability by reversing roles. My job is to stay on the original topic."
-
-**STEP 5: RESPOND**
+**STEP 4: RESPOND**
 
 Now you have options:
 
@@ -127,18 +115,15 @@ Your stomach drops. You feel the urge to defend yourself, to prove you're not un
 **Step 2: Pause.**
 One, two, three. Breath in. Breath out. Don't respond yet.
 
-**Step 3: Identify.**
-What card is this? Multiple patterns:
-- The Guilt Hook ("After everything I've done")
-- The Comparison ("My ex was right")
-- The Scorecard (Bringing up the past)
+**Step 3: Decode.**
+What card is this? What does it mean? Multiple patterns present:
+- The Guilt Hook ("After everything I've done")—weaponizing my conscience
+- The Comparison ("My ex was right")—making me compete with an invisible standard
+- The Scorecard (Bringing up the past)—using history as ammunition
 
-**Step 4: Remember.**
-The Guilt Hook means they're weaponizing my conscience.
-The Comparison means they're making me compete with an invisible standard.
 My job is to not defend, not compete, not accept the guilt frame.
 
-**Step 5: Respond.**
+**Step 4: Respond.**
 "I appreciate what you've done. That's separate from what we're discussing now."
 Or: "I'm not going to discuss your ex."
 Or: "I'll think about what you said. I need to step away."
@@ -147,7 +132,7 @@ You've moved from confusion to clarity to response—in real-time.
 
 **Building protocol speed**
 
-This takes practice. At first, the five steps might take minutes. Eventually, they happen in seconds.
+This takes practice. At first, the four steps might take minutes. Eventually, they happen in seconds.
 
 How to build speed:
 
@@ -174,9 +159,9 @@ You don't have to win in the moment. You just have to stay clear over time.
 **Module 4 Complete**
 
 You now have your decoder toolkit:
-- 19 Core Cards for daily patterns
-- 18 Advanced Cards for sophisticated tactics
-- The 5-step Decoder Protocol for real-time use
+- 28 Core Cards for daily patterns
+- 24 Advanced Cards for sophisticated tactics
+- The 4-step Decoder Protocol for real-time use
 
 In Module 5, we'll focus on response and recovery—rewiring your nervous system, practical scripts, and moving forward.
 
@@ -200,8 +185,7 @@ Choose 3 recent confusing interactions. For each, walk through the protocol:
 |------|---------------|---------------|---------------|
 | NOTICE: What did I feel? | | | |
 | PAUSE: Did I pause? Could I have? | | | |
-| IDENTIFY: Which card(s)? | | | |
-| REMEMBER: What's the translation? | | | |
+| DECODE: Which card(s)? What did they mean? | | | |
 | RESPOND: What could I have said? | | | |
 
 **Part 2: Scenario Preparation**
@@ -234,13 +218,10 @@ Choose a physical anchor to remind you of the protocol:
 │  2. PAUSE   — 3-3-3 Rule                   │
 │              3 seconds, 3 breaths, wait    │
 │                                            │
-│  3. IDENTIFY — Which card is this?         │
-│               Name the pattern             │
+│  3. DECODE  — Which card? What does it     │
+│               mean? Name and translate     │
 │                                            │
-│  4. REMEMBER — Translation, function       │
-│                What does the card say?     │
-│                                            │
-│  5. RESPOND — Card response OR neutral     │
+│  4. RESPOND — Card response OR neutral     │
 │               OR disengage                 │
 │                                            │
 └────────────────────────────────────────────┘

@@ -7,11 +7,11 @@
 ## Course Overview
 
 **Stage:** SEE
-**Duration:** ~10 hours
-**Lessons:** 24 video lessons across 5 modules
+**Duration:** ~12 hours
+**Lessons:** 28 video lessons across 6 modules
 **Core Insight:** *"This wasn't love—this was conditioning."*
 
-This course teaches you to recognize manipulation patterns in real-time. You will learn to decode 38 tactics of control, understand why your nervous system got hooked, and reclaim your perception. By the end, you will trust yourself again.
+This course teaches you to recognize manipulation patterns in real-time. You will learn to decode 56 tactics of control, understand why your nervous system got hooked, and reclaim your perception. By the end, you will trust yourself again.
 
 ---
 
@@ -42,7 +42,7 @@ By completing this course, you will:
 ## Course Modules
 
 ### Module 1: Recognition
-**Lessons:** 4 | **Duration:** ~2 hours
+**Lessons:** 5 | **Duration:** ~2.5 hours
 
 The foundation. Learn to recognize control in your body before your mind catches up. Understand the invisible architecture of manipulation.
 
@@ -52,13 +52,14 @@ The foundation. Learn to recognize control in your body before your mind catches
 | 1.2 | The Invisible Architecture of Control | 20 min | [View Script](./lessons/1-2-invisible-architecture.md) |
 | 1.3 | Your Body Already Knows | 25 min | [View Script](./lessons/1-3-body-knows.md) |
 | 1.4 | The 3-3-3 Rule: Your First Tool | 15 min | [View Script](./lessons/1-4-three-rule.md) |
+| 1.5 | The Bridge: Preparing for the Playbook | 20 min | [View Script](./lessons/1-5-bridge.md) |
 
 ---
 
 ### Module 2: The Playbook
 **Lessons:** 6 | **Duration:** ~2.5 hours
 
-The tactics. Decode 38 manipulation patterns organized by function. Name what was done to you.
+The tactics. Decode 56 manipulation patterns organized by function. Name what was done to you.
 
 | Lesson | Title | Duration | Script |
 |--------|-------|----------|--------|
@@ -72,13 +73,14 @@ The tactics. Decode 38 manipulation patterns organized by function. Name what wa
 ---
 
 ### Module 3: The Systems
-**Lessons:** 5 | **Duration:** ~2 hours
+**Lessons:** 6 | **Duration:** ~2.5 hours
 
 The contexts. See how manipulation operates across family systems, romantic relationships, friendships, and work environments.
 
 | Lesson | Title | Duration | Script |
 |--------|-------|----------|--------|
-| 3.1 | Trauma Bonds: The Biology of Attachment | 30 min | [View Script](./lessons/3-1-trauma-bonds.md) |
+| 3.1a | Trauma Bonds: The Biology of Attachment | 20 min | [View Script](./lessons/3-1a-biology-attachment.md) |
+| 3.1b | Trauma Bonds: The Trauma Bond Cycle | 20 min | [View Script](./lessons/3-1b-trauma-bond-cycle.md) |
 | 3.2 | Family Roles and Triangulation | 25 min | [View Script](./lessons/3-2-family-roles.md) |
 | 3.3 | When Your Parent Is the Narcissist | 25 min | [View Script](./lessons/3-3-parental-wounds.md) |
 | 3.4 | Romantic Manipulation Patterns | 25 min | [View Script](./lessons/3-4-romantic-manipulation.md) |
@@ -89,7 +91,7 @@ The contexts. See how manipulation operates across family systems, romantic rela
 ### Module 4: The Decoder Cards
 **Lessons:** 5 | **Duration:** ~2 hours
 
-The tools. Master 37 decoder cards for real-time pattern recognition. Learn the protocol for using them in the moment.
+The tools. Master 52 decoder cards for real-time pattern recognition. Learn the protocol for using them in the moment.
 
 | Lesson | Title | Duration | Script |
 |--------|-------|----------|--------|
@@ -102,7 +104,7 @@ The tools. Master 37 decoder cards for real-time pattern recognition. Learn the 
 ---
 
 ### Module 5: Response & Recovery
-**Lessons:** 4 | **Duration:** ~1.5 hours
+**Lessons:** 5 | **Duration:** ~2 hours
 
 The path forward. Rewire your nervous system. Learn what to say. Begin your recovery with grounded next steps.
 
@@ -111,7 +113,22 @@ The path forward. Rewire your nervous system. Learn what to say. Begin your reco
 | 5.1 | Energetic Remapping | 25 min | [View Script](./lessons/5-1-energetic-remapping.md) |
 | 5.2 | Practical Responses and Scripts | 25 min | [View Script](./lessons/5-2-practical-responses.md) |
 | 5.3 | The Exposure Questions | 20 min | [View Script](./lessons/5-3-exposure-questions.md) |
-| 5.4 | Moving Forward: Your Next Chapter | 20 min | [View Script](./lessons/5-4-moving-forward.md) |
+| 5.4 | Your Action Plan | 20 min | [View Script](./lessons/5-4-action-plan.md) |
+| 5.5 | Course Completion: Your Next Chapter | 15 min | [View Script](./lessons/5-5-course-completion.md) |
+
+---
+
+### Module 6: Advanced Recognition
+**Lessons:** 4 | **Duration:** ~1.5 hours
+
+You've come so far. Now let's go deeper. Master advanced patterns, complex dynamics, and the subtle tactics that require trained eyes to spot.
+
+| Lesson | Title | Duration | Script |
+|--------|-------|----------|--------|
+| 6.1 | Introduction to Advanced Recognition | 15 min | [View Script](./lessons/6-1-advanced-intro.md) |
+| 6.2 | Complex Pattern Combinations | 25 min | [View Script](./lessons/6-2-pattern-combinations.md) |
+| 6.3 | Digital and Modern Manipulation | 25 min | [View Script](./lessons/6-3-digital-manipulation.md) |
+| 6.4 | Mastery and Maintenance | 20 min | [View Script](./lessons/6-4-mastery.md) |
 
 ---
 
@@ -119,7 +136,7 @@ The path forward. Rewire your nervous system. Learn what to say. Begin your reco
 
 ### Included Downloads
 - Course Workbook (PDF)
-- 37 Decoder Cards (Printable)
+- 52 Decoder Cards (Printable)
 - The 3-3-3 Rule Quick Reference
 - Practical Response Scripts
 - The Exposure Questions Card

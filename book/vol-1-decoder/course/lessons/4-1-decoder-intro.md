@@ -24,7 +24,7 @@ Now we make it practical.
 
 The Decoder Cards are quick-reference tools for real-time recognition. When something feels off but you can't name it, you flip to the right card and immediately understand what's happening.
 
-This module gives you 37 cards across two sets—Core and Advanced—plus a protocol for using them effectively.
+This module gives you 52 cards across two sets—Core and Advanced—plus a protocol for using them effectively.
 
 **What are Decoder Cards?**
 
@@ -57,9 +57,9 @@ The cards also externalize knowledge. When you're activated—when your thinking
 
 We've organized the cards into two sets:
 
-**Core Cards (19 cards)** cover the most common patterns you'll encounter daily. These are the foundation. Master these first.
+**Core Cards (28 cards)** cover the most common patterns you'll encounter daily. These are the foundation. Master these first.
 
-**Advanced Cards (18 cards)** cover more sophisticated tactics and exit-related patterns. These are for when you're navigating departure or dealing with especially manipulative individuals.
+**Advanced Cards (24 cards)** cover more sophisticated tactics and exit-related patterns. These are for when you're navigating departure or dealing with especially manipulative individuals.
 
 Start with Core. Add Advanced when you're ready.
 
@@ -120,7 +120,7 @@ Over time, you won't need the physical cards. The patterns will be internalized.
 
 That's the decoder in action.
 
-**In the next three lessons,** we'll walk through all 37 cards—what they are, how they show up, and how to respond.
+**In the next three lessons,** we'll walk through all 52 cards—what they are, how they show up, and how to respond.
 
 Take your time with these. Review them multiple times. They're the practical toolkit you'll use for the rest of your life.
 
@@ -161,7 +161,7 @@ Before diving into the cards, reflect on your current recognition speed:
 - Each card includes: Name, Script, Translation, Function, Response
 - Naming disrupts manipulation by cutting through confusion
 - Three uses: real-time recognition, post-event processing, pattern prevention
-- Core Cards (19) for daily patterns; Advanced Cards (18) for sophisticated tactics
+- Core Cards (28) for daily patterns; Advanced Cards (24) for sophisticated tactics
 - Fluency develops through study, review, and practice
 
 ---

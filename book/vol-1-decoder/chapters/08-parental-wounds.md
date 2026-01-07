@@ -220,6 +220,55 @@ These are role-conditioning scripts, not truth.
 
 ---
 
+### Field Note: The Milestones
+
+She grows up reaching.
+
+Not dramatically—her mother isn't cruel, just... elsewhere. Distracted. Present in the room but not in the moment. There's always something pulling her attention: her own problems, her own life, her own needs that somehow always come first.
+
+The daughter learns to manage. She doesn't ask for much. She tells herself it's fine.
+
+But underneath, a quiet hope builds: *Someday. Someday she'll show up.*
+
+The wedding comes.
+
+This is it, she thinks. *This is when my mom will step up. This is when she'll be here for me.* She imagines her mother helping with the dress, fussing over details, being present in that way mothers are supposed to be present when their daughters marry.
+
+Her mother arrives in a gown that commands the room. Bigger than the bride's. Not garish—nothing you could point to and say *that's inappropriate*. Just... more. Enough to pull eyes. Enough to remind everyone that she, too, is worth looking at.
+
+The daughter notices. She says nothing. She walks down the aisle with the same quiet absence she's always known, just dressed in fancier clothes—though not, somehow, the fanciest clothes in the room.
+
+She tells herself: *The baby. When I become a mother, she'll finally mother me.*
+
+The baby comes.
+
+Her mother visits. She does not transform. She does not suddenly become the nurturing presence her daughter has been waiting for. She is busy—her partner, her schedule, her life that has never had room for her daughter's needs, not really. She holds the baby for photos. She does not stay for the hard parts.
+
+And standing in her kitchen at 3 a.m., holding her newborn, exhausted and alone, she finally understands:
+
+*She is not coming.*
+
+Not at the wedding. Not at the birth. Not at the crisis or the achievement or the milestone. There is no event big enough to unlock the mother she needed. There is no performance that earns that presence. The door she's been knocking on doesn't open because no one is home—or rather, someone is home, but she's busy looking in the mirror.
+
+The grief is staggering. And freeing.
+
+Because in that kitchen, in that dark, she makes a different choice. She looks at her child and thinks: *I will not wait anymore.*
+
+She learns to mother herself.
+
+Not perfectly. Not easily. But deliberately—filling the gaps her mother left, giving herself the tenderness that was never offered, becoming the safe presence she spent her whole life hoping would show up.
+
+Her body learned:
+*Hope is not a strategy. Milestone fantasies are just rehearsals for disappointment. The mother you needed was never going to arrive—she was too busy being the center of her own story. You had to become her yourself.*
+
+She was a daughter who kept believing the next big moment would change everything.
+
+It didn't.
+
+But she did.
+
+---
+
 ### Healing the Mother Wound
 
 The mother wound doesn't heal by getting the mother you needed. It heals by becoming that mother to yourself.

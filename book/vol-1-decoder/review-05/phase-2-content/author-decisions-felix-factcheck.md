@@ -51,13 +51,13 @@
 - [ ] A) Update all references to "37 tactics" and identify which tactic to remove
 - [ ] B) Update all Decoder Card references to "38 cards" (20 Core or 19 Advanced)
 - [ ] C) Explain that one tactic is covered as a variation within an existing card
-- [ ] D) Keep as-is and clarify in Lesson 4.1 why there are 38 tactics but 37 cards
+- [x] D) Keep as-is and clarify in Lesson 4.1 why there are 38 tactics but 37 cards
 
 **Felix's Preference:** C or D (explain the relationship)
 
-**Author Decision:** _____________
-**Reasoning:**
-**Response to Questions:**
+**Author Decision:** D
+**Reasoning:** Clarify the relationship in Lesson 4.1 rather than changing counts
+**Response to Questions:** Some tactics are combined where conceptually similar
 
 ---
 
@@ -71,12 +71,12 @@
 - [ ] A) Add citation to Lenore Walker's 1979 work *The Battered Woman* in Lesson 3.1
 - [ ] B) Add note that the reconciliation phase is sometimes combined with honeymoon
 - [ ] C) Keep as-is since the four-phase model is now widely accepted
-- [ ] D) Both A and B - credit Walker and note the evolution
+- [x] D) Both A and B - credit Walker and note the evolution
 
 **Felix's Preference:** D
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** D
+**Reasoning:** Credit Walker and note the evolution - comprehensive attribution
 
 ---
 
@@ -88,14 +88,14 @@
 
 **Options:**
 - [ ] A) Change to "prefrontal cortex function becomes impaired" for scientific accuracy
-- [ ] B) Keep colloquial "goes offline" but add footnote with technical explanation
+- [x] B) Keep colloquial "goes offline" but add footnote with technical explanation
 - [ ] C) First use technical language, then say "or what we might call 'going offline'"
 - [ ] D) Keep as-is - the colloquial phrasing serves the educational purpose
 
 **Felix's Preference:** B or C
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B
+**Reasoning:** Keep accessible language with technical footnote for accuracy
 
 ---
 
@@ -110,13 +110,13 @@
 **Options:**
 - [ ] A) Add footnote citing Stanford Medicine 2023 cyclic sighing research
 - [ ] B) Add reference to PMC study on prolonged expiratory breathing
-- [ ] C) Add both Stanford and PMC citations for comprehensive support
+- [x] C) Add both Stanford and PMC citations for comprehensive support
 - [ ] D) Keep as-is - common knowledge doesn't need citation
 
 **Felix's Preference:** C
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** C
+**Reasoning:** Comprehensive citations strengthen evidence-based credibility
 
 ---
 
@@ -127,7 +127,7 @@
 **Felix's Finding:** Variable ratio reinforcement produces highest response rates and greatest resistance to extinction (Partial Reinforcement Extinction Effect). However, "THE most powerful" is a strong absolute claim.
 
 **Options:**
-- [ ] A) Change to "one of the most powerful bonding mechanisms in psychology"
+- [x] A) Change to "one of the most powerful bonding mechanisms in psychology"
 - [ ] B) Specify "variable ratio reinforcement is the most resistant to extinction"
 - [ ] C) Keep as-is with footnote explaining this refers to resistance to extinction
 - [ ] D) Keep current phrasing - it's accurate enough for lay audience
@@ -138,8 +138,8 @@
 - Do you have specific research citations that specify it as "THE most powerful"?
 - Would you prefer to cite B.F. Skinner's original work on reinforcement schedules?
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Qualify to "one of the most powerful" - accurate without absolute claim
 
 ---
 
@@ -152,13 +152,13 @@
 **Options:**
 - [ ] A) Add attribution in first use: "trauma bonds (a term coined by Patrick Carnes, PhD in 1997)"
 - [ ] B) Add footnote crediting Carnes and his definition
-- [ ] C) Add reference to Carnes' work in course materials/bibliography
+- [x] C) Add reference to Carnes' work in course materials/bibliography
 - [ ] D) Keep as-is - the term is now common usage
 
 **Felix's Preference:** A or B
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** C
+**Reasoning:** Bibliography reference provides attribution without interrupting flow
 
 ---
 
@@ -171,13 +171,13 @@
 **Options:**
 - [ ] A) Add footnote: "While not a DSM-5 diagnostic term, 'gaslighting' is widely recognized by mental health professionals"
 - [ ] B) Use more clinical language: "reality denial and psychological manipulation"
-- [ ] C) Keep "gaslighting" but note its origin from the 1944 film in first use
-- [ ] D) Keep as-is - the term is universally understood
+- [x] C) Keep "gaslighting" but note its origin from the 1944 film in first use
+- [x] D) Keep as-is - the term is universally understood
 
 **Felix's Preference:** A or C
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** C + D
+**Reasoning:** Note origin for context, but term is universally understood - no clinical disclaimer needed
 
 ---
 
@@ -191,12 +191,12 @@
 - [ ] A) Add footnote noting it's a behavioral pattern, not a diagnosis
 - [ ] B) Note the term's origin with the Unification Church, later applied to narcissistic abuse
 - [ ] C) Keep as-is - mental health professionals widely use this term
-- [ ] D) Add citation to Strutzenberg et al. (2017) research on narcissistic love bombing
+- [x] D) Add citation to Strutzenberg et al. (2017) research on narcissistic love bombing
 
 **Felix's Preference:** D
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** D
+**Reasoning:** Research citation strengthens credibility
 
 ---
 
@@ -209,15 +209,15 @@
 **Felix's Note:** "This is one of your strongest, most evidence-based claims. Citing the research transforms it from assertion to scientific fact."
 
 **Options:**
-- [ ] A) Add citation to research on dopamine in trauma bonds
+- [x] A) Add citation to research on dopamine in trauma bonds
 - [ ] B) Add footnote explaining the neurochemical parallel to addiction
 - [ ] C) Reference specific studies on oxytocin and dopamine in abusive relationships
 - [ ] D) Keep as-is - the general concept is well-established
 
 **Felix's Preference:** C (both citation + footnote)
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Add dopamine research citation to support this strong claim
 
 ---
 
@@ -233,14 +233,14 @@
 
 **Options:**
 - [ ] A) Add note that NPD requires 5 of 9 specific criteria diagnosed by a professional
-- [ ] B) Clarify that the course addresses manipulation patterns, not clinical diagnosis
+- [x] B) Clarify that the course addresses manipulation patterns, not clinical diagnosis
 - [ ] C) Add footnote: "Narcissistic traits ≠ narcissistic personality disorder (NPD)"
 - [ ] D) Keep focus on behaviors, not diagnosis
 
 **Felix's Preference:** B + C
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B
+**Reasoning:** Clarify course focus is on patterns, not diagnosis - aligns with Sage Q15 decision
 
 ---
 
@@ -252,14 +252,14 @@
 
 **Options:**
 - [ ] A) Find and cite research on prevalence of narcissistic abuse
-- [ ] B) Soften to "countless people" or "many people"
+- [x] B) Soften to "countless people" or "many people"
 - [ ] C) Reference the 1-2% NPD prevalence and calculate affected relationships
 - [ ] D) Keep as-is - it's a reasonable estimate
 
 **Felix's Preference:** A or B
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** B
+**Reasoning:** Soften to "many people" - accurate without unverifiable claim
 
 ---
 
@@ -270,15 +270,15 @@
 **Felix's Finding:** ACCURATE. Limbic system and amygdala evolved over millions of years. Joseph LeDoux's dual-pathway research established fast "low road" (unconscious) vs. slow "high road" (conscious) threat detection.
 
 **Options:**
-- [ ] A) Keep as-is - accurate evolutionary timeline
+- [x] A) Keep as-is - accurate evolutionary timeline
 - [ ] B) Add specificity: "the limbic system evolved over millions of years"
-- [ ] C) Reference Joseph LeDoux's dual-pathway threat detection research
+- [x] C) Reference Joseph LeDoux's dual-pathway threat detection research
 - [ ] D) Simplify to avoid timeline specificity
 
 **Felix's Preference:** A or C (keep as-is or add LeDoux citation)
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A + C
+**Reasoning:** Keep accurate timeline and add LeDoux citation for scientific support
 
 ---
 
@@ -293,15 +293,15 @@
 - Is this about ancestral group size or cognitive relationship limits?
 
 **Options:**
-- [ ] A) Add citation to Dunbar's Number (cognitive limit of ~150 stable relationships)
+- [x] A) Add citation to Dunbar's Number (cognitive limit of ~150 stable relationships)
 - [ ] B) Clarify this is an anthropological estimate of ancestral group size
 - [ ] C) Keep as-is - widely accepted fact
 - [ ] D) Soften to "small groups" without specific numbers
 
 **Felix's Preference:** A or B
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Add Dunbar's Number citation to strengthen the reference
 
 ---
 
@@ -318,15 +318,15 @@
 - **TOTAL: 580 min = 9h 40min ≈ ~10h**
 
 **Options:**
-- [ ] A) Recalculate all lesson durations and update total
+- [x] A) Recalculate all lesson durations and update total
 - [ ] B) Keep "~10 hours" as approximate
 - [ ] C) Change to specific total: "9.5 hours" or "10 hours 15 minutes"
 - [ ] D) Verified - no changes needed
 
 **Felix's Preference:** B or D (approximation is accurate)
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Recalculate durations given structural changes from Phase 2 decisions (aligns with Clara Q11)
 
 ---
 
@@ -344,65 +344,68 @@
 - TTY option for deaf/hard of hearing
 
 **Options:**
-- [ ] A) Verify the number is still active and update if needed
+- [x] A) Verify the number is still active and update if needed
 - [ ] B) Add additional resources (text line, website)
 - [ ] C) Include both phone and text options for accessibility
 - [ ] D) Assume it's correct - well-established hotline
 
 **Felix's Preference:** A + C (verify + add accessibility options)
 
-**Author Decision:** _____________
-**Reasoning:**
+**Author Decision:** A
+**Reasoning:** Safety critical - verify hotline number is current and active
 
 ---
 
-## Summary Checklist
+## Summary Checklist ✅ ALL COMPLETE
 
 **Discrepancies to Resolve:**
-- [ ] Q1 - 38 vs 37 number discrepancy ⚠️
+- [x] Q1 - 38 vs 37 number discrepancy → **D** (Clarify in Lesson 4.1)
 
 **Safety Critical:**
-- [ ] Q15 - Hotline verification ⚠️
+- [x] Q15 - Hotline verification → **A** (Verify number is active)
 
 **Attribution to Add:**
-- [ ] Q2 - Lenore Walker (abuse cycle)
-- [ ] Q4 - Stanford/PMC breathing research
-- [ ] Q6 - Patrick Carnes (trauma bond)
-- [ ] Q9 - Dopamine/addiction research
+- [x] Q2 - Lenore Walker (abuse cycle) → **D** (Credit Walker + note evolution)
+- [x] Q4 - Stanford/PMC breathing research → **C** (Both citations)
+- [x] Q6 - Patrick Carnes (trauma bond) → **C** (Bibliography reference)
+- [x] Q9 - Dopamine/addiction research → **A** (Add citation)
 
 **Language to Qualify:**
-- [ ] Q3 - "Goes offline" phrasing
-- [ ] Q5 - "THE most powerful" claim
-- [ ] Q7 - Gaslighting clinical status
-- [ ] Q8 - Love bombing clinical status
+- [x] Q3 - "Goes offline" phrasing → **B** (Keep with footnote)
+- [x] Q5 - "THE most powerful" claim → **A** (Qualify to "one of")
+- [x] Q7 - Gaslighting clinical status → **C + D** (Note origin, keep term)
+- [x] Q8 - Love bombing clinical status → **D** (Add Strutzenberg citation)
 
 **Other Verification:**
-- [ ] Q10 - NPD diagnosis distinction
-- [ ] Q11 - "Millions" claim
-- [ ] Q12 - Evolution timeline
-- [ ] Q13 - Dunbar's Number
-- [ ] Q14 - Course duration
+- [x] Q10 - NPD diagnosis distinction → **B** (Clarify course focus)
+- [x] Q11 - "Millions" claim → **B** (Soften to "many people")
+- [x] Q12 - Evolution timeline → **A + C** (Keep + add LeDoux citation)
+- [x] Q13 - Dunbar's Number → **A** (Add citation)
+- [x] Q14 - Course duration → **A** (Recalculate all durations)
 
 ---
 
 ## Implementation Priority
 
 **Immediate (before any release):**
-1. Q15 - Verify hotline number
-2. Q1 - Resolve number discrepancy
+1. Q15 - Verify hotline number ✅
+2. Q1 - Clarify in Lesson 4.1 ✅
 
 **High Value (strengthens credibility):**
-3. Q4, Q6, Q9 - Add research citations
-4. Q2 - Credit Lenore Walker
+3. Q4 - Stanford/PMC citations ✅
+4. Q2 - Credit Lenore Walker ✅
+5. Q9 - Dopamine citation ✅
 
 **Medium Priority (precision):**
-5. Q3, Q5 - Qualify language
-6. Q7, Q8 - Note clinical status
+6. Q3, Q5 - Qualify language ✅
+7. Q7, Q8 - Note origins/add citations ✅
 
 **Lower Priority:**
-7. Q10-Q14 - Minor clarifications
+8. Q10-Q14 - Clarifications ✅
 
 ---
 
-*Template created: January 6, 2026*
-*Awaiting author decisions*
+**Status:** ✅ ALL 15 DECISIONS COMPLETE
+**Completed:** January 7, 2026
+
+*Phase 2 Review - Felix (Fact-Checker) - COMPLETE*

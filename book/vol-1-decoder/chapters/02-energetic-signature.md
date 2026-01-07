@@ -100,6 +100,8 @@ This tension often manifests as:
 
 The heart space knows the difference between being loved and being wanted.
 
+> **Field Note:** *"I didn't understand why I always crossed my arms around him until I noticed I never did it with anyone else. My body was building a wall I couldn't admit I needed."*
+
 ### Constant Alertness and Vigilance
 
 This is the "scanning" sensation, when part of your attention is always monitoring their mood, their tone, their face. You're watching for the shift. You're trying to predict what's coming.
@@ -115,6 +117,8 @@ Signs of hypervigilance include:
 - Relief when they leave the room, even temporarily
 
 This vigilance drains your life force. Energy that should go toward your own life is instead consumed by surveillance of theirs.
+
+> **Field Note:** *"I realized I knew the sound of her footsteps. I could tell by the rhythm whether it was going to be a good day or bad day before she even entered the room. I'd been unconsciously tracking her like prey tracks a predator."*
 
 ### Shame Arising for No Clear Reason
 
@@ -132,6 +136,8 @@ This deposited shame feels like:
 
 Important: This is not your shame. It's theirs, and they've made you the container for it.
 
+> **Field Note:** *"I'd feel fine all morning. Then he'd walk into the kitchen, say nothing wrong, and suddenly I felt like I was failing at everything—my job, my parenting, my existence. I finally understood: he was offloading his shame onto me like dropping a bag at my feet."*
+
 ### Scanning for Which Version Is Coming
 
 This is one of the most distinctive signatures: the sense that there are multiple versions of this person, and you never know which one you'll get. The charming one? The cold one? The angry one? The wounded one? The dismissive one? The adoring one?
@@ -147,6 +153,8 @@ You might notice:
 - Planning what to say based on which version you predict
 
 In healthy relationships, people are generally consistent. You know who you're going to get. The version that shows up on Monday is the same version that shows up on Friday.
+
+> **Field Note:** *"I used to describe it as 'reading the weather.' I'd check his face before I said good morning. If the temperature was wrong, I'd become a different person for the day—quieter, smaller, more careful. I had five versions of myself, one for each of his moods."*
 
 ### Feeling Smaller in the Room
 
@@ -169,6 +177,8 @@ Physical signs of contraction include:
 
 Your body is telling the truth about this relationship. Listen to it.
 
+> **Field Note:** *"My therapist asked me to describe myself before the relationship. I used words like 'bold,' 'opinionated,' 'takes up space.' Then she asked me to describe myself now. I couldn't finish the sentence. I'd become a whisper of who I was."*
+
 ### The Foggy Mind
 
 After interactions with controlling people, you may notice:
@@ -186,6 +196,8 @@ This mental fog is a nervous system response. When your system detects threat, i
 The headaches that accompany this fog are your body's physical protest. The mental energy required to track their shifting moods, decode their double messages, and suppress your authentic responses creates genuine neurological strain. Many people report these headaches appearing within hours of an interaction—sometimes during it. No amount of pain relief fully addresses them. The headache resolves only when your nervous system finally processes the encounter and returns to safety.
 
 The fog often lifts once you're away from them. That tells you something important.
+
+> **Field Note:** *"I'd leave conversations with my mother unable to remember what we talked about. I once sat in my car for twenty minutes trying to recall a single thing she'd said. It was like the interaction had been erased from my brain—but my body remembered. The headache stayed for hours."*
 
 ### The Exhaustion After
 
@@ -205,6 +217,8 @@ Many people describe needing to lie down immediately after interactions—whethe
 This pattern is especially common after dealing with controlling people in professional contexts, family gatherings, or friendships where you can't simply leave. The social requirement to stay engaged while your body screams for escape creates a unique kind of depletion.
 
 This exhaustion is a signal. It's your body telling you how much work this relationship requires.
+
+> **Field Note:** *"A fifteen-minute phone call with my sister would knock me out for three hours. I'd hang up and go straight to bed—not tired like I'd exercised, but tired like I'd been running for my life. My husband started noticing: 'You talked to your sister again, didn't you?' He could tell by how I collapsed."*
 
 ---
 
@@ -357,6 +371,8 @@ There's a fourth response pattern not always included in traditional nervous sys
 - Prioritizing their comfort over your well-being
 
 The fawn response is particularly common among people who grew up with controlling or emotionally volatile caregivers. It becomes the default way of navigating threatening relationships.
+
+> **Field Note:** *"I didn't know I was fawning until my friend pointed out that I'd agreed with both sides of an argument within the same conversation—just depending on who was in the room. I had no center. I became whoever they needed me to be to keep the peace."*
 
 ---
 
@@ -530,29 +546,43 @@ Beyond the general sensations, here are specific somatic markers that often indi
 
 Your chest feels like it's caving inward, protecting your heart. You might notice yourself crossing your arms, hunching forward, or placing something (a pillow, a bag) in front of your chest.
 
+> **Field Note:** *"In photos from that period, I'm always holding something—a drink, a purse, a pillow. Looking back, I was building a barricade between my heart and him without knowing why."*
+
 ### The Throat Lock
 
 Your throat tightens. Words get stuck. You might clear your throat frequently or feel like you're "swallowing" your truth. Speaking your real opinion feels physically difficult.
+
+> **Field Note:** *"I developed a chronic cough that year. Doctors found nothing. It disappeared two weeks after I left him. My body had been trying to clear what my words couldn't say."*
 
 ### The Gut Churn
 
 Something in your stomach feels unsettled. Not quite nausea, but an unease—sometimes manifesting as acid reflux or a churning sensation. Your gut is processing information your conscious mind hasn't accepted yet.
 
+> **Field Note:** *"I went through an entire bottle of antacids every week. The doctor wanted to put me on medication. The churning stopped three days after I went no-contact with my father. My gut had been keeping score of every lie."*
+
 ### The Eye Avoidance
 
 You find yourself breaking eye contact more than usual, looking down, or looking away. Your eyes are trying to escape a gaze that feels invasive or evaluating.
+
+> **Field Note:** *"I used to think I was just shy. Then I noticed I could hold eye contact easily with everyone except her. With her, I looked at the floor, the wall, my hands—anywhere but directly at her. My eyes knew what my heart was trying to hide from."*
 
 ### The Freeze Frame
 
 You feel locked, stuck, unable to move or respond. Time seems to slow down. You're frozen mid-thought, mid-sentence, mid-action.
 
+> **Field Note:** *"He asked me a simple question—'Did you call the bank?'—and I went completely blank. I knew the answer. I just couldn't access it. I stood there like a deer in headlights while he sighed at my incompetence. I wasn't stupid. I was frozen."*
+
 ### The Flight Impulse
 
 Part of you wants to leave, the room, the conversation, the relationship. You keep glancing at exits. Your body is ready to go even as you stay.
 
+> **Field Note:** *"I always sat closest to the door at family dinners. I told myself it was to help serve. But my body had mapped every exit before I'd even taken off my coat. It knew I might need to run before I knew why."*
+
 ### The Fawn Flood
 
 You find yourself agreeing, appeasing, smiling when you don't mean it, saying yes when you mean no. You're flooding with accommodation.
+
+> **Field Note:** *"My face hurt after visits with her. Physically hurt. I finally realized it was from smiling for hours when I didn't mean it. I'd been performing 'happy daughter' so hard my muscles were cramping."*
 
 ---
 

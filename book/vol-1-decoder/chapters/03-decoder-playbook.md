@@ -130,6 +130,18 @@ Once you see this meta-pattern, you'll recognize new wolves you've never encount
 
 ---
 
+### Once Upon a Time: The Princess and the Pea
+
+A prince searches for a "real" princess. Many come, but none are authentic enough. Then one arrives, drenched in rain, claiming to be royalty. To test her, the queen places a single pea under twenty mattresses. The princess sleeps terribly. Her discomfort proves her worth.
+
+We read this as a story about sensitivity as proof of breeding. But notice: someone *deliberately* placed an irritant under her bed. Someone *designed* her discomfort to see how she'd respond. Her rest was sabotaged to test whether she was good enough.
+
+This is interruption as dominance. You're trying to rest, to focus, to do something for yourself. And there's always a pea—a noise, a question, an emergency, a need. Not because you can't be comfortable, but because your comfort is being tested. Your peace is being measured. Your ability to ignore the irritant determines whether you're worthy of rest.
+
+**The Decoder:** The pea was placed there on purpose. Your discomfort is the test.
+
+---
+
 ## Card 1: Interruption as Dominance
 
 **The Pattern:** They interrupt your focused activities
@@ -154,6 +166,20 @@ You feel guilty for wanting solitude. You start to believe your needs for focus 
 
 ---
 
+### Once Upon a Time: Chicken Little
+
+An acorn falls on Chicken Little's head. She concludes the sky is falling. She runs to tell everyone. Panic spreads. The fox offers safety—and leads them all into his den.
+
+We read this as a story about overreaction, about false alarms, about being gullible. But read it as a story about someone who learned that panic gets attention. That crisis mobilizes others. That "the sky is falling" makes everyone stop what they're doing and focus on her.
+
+Some people live in Chicken Little mode. Every text is urgent. Every silence is abandonment. Every disagreement is the end. The sky is always falling—and you must drop everything to respond.
+
+The tragedy: eventually, something real might happen. But by then, the boy has cried wolf too many times. The sky has fallen too often. No one can tell the difference anymore.
+
+**The Decoder:** If every message feels like an emergency, that's not sensitivity—it's strategy.
+
+---
+
 ## Card 2: "We Need to Talk" Urgency
 
 **The Pattern:** Creating anxiety through ominous announcements
@@ -174,6 +200,18 @@ Anxiety spikes immediately. You drop everything. You start rehearsing what you m
 
 **Your Power Move:**
 "What specifically did you want to discuss?" Refuse to enter anxiety without information. If they can't or won't tell you, say: "Let me know when you're ready to have a specific conversation." Don't let vague statements control your emotional state.
+
+---
+
+### Once Upon a Time: The North Wind and the Sun
+
+The North Wind and the Sun argue about who is more powerful. They agree to a contest: whoever can make a traveler remove his cloak wins. The Wind blows with all his might—but the harder he blows, the tighter the traveler wraps his cloak. The Sun simply shines warmly, and the traveler removes his cloak willingly.
+
+We're taught this is about gentleness versus force. But read it differently: The Wind doesn't understand that force creates resistance. He thinks if he just blows *harder*, he'll get what he wants. When it doesn't work, he blows harder still. His strategy is volume—overwhelming force—and he can't imagine another way.
+
+This is volume as victory. When logic fails, they get louder. When you don't agree, they repeat themselves with more intensity. They believe if they just blow hard enough, you'll take off the cloak. They don't realize you're clutching it tighter with every gust.
+
+**The Decoder:** When someone gets louder instead of more reasonable, they've stopped trying to convince you—they're trying to overwhelm you.
 
 ---
 
@@ -201,6 +239,20 @@ Lower your voice instead of raising it. Or stop speaking entirely. "I'm pausing 
 **Grounding in the moment:** If volume has activated your nervous system, excuse yourself to the bathroom. Run cold water over your wrists. Take five slow breaths. Return only when you feel your feet on the ground.
 
 > *"They don't shout because they're angry—they shout to rewrite the room's frequency."*
+
+---
+
+### Once Upon a Time: Little Red Riding Hood
+
+A wolf doesn't attack Red in the forest. He asks where she's going. He takes a shortcut. He eats her grandmother. He puts on grandmother's clothes. He waits.
+
+When Red arrives, she notices something is wrong. "What big eyes you have." What big ears. What big teeth. She names what she sees—but she keeps moving closer. She's already in the room. The door is already closed.
+
+This is how physical intimidation works. The wolf doesn't need to attack to control. His size, his teeth, his proximity—these are the message. Red's body knows she's in danger. But she's been taught to be polite. To not make assumptions. To give the benefit of the doubt. So she names the threat and walks toward it anyway.
+
+The wolf doesn't have to bite until he's ready. The threat of his teeth is enough.
+
+**The Decoder:** If you're naming the danger but moving closer anyway, trust your first instinct. Leave the room.
 
 ---
 
@@ -238,6 +290,20 @@ This is not something you manage—this is something you get safe from.
 
 ---
 
+### Once Upon a Time: The Old Woman Who Lived in a Shoe
+
+There was an old woman who lived in a shoe. She had so many children, she didn't know what to do. She gave them some broth without any bread, and whipped them all soundly and sent them to bed.
+
+We recite this as a nursery rhyme, ignoring its darkness. But look at the scene: chaos. Too many demands. Not enough resources. Violence as the only available tool. And everyone goes to bed hungry.
+
+Some people live in the shoe. Their environment is constant crisis—mess, noise, drama, not enough, too much, everyone pulling in different directions. You can't think in the shoe. You can't find your keys, your peace, your center. You're always managing, always reacting, never resting.
+
+The chaos isn't accidental. It's the environment that makes control invisible. You can't see the pattern when everything is spinning. You're too busy putting out fires to notice who's lighting them.
+
+**The Decoder:** If their life is always in chaos, ask whether the chaos serves them. Disorder can be a very effective hiding place.
+
+---
+
 ## Card 5: Chaos as Camouflage
 
 **The Pattern:** Constant crisis and disorder
@@ -259,6 +325,18 @@ You become the one who manages, cleans, fixes, soothes. Your energy goes toward 
 Stop trying to organize their chaos. Create clear, protected space for yourself—even if it's just one room, one corner, one hour. Chaos is their problem, not yours to solve.
 
 > *"Their environment reflects the chaos they refuse to clean inside."*
+
+---
+
+### Once Upon a Time: The Ugly Duckling
+
+You know this story. A bird hatches among ducks and is told he's wrong—too big, too awkward, too different. He believes it. He spends his youth apologizing for existing, trying to shrink himself small enough to belong.
+
+The twist we miss: The duckling was never ugly. He was a swan among ducks, being judged by standards that were never meant for him. The "ugly" was deposited into him by others who couldn't tolerate difference.
+
+Here's what the fairy tale doesn't say: Sometimes the ducks know exactly what they're doing. Sometimes they need someone to carry the flock's shame so they don't have to look at their own. The "ugly" one becomes the container for everything the group refuses to own.
+
+**The Decoder:** When shame arises for no clear reason, ask: *Whose shame is this, really?*
 
 ---
 
@@ -289,6 +367,20 @@ You are not responsible for carrying their disowned emotions.
 
 ---
 
+### Once Upon a Time: The Tortoise and the Hare
+
+The hare is fast. Everyone knows it. So when a tortoise challenges him to a race, the hare laughs. He mocks the tortoise's slowness, his shell, his stubby legs. The tortoise says nothing.
+
+The race begins. The hare sprints ahead, then stops to nap—confident, dismissive. The tortoise keeps walking. The hare wakes to find he's lost.
+
+We tell this story as a lesson about persistence. But the hare's mockery is the hidden injury. He didn't just run fast—he made the tortoise feel ridiculous for even trying. His laughter was designed to make the tortoise quit before the race began. "Look at you. Do you really think you can compete with me?"
+
+This is mockery voice. They don't just disagree—they make you sound foolish for having an opinion. They repeat your words in a baby voice. They roll their eyes. They laugh at your sincerity. The goal isn't to win the argument. The goal is to make you stop speaking.
+
+**The Decoder:** When they mock instead of respond, they're not trying to understand you—they're trying to silence you.
+
+---
+
 ## Card 7: Mockery Voice
 
 **The Pattern:** Mimicking you in a mocking tone
@@ -310,6 +402,18 @@ You feel humiliated. You start pre-editing your words to avoid being mocked. You
 "When you repeat my words that way, it tells me you're not interested in understanding. Let me know when you're ready for an adult conversation."
 
 Then stop talking until they shift. Don't perform sincerity for someone committed to mocking it.
+
+---
+
+### Once Upon a Time: Jack and the Beanstalk
+
+Jack's family is poor. He trades their cow for magic beans. His mother throws them out. A beanstalk grows to the clouds. Jack climbs it and finds a giant—wealthy beyond measure, sitting on piles of gold, hoarding treasures he'll never use.
+
+The giant's refrain: "Fee-fi-fo-fum." He smells Jack's presence. He knows someone is taking what he believes is his. But notice: the giant stole most of it himself. The golden goose, the singing harp—these didn't belong to him. He took them and then guarded them with rage.
+
+This is financial superiority. Someone who hoards resources and uses them as leverage. "I provide for this family." "You wouldn't have any of this without me." The giant sits on his gold and asks why you're not more grateful. He forgets—or never cared—that the treasure wasn't his to begin with.
+
+**The Decoder:** The one who controls the gold often forgets where it came from. Money doesn't entitle anyone to mistreat you.
 
 ---
 
@@ -350,6 +454,20 @@ Remember: Financial contribution never entitles someone to mistreat you. Providi
 
 ---
 
+### Once Upon a Time: The Princess and the Pea (Reprise)
+
+Remember the princess? Twenty mattresses. One pea. A sleepless night. The queen watches her suffer and calls it proof of worth.
+
+But here's the deeper pattern: the test was trivial. The pea was meaningless. The queen didn't need to know if the princess could feel a legume through twenty mattresses—she needed to know if the princess would *comply with being tested*.
+
+This is what trivial demand tests are really about. "Get me a glass of water." "Pick up that thing I dropped." "Come here right now." The request isn't the point. The compliance is. They're checking: Will you jump when I say jump? Will you fetch when I demand? Will you pass the test I designed to have no correct answer?
+
+When you refuse the trivial demand, they explode. Not because the popsicle mattered. Because your refusal revealed that you have a will of your own.
+
+**The Decoder:** The smaller the demand, the louder the explosion—because what they're testing is your obedience, not your usefulness.
+
+---
+
 ## Card 9: Trivial Demand Tests
 
 **The Pattern:** Small requests that test compliance
@@ -369,6 +487,18 @@ You start complying with small requests immediately because you've learned that 
 Recognize trivial demands for what they are: power plays. Your refusal to fetch something on command isn't what caused their explosion—their need for control caused it.
 
 "I'm not responsible for your reaction to my boundaries."
+
+---
+
+### Once Upon a Time: The Boy Who Cried Wolf
+
+A boy shouts "Wolf!" when there is no wolf. The village runs. He laughs. He does it again. They run again. Eventually, a real wolf comes, and no one believes him.
+
+We're taught this is a story about lying—about losing credibility. But read it differently: What if the boy wasn't lying for fun? What if he'd learned that the only way to get the village's attention was to manufacture crisis?
+
+Some people live in "wolf" mode. Everything is urgent. Everything is an emergency. Everything requires you to drop what you're doing and run to them. The crisis is rarely real—but your exhaustion always is.
+
+**The Decoder:** If everything is urgent, nothing is. Real emergencies are rare. Manufactured ones are constant.
 
 ---
 
@@ -400,6 +530,20 @@ You feel cruel ignoring emergencies. You drop your plans because what if this ti
 
 ---
 
+### Once Upon a Time: Snow White
+
+"Mirror, mirror, on the wall, who's the fairest of them all?"
+
+The Evil Queen doesn't ask because she wants to know. She asks because she needs the mirror to confirm what she already believes—and when it doesn't, someone must be destroyed.
+
+This is the aesthetic seesaw in its purest form: your worth measured by someone else's reflection, your beauty existing only in relation to theirs. When the mirror says you're beautiful, she smiles. When it says someone else is more beautiful, you become a threat to be eliminated.
+
+The queen never asks, "Am I enough?" She only asks, "Am I *more*?" And that question—that endless comparison—poisons everything it touches.
+
+**The Decoder:** When your beauty becomes their insecurity, you've stopped being a person and become a mirror.
+
+---
+
 ## Card 11: The Aesthetic Seesaw
 
 **The Pattern:** Destabilizing your relationship with your appearance
@@ -428,6 +572,20 @@ Internal practice: Regularly affirm your own worth and aesthetic preferences wit
 
 ---
 
+### Once Upon a Time: Cinderella
+
+You know the story: the girl among ashes, chosen by the prince, lifted from nothing to everything. The glass slipper fits only her foot. She's special. She's the one.
+
+But notice the structure: Cinderella is made "special" in contrast to her stepsisters. The prince's attention isn't just about loving her—it's about *not choosing* them. Her value is defined by their rejection.
+
+This is how idealization works. "You're not like other women." "You're the only one who understands me." "Everyone else is terrible, but you're different." The compliment sounds like love. It's actually a warning: stay special, or join the rejected pile.
+
+And notice what happens when midnight strikes. The magic evaporates. The coach becomes a pumpkin. Special becomes ordinary. The idealization always has an expiration date.
+
+**The Decoder:** Anyone who builds you up by tearing others down will eventually tear you down too.
+
+---
+
 ## Card 12: Selective Idealization
 
 **The Pattern:** Making you "special" to separate you from others
@@ -448,6 +606,20 @@ You work to maintain your special status. You distance yourself from friends the
 Watch for the moment you get reclassified from "special" to "just like everyone else." That's the devaluation phase beginning.
 
 Remember: Anyone who needs to trash others to compliment you will eventually trash you to someone new.
+
+---
+
+### Once Upon a Time: Goldilocks
+
+Too hot. Too cold. Too hard. Too soft. Too big. Too small.
+
+We read this as a story about a picky girl finding what's "just right." But flip the lens: What if you were the porridge? What if no matter how you adjusted your temperature, you were never correct?
+
+This is life with moving goalposts. You try to be warmer—too much. You cool down—too distant. You give space—neglectful. You come closer—suffocating. There is no "just right" because the target was never meant to be hit.
+
+Goldilocks breaks things, eats what isn't hers, and sleeps in beds that don't belong to her. Then she runs away when caught. No accountability. No repair. Just endless assessment of everything around her—and nothing is ever good enough.
+
+**The Decoder:** When nothing you do is "just right," the problem isn't your temperature—it's their thermometer.
 
 ---
 
@@ -476,6 +648,20 @@ If they can't answer, you have your answer.
 
 ---
 
+### Once Upon a Time: The Twelve Dancing Princesses
+
+Every night, twelve princesses dance through their shoes. Every morning, their father demands to know where they've been. He offers a reward to anyone who can solve the mystery—and death to those who fail.
+
+One by one, suitors try to catch the princesses. One by one, they fail. The sisters drug each suitor's wine, dance all night, and watch them be executed at dawn. They've learned: outsiders are threats. Loyalty to each other—and secrecy from everyone else—is survival.
+
+This is comparison triangulation from the inside. Twelve sisters, all performing the same dance, all complicit in the same secret. Any one of them might tell the truth. None of them do. They've been trained to see each other as competitors and outsiders as enemies. The only safety is sameness.
+
+When someone constantly compares you to others—exes, friends, hypothetical alternatives—they're not measuring your worth. They're training you to dance. To stay in line. To fear what happens when the music stops.
+
+**The Decoder:** Comparison isn't evaluation. It's control.
+
+---
+
 ## Card 14: Comparison Triangulation
 
 **The Pattern:** Making you compete with phantoms
@@ -496,6 +682,20 @@ You feel like you're auditioning for a role, not inhabiting a partnership. You m
 
 **Your Power Move:**
 "I'm not in competition with anyone for this relationship. If you'd prefer to be with someone else, that's a choice you can make."
+
+---
+
+### Once Upon a Time: Pinocchio
+
+A puppet wants to be a real boy. The Blue Fairy tells him: Be good. Be brave. Be truthful. Then—and only then—you'll become real.
+
+We call this a story about virtue. But look closer: Pinocchio isn't loved as he is. He's loved for who he might become—if he performs correctly. His wooden body is a reminder: you're not real yet. You haven't earned it.
+
+This is conditional affection. Love isn't a given; it's a prize. Approval comes after the test is passed, the behavior is corrected, the compliance is demonstrated. You spend your life trying to become "real enough" for someone who keeps moving the definition.
+
+The cruelest part? Pinocchio's nose grows when he lies. But in relationships with conditional love, you learn to lie constantly—to yourself, about how much this costs you.
+
+**The Decoder:** Real love doesn't wait for you to become a "real boy." It loves the wooden parts too.
 
 ---
 
@@ -539,6 +739,20 @@ Notice when affection is conditional versus unconditional. Real love shows up ev
 
 ---
 
+### Once Upon a Time: The Emperor's New Clothes
+
+Two swindlers tell the emperor they'll weave him magical clothes—invisible to anyone stupid or unfit for their position. The emperor sees nothing but pretends he does. His ministers see nothing but praise the fabric. The whole kingdom watches him parade naked and applauds his finery.
+
+Only a child says what everyone can see: "He's not wearing anything at all."
+
+This is gaslighting at scale. The truth is visible. Everyone knows it. But the social cost of naming reality is too high, so everyone agrees to the lie. The emperor's nakedness isn't the problem—it's the collective agreement to unsee it.
+
+In relationships, you're the child. You see what's actually happening. And you're told—by the manipulator, sometimes by everyone around them—that you're the one who doesn't understand. You're stupid. You're unfit. You're imagining things.
+
+**The Decoder:** When everyone agrees you're wrong about what you clearly saw, trust the child's voice inside you.
+
+---
+
 ## Card 16: The Gaslight Loop
 
 **The Pattern:** Attacking your perception of reality
@@ -565,6 +779,20 @@ When someone pretends not to understand you, they're refusing to meet you—not 
 
 ---
 
+### Once Upon a Time: The Fox and the Grapes
+
+A fox sees grapes hanging high on a vine. He jumps. He can't reach them. He jumps again. Still too high. Finally, he walks away and mutters: "Those grapes are probably sour anyway."
+
+We call this "sour grapes"—dismissing what we can't have. But it's also projection: the fox can't admit his own limitation, so he puts the flaw on the grapes. They're not desirable. They're not worth having. The problem isn't him—it's them.
+
+This is how projection works. They can't face their own selfishness, so they call you selfish. They can't admit they're dishonest, so they accuse you of lying. They can't tolerate their own failures, so they project those failures onto you.
+
+The accusations that come from nowhere—that don't match anything you've done—are often confessions. They're telling you who they are by accusing you of being it.
+
+**The Decoder:** When an accusation doesn't fit, ask: Is this true of me, or is this true of them?
+
+---
+
 ## Card 17: Projection
 
 **The Pattern:** Accusing you of what they're doing
@@ -584,6 +812,20 @@ You spend all your energy defending against accusations that aren't even true. Y
 
 **Your Power Move:**
 When an accusation comes out of nowhere, ask yourself: "Is this actually true of me, or is this true of them?" Often, projection is a confession disguised as an accusation.
+
+---
+
+### Once Upon a Time: Thumbelina
+
+A girl the size of a thumb is born from a flower. She's kidnapped by a toad who wants her son to marry Thumbelina. She escapes, only to be captured by a beetle who abandons her when his friends find her ugly. She nearly freezes to death. A field mouse takes her in—but demands she marry a mole.
+
+Everyone Thumbelina meets tries to shrink her further. Make her smaller. Make her fit their needs. Minimize her. She's already thumb-sized, and they still find her too much.
+
+This is minimization. "It's not that big a deal." "You're overreacting." "Other people have it worse." They're not trying to help you gain perspective—they're trying to make you small enough to control. Small enough to dismiss. Small enough that your pain doesn't inconvenience them.
+
+You started human-sized. Watch how small they try to make you.
+
+**The Decoder:** When they shrink your pain, they're not helping you cope—they're helping themselves avoid accountability.
 
 ---
 
@@ -610,6 +852,18 @@ You start doubting whether your feelings are proportionate. You minimize your ow
 
 ---
 
+### Once Upon a Time: The Ant and the Grasshopper
+
+The ant works all summer. The grasshopper sings. When winter comes, the ant has food; the grasshopper has nothing. The ant refuses to share. The grasshopper starves. The moral: the ant was right.
+
+But read it again. The ant isn't just practical—the ant is *righteous*. The ant's refusal to help isn't framed as cruelty; it's framed as justice. The grasshopper *deserves* to suffer because the grasshopper didn't work hard enough. The ant gets to let someone die and feel morally superior about it.
+
+This is how righteous justification works. Cruelty wears the costume of wisdom. "I'm just being honest." "Someone has to tell you the truth." "This is for your own good." The person delivering harm positions themselves as the noble truth-teller, the responsible one, the adult in the room—while you're the grasshopper who brought this on yourself.
+
+**The Decoder:** Real wisdom doesn't need to wound you to make its point.
+
+---
+
 ## Card 19: Righteous Justification
 
 **The Pattern:** Cruelty dressed as virtue
@@ -632,6 +886,20 @@ Real feedback is offered with care, at appropriate times, for the benefit of the
 
 ---
 
+### Once Upon a Time: Hansel and Gretel
+
+Two children are abandoned in the forest by their father—at their stepmother's urging. They drop breadcrumbs to find their way home. Birds eat the crumbs. They get lost. They find a candy house. A witch tries to eat them. They kill her. They find their way home. The stepmother is conveniently dead. Happy ending.
+
+But notice the blame structure: The father abandoned them, but the story doesn't hold him accountable—the stepmother made him do it. The children got lost, but it's because birds ate their breadcrumbs. When Gretel pushes the witch into the oven, it's self-defense—but she's also a child who killed someone.
+
+Everyone in this story is responding to someone else's action. No one is the original cause. The harm just... happened. Sound familiar?
+
+This is reversal of blame. "Look what you made me do." "If you hadn't left the breadcrumbs..." "You pushed me into the oven because you had to." Your response becomes the problem. Their action disappears.
+
+**The Decoder:** The person who started the fire doesn't get to blame you for the smoke.
+
+---
+
 ## Card 20: Reversal of Blame
 
 **The Pattern:** Making your response the problem
@@ -651,6 +919,20 @@ You become afraid to react. You suppress hurt, anger, and disappointment because
 
 **Your Power Move:**
 "My reaction didn't cause your action. You're responsible for what you do regardless of what I do."
+
+---
+
+### Once Upon a Time: The King's New Fool
+
+In every castle, there's a fool. He wears motley. He juggles. He tells jokes. And he's the only one allowed to speak truth to the king—because it's "just humor." If the king takes offense, the fool can always say: "I was only joking. Can't you take a joke?"
+
+The fool's privilege is deniability. He can say the cruelest thing in the room, and if anyone objects, they're the one without a sense of humor. The hurt they feel is their problem—for being too sensitive, too serious, too much.
+
+This is weaponized humor. The "joke" that stings. The nickname that diminishes. The story told at your expense, followed by: "I'm just kidding!" The laughter that feels like a verdict.
+
+The fool isn't funny. He's found a loophole.
+
+**The Decoder:** Real humor doesn't require you to be the punchline every time.
 
 ---
 
@@ -694,6 +976,20 @@ You laugh along to avoid being the buzzkill. You doubt whether you're being too 
 
 ---
 
+### Once Upon a Time: Bluebeard
+
+A wealthy man with a blue beard takes a young bride. He gives her keys to every room in his castle—except one. "This key opens the forbidden door. Never use it."
+
+Of course she opens it. Inside: the bodies of his previous wives.
+
+Bluebeard's castle looks like paradise. His gifts look like generosity. His rules look like preferences. But behind the forbidden door is the truth about who he is—and opening it means death.
+
+This is how control operates in intimate territory. The intensity feels like passion. The possession feels like desire. The rules feel like preferences. But there's always a forbidden door—a place you're not allowed to go, a question you're not allowed to ask, a truth you're not allowed to see. And the threat, spoken or unspoken: if you open that door, there will be consequences.
+
+**The Decoder:** When intimacy comes with forbidden rooms, the castle is a cage.
+
+---
+
 ## Card 22: Sexualized Dominance
 
 **The Pattern:** Mixing anger with sexual territory
@@ -712,6 +1008,20 @@ You conflate intensity with passion. You mistake dominance for desire. You may c
 
 **Your Power Move:**
 Real desire doesn't feel like demand. Real passion doesn't feel like punishment. Trust the difference your body knows.
+
+---
+
+### Once Upon a Time: The Snow Queen
+
+A magic mirror shatters. A shard lodges in a boy's eye; another in his heart. He becomes cold, cruel, unable to feel. The Snow Queen finds him and takes him to her ice palace, where he sits frozen, rearranging ice chips, trying to spell a word he can never complete.
+
+His friend Gerda travels to the ends of the earth to find him. When she finally does, her warm tears melt the ice in his heart. Only then can he feel again.
+
+This is withholding tenderness. Someone becomes ice. Affection disappears. Warmth becomes conditional—or absent entirely. You become Gerda, traveling impossible distances, crying warm tears, trying to melt someone who has chosen to stay frozen.
+
+The Snow Queen doesn't force the boy to stay. She doesn't have to. The ice in his heart does the work for her.
+
+**The Decoder:** You cannot warm someone who has chosen ice. Your tears are not the cure for their cold.
 
 ---
 
@@ -736,6 +1046,20 @@ Notice the pattern. Name it to yourself: "Affection is being used as a reward." 
 
 ---
 
+### Once Upon a Time: The Pied Piper
+
+A stranger comes to town playing the most beautiful music anyone has ever heard. The rats follow him. The children follow him. Everyone follows the music—it's irresistible, enchanting, impossible to ignore.
+
+The town doesn't pay what they promised. So the Piper takes the children into a mountain, and they're never seen again.
+
+This is love-bombing. The music is so beautiful, so intoxicating, you don't ask where it's leading. You follow because the experience is overwhelming—more intense than anything you've felt. By the time you realize the destination, you're already inside the mountain.
+
+The Piper doesn't drag anyone. He doesn't force. He *enchants*. And the enchantment is the trap.
+
+**The Decoder:** If the music is too beautiful to question, that's exactly when you should question it.
+
+---
+
 ## Card 24: Love-Bombing
 
 **The Pattern:** Excessive flattery and intensity early on
@@ -756,6 +1080,20 @@ It feels incredible. It feels like finally being seen. You compare this intensit
 
 **Your Power Move:**
 Healthy connection builds over time, with consistency. Intensity isn't intimacy. If it feels too good too fast, slow down and observe. Real love can survive taking your time.
+
+---
+
+### Once Upon a Time: The Red Shoes
+
+A girl named Karen wants red shoes. Her vanity becomes punishment—the shoes force her to dance without rest. She dances until she begs an executioner to cut off her feet. Even then, the severed feet in red shoes dance on without her.
+
+We tell this as a story about vanity and its consequences. But look closer: Karen wanted something beautiful. She wanted to feel pretty. And for that desire, she lost her feet.
+
+This is how body shaming works. You want to feel attractive—and that want is used against you. "I prefer natural beauty." "You looked better before." "Have you thought about..." The message: your desire to be seen as beautiful is vanity. Your body is wrong. The shoes you chose—your style, your weight, your face—deserve punishment.
+
+Karen didn't need to lose her feet. She needed someone who loved her in whatever shoes she chose.
+
+**The Decoder:** Wanting to feel beautiful isn't vanity. Making you feel ugly for wanting it is cruelty.
 
 ---
 
@@ -786,6 +1124,20 @@ You internalize their "preferences" as your inadequacies. You change your appear
 
 ---
 
+### Once Upon a Time: The Princess and the Goblin
+
+A princess named Irene discovers her great-great-grandmother living in a tower room no one else can see. The grandmother is ethereal, timeless, connected to invisible threads that guide and protect. When Irene tells others about her, no one believes her. "You're imagining things." "There's no one there."
+
+Irene follows the invisible thread anyway. It saves her life.
+
+This is what happens when you name energy. You sense something others don't see. You feel the shift in the room, the wrongness beneath the smile, the danger that has no logical explanation. And when you name it—"Something feels off," "Your energy feels bad"—you're told you're imagining things.
+
+You're not imagining things. You're seeing the grandmother in the tower. You're holding the thread no one else can see. The fact that they don't see it doesn't mean it isn't there.
+
+**The Decoder:** Your intuition doesn't require their validation. Follow the thread.
+
+---
+
 ## Card 26: Energy Invalidation
 
 **The Pattern:** Dismissing your intuition
@@ -809,6 +1161,18 @@ You doubt your intuition. You stop trusting the subtle signals that tell you som
 "My perception is valid whether or not you share it." You don't need their agreement to trust what you feel.
 
 > *"When you said 'your energy feels bad,' you named what they were trying to hide—and that threatened them."*
+
+---
+
+### Once Upon a Time: Sleeping Beauty
+
+A princess pricks her finger on a spindle and falls asleep for a hundred years. A wall of thorns grows around her. She can't wake herself. Only a prince's kiss can break the spell.
+
+We call this a love story. But look at the structure: A woman is rendered unconscious, unable to act, frozen in time while life happens around her. She can't protect herself. She can't make choices. She can't leave. She simply... sleeps, and waits for rescue.
+
+This is control through fatigue. When you're exhausted enough, you stop fighting. You stop thinking clearly. You stop leaving. You can barely get through the day, much less escape the tower. The thorns grow higher. The sleep gets deeper. And you wait—for a rescue that may never come, for energy you can't access, for a version of yourself who isn't this tired.
+
+**The Decoder:** If you're too tired to act, ask who benefits from your exhaustion.
 
 ---
 
@@ -858,6 +1222,22 @@ Protect your rest fiercely. Arguments that "have to happen tonight" almost never
 # Category F: Complex Psychological Manipulation
 
 💡 **Understanding Focus:** These tactics combine multiple dynamics for deeper manipulation.
+
+---
+
+### Once Upon a Time: The Little Match Girl
+
+On New Year's Eve, a barefoot girl sells matches in the snow. No one buys. She's afraid to go home—her father will beat her for not earning money. She lights matches to keep warm, and in each flame, she sees visions: a warm stove, a feast, a Christmas tree, her dead grandmother.
+
+She strikes match after match until all are gone. In the morning, they find her frozen body, a smile on her face.
+
+We weep for her. We feel her suffering. And in that feeling, we forget to ask: Where was her father? Who sent a child into the snow barefoot? Who failed her before the story began?
+
+This is the pity play. The tragic story that makes you feel so much sympathy, you stop asking questions. "I always ruin everything." "I'm so broken." "No one understands my pain." The suffering is real—but it's performed to make you forget they were just caught lying, cheating, or crossing a line.
+
+You're so busy being moved that you become the caretaker instead of holding them accountable.
+
+**The Decoder:** Suffering can be real AND used as a shield. Pity and accountability are not opposites.
 
 ---
 
@@ -933,6 +1313,20 @@ If they threaten suicide:
 
 ---
 
+### Once Upon a Time: The Sorcerer's Apprentice
+
+A sorcerer's apprentice watches his master enchant brooms to carry water. When the sorcerer leaves, the apprentice tries the same spell. The brooms work—but he doesn't know how to stop them. Water floods the tower. He splits a broom with an axe; it becomes two brooms. More water. More chaos.
+
+The sorcerer returns and stops the flood with a word.
+
+This is what happens when someone uses powerful language without the substance behind it. "I'm on a spiritual journey." "This is my shadow work." "The universe told me to." They've learned the spells—the vocabulary of healing, growth, consciousness—but they're using them to flood your tower. They don't have the master's wisdom. They have his words, weaponized.
+
+When you object, you're the one who's "not evolved enough" to understand.
+
+**The Decoder:** Borrowed wisdom without accountability is just sophisticated manipulation.
+
+---
+
 ## Card 30: Moral Camouflage
 
 **The Pattern:** Hiding harmful behavior behind spiritual language
@@ -953,6 +1347,20 @@ You feel like you can't challenge behavior that's dressed up as growth. You doub
 
 **Your Power Move:**
 Real spirituality increases accountability, not decreases it. Watch for the gap between their words and their impact.
+
+---
+
+### Once Upon a Time: The Wizard of Oz
+
+Dorothy follows the yellow brick road to find the great and powerful Oz. She endures trials. She defeats the witch. She returns to Oz expecting salvation—and Toto pulls back the curtain. Behind it: an ordinary man with a microphone and smoke machines.
+
+"Pay no attention to the man behind the curtain!" he shouts.
+
+This is authority hijack. Someone positions themselves as the great and powerful interpreter of your life. They tell you what your feelings mean, what your dreams signify, what your intuition is really saying. Their voice booms with certainty. Their answers feel absolute. You stop trusting yourself and start trusting the wizard.
+
+But when you pull back the curtain, there's just a person—no wiser than you, no more connected to truth, no more qualified to interpret your inner world. They just had better special effects.
+
+**The Decoder:** Anyone who needs a curtain is hiding something. You don't need a wizard—you have your own ruby slippers.
 
 ---
 
@@ -985,6 +1393,20 @@ You start deferring to their interpretation of your experience. You trust their 
 
 ---
 
+### Once Upon a Time: Rumpelstiltskin
+
+A miller's daughter is locked in a room and told to spin straw into gold or die. An imp appears and offers to help—for a price. First her necklace. Then her ring. Then, when she has nothing left, he demands her firstborn child.
+
+She agrees. She has no choice. The gold appears. She marries the king. When the baby comes, Rumpelstiltskin returns to collect.
+
+This is how guilt hooks work. Someone "helps" you when you're desperate. The help comes with a price—but you can't see the full cost until later. And when the debt comes due, they remind you: "After everything I did for you. Remember when I saved you? You promised."
+
+The help was real. The debt is also real. But notice: you were in that desperate room because someone else put you there. The "help" was offered to someone who had no options. And now it's leverage—forever.
+
+**The Decoder:** Help given freely isn't a loan. If they're keeping a ledger, it was never generosity.
+
+---
+
 ## Card 32: Guilt Hook
 
 **The Pattern:** Converting past kindness into leverage
@@ -1003,6 +1425,20 @@ You feel indebted. You minimize current harm because of past help. You stay beca
 
 **Your Power Move:**
 Kindness given freely isn't a loan. Real generosity doesn't come with a ledger. "I'm grateful for what you've done. That doesn't mean I accept how you're treating me now."
+
+---
+
+### Once Upon a Time: The Fox and the Crow
+
+A crow sits in a tree holding a piece of cheese. A fox wants it. "What beautiful feathers!" the fox calls up. "What a graceful neck! Surely such a magnificent bird must have the most beautiful voice. Won't you sing for me?"
+
+The crow opens her beak to sing. The cheese falls. The fox takes it and leaves.
+
+This is the pre-emptive smear in reverse—flattery used to isolate you from what sustains you. But it works the same way. The fox doesn't attack the crow directly. He attacks her judgment. Her resources. Her connection to what she needs.
+
+"Your therapist doesn't really understand you." "Your friends don't have your best interests at heart." "Are you sure you can trust them?" The fox isn't warning you—he's separating you from your cheese. He's making you drop the very thing that sustains you.
+
+**The Decoder:** When someone consistently undermines your sources of support, they're not protecting you. They're isolating you.
 
 ---
 
@@ -1027,6 +1463,22 @@ Notice when someone consistently diminishes others in your life. Maintain connec
 
 ---
 
+### Once Upon a Time: King Midas
+
+King Midas wishes that everything he touches would turn to gold. The god grants it. Midas touches a flower—gold. A chair—gold. His food—gold. His daughter—gold.
+
+The gift becomes a curse. He can't eat, can't touch, can't love. Everything he values turns to cold metal the moment he reaches for it.
+
+This is "you'd be lucky to have me." Someone who believes their touch is golden. Their attention is a gift. Their presence is a blessing. And they can't understand why you're not more grateful.
+
+"Any other woman would be lucky." "You don't know how good you have it." "Good luck finding someone like me."
+
+Midas thought his golden touch made him valuable. He didn't understand that it made connection impossible. The person who thinks you're lucky to have them has already turned the relationship to gold—beautiful, cold, and dead.
+
+**The Decoder:** If they need you to feel lucky, they've stopped treating you like a partner and started treating you like a subject.
+
+---
+
 ## Card 34: "You'd Be Lucky to Have Me"
 
 **The Pattern:** Ego reassertion after threatened control
@@ -1045,6 +1497,18 @@ You feel lucky to be tolerated rather than valued for who you are. You lower you
 
 **Your Power Move:**
 "I'm not in this relationship because I'm lucky. I'm in it because I choose to be—and I can choose differently."
+
+---
+
+### Once Upon a Time: The Twelve Brothers
+
+A king has twelve sons and one daughter. When the daughter is born, he decrees: the sons must die. They flee. Years later, the princess finds them. To break a curse that later befalls them, she must remain completely silent for seven years. She cannot speak, cannot explain, cannot defend herself. Even when she's accused of witchcraft and sentenced to burn, she stays silent.
+
+This is withholding as punishment—but from the receiver's view. You're the princess. They've gone silent. They're present but absent, cold but technically there. And you're left wondering: What did I do? How do I fix this? You stay silent about your own needs, walking on eggshells, waiting for the curse to break.
+
+The difference: the princess's silence is sacrifice for love. Their silence is punishment designed to make you chase, apologize, capitulate. Silence used as a weapon leaves no room for your voice either.
+
+**The Decoder:** Silence that makes you smaller isn't contemplation—it's control.
 
 ---
 
@@ -1076,6 +1540,20 @@ Don't chase. Name it: "I notice you're withdrawn. I'm here when you're ready to 
 
 ---
 
+### Once Upon a Time: The Golden Key
+
+A boy finds a golden key in the snow. He digs and finds an iron chest. He searches for the lock, finds it, fits the key, begins to turn. The story ends there—we must wait until the chest is opened to learn what's inside.
+
+We never find out. The story just... stops.
+
+This is what it feels like when they hold your belongings hostage. The thing you need—your clothes, your books, your grandmother's ring—is in the chest. They have the key. They keep almost opening it. "I'll send it soon." "Come get it anytime." "I forgot, I'll do it this week."
+
+They're not keeping your things because they want them. They're keeping the story from ending. As long as you're waiting for the chest to open, you're still in the narrative. Still connected. Still hoping.
+
+**The Decoder:** Sometimes the treasure in the chest isn't worth the price of staying in the story.
+
+---
+
 ## Card 36: Withholding Belongings as Control
 
 **The Pattern:** Using your possessions as leverage
@@ -1093,6 +1571,20 @@ You need your things. You keep reaching out. Each interaction gives them another
 
 **Your Power Move:**
 Decide what's worth the engagement. For valuable items, use a third party (friend, courier, mediator). For lower-value items, consider whether peace outweighs the object's worth. Don't let possessions become chains.
+
+---
+
+### Once Upon a Time: Rapunzel
+
+A witch takes a baby girl and locks her in a tower with no doors. "For your own protection," she says. "The world is dangerous." She visits by climbing Rapunzel's hair—the only way in or out.
+
+Mother Gothel calls herself "mother." She brings food. She sings songs. She tells Rapunzel the world is full of people who would hurt her. The tower isn't a prison; it's protection. The isolation isn't control; it's care.
+
+This is concern as control. "I'm just worried about you." "The world isn't safe." "I know what's best." "Those people will only hurt you." Every bar on the cage is labeled "love." Every lock is justified by "protection."
+
+Rapunzel doesn't even know she's trapped. She thinks the tower is home. She thinks the witch is mother. She thinks her isolation is normal—until someone from outside shows her what freedom looks like.
+
+**The Decoder:** When "protection" requires your isolation, it's not protecting you. It's protecting their control.
 
 ---
 
@@ -1136,6 +1628,18 @@ You feel touched that someone cares. Questioning their concern feels ungrateful.
 
 ---
 
+### Once Upon a Time: The Fisherman's Wife
+
+A fisherman catches a magic fish who grants wishes. His wife wants more—a cottage, a castle, to be king, emperor, pope. Each time the fisherman asks, the fish grants it. Finally, the wife wants to be like God. The fish takes everything back. They return to their hovel.
+
+But here's the hidden cruelty: the fisherman keeps returning to his wife, telling her what the fish said, watching her react. "The fish said..." "But what do you mean?" "The fish said..." Each conversation is the same. Nothing lands. Nothing registers. She keeps asking for more, he keeps explaining, and nothing ever changes.
+
+This is the "Huh?" loop. You explain something clearly. They say "What?" You explain again. "I don't understand." You explain more carefully. "That doesn't make sense." You're the fisherman, going back and forth to the sea, and nothing you say reaches them.
+
+**The Decoder:** When someone repeatedly can't understand what you're clearly saying, they're not confused—they're refusing.
+
+---
+
 ## Card 38: The "Huh?" Gaslight Loop
 
 **The Pattern:** Manufactured confusion
@@ -1161,6 +1665,18 @@ Don't elaborate or re-explain. "I was clear. Let me know when you're ready to en
 
 ---
 
+### Once Upon a Time: The Steadfast Tin Soldier
+
+A one-legged tin soldier falls in love with a paper dancer. He goes through fire and flood for her—swallowed by a fish, nearly melted, always returning. At the end, a child throws him into the fireplace. The dancer blows in after him. They melt together.
+
+It sounds romantic. But look at it again: the soldier gives everything. He nearly dies multiple times. And his reward? To be thrown away. To melt.
+
+This is what happens after you send the vulnerable apology, the heartfelt repair attempt. You've done the work. You've owned your part. And what comes back? Minimal contact. A flat "okay." A birthday text with no warmth. They haven't forgiven you—they've just stopped engaging. You're still in the fire, still melting, and they've given you nothing to hold onto.
+
+**The Decoder:** When your repair is met with ice, that's information about their capacity—not your worth.
+
+---
+
 ## Card 39: Post-Apology Minimal Contact
 
 **The Pattern:** Withholding after you've taken responsibility
@@ -1179,6 +1695,18 @@ Because it's not complete silence, you hold out hope. You think: "Maybe I didn't
 
 **Your Power Move:**
 Recognize that minimal contact after genuine repair is a statement about their capacity, not your worthiness. Do nothing. No follow-up. No clarification.
+
+---
+
+### Once Upon a Time: Ali Baba and the Forty Thieves
+
+"Open sesame!" A cave of treasures opens to those who know the words. Ali Baba overhears them, enters the cave, takes gold, and lives well. His brother learns the password but forgets the exit word. He's trapped inside. The thieves find him and cut him into pieces.
+
+Information is life or death in this story. Knowing the right words gets you in. Forgetting them traps you. And the one who controls the words—the thieves—controls everything.
+
+This is information control. They tell you partial truths. They tell different stories to different people. They "forget" to mention things until after they matter. You're always one step behind, always missing the password, always trapped inside situations you'd have avoided if you'd known what they knew.
+
+**The Decoder:** If you're consistently the last to know, that's not coincidence—it's strategy.
 
 ---
 
@@ -1204,6 +1732,20 @@ Trust patterns over explanations. If information consistently comes late or inco
 
 ---
 
+### Once Upon a Time: The Trojan Horse
+
+The Greeks can't breach Troy's walls. So they build a gift: a giant wooden horse. "We surrender! Here's an offering!" The Trojans, moved by this gesture of defeat, bring the horse inside the city. That night, Greek soldiers emerge from its belly and open the gates.
+
+The vulnerability was the weapon. The "I give up" was the strategy. The openness was the trap.
+
+This is strategic vulnerability. "I'm being so honest with you right now." "I've never told anyone this." "I'm really putting myself out there." The confession that makes you soften. The tears that stop the accountability conversation. The revelation that arrives exactly when they need you to drop your guard.
+
+Real vulnerability invites connection. Strategic vulnerability manipulates it.
+
+**The Decoder:** If their openness always arrives at convenient moments, it might be a horse.
+
+---
+
 ## Card 41: Strategic Vulnerability
 
 **The Pattern:** Using "openness" to manipulate
@@ -1222,6 +1764,20 @@ You feel special for being trusted. You feel obligated to match their openness. 
 
 **Your Power Move:**
 Real vulnerability doesn't come with an agenda. Notice whether their openness creates connection or obligation.
+
+---
+
+### Once Upon a Time: The Wolf and the Lamb
+
+A wolf finds a lamb drinking from a stream. He wants to eat her but needs a reason. "You're muddying my water!" The lamb points out she's downstream—the water flows from him to her. "Then it was your father who insulted me last year!" The lamb was born this year. The wolf runs out of reasons and eats her anyway.
+
+The wolf never wanted fairness. He wanted the appearance of it. He wanted to go through the motions of justification so he could say, "I gave you a chance."
+
+This is the false apology. "I'm sorry you feel that way." "I apologize if you were hurt." "I'm sorry, but..." The form without the substance. The words without the ownership. They're not apologizing—they're performing an apology so they can say they did.
+
+And then they eat you anyway.
+
+**The Decoder:** A real apology doesn't come with "but." If the wolf keeps making excuses, he was never sorry—he was hunting.
 
 ---
 
@@ -1247,6 +1803,20 @@ A real apology sounds like: "I was wrong. I hurt you. I won't do it again." Anyt
 
 ---
 
+### Once Upon a Time: The Frog Prince
+
+A princess drops her golden ball into a well. A frog retrieves it—for a promise. "Let me eat from your plate, sleep on your pillow, be your companion." She agrees. She has no intention of keeping the promise.
+
+The frog follows her home, demanding what was promised. In some versions, she kisses him and he transforms. In older versions, she throws him against a wall in disgust—and *that's* what breaks the spell. Either way, the frog becomes a prince.
+
+This is future faking in reverse—but the structure is the same. "Do this now, and something magical will happen later." "Kiss me and I'll become who you really want." "Stay with me and I'll transform." The promise of transformation is always just out of reach. The potential is always more compelling than the reality.
+
+Some frogs never become princes. Some stay frogs forever, demanding you keep kissing them, keep waiting, keep believing the transformation is coming.
+
+**The Decoder:** You can't love someone into becoming who they promised to be. Judge by who they are now.
+
+---
+
 ## Card 43: Future Faking
 
 **The Pattern:** Promising a future that never comes
@@ -1266,6 +1836,20 @@ You stay for the potential. You sacrifice present needs for future promises. You
 
 **Your Power Move:**
 Judge by patterns, not promises. "I notice you've said that before. What's different this time?" Watch what they do, not what they say they'll do.
+
+---
+
+### Once Upon a Time: Little Bo Peep
+
+Little Bo Peep has lost her sheep and doesn't know where to find them. Leave them alone and they'll come home, wagging their tails behind them.
+
+Bo Peep never finds the sheep. She doesn't look for them. She stands there, helpless, and waits for them to return on their own.
+
+This is the victim narrative—but not the version you'd expect. Bo Peep isn't oppressed. She's the shepherd. The sheep were *her* responsibility. But instead of looking for them, she positions herself as the one who lost something. Poor me. The sheep left. What can I do?
+
+"You never support me." "Everyone always abandons me." "I'm always the one who gets hurt." The person who caused the problem becomes the one who suffers from it. The shepherd becomes the victim. And you become the sheep who must return, wagging your tail, to comfort the person who lost you in the first place.
+
+**The Decoder:** When the shepherd claims to be the lost sheep, check whose flock it actually was.
 
 ---
 
@@ -1291,6 +1875,18 @@ Listen to how they talk about others. You'll eventually join that list.
 
 ---
 
+### Once Upon a Time: The Camel's Nose
+
+An Arab sits in his tent on a cold night. His camel asks: "Master, may I put just my nose inside? It's cold." The Arab agrees. A few minutes later: "Just my head?" Then: "Just my front legs?" Then: "I'm halfway in anyway..." Soon, the camel is entirely inside the tent—and the Arab is sleeping outside.
+
+This is boundary testing. The first request is always reasonable. Just a small thing. Just this once. Just a little closer. You feel petty for objecting to a nose. And each yes makes the next ask harder to refuse.
+
+By the time the camel is inside the tent, there's no single moment you can point to. "You let me put my nose in!" "You agreed to my head!" Each boundary was tested, bent, passed. Now you're outside your own tent, wondering how you got here.
+
+**The Decoder:** The camel was never cold. It wanted the whole tent. Test how someone responds to "no" with small things—that's how they'll treat your big ones.
+
+---
+
 ## Card 45: Boundary Testing
 
 **The Pattern:** Small violations that escalate
@@ -1310,6 +1906,24 @@ Each individual push seems too small to address. You feel petty for objecting to
 
 **Your Power Move:**
 Small boundaries matter. "I mentioned this is a boundary for me. Please respect it." Consistent enforcement now prevents larger violations later.
+
+---
+
+### Once Upon a Time: The Three Little Pigs
+
+The wolf comes to the first house. "Little pig, little pig, let me in."
+
+"Not by the hair of my chinny chin chin."
+
+"Then I'll huff, and I'll puff, and I'll blow your house down."
+
+He does. The pig runs. The wolf follows. Second house—same story. Third house: brick. The wolf huffs. The wolf puffs. The house stands. He tries the chimney. He gets burned.
+
+This is hoovering. You build a wall. They blow it down. You build a stronger wall. They try a new angle. You leave—they follow. You block them—they find another way in. The wolf doesn't give up after the first house. Or the second. He keeps coming until he physically can't anymore.
+
+The third pig's house isn't just brick. It's *no more entry points*. No doors left open. No chimneys unguarded. Complete protection—because the wolf will try every opening until none remain.
+
+**The Decoder:** They don't stop because you asked. They stop when you remove all points of access.
 
 ---
 
@@ -1336,6 +1950,20 @@ Remember why you left. Change is demonstrated over time, not announced in texts.
 
 ---
 
+### Once Upon a Time: The Spider and the Fly
+
+"Will you walk into my parlor?" said the Spider to the Fly. "'Tis the prettiest little parlor that ever you did spy. The way into my parlor is up a winding stair, and I have many curious things to show you when you are there."
+
+The Fly declines. "I've heard what's in your parlor, and I do not wish to go." But the Spider is patient. She flatters the Fly's wings, her eyes, her wisdom. She doesn't rush. She doesn't grab. She waits.
+
+Eventually, the Fly comes closer—just to hear more compliments—and the Spider catches her.
+
+This is the long game. Not the aggressive predator who lunges. The patient one who waits at the center of the web. Who knows that if they're charming enough, long enough, you'll eventually take one step too many.
+
+**The Decoder:** Patience isn't always virtue. The spider's web was there before you arrived.
+
+---
+
 ## Card 47: Playing the Long Game
 
 **The Pattern:** Patience as a manipulation strategy
@@ -1354,6 +1982,18 @@ Length of relationship feels like proof of genuine care. Long history makes mani
 
 **Your Power Move:**
 Time doesn't equal trust. Evaluate behavior, not tenure.
+
+---
+
+### Once Upon a Time: The Wicked Witch's Winged Monkeys
+
+In Oz, the Wicked Witch doesn't chase Dorothy herself. She sends her flying monkeys—creatures bound to serve whoever wears the golden cap. They do her bidding. They're not evil; they're enslaved. But their talons still tear.
+
+This is how it works. The manipulator doesn't confront you directly. They send others. "Your sister told me you said..." "Everyone thinks you're being unreasonable." "I heard from three people that you..." The monkeys carry the attack. The witch keeps her hands clean.
+
+The monkeys may be family, friends, coworkers—anyone who's been recruited, consciously or not, into the witch's service. They believe they're helping. They believe the story they've been told. They don't know they're wearing someone else's cap.
+
+**The Decoder:** When the attack comes from unexpected directions, look for who released the monkeys.
 
 ---
 
@@ -1379,6 +2019,20 @@ Set boundaries with the messengers too. "I appreciate your concern, but I'm not 
 
 ---
 
+### Once Upon a Time: The Gift of the Magi
+
+A young husband sells his watch to buy combs for his wife's beautiful hair. His wife sells her hair to buy a chain for his watch. They exchange their gifts and realize: neither gift is useful anymore.
+
+We call this a story about love. But read it as a story about grand gestures that miss the point.
+
+The husband didn't ask what his wife needed. The wife didn't ask what he needed. They each performed sacrifice—dramatic, romantic, visible sacrifice—without ever having a conversation. The gesture was about being seen as loving, not about actually connecting.
+
+This is the grand gesture. The flowers after the fight. The public apology. The dramatic promise. It's not about change—it's about performance. It substitutes the appearance of effort for the reality of growth.
+
+**The Decoder:** Real love asks what you need. Grand gestures announce what they want you to see.
+
+---
+
 ## Card 49: The Grand Gesture
 
 **The Pattern:** Big displays that substitute for real change
@@ -1401,6 +2055,20 @@ Gestures are not growth. "I appreciate the [gesture], but what I need is [specif
 
 ---
 
+### Once Upon a Time: The Little Mermaid
+
+A mermaid falls in love with a human prince. To be with him, she trades her voice to a sea witch. She gets legs that feel like walking on knives. She can dance but not speak. She can be near him but not tell him who she is or what she gave up to be there.
+
+The prince doesn't choose her. He marries someone else. In the original story, the mermaid dissolves into sea foam.
+
+This is identity erosion. To be acceptable, to be loved, to belong—you give up your voice. You give up what makes you *you*. You walk on knives and smile. You become what they want, hoping it will be enough.
+
+It's never enough. Because the person they fell in love with isn't you anymore. It's the version of you that erased herself to fit. And once you're foam, you can't un-dissolve.
+
+**The Decoder:** The relationship that requires you to lose your voice will never be worth what you gave up to have it.
+
+---
+
 ## Card 50: Identity Erosion
 
 **The Pattern:** Slowly dissolving your sense of self
@@ -1420,6 +2088,20 @@ Changes happen slowly. You forget who you were before. You lose connection to th
 
 **Your Power Move:**
 Reconnect with who you were before them. What did you love? Who did you spend time with? What did you believe? That person is still in there.
+
+---
+
+### Once Upon a Time: The Wild Swans
+
+A princess's eleven brothers are cursed into swans. To save them, she must knit eleven shirts from nettles—in complete silence, for six years. The nettles burn her hands. She cannot speak to explain herself. She's accused of witchcraft, sentenced to death.
+
+At the last moment, she throws the shirts over the swans. They transform back into men. But the youngest brother's shirt isn't finished—he keeps one swan wing forever.
+
+This is the final discard from the other side. You've done everything. You've burned your hands. You've stayed silent when you wanted to scream. You've knit and knit and knit. And in the end? You saved them. But they fly away, mostly human, carrying a piece of you they'll never acknowledge—the wing you couldn't complete, the burn you couldn't heal, the voice you lost trying.
+
+The discard isn't always dramatic. Sometimes it's just: they leave, and they don't look back.
+
+**The Decoder:** You can knit shirts from nettles, burn your hands for six years, and still be left holding an empty throne. The princess's story ends there. Yours doesn't have to.
 
 ---
 

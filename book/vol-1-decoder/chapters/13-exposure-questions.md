@@ -13,8 +13,7 @@
 > **If you are in RED:**
 > - Do NOT use these questions, they can trigger dangerous escalation
 > - Prioritize Chapter 18's exit planning and safety resources
-> - Contact: National Domestic Violence Hotline: 1-800-799-7233 (24/7)
-> - Skip to Appendix A resources NOW
+> - See [Appendix A](../appendices/appendix-a-resources.md) for 24/7 crisis hotlines
 >
 > **If you are in YELLOW or GREEN:**
 > - These questions are for your own clarity, not as confrontation tools

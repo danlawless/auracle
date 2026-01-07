@@ -2122,13 +2122,141 @@ Closure is something you give yourself. Their departure is information about the
 
 ---
 
+# PART 3: DIGITAL MANIPULATION PATTERNS (Cards D-1 to D-4)
+
+*Same patterns, different arena. The tactics that work in person adapt to digital spaces—often becoming harder to name because they leave no physical evidence.*
+
+---
+
+## Field Note: The Notification That Never Comes
+
+She checks her phone. Nothing.
+
+Checks again. Still nothing.
+
+He was messaging constantly yesterday—good morning texts, memes, "thinking of you." Now silence.
+
+She knows he's online. His status shows active. But the messages have stopped.
+
+She starts scrolling through their history. Did she say something wrong? Was she too much? Not enough?
+
+Three days later, a single text: "Hey."
+
+Her relief is immediate. Physical. She didn't realize she'd been holding her breath for seventy-two hours.
+
+She responds within minutes. And the cycle begins again.
+
+---
+
+## Card D-1: Strategic Silence (Ghosting as Control)
+
+**The Pattern:** Disappearing without explanation to maintain power
+
+**What They Say/Do:**
+- Sudden radio silence after intense connection
+- Online and active, but not responding to you
+- Eventually returning as if nothing happened
+- "I just needed space" (but couldn't say so)
+- "I didn't think it was that serious"
+
+**What's Really Happening:**
+This isn't poor communication—it's a power move. Disappearing without explanation puts you in a suspended state: you can't grieve (they might return), you can't move on (you don't know what happened), you can't get angry (maybe there's a good reason). You're stuck. That's the point.
+
+**How It Hooks You:**
+You check your phone obsessively. You replay every interaction looking for what you did wrong. When they return, your relief is so overwhelming it feels like love. You're more grateful to have them back than angry about being abandoned.
+
+**Your Power Move:**
+After 72 hours of unexplained silence with someone who was previously responsive, you have your answer. Their absence is the message. You don't need their words to make a decision about your own life.
+
+---
+
+## Card D-2: Breadcrumbing
+
+**The Pattern:** Minimal contact to keep you hooked without commitment
+
+**What They Say/Do:**
+- Sporadic "hey" texts with no follow-through
+- Liking your posts but never engaging directly
+- "We should hang out sometime" (repeated without plans)
+- Just enough contact to prevent you from moving on
+- Reappearing when you seem to be getting over them
+
+**What's Really Happening:**
+They're maintaining you as an option without investing in you. The minimal effort keeps you emotionally available to them while they pursue other interests. You're on the hook without being held.
+
+**The intermittent reinforcement is deliberate:** Inconsistent rewards create stronger attachment than consistent ones. Slot machines and breadcrumbers use the same psychology.
+
+**How It Hooks You:**
+Each small contact reignites hope. You interpret the crumbs as evidence they care. You stay available, turning down other opportunities because "something might happen." You become a backup plan while treating them as your priority.
+
+**Your Power Move:**
+Track the pattern, not the moments. Do their actions match someone who wants to be with you? Breadcrumbs don't become a meal. If their investment doesn't match your interest, the information is clear.
+
+---
+
+## Card D-3: Digital Surveillance
+
+**The Pattern:** Using technology to monitor and control
+
+**What They Say/Do:**
+- Demanding passwords to email, social media, phone
+- "If you have nothing to hide, why won't you share?"
+- Tracking your location through shared apps or without your knowledge
+- Reading your messages, checking your search history
+- Knowing details about conversations you didn't share
+
+**What's Really Happening:**
+This is control disguised as closeness. "Transparency" becomes surveillance. "Trust" means access to your every digital move. The monitoring creates a panopticon effect—you self-censor because you're always being watched.
+
+**The escalation:** It often starts with "shared" accounts that seem romantic. Over time, the monitoring intensifies while your privacy erodes. By the time you recognize it as control, you've already surrendered significant autonomy.
+
+**How It Hooks You:**
+You feel guilty for wanting privacy ("What am I hiding?"). You interpret their surveillance as care or insecurity you should soothe. You modify your behavior to avoid triggering their anxiety—which is exactly the point.
+
+**Your Power Move:**
+Privacy is not betrayal. Adults in healthy relationships have separate inner lives, private conversations with friends, and space that belongs only to them. Needing a password to every part of your digital existence isn't love—it's ownership.
+
+---
+
+## Card D-4: Social Media Triangulation
+
+**The Pattern:** Using public platforms to create jealousy and insecurity
+
+**What They Say/Do:**
+- Posting photos with attractive others after conflict
+- Vague-posting about relationship problems
+- Liking and commenting on others' posts while ignoring yours
+- Public displays designed to make you feel replaced
+- "It's just social media, why are you so jealous?"
+
+**What's Really Happening:**
+Social media becomes a weapon. Public platforms amplify triangulation because everyone sees it. The message is clear: you're replaceable, others are interested, you should try harder or you'll be left behind.
+
+**The plausible deniability:** "I was just being friendly." "You're reading too much into it." "I can't control who likes my posts." The public nature gives them witnesses to your "paranoia" while sending private messages designed to destabilize you.
+
+**How It Hooks You:**
+You monitor their accounts obsessively. You analyze every interaction for threat signals. You feel crazy for caring about "just social media" while experiencing real emotional impact. You compete for attention you shouldn't have to earn.
+
+**Your Power Move:**
+If their online behavior consistently creates insecurity and they dismiss your concerns, the pattern is the message. You're not paranoid for noticing what they're broadcasting to everyone. Trust your perception—and consider whether someone who publicly destabilizes you deserves private access.
+
+---
+
+> **The Digital Truth:**
+>
+> Technology doesn't create new manipulation—it amplifies existing patterns. Ghosting is silent treatment at scale. Breadcrumbing is intermittent reinforcement through a screen. Surveillance is control without physical presence. Triangulation becomes performance art.
+>
+> The same patterns. The same impact on your nervous system. The same path to healing.
+
+---
+
 > **⏸️ PAUSE BEFORE SUBSTANCE PATTERNS**
 >
 > The following section covers patterns involving alcohol, drugs, or intoxication. These patterns often intersect with other manipulation tactics and deserve their own focus.
 
 ---
 
-# PART 3: SUBSTANCE-RELATED PATTERNS (Cards S-1 to S-4)
+# PART 4: SUBSTANCE-RELATED PATTERNS (Cards S-1 to S-4)
 
 *These patterns use alcohol, drugs, or other substances as tools for control, excuse-making, or reality distortion.*
 

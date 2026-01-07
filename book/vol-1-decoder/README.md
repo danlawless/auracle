@@ -1,6 +1,6 @@
 # You Were Never Crazy
 
-## The Narcissism Decoder: 52 Manipulation Patterns They Used Against You
+## The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
 
 ---
 
@@ -11,7 +11,7 @@
 | [Front Matter](./00-front-matter.md) | *About This Book* | Who this book is for, how to use it, and what you'll gain |
 | [Chapter 1](./chapters/01-opening-manifesto.md) | The Opening Manifesto | What this book is really about—the invisible architecture of control |
 | [Chapter 2](./chapters/02-energetic-signature.md) | The Energetic Signature | How to recognize control in your body before your mind catches up |
-| [Chapter 3](./chapters/03-decoder-playbook.md) | The Decoder Playbook | 56 manipulation patterns named and decoded—the complete reference |
+| [Chapter 3](./chapters/03-decoder-playbook.md) | The Decoder Playbook | 60 manipulation patterns named and decoded—the complete reference |
 | [Chapter 4](./chapters/04-trauma-bonds.md) | The Psychology of Trauma Bonds | Why you got hooked, and why leaving is so hard |
 | [Chapter 5](./chapters/05-narcissist-types.md) | Understanding Narcissist Types | The spectrum from grandiose to covert to malignant |
 | [Chapter 6](./chapters/06-narcissist-roles.md) | The Masks They Wear: 12 Identity Roles | Strategic personas narcissists adopt for control |
@@ -89,11 +89,12 @@ Read the book in order starting from the [Front Matter](./00-front-matter.md). T
 **[Chapter 13: Diagnostic Questions](./chapters/13-exposure-questions.md)** — Questions designed to reveal narcissistic patterns. Healthy people answer these easily; narcissists cannot.
 
 ### 🤝 If You're Helping Others
-**[Chapter 3: The Decoder Playbook](./chapters/03-decoder-playbook.md)** contains 56 patterns designed to be shared—screenshot individual cards, print them, or use them as conversation starters.
+**[Chapter 3: The Decoder Playbook](./chapters/03-decoder-playbook.md)** contains 60 patterns designed to be shared—screenshot individual cards, print them, or use them as conversation starters.
 
 **Understanding the Decoder:**
 - **Core Patterns (Cards 0-27):** The foundational patterns you'll encounter most often—gaslighting, triangulation, shame-dumping, and other common tactics. Start here.
 - **Advanced Patterns (Cards 28-51):** Sophisticated tactics that appear during high-stakes moments like relationship exits, custody battles, or when you're threatening to leave.
+- **Digital Patterns (Cards D-1 to D-4):** Ghosting, breadcrumbing, surveillance, and social media triangulation—same patterns, digital arena.
 - **Substance Patterns (Cards S-1 to S-4):** Patterns involving alcohol, drugs, or intoxication as manipulation tools.
 
 ---
@@ -143,7 +144,7 @@ PART I: RECOGNITION
 ├── Front Matter .......... Introduction & how to use this book
 ├── Chapter 1 ............. The Opening Manifesto
 ├── Chapter 2 ............. The Energetic Signature (body awareness)
-├── Chapter 3 ............. The Decoder Playbook (56 patterns)
+├── Chapter 3 ............. The Decoder Playbook (60 patterns)
 ├── Chapter 4 ............. Trauma Bonds (neuroscience)
 └── Chapter 5 ............. Understanding Narcissist Types
 
@@ -161,9 +162,9 @@ PART III: TOOLS
 └── Chapter 14 ............ Decoder Protocol (emergency reference)
 
 PART IV: RESPONSE & RECOVERY
-├── Chapter 17 ............ Energetic Remapping (nervous system tools)
-├── Chapter 18 ............ Practical Responses & Scripts
-└── Chapter 19 ............ Moving Forward
+├── Chapter 15 ............ Energetic Remapping (nervous system tools)
+├── Chapter 16 ............ Practical Responses & Scripts
+└── Chapter 17 ............ Moving Forward
 
 APPENDICES
 ├── Appendix A ............ Resources

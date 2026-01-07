@@ -22,10 +22,10 @@
 ### Short Description (for ads, social, quick reference)
 
 **150 characters:**
-Recognize manipulation in real-time. 34 tactics decoded. Scripts to respond. Tools to recover. The confusion ends here.
+Recognize manipulation in real-time. 60 patterns decoded. Scripts to respond. Tools to recover. The confusion ends here.
 
 **150 characters (wolf variant):**
-The wolf wears care, concern, and protection. Learn to see through the clothing. 34 tactics decoded. Your sovereignty begins.
+The wolf wears care, concern, and protection. Learn to see through the clothing. 60 patterns decoded. Your sovereignty begins.
 
 ---
 
@@ -34,14 +34,14 @@ The wolf wears care, concern, and protection. Learn to see through the clothing.
 **500 characters:**
 You left the conversation feeling worse about yourself—but you can't explain why.
 
-The Narcissism Decoder names the 34 tactics of control disguised as care. Learn to recognize gaslighting, love-bombing, triangulation, and trauma bonds before they hook your nervous system. Includes decoder cards for real-time recognition and practical scripts for responding from power instead of reaction.
+The Narcissism Decoder names the 60 patterns of control disguised as care. Learn to recognize gaslighting, love-bombing, triangulation, and trauma bonds before they hook your nervous system. Includes decoder cards for real-time recognition and practical scripts for responding from power instead of reaction.
 
 The confusion ends here. Your sovereignty begins.
 
 **500 characters (wolf variant):**
 The wolf doesn't arrive wearing wolf skin. It wears care, concern, protection, honesty. You invite it closer because it looks like love. Only when it's close enough to consume does it show its teeth.
 
-The Narcissism Decoder teaches you to see the wolf—34 manipulation tactics, all disguised as virtue, all decoded. Stop looking at the clothing. Start noticing the impact.
+The Narcissism Decoder teaches you to see the wolf—60 manipulation patterns, all disguised as virtue, all decoded. Stop looking at the clothing. Start noticing the impact.
 
 The confusion ends here.
 
@@ -62,7 +62,7 @@ The tactics described in these pages aren't random acts of cruelty—they're a s
 
 <b>What You'll Learn:</b>
 
-• <b>34 manipulation tactics</b> fully decoded—from love-bombing to the silent treatment
+• <b>60 manipulation patterns</b> fully decoded—from love-bombing to the silent treatment
 • <b>The Energetic Signature</b>—how to recognize control in your body before your mind catches up
 • <b>Trauma bond science</b>—why you got hooked and why leaving is so hard
 • <b>Narcissist archetypes</b>—the Performer, the Victim, the Intellectual, and more
@@ -99,10 +99,12 @@ This book does not diagnose anyone. It describes behavioral patterns that cause 
 
 <b>The Sovereignty Series:</b>
 
-This is Volume 1 of a four-book series. When you're ready:
+This is Volume 1 of the 8-volume Sovereignty Series. The core healing journey (Volumes 1-4):
 • <i>The Bridge</i> (Volume 2) guides healing through secure attachment training
 • <i>Sovereignty</i> (Volume 3) teaches internal authority and self-trust
 • <i>Embodied Leadership</i> (Volume 4) shows how to live from your full presence
+
+The extended journey (Volumes 5-8) continues into parenting, service, thriving, and becoming.
 ```
 
 ---
@@ -215,7 +217,7 @@ You cannot think your way into secure attachment. You train it.
 
 <b>The Sovereignty Series:</b>
 
-This is Volume 2 of a four-book series:
+This is Volume 2 of the 8-volume Sovereignty Series:
 • <i>The Narcissism Decoder</i> (Volume 1) teaches pattern recognition
 • <i>Sovereignty</i> (Volume 3) installs internal authority
 • <i>Embodied Leadership</i> (Volume 4) guides living from full presence
@@ -335,7 +337,7 @@ Each chapter includes a "Neuroscience Lens" section explaining why old patterns 
 
 <b>The Sovereignty Series:</b>
 
-This is Volume 3 of a four-book series:
+This is Volume 3 of the 8-volume Sovereignty Series:
 • <i>The Narcissism Decoder</i> (Volume 1) teaches pattern recognition
 • <i>The Bridge</i> (Volume 2) guides attachment healing
 • <i>Embodied Leadership</i> (Volume 4) explores living from full presence
@@ -455,13 +457,13 @@ The field around you is an extension of your nervous system state. When you regu
 
 <b>The Sovereignty Series:</b>
 
-This is Volume 4—the completion of a four-book journey:
+This is Volume 4—the completion of the core healing journey in the 8-volume Sovereignty Series:
 • <i>The Narcissism Decoder</i> (Volume 1): Recognition
 • <i>The Bridge</i> (Volume 2): Liberation
 • <i>Sovereignty</i> (Volume 3): Empowerment
 • <i>Embodied Leadership</i> (Volume 4): Embodiment
 
-There is no Volume 5. The work becomes your life.
+Volumes 5-8 continue the journey into parenting, service, thriving, and becoming—when you're ready.
 
 <i>My presence is erotic when it belongs to me.</i>
 ```
@@ -503,7 +505,7 @@ There is no Volume 5. The work becomes your life.
 
 From confusion to clarity. From survival to regulation.
 
-**Volume 1: The Narcissism Decoder** teaches you to recognize manipulation in real-time. Name the 34 tactics. Understand trauma bonds. Respond from power.
+**Volume 1: The Narcissism Decoder** teaches you to recognize manipulation in real-time. Name the 60 patterns. Understand trauma bonds. Respond from power.
 
 **Volume 2: The Bridge** teaches you to heal at the nervous system level. Retrain your attachment patterns. Date safely after trauma. Build relationships that regulate.
 
@@ -587,7 +589,7 @@ Use these for posts, ads, and content:
 **Vol 1:**
 - "You're not too sensitive. You're finally seeing clearly."
 - "The confusion ends when you can name the pattern."
-- "34 manipulation tactics. All decoded. All named."
+- "60 manipulation patterns. All decoded. All named."
 - "Control disguised as care is still control."
 - "The wolf never arrives wearing wolf skin. It wears care, concern, protection, honesty."
 - "Stop looking at the clothing. Start noticing the impact."

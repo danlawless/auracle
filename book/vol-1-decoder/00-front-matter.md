@@ -1,6 +1,6 @@
 # You Were Never Crazy
 
-## The Narcissism Decoder: 52 Manipulation Patterns They Used Against You
+## The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
 
 ---
 
@@ -41,7 +41,7 @@ Chapter 1: The Opening Manifesto — What This Book Is Really About ............
 
 Chapter 2: The Energetic Signature — How to Recognize Control Before Your Mind Catches Up .................... [pg. XX]
 
-Chapter 3: The Decoder Playbook — 56 Tactics of Control, Named and Decoded .................... [pg. XX]
+Chapter 3: The Decoder Playbook — 60 Tactics of Control, Named and Decoded .................... [pg. XX]
 
 *Interlude: Pause and Integrate* .................... [pg. XX]
 
@@ -75,21 +75,23 @@ Chapter 13: The Exposure Questions — Questions That Make Narcissists Reveal Th
 
 **Part IV: Decoder Tools**
 
-Chapter 14: The Decoder Cards — 52 Quick-Reference Guides for Real-Time Pattern Recognition .................... [pg. XX]
+Chapter 14: The Decoder Cards — Quick-Reference Guides for Real-Time Pattern Recognition .................... [pg. XX]
 - *Card 0: The Master Card (Wolf in Sheep's Clothing)*
 - *Cards 1-27: Core Patterns*
 - *Cards 28-51: Advanced Patterns*
+- *Cards D-1 to D-4: Digital Manipulation Patterns*
+- *Cards S-1 to S-4: Substance-Related Patterns*
 - *Emergency Protocol: When You Need Clarity Now*
 
 *Interlude: Pause and Integrate* .................... [pg. XX]
 
 **Part V: Recovery & Response**
 
-Chapter 17: Energetic Remapping — Recovery Tools — Rewiring Your Nervous System for Freedom .................... [pg. XX]
+Chapter 15: Energetic Remapping — Recovery Tools — Rewiring Your Nervous System for Freedom .................... [pg. XX]
 
-Chapter 18: Practical Responses & Scripts — What to Actually Say and Do .................... [pg. XX]
+Chapter 16: Practical Responses & Scripts — What to Actually Say and Do .................... [pg. XX]
 
-Chapter 19: Moving Forward — Closing Chapters and Beginning New Ones .................... [pg. XX]
+Chapter 17: Moving Forward — Closing Chapters and Beginning New Ones .................... [pg. XX]
 
 **Appendices**
 

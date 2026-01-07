@@ -1,6 +1,6 @@
-# Chapter 3: The Consolidated Decoder Playbook
+# Chapter 3: The Decoder Playbook
 
-## Tactics and Patterns of Manipulation, Named and Decoded
+## 56 Patterns of Manipulation, Named and Decoded
 
 **Reading Time:** ~45 minutes (Core) | ~30 minutes (Advanced) | 75 minutes total
 **Thematic Focus:** 🎯 Recognition | 🛡️ Response
@@ -11,7 +11,9 @@
 
 When you're in the middle of manipulation, your thinking brain goes offline. You freeze. You doubt. You can't access what you know.
 
-This playbook is designed for that moment—when you need clarity fast.
+This chapter is your decoder—designed for that moment when you need clarity fast.
+
+**This is the complete decoder.** Every manipulation pattern in this book is catalogued here as a numbered card you can reference, screenshot, or share. There is no separate "decoder series"—this chapter IS the decoder.
 
 **Use this as:**
 - **Quick reference** when you're confused about what just happened
@@ -1443,9 +1445,165 @@ Closure is something you give yourself. Their departure is information about the
 
 ---
 
+> **⏸️ PAUSE BEFORE SUBSTANCE PATTERNS**
+>
+> The following section covers patterns involving alcohol, drugs, or intoxication. These patterns often intersect with other manipulation tactics and deserve their own focus.
+
+---
+
+# PART 3: SUBSTANCE-RELATED PATTERNS (Cards S-1 to S-4)
+
+*These patterns use alcohol, drugs, or other substances as tools for control, excuse-making, or reality distortion.*
+
+---
+
+## Field Note: The Third Glass
+
+He refills her wine before she asks.
+
+"You're so tense. Just relax."
+
+She wasn't tense until he said that. Now she feels like she's failing at something.
+
+By the third glass, she's softer. Easier. The edges blur.
+
+That's when he brings up what he wants—something she said no to last week. Something that made her uncomfortable.
+
+She hears herself agreeing. Her voice sounds far away.
+
+The next morning, she doesn't remember exactly what she said yes to. But she remembers the feeling: cornered without walls.
+
+When she tries to revisit the conversation sober, he says: "You already agreed. Are you going back on your word?"
+
+---
+
+## Card S-1: The Substance Shield
+
+**The Pattern:** Intoxication as a get-out-of-jail-free card
+
+**What They Say/Do:**
+- "I was drunk—I didn't mean it."
+- "I don't even remember saying that."
+- "That wasn't really me; I was wasted."
+- The substance becomes a blanket excuse for anything said or done while intoxicated
+
+**What's Really Happening:**
+Intoxication is being used as a get-out-of-jail-free card. Whether or not they remember, the behavior still happened. The impact on you still occurred. The "drunk version" isn't a different person—it's often the unfiltered version, the one without the mask.
+
+**The truth about "drunk words":** Alcohol and substances lower inhibitions. They don't create new personalities—they reveal what's already there but usually suppressed. What comes out when the filter drops often reflects genuine beliefs, resentments, or desires that they keep hidden when sober.
+
+**How It Hooks You:**
+You minimize harm because "they weren't themselves." You wait for the sober version to return. You accept apologies that blame the substance rather than addressing the behavior. You start tracking their drinking to predict when the "real them" might emerge.
+
+**Your Power Move:**
+"Drunk or sober, you said/did that. The substance doesn't erase the impact." If this is a pattern, the pattern is the problem—not any single incident.
+
+> *"The mask slips when they're drunk. What you see isn't the alcohol talking—it's them, unfiltered."*
+
+---
+
+## Card S-2: Lowering Your Defenses
+
+**The Pattern:** Using your intoxication to extract compliance
+
+**What They Say/Do:**
+- "Come on, just one more."
+- "You're more fun when you drink."
+- "Don't be so uptight."
+- Initiating important conversations when you've been drinking
+- Picking fights or extracting agreements when your judgment is impaired
+- Making your drinks stronger than expected
+
+**What's Really Happening:**
+Your lowered inhibitions serve their purposes. When you're intoxicated, you're more likely to agree to things you'd refuse sober, reveal information you'd protect, respond emotionally rather than strategically, forget details they can later deny, or be easier to gaslight about what actually happened.
+
+**How It Hooks You:**
+You feel like you're being social, relaxing, having fun together. You don't notice you're consistently more intoxicated than them. Important decisions get made when you're not at full capacity. You wake up having agreed to things or said things you regret—and they hold you to it.
+
+**Your Power Move:**
+Notice if serious conversations, conflicts, or requests consistently happen when you've been drinking. "I don't make decisions when I've been drinking. We can talk about this tomorrow." If they push: "My answer while sober is my answer."
+
+> *"If they want you drunk to have the conversation, they need you impaired to get the answer they want."*
+
+---
+
+## Card S-3: The Functional Facade
+
+**The Pattern:** High-functioning addiction with image management
+
+**What They Say/Do:**
+- Maintaining a public image of control while privately struggling with substance use
+- "I don't have a problem—I never miss work."
+- Drinking every night but insisting it's "not a big deal"
+- Defensiveness, denial, or accusations when you try to discuss it
+
+**What's Really Happening:**
+The image is what matters. As long as they can maintain the appearance of functionality, they don't have to address the reality. The secrecy itself becomes a form of gaslighting—you see the consumption, but they insist there's no problem. Your perception becomes the issue, not their behavior.
+
+**The narcissistic intersection:** Substance abuse often coexists with narcissistic patterns because both involve denial of reality, projection of problems onto others, difficulty tolerating discomfort, and rage when the facade is threatened. Confronting the addiction threatens their self-image, which triggers narcissistic defenses.
+
+**How It Hooks You:**
+You become the secret-keeper. You manage around their use. You stop inviting certain people over. You make excuses. You question whether you're "overreacting" because they "function just fine." You absorb the chaos while they maintain their image.
+
+**Your Power Move:**
+You're not responsible for protecting their image. "I see what I see. Your definition of 'fine' isn't mine." You can love someone and refuse to participate in their denial. Their addiction is not yours to manage, hide, or cure.
+
+> *"Functional addiction is still addiction. The mask of competence doesn't erase the chaos you absorb behind closed doors."*
+
+---
+
+## Card S-4: Weaponizing Your Use
+
+**The Pattern:** Your substance history becomes ammunition
+
+**What They Say/Do:**
+- "You were drunk that night, so your memory can't be trusted."
+- "You've had a glass of wine, so you're not thinking clearly."
+- "Remember when you smoked pot last month? You're in no position to judge."
+- Any past use becomes permanent ammunition to discredit your perceptions
+
+**What's Really Happening:**
+Your occasional or past use is being stored as a weapon. Meanwhile, their behavior—potentially far more problematic—is positioned as irrelevant because you "also" use substances. This creates a false equivalence that silences your concerns.
+
+**The double standard:** Notice if there's a different rulebook. Their drinking is "social" while yours is "a problem." Their use is "recreational" while yours indicates "poor judgment." They're "fine to drive" while you're "too impaired to think clearly."
+
+**How It Hooks You:**
+You stop bringing up concerns because you feel like a hypocrite. You doubt your own perceptions because "you'd been drinking." You accept their version of events because your credibility has been undermined. You become hyper-careful about your own consumption to avoid giving them ammunition.
+
+**Your Power Move:**
+"Having a drink doesn't erase what I witnessed or experienced. My perception is valid." Separate conversations about their behavior from conversations about yours—they're not the same discussion.
+
+> *"They're not concerned about your drinking. They're concerned about having something to use against you."*
+
+---
+
+## Field Note: The Pause Before the Pour
+
+He reaches for the bottle.
+
+She covers her glass. "I'm good."
+
+"Come on. One more won't hurt."
+
+She notices the pressure. The familiar setup. The way serious conversations always seem to happen after she's had a few.
+
+"I said I'm good."
+
+His face flickers—Loss of control? Irritation?—then smooths into charm. "Fine. Suit yourself."
+
+Later, when he brings up the thing she said no to before, she's clear.
+
+"My answer is still no."
+
+"You're so rigid when you're sober."
+
+"I know. That's the point."
+
+---
+
 > **⏸️ END OF PLAYBOOK**
 >
-> You've now covered 52 patterns of manipulation.
+> You've now covered 56 patterns of manipulation (Cards 0-51 plus S-1 to S-4).
 >
 > **Integration:**
 > - Keep your most-triggered cards accessible
@@ -1494,6 +1652,14 @@ Closure is something you give yourself. Their departure is information about the
 - Minimal contact after repair reveals capacity, not worth
 - Gestures are not growth
 
+## For Substance-Related Tactics (Cards S-1 to S-4):
+- Intoxication explains behavior; it doesn't excuse it
+- "Drunk words" often reveal what's hidden sober
+- If they need you impaired to get agreement, the answer is no
+- Functional addiction is still addiction—you see what you see
+- Your past use doesn't disqualify your current perception
+- Their addiction is not yours to manage, hide, or cure
+
 ---
 
 # The 48-Hour Tactic Review
@@ -1511,7 +1677,7 @@ This review process builds your pattern-recognition speed. Eventually, you'll sp
 
 ## What Comes Next
 
-You can now name 52 patterns of manipulation. But naming alone doesn't explain why these hooks work so powerfully—why it's so hard to leave even when you can see what's happening.
+You can now name 56 patterns of manipulation. But naming alone doesn't explain why these hooks work so powerfully—why it's so hard to leave even when you can see what's happening.
 
 That's where we go next: the neuroscience of trauma bonds.
 
@@ -1583,7 +1749,14 @@ That's where we go next: the neuroscience of trauma bonds.
 | 50 | Identity Erosion | Relational |
 | 51 | The Final Discard | Relational |
 
+## Part 3: Substance-Related Patterns (Cards S-1 to S-4)
+| Card | Pattern | Category |
+|------|---------|----------|
+| S-1 | The Substance Shield | Substance |
+| S-2 | Lowering Your Defenses | Substance |
+| S-3 | The Functional Facade | Substance |
+| S-4 | Weaponizing Your Use | Substance |
+
 ---
 
-*Consolidated Decoder Playbook — Vol. 1: The Narcissism Decoder*
-*Based on author selections from Review Rounds 3-4*
+*The Decoder Playbook — Vol. 1: The Narcissism Decoder*

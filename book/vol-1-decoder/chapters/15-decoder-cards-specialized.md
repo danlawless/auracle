@@ -6,7 +6,7 @@
 
 ---
 
-These cards cover manipulation patterns that require specific circumstances to appear—situations involving substances, financial dependency, physical proximity, relationship exits, or particular relationship dynamics like maternal wounds. These **Contextual Patterns** may not appear in every dynamic, but when they do, they're particularly harmful and require context-specific recognition.
+These cards cover manipulation patterns that require specific circumstances to appear—situations involving substances, financial dependency, physical proximity, relationship exits, digital spaces, spiritual communities, or particular relationship dynamics like parental wounds. These **Contextual Patterns** may not appear in every dynamic, but when they do, they're particularly harmful and require context-specific recognition.
 
 ---
 
@@ -691,6 +691,241 @@ Romance expands choice. Magician tactics constrict it.
 **Key Distinction:** A magician wants your reaction. Integrity wants your yes.
 
 > *"You weren't fooled because you were naïve—you were targeted because you were perceptive, open, and slow enough to notice the dissonance."*
+
+---
+
+## Digital Manipulation Patterns
+
+---
+
+## Card 44: Breadcrumbing
+
+**The Pattern:** Just enough attention to keep you hoping
+
+**What They Say/Do:**
+- Occasional likes on your posts—weeks of silence, then suddenly engaging
+- Sporadic "thinking of you" messages that lead nowhere
+- Vague plans that never materialize ("we should hang out sometime")
+- Responding just enough to prevent you from moving on
+- Reappearing whenever you start to detach
+
+**What's Really Happening:**
+
+This isn't connection—it's maintenance. They're investing the minimum required to keep you in their orbit. The intermittent contact triggers the same reward pathways as gambling: you keep checking, hoping, waiting for the next crumb.
+
+They may not want a relationship with you, but they want you to remain available. The breadcrumbs ensure you don't fully close the door—or fully open it to someone else.
+
+**How It Hooks You:**
+
+Hope is the hook. Each crumb reignites the possibility that this time, things will be different. You interpret minimal effort as meaningful because you want it to mean something. You stay in waiting mode, declining to invest elsewhere.
+
+**Your Power Move:**
+
+Attention that confuses you isn't connection—it's manipulation.
+
+Ask yourself: *"Is this person adding to my life, or keeping me on hold?"*
+
+If you're always left wanting more, they're giving you less than you deserve. Stop interpreting crumbs as cake. Block, mute, or move on.
+
+> *"If they wanted to be present, they would be. The breadcrumbs are the message."*
+
+---
+
+## Card 45: Ghosting as Punishment
+
+**The Pattern:** Disappearing without explanation to control you
+
+**What They Say/Do:**
+- Vanishing mid-conversation after you set a boundary
+- Days or weeks of silence following a disagreement
+- Returning as if nothing happened
+- No explanation, no acknowledgment of the disappearance
+- "I was just busy" when they finally reappear
+
+**What's Really Happening:**
+
+The silence is the punishment. By withdrawing completely, they're training you to avoid whatever behavior preceded the ghosting. The disappearance creates anxiety, self-doubt, and desperate reaching. When they return, your relief replaces your concern—you're just glad they're back.
+
+This is intermittent reinforcement at its most potent. The uncertainty about when (or if) they'll return keeps you emotionally activated and increasingly compliant.
+
+**How It Hooks You:**
+
+The sudden absence is disorienting. You review every interaction looking for what you did wrong. You send multiple messages. You feel responsible for fixing something you don't understand. When they return, you're so relieved you don't address the pattern.
+
+**Your Power Move:**
+
+"Disappearing without explanation isn't something I accept in relationships."
+
+If they ghost after boundaries, the ghosting confirms the boundary was necessary. Don't chase. Don't over-explain. Don't welcome them back without addressing the pattern.
+
+> *"Their silence isn't confusion—it's a choice. And now you can make yours."*
+
+---
+
+## Card 46: Digital Surveillance
+
+**The Pattern:** Monitoring your online life for control
+
+**What They Say/Do:**
+- Knowing where you are without being told (checking your location)
+- Commenting on posts you didn't tell them about
+- "I saw you were online at 2am"
+- Questions about people who liked or commented on your content
+- Knowing details from private accounts or messages
+- "Who were you texting?"
+
+**What's Really Happening:**
+
+Your digital footprint is being tracked for control purposes. This isn't curiosity—it's surveillance. They're gathering information to use later: to catch inconsistencies, to manufacture jealousy, to remind you that you're being watched.
+
+The message is: *"You have no privacy. I see everything."*
+
+**How It Hooks You:**
+
+You start self-censoring online. You think twice before posting, liking, or commenting. You feel watched even when alone. You begin explaining your digital activity preemptively. Your online space stops feeling like yours.
+
+**Your Power Move:**
+
+"My online activity is mine. I don't need to explain or justify it."
+
+Check your privacy settings. Review location sharing. Consider who has access to what. Your digital life deserves the same boundaries as your physical life.
+
+> *"If they're tracking you, they're not trusting you. That's their problem, not your behavior."*
+
+---
+
+## Card 47: Screenshot Leverage
+
+**The Pattern:** Using recorded conversations as threats
+
+**What They Say/Do:**
+- "I have the screenshots to prove it"
+- "I'll show everyone what you said"
+- Saving private messages to use during arguments
+- Threatening to share intimate photos or conversations
+- "People would be very interested to see these texts"
+
+**What's Really Happening:**
+
+Your private communication has been weaponized. They've been collecting evidence not for clarity, but for leverage. The threat of exposure is meant to silence you, control you, or force compliance.
+
+This is digital hostage-taking. Your words, your images, your vulnerability—all held against you.
+
+**How It Hooks You:**
+
+Fear of exposure is powerful. You become careful about what you say, write, or share. You stay silent about their behavior because you're afraid of what they might reveal. You feel trapped by your own past words.
+
+**Your Power Move:**
+
+If they're threatening to share intimate images without consent, this is often illegal (revenge porn laws exist in most jurisdictions).
+
+For other threats: "Using private conversations as threats tells me everything I need to know about this relationship."
+
+Document the threats. Tell someone you trust. Consider legal options if images are involved.
+
+> *"Someone who weaponizes your vulnerability was never safe to be vulnerable with."*
+
+---
+
+## Spiritual Manipulation Patterns
+
+---
+
+## Card 48: Spiritual Bypassing
+
+**The Pattern:** Using spiritual concepts to avoid accountability
+
+**What They Say/Do:**
+- "Everything happens for a reason"
+- "You need to forgive and let go"
+- "Your ego is the problem"
+- "If you were more spiritually evolved, this wouldn't bother you"
+- "I'm on a higher vibration—you're being negative"
+- "The universe/God told me this is right"
+
+**What's Really Happening:**
+
+Spiritual language is being weaponized to dismiss your valid concerns. They're using concepts like "forgiveness," "letting go," or "higher consciousness" to avoid accountability for harm. If you object, you're framed as spiritually inferior—too attached, too ego-driven, too low-vibration.
+
+This co-opts genuine spiritual growth to serve manipulation.
+
+**How It Hooks You:**
+
+If you value spirituality, this hits deep. You question whether your legitimate hurt is "just ego." You try to "transcend" valid emotions. You feel guilty for having boundaries because that seems "unenlightened." You override your own discernment in pursuit of being "more spiritual."
+
+**Your Power Move:**
+
+"Spiritual growth includes accountability, not just transcendence."
+
+Genuine spirituality makes space for boundaries, for anger, for protection. If their version requires you to bypass your own discernment, it's not spirituality—it's control.
+
+> *"True teachers don't use your seeking against you. Spiritual language should never require abandoning yourself."*
+
+---
+
+## Card 49: Divine Authority Claims
+
+**The Pattern:** Using claimed spiritual access to control
+
+**What They Say/Do:**
+- "God told me you should..."
+- "I received a message that this is meant to be"
+- "The spirits/angels/guides revealed..."
+- "I have special insight into what you need"
+- "Your doubts are spiritual attack/resistance"
+- "If you question this, you're blocking your own growth"
+
+**What's Really Happening:**
+
+They're claiming authority you cannot verify and using it to override your judgment. By positioning themselves as the channel for divine wisdom, they become unchallengeable. Your discernment is framed as spiritual deficiency.
+
+This is control dressed in sacred clothing.
+
+**How It Hooks You:**
+
+If you're spiritually inclined, questioning divine guidance feels dangerous. You defer to their claimed access. You suppress your own intuition because theirs is supposedly "higher." You stay in dynamics that hurt because leaving feels like betraying the sacred.
+
+**Your Power Move:**
+
+"My relationship with the divine doesn't require your interpretation."
+
+Healthy spiritual teachers encourage your own discernment. They don't position themselves as the sole channel. Any guidance that overrides your own knowing should be questioned—especially when it serves their interests.
+
+> *"Anyone who needs you to trust their divine connection more than your own is serving themselves, not spirit."*
+
+---
+
+## Passive-Aggressive Control Patterns
+
+---
+
+## Card 50: The Sulk Protest
+
+**The Pattern:** Punishing through withdrawal and silence
+
+**What They Say/Do:**
+- Going quiet after not getting their way
+- One-word answers, sighs, slammed doors
+- "Nothing's wrong" (said coldly)
+- Creating tension in the room without saying why
+- Punishing through atmosphere rather than words
+- Waiting for you to ask what's wrong (repeatedly)
+
+**What's Really Happening:**
+
+They're expressing displeasure while maintaining deniability. The silent treatment is punishment dressed as "needing space." The goal is to make you so uncomfortable that you change your behavior, apologize, or capitulate—without them having to directly ask or acknowledge what they want.
+
+**How It Hooks You:**
+
+You feel responsible for the atmosphere. You start guessing what you did wrong. You try to fix something that was never explained. You learn to anticipate their moods and adjust yourself preemptively to avoid the freeze.
+
+**Your Power Move:**
+
+"If something's bothering you, I'm open to hearing it directly. Otherwise, I'll assume we're okay."
+
+Then proceed as though you are okay. Don't chase, don't probe, don't take responsibility for their indirect expression. Adults use words.
+
+> *"Sulking is a choice to punish while avoiding accountability for the punishment."*
 
 ---
 

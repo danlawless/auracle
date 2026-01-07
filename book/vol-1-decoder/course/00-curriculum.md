@@ -1,4 +1,4 @@
-# Course 1: Control Disguised as Care
+# Course 1: You Were Never Crazy
 
 ## The Narcissism Decoder — A Course in Pattern Recognition
 

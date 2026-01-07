@@ -1,6 +1,6 @@
-# Control Disguised as Care
+# You Were Never Crazy
 
-## The Narcissism Decoder: 52 Patterns of Manipulation and How to Break Free
+## The Narcissism Decoder: 52 Manipulation Patterns They Used Against You
 
 ---
 

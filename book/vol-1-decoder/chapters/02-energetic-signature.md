@@ -62,6 +62,7 @@ The problem is: we've been taught to override it.
 "They didn't mean it that way."
 "You're reading into things."
 "Don't judge people."
+"Be the bigger person."
 
 Every time someone dismissed your perception, they trained you to distrust your own nervous system. And that's exactly what makes you vulnerable to control.
 

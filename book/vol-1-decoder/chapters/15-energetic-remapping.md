@@ -1,4 +1,4 @@
-# Chapter 17: Energetic Remapping — Recovery Tools
+# Chapter 15: Energetic Remapping — Recovery Tools
 
 ## Rewiring Your Nervous System for Freedom
 

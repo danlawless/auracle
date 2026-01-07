@@ -1,14 +1,14 @@
-# Chapter 18: Practical Responses & Scripts
+# Chapter 16: Practical Responses & Scripts
 
 ## Planned Interaction Strategies
 
 ---
 
-> **How This Chapter Differs from Chapter 16**
+> **How This Chapter Differs from Chapter 14**
 >
-> Chapter 16 is your *emergency protocol*—what to do when you're activated and caught off guard in the moment. This chapter is for *planned interactions*—preparing scripts for situations you can anticipate. Think of Chapter 16 as crisis response; this chapter is strategic preparation.
+> Chapter 14 is your *emergency protocol*—what to do when you're activated and caught off guard in the moment. This chapter is for *planned interactions*—preparing scripts for situations you can anticipate. Think of Chapter 14 as crisis response; this chapter is strategic preparation.
 >
-> *For the 5-Second Response Protocol, Universal Response Bank, Broken Record Technique, and Exit Ladder, see Chapter 16.*
+> *For the 5-Second Response Protocol, Universal Response Bank, Broken Record Technique, and Exit Ladder, see Chapter 14.*
 
 ---
 
@@ -27,7 +27,7 @@ This is a comprehensive chapter. Use this guide to jump to what's most relevant:
 | Ending conversations on your terms | **Closing Conversations with Power** |
 | Advanced strategies (silence, documentation) | **Advanced Tactics** |
 
-*For emergency protocols, grounding techniques, and real-time pattern recognition, see Chapter 16.*
+*For emergency protocols, grounding techniques, and real-time pattern recognition, see Chapter 14.*
 
 ---
 

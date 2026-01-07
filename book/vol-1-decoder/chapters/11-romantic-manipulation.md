@@ -207,6 +207,52 @@ If the dynamics in this chapter resonate but the specific examples don't match y
 
 ---
 
+### When Men Are the Target
+
+Male survivors of narcissistic abuse face every pattern described in this book—plus additional barriers to recognizing and naming their experience.
+
+**The cultural silence:**
+
+Men are told they can't be manipulated. That they should be strong enough to "just leave." That being victimized is emasculating. These messages don't prevent abuse—they prevent recognition and recovery.
+
+**Let's be clear:** Being manipulated says nothing about your strength, your masculinity, or your worth as a man. The tactics in this book work on human attachment systems, not gender. Love-bombing hooks nervous systems. Intermittent reinforcement creates trauma bonds. Gaslighting erodes perception. These patterns exploit universal human wiring.
+
+If you're a man reading this, you deserve the same recognition, support, and path to recovery as anyone else.
+
+**Reproductive coercion:**
+
+One manipulation pattern deserves specific attention because it's often invisible to male victims until it's too late: reproductive coercion.
+
+This can look like:
+- **The pregnancy trap:** Deliberate pregnancy to create a bond you can't leave—using biology to end your options
+- **Birth control sabotage:** "I'm on the pill" when she isn't, or sabotaging other contraception
+- **Rushed commitment:** Pressure to marry or move in together after pregnancy announcement before you've had time to think
+
+The pattern isn't about wanting a family. It's about wanting control. The child becomes both a hostage and a chain—something you love that keeps you connected to someone harming you.
+
+Some men stay out of love and duty, providing for a child while trapped in a relationship they might otherwise have left. Others construct narratives to justify it: "It was meant to be." "This is my path." The meaning-making helps survive what would otherwise be unbearable.
+
+**Isolation tactics targeting men:**
+
+Manipulators of all genders can create isolation through:
+- Financial dependence (both directions—controlling your money or making themselves financially dependent)
+- Social isolation (cutting you off from friends who might provide perspective)
+- Geographic relocation (moving you away from support networks)
+- Creating circumstances where you feel responsible for their survival
+
+**What recovery looks like:**
+
+The same tools work. The same patterns apply. The same healing is available.
+
+- Name the patterns (you're doing that now)
+- Trust your perception (your experience is valid)
+- Seek support (from people who understand)
+- Give yourself the same compassion you'd give anyone else
+
+Your gender doesn't make you immune to manipulation. It also doesn't disqualify you from recovery.
+
+---
+
 ### Healthy Romance for Contrast
 
 In healthy romantic relationships, the patterns are reversed. Instead of escalation followed by withdrawal, you see consistency. Instead of chaos requiring management, you see steadiness that allows rest.

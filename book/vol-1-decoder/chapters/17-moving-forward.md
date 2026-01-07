@@ -1,4 +1,4 @@
-# Chapter 19: Moving Forward
+# Chapter 17: Moving Forward
 
 ## Closing Chapters and Beginning New Ones
 

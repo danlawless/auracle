@@ -153,7 +153,7 @@ And that's sad—without anyone being bad.
 
 > *"I can stay kind without staying available."*
 
-*For practical scripts on navigating sibling exchanges, see Chapter 18.*
+*For practical scripts on navigating sibling exchanges, see Chapter 16.*
 
 ---
 

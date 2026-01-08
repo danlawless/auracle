@@ -12,7 +12,7 @@
 >
 > **If you are in RED:**
 > - Do NOT use these questions, they can trigger dangerous escalation
-> - Prioritize Chapter 18's exit planning and safety resources
+> - Prioritize Chapter 16's exit planning and safety resources
 > - See [Appendix A](../appendices/appendix-a-resources.md) for 24/7 crisis hotlines
 >
 > **If you are in YELLOW or GREEN:**

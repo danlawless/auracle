@@ -204,7 +204,7 @@ The core idea is simple: become so boring that you're not worth manipulating. Yo
 
 This isn't about being rude—it's about being unrewarding. Narcissists need supply. When you stop providing it, interactions become less appealing to them.
 
-*For detailed scripts and advanced communication strategies, see Chapter 18: Practical Responses & Scripts.*
+*For detailed scripts and advanced communication strategies, see Chapter 16: Practical Responses & Scripts.*
 
 ---
 
@@ -407,7 +407,7 @@ You deserve support. Seeking it is strength, not weakness.
 2. **Breaking Shame:** Return it, differentiate, witness
 3. **Detach with Love:** Release without erasing
 4. **Somatic Work:** Orienting, pendulation, resourcing, titration
-5. **Practical Communication:** For required interactions, see Chapter 18
+5. **Practical Communication:** For required interactions, see Chapter 16
 
 **The Promise:**
 Every time you complete a stress cycle, your nervous system recalibrates. Every time you name the pattern, you weaken its grip. You are literally building new neural pathways, routes home that don't pass through hypervigilance and shame.

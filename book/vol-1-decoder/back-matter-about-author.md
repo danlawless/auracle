@@ -22,7 +22,7 @@ She couldn't find that book. So she wrote it.
 
 They're not. And neither are you.
 
-Today, Jennifer lives in Costa Rica with her husband and partner of over ten years, their cat Lumi, and their spiritual community. An avid yogi for more than two decades, she holds a deep love for kundalini practices and astrology, and maintains an active practice in aura reading—a psychic development technology. She is a founding member of Rose OS, an international offshoot of Escola da Aura in Brazil, where she teaches Rose Meditation.
+Today, Jennifer lives in Costa Rica with her partner Daniel, their cat Lumi, and their spiritual community. She maintains an active practice in Aura Reading—a psychic intuition technology. She is a Rose Meditation guide, offering counsel through her online private practice and self-study course for clients seeking integration and wholeness.
 
 ---
 
@@ -30,7 +30,7 @@ Today, Jennifer lives in Costa Rica with her husband and partner of over ten yea
 
 - Website: lightfield.institute
 - Instagram: @jae.lawless
-- Email: lightwavesenergy@gmail.com
+- Email: lightfieldlawless@gmail.com
 
 ---
 

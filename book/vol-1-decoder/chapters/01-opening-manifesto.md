@@ -369,12 +369,12 @@ This book contains 19 chapters organized into these key areas:
 - **The Exposure Questions** (Chapter 13): Questions that make narcissists reveal themselves
 
 **Part IV: Decoder Tools**
-- **Decoder Cards** (Chapter 14): 52 quick-reference cards for real-time pattern recognition—from core patterns to advanced tactics to emergency protocols
+- **Decoder Cards** (Chapter 14): 60 quick-reference cards for real-time pattern recognition—from core patterns to advanced tactics to emergency protocols
 
 **Part V: Recovery & Response**
-- **Energetic Remapping** (Chapter 17): Practical tools for rewiring your nervous system
-- **Practical Responses & Scripts** (Chapter 18): Scripts and strategies for real-life situations
-- **Moving Forward** (Chapter 19): How to close chapters and begin new ones
+- **Energetic Remapping** (Chapter 15): Practical tools for rewiring your nervous system
+- **Practical Responses & Scripts** (Chapter 16): Scripts and strategies for real-life situations
+- **Moving Forward** (Chapter 17): How to close chapters and begin new ones
 
 Each chapter builds on the last. Each insight prepares you for the next. By the end, you won't just understand what happened to you. You'll understand **why** it happened, **how** it worked, and **what** to do differently.
 

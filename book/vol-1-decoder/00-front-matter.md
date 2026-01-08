@@ -216,9 +216,9 @@ Create a safety plan with a trusted friend.
 
 ### Step 2: Crisis Reading Path
 If you're in danger, don't start at the beginning. Start here:
-1. **[Chapter 18: Practical Responses](./chapters/18-practical-responses.md)** — Scripts for immediate use
+1. **[Chapter 16: Practical Responses](./chapters/16-practical-responses.md)** — Scripts for immediate use
 2. **[Chapter 2: Energetic Signature](./chapters/02-energetic-signature.md)** — Body-based recognition
-3. **[Chapter 17: Energetic Remapping](./chapters/17-energetic-remapping.md)** — Nervous system grounding
+3. **[Chapter 15: Energetic Remapping](./chapters/15-energetic-remapping.md)** — Nervous system grounding
 4. **[Chapter 11: Romantic Manipulation—Exit Phase](./chapters/11-romantic-manipulation.md)** — If you're planning to leave
 
 ### Step 3: Quick Reference
@@ -230,14 +230,14 @@ If you're in danger, don't start at the beginning. Start here:
 ## How to Use This Book
 
 ### If You're in Immediate Crisis
-See the emergency resources above. Start with **Chapter 18: Practical Responses** for scripts you can use immediately, then **Chapter 17: Energetic Remapping** for grounding tools.
+See the emergency resources above. Start with **Chapter 16: Practical Responses** for scripts you can use immediately, then **Chapter 15: Energetic Remapping** for grounding tools.
 
 ### If You're Still in the Relationship (Crisis Path)
 **Start here if you need practical help now:**
-1. **[Chapter 18: Practical Responses](./chapters/18-practical-responses.md)** — Scripts for immediate use
+1. **[Chapter 16: Practical Responses](./chapters/16-practical-responses.md)** — Scripts for immediate use
 2. **[Chapter 2: Energetic Signature](./chapters/02-energetic-signature.md)** — Trust your body's signals
 3. **[Chapter 11: Romantic Manipulation—Exit Phase](./chapters/11-romantic-manipulation.md)** — If you're planning to leave
-4. **[Decoder Cards, Chapter 14](./chapters/14-decoder-cards.md)** — Real-time pattern recognition
+4. **[Decoder Cards, Chapter 14](./chapters/14-decoder-protocol.md)** — Real-time pattern recognition
 
 *Skip ahead. Come back later. Your safety comes first.*
 
@@ -246,8 +246,8 @@ Read the book in order. The chapters build on each other, taking you from recogn
 
 ### If You're Healing
 **Recommended Healing Path:**
-1. **[Chapter 17: Energetic Remapping](./chapters/17-energetic-remapping.md)** — Nervous system repair and grounding
-2. **[Chapter 19: Moving Forward](./chapters/19-moving-forward.md)** — Roadmap for recovery
+1. **[Chapter 15: Energetic Remapping](./chapters/15-energetic-remapping.md)** — Nervous system repair and grounding
+2. **[Chapter 17: Moving Forward](./chapters/17-moving-forward.md)** — Roadmap for recovery
 3. **[Chapter 9: Understanding Your Childhood Patterns](./chapters/09-childhood-patterns.md)** — Understanding vulnerability roots
 4. **[Chapter 4: Trauma Bonds](./chapters/04-trauma-bonds.md)** — The biology of what happened
 5. **[Volume 2: The Bridge](../vol-2-bridge/README.md)** — Continue your healing journey with attachment repair

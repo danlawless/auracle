@@ -1,6 +1,6 @@
 # Chapter 3: The Decoder Playbook
 
-## 56 Patterns of Manipulation, Named and Decoded
+## 60 Patterns of Manipulation, Named and Decoded
 
 **Reading Time:** ~45 minutes (Core) | ~30 minutes (Advanced) | 75 minutes total
 **Thematic Focus:** 🎯 Recognition | 🛡️ Response
@@ -2408,7 +2408,7 @@ Later, when he brings up the thing she said no to before, she's clear.
 
 > **⏸️ END OF PLAYBOOK**
 >
-> You've now covered 56 patterns of manipulation (Cards 0-51 plus S-1 to S-4).
+> You've now covered 60 patterns of manipulation (Cards 0-51 plus D-1 to D-4 and S-1 to S-4).
 >
 > **Integration:**
 > - Keep your most-triggered cards accessible
@@ -2482,7 +2482,7 @@ This review process builds your pattern-recognition speed. Eventually, you'll sp
 
 ## What Comes Next
 
-You can now name 56 patterns of manipulation. But naming alone doesn't explain why these hooks work so powerfully—why it's so hard to leave even when you can see what's happening.
+You can now name 60 patterns of manipulation. But naming alone doesn't explain why these hooks work so powerfully—why it's so hard to leave even when you can see what's happening.
 
 That's where we go next: the neuroscience of trauma bonds.
 

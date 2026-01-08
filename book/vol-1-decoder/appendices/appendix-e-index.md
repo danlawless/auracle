@@ -10,7 +10,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
 
 ## A
 
-**38 Tactics of Control**—See Chapter 3 .................... [pg. XX]
+**60 Patterns of Manipulation**—See Chapter 3 .................... [pg. XX]
 
 **Abuse Amnesia** .................... [pg. XX]
   - Definition .................... [pg. XX]
@@ -83,10 +83,12 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Recognition .................... [pg. XX]
   - Responses .................... [pg. XX]
 
-**Decoder Cards** .................... [pg. XX]
-  - Advanced patterns (Chapter 15) .................... [pg. XX]
-  - Core patterns (Chapter 14) .................... [pg. XX]
-  - Emergency protocol (Chapter 16) .................... [pg. XX]
+**Decoder Cards**—See Chapter 3 .................... [pg. XX]
+  - Core patterns (Cards 0-27) .................... [pg. XX]
+  - Advanced patterns (Cards 28-51) .................... [pg. XX]
+  - Digital patterns (Cards D-1 to D-4) .................... [pg. XX]
+  - Substance patterns (Cards S-1 to S-4) .................... [pg. XX]
+  - Decoder Protocol (Chapter 14) .................... [pg. XX]
   - How to use .................... [pg. XX]
 
 **Devalue** (phase) .................... [pg. XX]
@@ -335,11 +337,11 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - After gaslighting .................... [pg. XX]
   - Methods .................... [pg. XX]
 
-**Recovery Tools**—See Chapter 17 .................... [pg. XX]
+**Recovery Tools**—See Chapter 15 .................... [pg. XX]
 
 **Reparenting** .................... [pg. XX]
 
-**Responses, Practical**—See Chapter 18 .................... [pg. XX]
+**Responses, Practical**—See Chapter 16 .................... [pg. XX]
   - Scripts .................... [pg. XX]
   - Strategies .................... [pg. XX]
 
@@ -356,7 +358,7 @@ This index provides quick access to the major concepts, tactics, and tools discu
   - Long-term effects .................... [pg. XX]
   - Recovery .................... [pg. XX]
 
-**Scripts**—See Chapter 18 .................... [pg. XX]
+**Scripts**—See Chapter 16 .................... [pg. XX]
 
 **Silent Treatment** .................... [pg. XX]
   - Responses .................... [pg. XX]

@@ -23,9 +23,9 @@
 | [Chapter 12](./chapters/12-manipulation-across-contexts.md) | Manipulation Across Contexts | Workplace, friendships, and other arenas |
 | [Chapter 13](./chapters/13-exposure-questions.md) | The Exposure Questions | Questions that make narcissists reveal themselves |
 | [Chapter 14](./chapters/14-decoder-protocol.md) | Decoder Protocol | Emergency quick-reference for using the decoder in real-time |
-| [Chapter 17](./chapters/17-energetic-remapping.md) | Energetic Remapping — Recovery Tools | Rewiring your nervous system for freedom |
-| [Chapter 18](./chapters/18-practical-responses.md) | Practical Responses & Scripts | What to actually say and do |
-| [Chapter 19](./chapters/19-moving-forward.md) | Moving Forward | Closing chapters and beginning new ones |
+| [Chapter 15](./chapters/15-energetic-remapping.md) | Energetic Remapping — Recovery Tools | Rewiring your nervous system for freedom |
+| [Chapter 16](./chapters/16-practical-responses.md) | Practical Responses & Scripts | What to actually say and do |
+| [Chapter 17](./chapters/17-moving-forward.md) | Moving Forward | Closing chapters and beginning new ones |
 
 ### Appendices
 
@@ -50,9 +50,9 @@
 Save these numbers now. You may need them later when you can't think clearly.
 
 ### Step 2: Immediate Reading Path
-1. **[Chapter 18: Practical Responses](./chapters/18-practical-responses.md)** — Scripts for immediate use, how to respond right now
+1. **[Chapter 16: Practical Responses](./chapters/16-practical-responses.md)** — Scripts for immediate use, how to respond right now
 2. **[Chapter 2: The Energetic Signature](./chapters/02-energetic-signature.md)** — Body-based recognition of what's happening
-3. **[Chapter 17: Energetic Remapping](./chapters/17-energetic-remapping.md)** — Grounding and nervous system support
+3. **[Chapter 15: Energetic Remapping](./chapters/15-energetic-remapping.md)** — Grounding and nervous system support
 4. **[Chapter 11: Romantic Manipulation — Exit Phase](./chapters/11-romantic-manipulation.md)** — If you're planning to leave
 
 ### Step 3: Quick Reference Tools
@@ -70,17 +70,17 @@ Choose your path based on where you are:
 If you've moved past immediate danger but still feel activated:
 
 1. **Emergency Resources** (saved above)
-2. **[Chapter 18: Practical Responses](./chapters/18-practical-responses.md)** — Scripts you can use right now
+2. **[Chapter 16: Practical Responses](./chapters/16-practical-responses.md)** — Scripts you can use right now
 3. **[Chapter 2: The Energetic Signature](./chapters/02-energetic-signature.md)** — Body-based recognition
-4. **[Chapter 17: Energetic Remapping](./chapters/17-energetic-remapping.md)** — Immediate grounding tools
+4. **[Chapter 15: Energetic Remapping](./chapters/15-energetic-remapping.md)** — Immediate grounding tools
 
 ### 🔍 If You're Trying to Understand
 Read the book in order starting from the [Front Matter](./00-front-matter.md). The chapters build on each other, taking you from recognition through understanding origins to response.
 
 ### 💔 If You're Healing
 **Recommended Healing Path:**
-1. **[Chapter 17: Energetic Remapping](./chapters/17-energetic-remapping.md)** — Nervous system repair and grounding
-2. **[Chapter 19: Moving Forward](./chapters/19-moving-forward.md)** — Roadmap for recovery
+1. **[Chapter 15: Energetic Remapping](./chapters/15-energetic-remapping.md)** — Nervous system repair and grounding
+2. **[Chapter 17: Moving Forward](./chapters/17-moving-forward.md)** — Roadmap for recovery
 3. **[Chapter 9: Understanding Your Childhood Patterns](./chapters/09-childhood-patterns.md)** — Understanding vulnerability roots
 4. **[Chapter 4: Trauma Bonds](./chapters/04-trauma-bonds.md)** — The biology of what happened
 5. **[Volume 2: The Bridge](../vol-2-bridge/README.md)** — Continue your healing journey with attachment repair

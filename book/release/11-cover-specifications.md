@@ -288,10 +288,10 @@ series-mockup-all-four.png
 ### Volume 1
 
 **Title:** You Are Not Crazy
-**Subtitle:** The Narcissism Decoder — 60 Manipulation Patterns They Used Against You
-**Series:** The Sovereignty Series
-**Author:** [Author Name]
-**Tagline (optional, for back cover):** "Every pattern you can name is a pattern that loses power over you."
+**Subtitle:** The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
+**Series:** The Sovereignty Series • Volume 1
+**Author:** Jennifer Brooke Lawless
+**Tagline:** "Every pattern you can name is a pattern that loses power over you."
 
 ### Volume 2
 

@@ -120,7 +120,7 @@ Each volume builds on the previous, creating a natural staggered release strateg
 
 ```
 Week 1-2:    Foundation setup
-Week 3-4:    Volume 1 Launch (The Narcissism Decoder)
+Week 3-4:    Volume 1 Launch (You Are Not Crazy)
 Week 5-10:   Content engine + audience building
 Week 11-12:  Volume 2 Launch (The Bridge)
 Week 13-18:  Content engine + deeper engagement

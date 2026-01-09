@@ -8,7 +8,7 @@
 
 | Volume | Title | Core Question | Launch Theme |
 |--------|-------|---------------|--------------|
-| 1 | The Narcissism Decoder | *What is happening to me?* | Recognition |
+| 1 | You Are Not Crazy: The Narcissism Decoder | *What is happening to me?* | Recognition |
 | 2 | The Bridge | *Why did this shape me?* | Liberation |
 | 3 | Sovereignty | *Who am I when I stop shrinking?* | Empowerment |
 | 4 | Embodied Leadership | *How do I live from presence?* | Embodiment |
@@ -17,7 +17,7 @@
 
 ---
 
-## Volume 1: The Narcissism Decoder
+## Volume 1: You Are Not Crazy — The Narcissism Decoder
 
 ### Short Description (for ads, social, quick reference)
 
@@ -509,7 +509,7 @@ This is Volume 4 of the 8-volume Sovereignty Series:
 
 From confusion to clarity. From survival to regulation.
 
-**Volume 1: The Narcissism Decoder** teaches you to recognize manipulation in real-time. Name the 60 patterns. Understand trauma bonds. Respond from power.
+**Volume 1: You Are Not Crazy** teaches you to recognize manipulation in real-time. Name the 60 patterns. Understand trauma bonds. Respond from power.
 
 **Volume 2: The Bridge** teaches you to heal at the nervous system level. Retrain your attachment patterns. Date safely after trauma. Build relationships that regulate.
 
@@ -533,7 +533,7 @@ From confusion to clarity. From survival to regulation.
 
 From confusion to sovereignty in three volumes.
 
-**Volume 1: The Narcissism Decoder** — Name the patterns. See what's happening.
+**Volume 1: You Are Not Crazy** — Name the patterns. See what's happening.
 
 **Volume 2: The Bridge** — Heal your nervous system. Cross into safety.
 
@@ -560,7 +560,7 @@ From confusion to sovereignty in three volumes.
 
 The complete journey from recognition to embodiment.
 
-**Volume 1: The Narcissism Decoder** — Recognition
+**Volume 1: You Are Not Crazy** — Recognition
 *What is happening to me?*
 
 **Volume 2: The Bridge** — Liberation

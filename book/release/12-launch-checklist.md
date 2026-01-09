@@ -8,7 +8,7 @@
 
 ```
 Week 1-2:    Foundation (Platform Setup)
-Week 3-4:    Volume 1 Launch (The Narcissism Decoder)
+Week 3-4:    Volume 1 Launch (You Are Not Crazy)
 Week 5-10:   Momentum Building + Content Engine
 Week 11-12:  Volume 2 Launch (The Bridge)
 Week 13-18:  Deepening Engagement
@@ -81,7 +81,7 @@ Week 29+:    Complete Series Marketing + Future Offerings
 
 ---
 
-## Phase 2: Volume 1 Launch (The Narcissism Decoder)
+## Phase 2: Volume 1 Launch (You Are Not Crazy: The Narcissism Decoder)
 
 ### Launch Day (Day 0)
 

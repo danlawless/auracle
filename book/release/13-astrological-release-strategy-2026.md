@@ -51,7 +51,7 @@ This conjunction sits between Vol 1 and Vol 2 launches, energizing the entire "A
 
 ## Volume-by-Volume Release Strategy
 
-### Volume 1: The Narcissism Decoder
+### Volume 1: You Are Not Crazy — The Narcissism Decoder
 
 **Launch Date:** February 17, 2026
 **Astrological Event:** Annular Solar Eclipse in Aquarius
@@ -401,7 +401,7 @@ December 5:   THRIVE  (Lunar Nodes Shift)
 
 | Date | Event | Volume | Astrological Alignment |
 |------|-------|--------|----------------------|
-| Feb 17 | Launch | Vol 1: The Narcissism Decoder | Annular Solar Eclipse |
+| Feb 17 | Launch | Vol 1: You Are Not Crazy | Annular Solar Eclipse |
 | Feb 20 | Cosmic Peak | — | Saturn-Neptune at 0° Aries |
 | Mar 3 | Launch | Vol 2: The Bridge | Total Lunar Eclipse |
 | May 6 | Launch | Vol 3: Sovereignty | Pluto Retrograde Station |

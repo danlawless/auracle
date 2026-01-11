@@ -2,7 +2,7 @@
 
 ## 12 Essential Patterns of Manipulation—Named and Decoded
 
-**A Free Quick-Reference Guide from *The Narcissism Decoder***
+**A Free Quick-Reference Guide from *You Are Not Crazy: The Narcissism Decoder***
 
 ---
 
@@ -252,7 +252,7 @@ When activated and confused:
 
 ## Want the Full Playbook?
 
-These 12 cards are excerpted from **The Narcissism Decoder: Control Disguised as Care**, which includes:
+These 12 cards are excerpted from **You Are Not Crazy: The Narcissism Decoder**, which includes:
 
 - **34 manipulation tactics** fully decoded
 - The psychology of trauma bonds

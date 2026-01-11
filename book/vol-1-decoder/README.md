@@ -1,4 +1,4 @@
-# You Were Never Crazy
+# You Are Not Crazy
 
 ## The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
 

@@ -91,7 +91,7 @@
 
 Each volume should have its own identity while maintaining series cohesion through consistent accent colors and typography.
 
-**Volume 1: The Narcissism Decoder** — Recognition
+**Volume 1: You Are Not Crazy — The Narcissism Decoder** — Recognition
 
 Consider darker, more intense tones that suggest "decoding" and revelation:
 
@@ -287,11 +287,11 @@ series-mockup-all-four.png
 
 ### Volume 1
 
-**Title:** The Narcissism Decoder
-**Subtitle:** Control Disguised as Care
-**Series:** The Sovereignty Series
-**Author:** [Author Name]
-**Tagline (optional, for back cover):** "Every pattern you can name is a pattern that loses power over you."
+**Title:** You Are Not Crazy
+**Subtitle:** The Narcissism Decoder: 60 Manipulation Patterns They Used Against You
+**Series:** The Sovereignty Series • Volume 1
+**Author:** Jennifer Brooke Lawless
+**Tagline:** "Every pattern you can name is a pattern that loses power over you."
 
 ### Volume 2
 
